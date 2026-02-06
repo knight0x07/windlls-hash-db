@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\AudioSrvPolicyManager.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ActivatePolicyManager                                                                                0x19ad7401                                         
+HHOSTEDAPPMANAGERCONTEXTRundown                                                                      0xa9002762                                         
+PbmAllowMediaPlaybackForApp                                                                          0x031f1e92                                         
+PbmCastingAppStateChanged                                                                            0x491bd059                                         
+PbmGetSoundLevel                                                                                     0xd9547c05                                         
+PbmIsPlaying                                                                                         0xd4fb8b54                                         
+PbmLaunchBackgroundTask                                                                              0xec18f372                                         
+PbmPlayToStreamStateChanged                                                                          0x160a5f14                                         
+PbmRegisterAppClosureNotification                                                                    0xab715dce                                         
+PbmRegisterAppManagerNotification                                                                    0x0217e6ec                                         
+PbmRegisterPlaybackManagerNotifications                                                              0x875f26c5                                         
+PbmReportAppClosing                                                                                  0x8b668af0                                         
+PbmReportAppInteractivityChange                                                                      0xc431f956                                         
+PbmReportApplicationState                                                                            0x7c1f00b5                                         
+PbmReportHostedAppStateChange                                                                        0x8c3dfb8f                                         
+PbmReportHostedAppStateChange_2                                                                      0x93ab27c0                                         
+PbmSetScreenReaderState                                                                              0xf35b7264                                         
+PbmSetSmtcSubscriptionState                                                                          0x8f4fbe8d                                         
+PbmSwitchSoftNonInteractiveAppsToHardNonInteractive                                                  0xae5a2f1a                                         
+PbmUnregisterAppClosureNotification                                                                  0x2f445591                                         
+PbmUnregisterAppManagerNotification                                                                  0x85eadeaf                                         
+PbmUnregisterPlaybackManagerNotifications                                                            0x33eba4c8                                         
+TS_AudioProtocolNotifyRundown                                                                        0x03eb4a35                                         
+TS_RegisterAudioProtocolNotification                                                                 0x2c6bc7fb                                         
+TS_SessionChanged                                                                                    0x6d841d19                                         
+TS_SessionGetAudioProtocol                                                                           0x1806ec53                                         
+TS_UnregisterAudioProtocolNotification                                                               0x11fce29e                                         

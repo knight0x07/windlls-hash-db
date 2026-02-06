@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\intl.cpl
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CPlApplet                                                                                            0x5c9b924a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetProxyDllInfo                                                                                      0x64ea9e0f                                         
+IntlCopyDefaultUserLocale                                                                            0x0deaf56b                                         
+IntlCopyInternationalSettings                                                                        0x16b0a940                                         
+IntlSetInputLocales                                                                                  0x1f0dfa9b                                         
+IntlUpdateSystemLocale                                                                               0x437c4d54                                         

@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\UserDataService.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CleanupUDSGlobals                                                                                    0xfd1cf1dd                                         
+CreateInprocConnectionHandle                                                                         0xbf8d7dc0                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+TeardownInprocConnectionHandle                                                                       0x4a01eb70                                         

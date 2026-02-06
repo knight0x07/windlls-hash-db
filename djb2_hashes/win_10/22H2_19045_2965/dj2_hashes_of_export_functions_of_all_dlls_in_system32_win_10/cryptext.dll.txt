@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\cryptext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CryptExtAddCER                                                                                       0xdb9a222b                                         
+CryptExtAddCERMachineOnlyAndHwndW                                                                    0x717a111d                                         
+CryptExtAddCERW                                                                                      0x4ede67e2                                         
+CryptExtAddCRL                                                                                       0xdb9a23d2                                         
+CryptExtAddCRLW                                                                                      0x4ede9e69                                         
+CryptExtAddCTL                                                                                       0xdb9a2414                                         
+CryptExtAddCTLW                                                                                      0x4edea6eb                                         
+CryptExtAddP7R                                                                                       0xdb9a57aa                                         
+CryptExtAddP7RW                                                                                      0x4ee54d41                                         
+CryptExtAddPFX                                                                                       0xdb9a599f                                         
+CryptExtAddPFXMachineOnlyAndHwndW                                                                    0x5e31ec11                                         
+CryptExtAddPFXW                                                                                      0x4ee58dd6                                         
+CryptExtAddSPC                                                                                       0xdb9a6797                                         
+CryptExtAddSPCW                                                                                      0x4ee75ace                                         
+CryptExtOpenCAT                                                                                      0xa0b54412                                         
+CryptExtOpenCATW                                                                                     0xb75dc6a9                                         
+CryptExtOpenCER                                                                                      0xa0b54494                                         
+CryptExtOpenCERW                                                                                     0xb75dd76b                                         
+CryptExtOpenCRL                                                                                      0xa0b5463b                                         
+CryptExtOpenCRLW                                                                                     0xb75e0df2                                         
+CryptExtOpenCTL                                                                                      0xa0b5467d                                         
+CryptExtOpenCTLW                                                                                     0xb75e1674                                         
+CryptExtOpenP7R                                                                                      0xa0b57a13                                         
+CryptExtOpenP7RW                                                                                     0xb764bcca                                         
+CryptExtOpenPFX                                                                                      0xa0b57c08                                         
+CryptExtOpenPFXW                                                                                     0xb764fd5f                                         
+CryptExtOpenPKCS7                                                                                    0xa4070d82                                         
+CryptExtOpenPKCS7W                                                                                   0x24e8be19                                         
+CryptExtOpenSTR                                                                                      0xa0b58a93                                         
+CryptExtOpenSTRW                                                                                     0xb766dd4a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+I_InvokeCommand                                                                                      0x1fadcbd8                                         

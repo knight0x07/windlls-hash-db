@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\sfc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SRSetRestorePoint                                                                                    0xd298f144                                         
+SRSetRestorePointA                                                                                   0x25b71a05                                         
+SRSetRestorePointW                                                                                   0x25b71a1b                                         
+SfcGetNextProtectedFile                                                                              0xc53005ea                                         
+SfcIsFileProtected                                                                                   0xae26b2a7                                         
+SfcIsKeyProtected                                                                                    0x93332630                                         
+SfpVerifyFile                                                                                        0x118eed83                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

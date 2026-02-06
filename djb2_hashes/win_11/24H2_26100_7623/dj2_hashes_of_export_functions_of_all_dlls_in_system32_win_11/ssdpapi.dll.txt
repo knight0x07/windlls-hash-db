@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\ssdpapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BeginRegisterPropChangeNotificationEx                                                                0x7740929a                                         
+CleanupCache                                                                                         0xe39f1081                                         
+DHSetICSInterfaces                                                                                   0x8490af00                                         
+DHSetICSOff                                                                                          0x05ebc6b7                                         
+DeregisterNotification                                                                               0xa1d406da                                         
+DeregisterService                                                                                    0x342bcaa4                                         
+DisableFirewallRule                                                                                  0x16247b87                                         
+EnableFirewallRule                                                                                   0xedd892fa                                         
+EndRegisterPropChangeNotificationEx                                                                  0x54c649cc                                         
+FindServices                                                                                         0xb5ebcbea                                         
+FindServicesCallback                                                                                 0x9c18b337                                         
+FindServicesCallbackEx                                                                               0x05126654                                         
+FindServicesCancel                                                                                   0xa87682b0                                         
+FindServicesClose                                                                                    0xced35840                                         
+FindServicesEx                                                                                       0xe00e77c7                                         
+FindServicesOnNetworkCallbackEx                                                                      0x04617f7b                                         
+FreeSsdpMessage                                                                                      0x483fbc26                                         
+FreeSsdpMessageEx                                                                                    0x571f6703                                         
+GetFirstService                                                                                      0x66698c3e                                         
+GetFirstServiceEx                                                                                    0xa6fd9d1b                                         
+GetNextService                                                                                       0xc59b1395                                         
+GetNextServiceEx                                                                                     0x98ae5632                                         
+RegisterAliveNotificationOnNetworkEx                                                                 0xcdbf2086                                         
+RegisterNotification                                                                                 0x03c71dd1                                         
+RegisterNotificationEx                                                                               0x1205df6e                                         
+RegisterService                                                                                      0x1a4feb3b                                         
+RegisterServiceEx                                                                                    0xedf7af58                                         
+SsdpCleanup                                                                                          0xff66ce27                                         
+SsdpStartup                                                                                          0xe174e932                                         

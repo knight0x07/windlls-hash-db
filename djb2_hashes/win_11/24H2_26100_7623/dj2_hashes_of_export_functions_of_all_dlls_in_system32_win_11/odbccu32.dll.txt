@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\odbccu32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ReleaseCLStmtResources                                                                               0xea1aa498                                         
+SQLBindCol                                                                                           0x5975bdf0                                         
+SQLBindParameter                                                                                     0x7d702853                                         
+SQLBulkOperations                                                                                    0xf91dd067                                         
+SQLCancel                                                                                            0xf4f681bb                                         
+SQLCloseCursor                                                                                       0x2a53f669                                         
+SQLEndTran                                                                                           0x4b514a61                                         
+SQLExecDirect                                                                                        0x8f896c75                                         
+SQLExecute                                                                                           0x62bf4208                                         
+SQLExtendedFetch                                                                                     0xf4e9f310                                         
+SQLFetch                                                                                             0x26aca7ff                                         
+SQLFetchScroll                                                                                       0x2b6c7b0e                                         
+SQLFreeHandle                                                                                        0x7b5f7ae3                                         
+SQLFreeStmt                                                                                          0xd91d78ff                                         
+SQLGetData                                                                                           0xd15fd24f                                         
+SQLGetDescField                                                                                      0x864006b8                                         
+SQLGetDescRec                                                                                        0xc596f0ee                                         
+SQLGetInfo                                                                                           0xd162c5c1                                         
+SQLGetStmtAttr                                                                                       0xc625b3f8                                         
+SQLGetStmtOption                                                                                     0x06c25136                                         
+SQLMoreResults                                                                                       0x7688a71a                                         
+SQLNativeSql                                                                                         0x7ebfe12c                                         
+SQLNumParams                                                                                         0x9d473b29                                         
+SQLParamData                                                                                         0xba664b80                                         
+SQLParamOptions                                                                                      0x03d0e312                                         
+SQLPrepare                                                                                           0xa387b624                                         
+SQLPutData                                                                                           0xab7e7f28                                         
+SQLRowCount                                                                                          0x2ce9b676                                         
+SQLSetConnectAttr                                                                                    0xa618c546                                         
+SQLSetConnectOption                                                                                  0xafbeee04                                         
+SQLSetDescField                                                                                      0xd1a86744                                         
+SQLSetDescRec                                                                                        0xf615be7a                                         
+SQLSetPos                                                                                            0x1a946893                                         
+SQLSetScrollOptions                                                                                  0x1e8e06bc                                         
+SQLSetStmtAttr                                                                                       0x067e3304                                         
+SQLSetStmtOption                                                                                     0xbf36c342                                         
+SQLTransact                                                                                          0xbc169155                                         

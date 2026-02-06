@@ -1,0 +1,46 @@
+DLL Path: C:\Windows\System32\DmApiSetExtImplDesktop.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DMCSP_DevDetail_GetCommercializationOperator                                                         0x2451cb12                                         
+DMCSP_DevDetail_GetDeviceHardwareData                                                                0xd08cb344                                         
+DMCSP_DevDetail_GetDeviceName                                                                        0x0eaa3fdd                                         
+DMCSP_DevDetail_GetDeviceType                                                                        0x0eadf09e                                         
+DMCSP_DevDetail_GetFwV                                                                               0xd56ecfff                                         
+DMCSP_DevDetail_GetHwV                                                                               0xd56ed881                                         
+DMCSP_DevDetail_GetLocalTimeString                                                                   0xfeec0bfd                                         
+DMCSP_DevDetail_GetMobileID                                                                          0xca7d7831                                         
+DMCSP_DevDetail_GetOEM                                                                               0xd56eefcd                                         
+DMCSP_DevDetail_GetOSPlatform                                                                        0xdbfa2ab3                                         
+DMCSP_DevDetail_GetProcessorArchitecture                                                             0x89d6990f                                         
+DMCSP_DevDetail_GetProcessorType                                                                     0x362fa3ce                                         
+DMCSP_DevDetail_GetRadioSwV                                                                          0x36c2fddb                                         
+DMCSP_DevDetail_GetResolution                                                                        0x668b0c00                                         
+DMCSP_DevDetail_GetSwV                                                                               0xd56f074c                                         
+DMCSP_DevDetail_GetSystemSKU                                                                         0x45762024                                         
+DMCSP_DevDetail_GetVoLTEServiceSetting                                                               0xe9627485                                         
+DMCSP_DevDetail_GetWLANMACAddress                                                                    0xb44f6bf5                                         
+DMCSP_DevDetail_SetDeviceName                                                                        0xc71eb1e9                                         
+DMCSP_DevInfo_GetDmV                                                                                 0xe028128c                                         
+DMCSP_DevInfo_GetHwDevID                                                                             0x4df6aab0                                         
+DMCSP_DevInfo_GetLanguage                                                                            0x826ed5a9                                         
+DMCSP_DevInfo_GetManufacturer                                                                        0xd3a67c32                                         
+DMCSP_DevInfo_GetModel                                                                               0x8b1b23d6                                         
+DMCSP_DeviceStatus_IsBitlockerProtected                                                              0x31bfdbf3                                         
+DMDiag_Export_DiagnosticsLog                                                                         0x0ab420e5                                         
+DMDiag_Filter_Diagnostics_Events_From_AutoLog                                                        0x486da6a8                                         
+DMLegacy_UnActivateLOB                                                                               0xbe519f5b                                         
+DMUI_DismissNotification                                                                             0x8165bcf6                                         
+DMUI_DisplayConfigurationResult                                                                      0xef306420                                         
+DMUI_GetUserEditFieldInput                                                                           0xa1f8fa6c                                         
+DMUI_GetUserPermission                                                                               0x77e3c77b                                         
+DMUI_GetUserPermissionAsync                                                                          0x341c05f9                                         
+DMUI_InformUser                                                                                      0x60d2ee5d                                         
+DMUI_IsAbortSessionRequested                                                                         0xff31a2dd                                         
+DMUI_SyncMLAlertGetResults                                                                           0x5018b6b3                                         
+DMUI_SyncMLAlertGetStatusCode                                                                        0xdfd501e0                                         
+DMUI_SyncMLAlertShowUI                                                                               0xf95eb460                                         
+Mmpc_Lockdown_GetManagementUrls                                                                      0x37d682f4                                         
+Mmpc_Lockdown_IsCertificateTrustedForMmpc                                                            0x1f5aebcf                                         
+Mmpc_Lockdown_IsLockedToMmpc                                                                         0x7d5b2b4f                                         
+Mmpc_Lockdown_ReleaseManagementUrl                                                                   0x627a82e2                                         

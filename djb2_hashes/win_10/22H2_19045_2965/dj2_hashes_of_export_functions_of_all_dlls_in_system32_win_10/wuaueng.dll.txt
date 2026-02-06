@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\wuaueng.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+GeneralizeForImaging                                                                                 0xdf87db0e                                         
+WUCreateExpressionEvaluator                                                                          0x4566d568                                         
+WUCreateUpdateHandler                                                                                0xe3f9d466                                         
+WUServiceMain                                                                                        0xc2f33987                                         
+[Function Ordinal Only]                                                                              NA                                                 

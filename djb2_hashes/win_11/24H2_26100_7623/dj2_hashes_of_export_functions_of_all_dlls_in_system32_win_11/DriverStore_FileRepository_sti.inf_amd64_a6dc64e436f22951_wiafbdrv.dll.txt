@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\sti.inf_amd64_a6dc64e436f22951\wiafbdrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

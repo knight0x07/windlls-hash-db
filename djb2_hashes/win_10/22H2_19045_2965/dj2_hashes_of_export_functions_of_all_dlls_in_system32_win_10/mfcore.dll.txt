@@ -1,0 +1,56 @@
+DLL Path: C:\Windows\System32\mfcore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppendPropVariant                                                                                    0x405a01d3                                         
+ConvertPropVariant                                                                                   0xe2abc41c                                         
+CopyPropertyStore                                                                                    0xfff96952                                         
+CreateNamedPropertyStore                                                                             0x36576970                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ExtractPropVariant                                                                                   0x110fb196                                         
+MFCopyMFMetadata                                                                                     0x04046167                                         
+MFCopyPropertyStore                                                                                  0x080dfd25                                         
+MFCopyStreamMetadata                                                                                 0x259a2620                                         
+MFCreateAggregateSource                                                                              0xdb7b49a4                                         
+MFCreateAppSourceProxy                                                                               0x01f77ee0                                         
+MFCreateAudioRenderer                                                                                0xab7b92b5                                         
+MFCreateAudioRendererActivate                                                                        0x22aada06                                         
+MFCreateDeviceSource                                                                                 0xbec91b0d                                         
+MFCreateDeviceSourceActivate                                                                         0x59c73a5e                                         
+MFCreateEncryptedMediaExtensionsStoreActivate                                                        0x14b28c48                                         
+MFCreateExtendedCameraIntrinsicModel                                                                 0x1bcb5b6a                                         
+MFCreateExtendedCameraIntrinsics                                                                     0x381273ac                                         
+MFCreateFileSchemePlugin                                                                             0x34108a50                                         
+MFCreateMFMetadataOnPropertyStore                                                                    0xe2f5ef0f                                         
+MFCreateMediaProcessor                                                                               0x1470de8c                                         
+MFCreateMediaSession                                                                                 0x16c13fb0                                         
+MFCreatePMPHost                                                                                      0x6701fa97                                         
+MFCreatePMPMediaSession                                                                              0x02fb463d                                         
+MFCreatePMPServer                                                                                    0x485e4fd0                                         
+MFCreatePresentationClock                                                                            0xba4430f4                                         
+MFCreateSampleCopierMFT                                                                              0x48437077                                         
+MFCreateSampleGrabberSinkActivate                                                                    0x20c428c9                                         
+MFCreateSequencerSegmentOffset                                                                       0x7a248171                                         
+MFCreateSequencerSource                                                                              0xa2ad7ba8                                         
+MFCreateSequencerSourceRemoteStream                                                                  0x8ab66060                                         
+MFCreateSimpleTypeHandler                                                                            0x3d7a7556                                         
+MFCreateSoundEventSchemePlugin                                                                       0xbb9a29db                                         
+MFCreateStandardQualityManager                                                                       0x6ae482c1                                         
+MFCreateTopoLoader                                                                                   0x95e00705                                         
+MFCreateTopology                                                                                     0x7ee9cb09                                         
+MFCreateTopologyNode                                                                                 0x25a6d28f                                         
+MFCreateTransformWrapper                                                                             0xa9044209                                         
+MFCreateWMAEncoderActivate                                                                           0x10615b42                                         
+MFCreateWMVEncoderActivate                                                                           0x10bd76b7                                         
+MFEnumDeviceSources                                                                                  0xf5ddb081                                         
+MFGetMultipleServiceProviders                                                                        0xaf551af3                                         
+MFGetService                                                                                         0x9416da09                                         
+MFGetTopoNodeCurrentType                                                                             0x6bbb97c5                                         
+MFReadSequencerSegmentOffset                                                                         0xdde86139                                         
+MFRequireProtectedEnvironment                                                                        0x62a836b4                                         
+MFShutdownObject                                                                                     0x0ca0c6cb                                         
+MergePropertyStore                                                                                   0xcb15bb47                                         

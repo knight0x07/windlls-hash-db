@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\iassvcs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+IASAdler32                                                                                           0x064ae82f                                         
+IASAllocateUniqueID                                                                                  0xd9b8974b                                         
+IASGetDictionary                                                                                     0xbb007cf8                                         
+IASGetHostByName                                                                                     0xefdced3c                                         
+IASGetLocalDictionary                                                                                0xe9f7f263                                         
+IASGetProductLimits                                                                                  0x8f31e735                                         
+IASGlobalLock                                                                                        0xcfc54e3c                                         
+IASGlobalUnlock                                                                                      0xeb432fff                                         
+IASInitialize                                                                                        0xb2d447d4                                         
+IASRadiusCrypt                                                                                       0xdeaa9cfc                                         
+IASRegisterComponent                                                                                 0xd0b2c7ba                                         
+IASReportEvent                                                                                       0x09c1aa60                                         
+IASReportLicenseViolation                                                                            0x57d70e56                                         
+IASReportSecurityEvent                                                                               0xb3de1ef8                                         
+IASRequestThread                                                                                     0x1ab856a3                                         
+IASSetMaxNumberOfThreads                                                                             0x67bb69dd                                         
+IASSetMaxThreadIdle                                                                                  0xfe70de8a                                         
+IASShutdown                                                                                          0xb639115e                                         
+IASUninitialize                                                                                      0xf87dff97                                         
+IASVariantChangeType                                                                                 0x690e2c3f                                         

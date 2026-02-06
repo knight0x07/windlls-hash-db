@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-file-l1-2-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateFile2                                                                                          0xeb96c5eb                                         
+GetTempPathW                                                                                         0x9ef979ff                                         
+GetVolumeNameForVolumeMountPointW                                                                    0x34d49f91                                         
+GetVolumePathNamesForVolumeNameW                                                                     0xe8f10f55                                         

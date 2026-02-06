@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\VsGraphicsCapture.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PixCapture_BeginCommunication                                                                        0x11e5ca24                                         
+PixCapture_BeginCommunication_2                                                                      0x2280ef95                                         
+PixCapture_EndCommunication                                                                          0x2f365996                                         
+PixCapture_ExitProcess                                                                               0xa59a1ee2                                         
+PixCapture_IsLegacyMachine                                                                           0xc6632e8f                                         
+PixCapture_RunAction                                                                                 0x1a2aa11c                                         
+PixCapture_RunAction_2                                                                               0x4f57648d                                         
+PixCapture_RunAction_3                                                                               0x4f57648e                                         
+PixCapture_RunExperiment                                                                             0x42df931f                                         

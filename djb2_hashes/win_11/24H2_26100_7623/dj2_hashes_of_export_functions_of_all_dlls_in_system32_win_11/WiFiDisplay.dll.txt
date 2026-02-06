@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\WiFiDisplay.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseMiracastSession                                                                                 0x68b23033                                         
+CreateDAFProviderMiracastHelper                                                                      0xbbb41b23                                         
+CreateInfraCastSourceConnector                                                                       0xec04d030                                         
+CreateWiFiDisplayEtwProvider                                                                         0x21427f99                                         
+IsMiracastSupportedByWlan                                                                            0x13af9ca8                                         
+MiracastFreeMemory                                                                                   0x36963c74                                         
+MiracastIeDecode                                                                                     0x4a8aaccb                                         
+MiracastIeEncode                                                                                     0x4d82b1f5                                         
+MiracastQueryParameters                                                                              0xaf6acc63                                         
+MiracastRegisterDatarateCallback                                                                     0xf17e4571                                         
+MiracastUnregisterDatarateCallback                                                                   0x09192034                                         
+OpenMiracastSession                                                                                  0xd381f5cf                                         
+VsIeProviderGetFunctionTable                                                                         0x289c6cf5                                         
+WFDDisplaySinkCloseSession                                                                           0x5c56a42b                                         
+WFDDisplaySinkDeInit                                                                                 0x67f80c4e                                         
+WFDDisplaySinkInit                                                                                   0x7a951e65                                         
+WFDDisplaySinkQueryCapabilities                                                                      0xdf667771                                         
+WFDDisplaySinkSetPersistedGroupIDList                                                                0xf51511e6                                         
+WFDDisplaySinkSetProperty                                                                            0x39b6fb62                                         
+WFDDisplaySinkStart                                                                                  0xcdf1087f                                         
+WFDDisplaySinkStartEx                                                                                0x0e552d9c                                         
+WFDDisplaySinkStop                                                                                   0x7a9ab477                                         

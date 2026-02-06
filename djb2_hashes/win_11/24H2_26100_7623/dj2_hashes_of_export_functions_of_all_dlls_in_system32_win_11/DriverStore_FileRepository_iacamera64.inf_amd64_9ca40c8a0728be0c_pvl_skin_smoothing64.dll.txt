@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iacamera64.inf_amd64_9ca40c8a0728be0c\pvl_skin_smoothing64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+pvl_skin_smoothing_create                                                                            0x42fb2215                                         
+pvl_skin_smoothing_destroy                                                                           0xd20e4ccb                                         
+pvl_skin_smoothing_get_default_config                                                                0x497f06ba                                         
+pvl_skin_smoothing_get_parameters                                                                    0x5f95f934                                         
+pvl_skin_smoothing_reset                                                                             0xfb4e3664                                         
+pvl_skin_smoothing_run                                                                               0x8548f436                                         
+pvl_skin_smoothing_run_in_image                                                                      0xfccdfbce                                         
+pvl_skin_smoothing_set_parameters                                                                    0x2698acc0                                         

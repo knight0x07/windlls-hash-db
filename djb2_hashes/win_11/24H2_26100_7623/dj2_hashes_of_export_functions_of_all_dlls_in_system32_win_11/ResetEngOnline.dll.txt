@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\ResetEngOnline.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetNetworkCost                                                                                       0x4185fc48                                         
+IsEsimPresent                                                                                        0x4db991d0                                         
+ResetEsim                                                                                            0x004ef3b6                                         
+ResetGetEngineInterface                                                                              0x19d8668f                                         
+ResetInitializeEngine                                                                                0x6b6ca630                                         
+ResetRebootSystem                                                                                    0x785ca8d8                                         
+ResetReleaseEngine                                                                                   0x3601a51f                                         
+UninstallFinalize                                                                                    0x51ae8751                                         
+UninstallGetInterface                                                                                0x48d5e6b0                                         

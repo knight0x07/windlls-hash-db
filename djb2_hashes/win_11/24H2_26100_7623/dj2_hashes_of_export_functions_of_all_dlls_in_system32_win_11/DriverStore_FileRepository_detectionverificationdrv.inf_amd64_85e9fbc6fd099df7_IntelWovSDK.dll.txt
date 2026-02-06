@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\detectionverificationdrv.inf_amd64_85e9fbc6fd099df7\IntelWovSDK.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IWoVDestroySession                                                                                   0xabd42398                                         
+IWoVFeedAudioFrame                                                                                   0x645e613b                                         
+IWoVFinalizeEnrollment                                                                               0x2adab77c                                         
+IWoVFinalizeEnrollmentUtterance                                                                      0x135f6887                                         
+IWoVFlush                                                                                            0xa244074c                                         
+IWoVGetAttribute                                                                                     0xab3c83de                                         
+IWoVGetFloatOutput                                                                                   0x12897351                                         
+IWoVGetIntOutput                                                                                     0x74d37066                                         
+IWoVGetScores                                                                                        0x0f437139                                         
+IWoVInit                                                                                             0x0cae667e                                         
+IWoVInitSession                                                                                      0xa94305c2                                         
+IWoVPrepareLpeData                                                                                   0x593f47f4                                         
+IWoVReset                                                                                            0xa3194c6d                                         
+IWoVSetAttribute                                                                                     0xf6a4e46a                                         
+IWoVSetBinAttribute                                                                                  0x3bf14f83                                         
+IWoVSetDspPackage                                                                                    0x66045669                                         
+IWoVSetModel                                                                                         0x8f453ba7                                         
+IWoVSetModelThreshold                                                                                0x0e33dc94                                         
+IWoVSetScoringProvider                                                                               0xaae6b9d6                                         
+IWoVStartEnrollment                                                                                  0x264925d8                                         
+IWoVStartEnrollmentUtterance                                                                         0xc8b5be63                                         

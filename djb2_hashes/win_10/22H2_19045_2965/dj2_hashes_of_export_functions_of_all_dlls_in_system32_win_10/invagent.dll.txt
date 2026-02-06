@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\invagent.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetDetailedAppInventoryReport                                                                        0x2c52092c                                         
+GetFileSigningInfoTC                                                                                 0x837a6277                                         
+RunUpdate                                                                                            0x1dfeda7d                                         
+RunUpdateTC                                                                                          0x991f78d4                                         

@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\occache.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+FindControlClose                                                                                     0x41e1c25d                                         
+FindFirstControl                                                                                     0xf7ccadef                                         
+FindFirstControlArch                                                                                 0x4965a42d                                         
+FindNextControl                                                                                      0xd8f1ed26                                         
+FindNextControlArch                                                                                  0xacf5a6e4                                         
+GetControlDependentFile                                                                              0xf4cf6d7d                                         
+GetControlInfo                                                                                       0x0f485252                                         
+IsModuleRemovable                                                                                    0x340ec984                                         
+ReleaseControlHandle                                                                                 0x25fa40b3                                         
+RemoveControlByHandle                                                                                0xe3676d1b                                         
+RemoveControlByHandle2                                                                               0x505510ad                                         
+RemoveControlByName                                                                                  0xcb906e70                                         
+RemoveControlByName2                                                                                 0x3d9e3ca2                                         
+RemoveExpiredControls                                                                                0x3baddaf8                                         
+SweepControlsByLastAccessDate                                                                        0x8b3526fc                                         

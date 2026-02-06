@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\input.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ActivateInputProfile                                                                                 0x18846957                                         
+CPlApplet                                                                                            0x5c9b924a                                         
+EnumEnabledLayoutOrTip                                                                               0x5d61da11                                         
+EnumEnabledLayoutOrTipPrivate                                                                        0x45b53e8c                                         
+EnumLayoutOrTipForSetup                                                                              0xffd2981e                                         
+GetDefaultLayout                                                                                     0xf7759388                                         
+GetLayoutDescription                                                                                 0x72b17407                                         
+InputDll_DownlevelEnumLayoutOrTipForSetup                                                            0xa47b0819                                         
+InputDll_DownlevelInitialize                                                                         0xbc707e92                                         
+InputDll_DownlevelSetUILanguage                                                                      0x555b51ce                                         
+InputDll_DownlevelUninitialize                                                                       0xda02ddd5                                         
+InstallLayoutOrTip                                                                                   0x4c9a6048                                         
+InstallLayoutOrTipOffline                                                                            0xb44bf88b                                         
+InstallLayoutOrTipPrivate                                                                            0x1d7fc0e3                                         
+InstallLayoutOrTipUserReg                                                                            0xa06d4405                                         
+QueryLayoutOrTipString                                                                               0x8e8516de                                         
+QueryLayoutOrTipStringUserReg                                                                        0x9301f5db                                         
+SaveDefaultUserInputSettings                                                                         0xb7426a79                                         
+SaveSystemAcctInputSettings                                                                          0x5adae635                                         
+SetDefaultLayoutOrTip                                                                                0xde984ce2                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

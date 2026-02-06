@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\spool\prtprocs\x64\winprint.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClosePrintProcessor                                                                                  0x7f7561c8                                         
+ControlPrintProcessor                                                                                0x8ad02793                                         
+DllMain                                                                                              0x79f31ec6                                         
+EnumPrintProcessorDatatypesW                                                                         0x8da4c60d                                         
+GetPrintProcessorCapabilities                                                                        0x9d19f27c                                         
+OpenPrintProcessor                                                                                   0x0e54e3e4                                         
+PrintDocumentOnPrintProcessor                                                                        0x7e2b40db                                         

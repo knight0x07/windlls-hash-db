@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\pcaui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DisplayApphelpDialog                                                                                 0x25f520b5                                         
+PcaLaunchApplicationWithConsent                                                                      0x814a91be                                         
+PcaPersistSettingsAndLaunchApplication                                                               0x38f10996                                         
+PcaShowDialog                                                                                        0x32067b8a                                         

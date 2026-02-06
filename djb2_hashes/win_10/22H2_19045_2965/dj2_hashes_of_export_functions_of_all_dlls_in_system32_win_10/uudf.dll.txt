@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\uudf.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0METADATA_PARTITION@@QEAA@XZ                                                                       0xb1e227b7                                         
+??0UDF_LVOL@@QEAA@XZ                                                                                 0x3d51c738                                         
+??0UDF_SA@@QEAA@XZ                                                                                   0xa9efaeaf                                         
+??0UDF_VOL@@QEAA@XZ                                                                                  0xeb00d2cc                                         
+??1METADATA_PARTITION@@UEAA@XZ                                                                       0x68671a1c                                         
+??1UDF_LVOL@@UEAA@XZ                                                                                 0x5f50dc5d                                         
+??1UDF_SA@@UEAA@XZ                                                                                   0xea0dc794                                         
+??1UDF_VOL@@UEAA@XZ                                                                                  0xb1c3a7d1                                         
+?CreateOnDisk@UDF_LVOL@@QEAAEPEAVUDF_SA@@PEAVMESSAGE@@PEAVVDS@@PEAUEXTENTAD@@K3@Z                    0x6f3128c0                                         
+?Initialize@UDF_SA@@QEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@G@Z                                       0x57f4a7c8                                         
+?Initialize@UDF_VOL@@QEAA?AW4FORMAT_ERROR_CODE@@PEBVWSTRING@@PEAVMESSAGE@@EGEEE@Z                    0xdb467d75                                         
+?ReadFromDisk@UDF_LVOL@@QEAAEPEAVUDF_SA@@PEAVMESSAGE@@PEAVVDS@@@Z                                    0xc5abd099                                         
+Chkdsk                                                                                               0xabbf007d                                         
+ChkdskEx                                                                                             0x97811d1a                                         
+Format                                                                                               0xb341208e                                         
+FormatEx                                                                                             0x880b856b                                         
+GetFilesystemInformation                                                                             0x23f50610                                         
+Recover                                                                                              0x9ebe761b                                         

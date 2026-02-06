@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\EsdSip.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EsdSipCreateHash                                                                                     0x1357be45                                         
+EsdSipDelSignature                                                                                   0x3cbf84f4                                         
+EsdSipGetCaps                                                                                        0xa7c092d4                                         
+EsdSipGetSignature                                                                                   0xefee261f                                         
+EsdSipIsMyFileType                                                                                   0x924468b1                                         
+EsdSipPutSignature                                                                                   0xfe47c298                                         
+EsdSipVerifyHash                                                                                     0xbdba2d66                                         

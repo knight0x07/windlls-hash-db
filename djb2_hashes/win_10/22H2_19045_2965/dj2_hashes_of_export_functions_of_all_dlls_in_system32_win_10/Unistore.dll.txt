@@ -1,0 +1,46 @@
+DLL Path: C:\Windows\System32\Unistore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddDWORDPropertyRestrictions                                                                         0x4282ebdc                                         
+AppRevisionBlobToUSBlob                                                                              0xf896761e                                         
+ClearUSCache                                                                                         0xb1b931a8                                         
+CreateStoreManager                                                                                   0x20821761                                         
+CreateStoreManagerWithToken                                                                          0xa54271fe                                         
+DetectExistingCorruption                                                                             0xf042675e                                         
+DisableLocalUnistore                                                                                 0x7ce4477d                                         
+EnableLocalUnistore                                                                                  0x4b1b4d50                                         
+EndUnifiedStoreWorkForClient                                                                         0xc8659896                                         
+FindMaxSeenRevisionForAppInBlob                                                                      0x01f0c7e4                                         
+GetCurrentProcessRundownProtectionIdentifier                                                         0x2153a25e                                         
+GetDeviceStoreDefaultName                                                                            0x60560368                                         
+GetRealStoreManager                                                                                  0x31a42b51                                         
+GetUSDataFolderPath                                                                                  0x8c14dbf0                                         
+GetUSDeviceStoreCorruptedVolumeFolderPath                                                            0xb3f5e123                                         
+GetUSDeviceStoreFolderPath                                                                           0x7771ea93                                         
+GetUSDeviceStoreVolumePath                                                                           0xe6770bef                                         
+GetUSFileStreamPath                                                                                  0x533335e6                                         
+GetUnistoreJetInstance                                                                               0x1fddb076                                         
+IsCEPropValPresent                                                                                   0x2777086e                                         
+IsUSPropValPresent                                                                                   0xf11bb2ce                                         
+IsUnistoreInProc                                                                                     0xf2b000c5                                         
+IsUnistoreLocal                                                                                      0x1ed7a0a5                                         
+LowerRPCPriority                                                                                     0x61dd9f55                                         
+RegisterRundownProtectionForProcess                                                                  0x4c082ba4                                         
+ReleaseUnistoreJetInstance                                                                           0x855703b7                                         
+RemoveStaleChangeTrackingDataOnStore                                                                 0x5d779669                                         
+ServiceMain                                                                                          0x0747703b                                         
+SetMaxRevisionBlobSize                                                                               0x53c81a80                                         
+SetUnistoreProcessEventFilter                                                                        0xa0a61cd1                                         
+SetUnistoreVersion                                                                                   0x53715ad0                                         
+StartUnifiedStoreWorkForClient                                                                       0xceea372d                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+USBlobToAppRevisionBlob                                                                              0xf5de755e                                         
+USComparePropVals                                                                                    0x4240f06b                                         
+USCopyPropVals                                                                                       0x11e7de9f                                         
+USDeleteFileEx                                                                                       0xd3cfd7bd                                         
+USEventMaskToObjectType                                                                              0x99d12c77                                         
+USGetPropValsAncillaryBufferSize                                                                     0xdedc38b8                                         
+USIsObjectHidden                                                                                     0x011c1e6c                                         
+USIsSameObject                                                                                       0x7b5a7f06                                         
+USObjectTypeToEventMask                                                                              0x5372c577                                         

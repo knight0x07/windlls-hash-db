@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\luiapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LuiAddProfile                                                                                        0x00a5c1a9                                         
+LuiCancelOperation                                                                                   0x75948ba6                                         
+LuiCloseHandle                                                                                       0x4abebc71                                         
+LuiDeleteProfile                                                                                     0xa9a741d3                                         
+LuiDisableProfile                                                                                    0x73b44834                                         
+LuiDiscoverProfiles                                                                                  0x961e2772                                         
+LuiEnableProfile                                                                                     0x46958e87                                         
+LuiInstallProfile                                                                                    0x80744cb7                                         
+LuiOpenHandle                                                                                        0x3db23d4d                                         
+LuiProcessActivationCode                                                                             0x5f25f3db                                         
+LuiRegisterForAllEnterpriseProfileNotifications                                                      0x3eea0c20                                         
+LuiRegisterForAllProfileNotifications                                                                0xb76b9cff                                         
+LuiRegisterForEnterpriseEsimNotifications                                                            0x310823c4                                         
+LuiRegisterForEsimNotifications                                                                      0xec357c43                                         
+LuiRegisterForLpaNotifications                                                                       0xe37bb612                                         
+LuiReleaseProvisioningProfile                                                                        0xa7bd2148                                         
+LuiRequestProvisioningProfile                                                                        0xf6a341f0                                         
+LuiSetDefaultSmdpAddress                                                                             0x3e4988da                                         
+LuiSetEsimPolicy                                                                                     0x9f63fe79                                         
+LuiSetProfileNickname                                                                                0x1e26b9b2                                         
+LuiSetUserAuthenticationMode                                                                         0x9324c19f                                         
+LuiVerifyClientToken                                                                                 0x699087e4                                         
+LuiWipeEsim                                                                                          0x0c5dc6f2                                         

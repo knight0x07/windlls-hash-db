@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\UMED.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CUMED@@QEAA@AEBV0@@Z                                                                              0xc6d33541                                         
+??0CUMED@@QEAA@XZ                                                                                    0x041e3d2b                                         
+??0CUMEDFactory@@QEAA@AEBV0@@Z                                                                       0x718ba619                                         
+??0CUMEDFactory@@QEAA@XZ                                                                             0x36e8ec03                                         
+??1CUMED@@UEAA@XZ                                                                                    0xdb4e9df0                                         
+??1CUMEDFactory@@UEAA@XZ                                                                             0xdd7e29a8                                         
+??4CUMED@@QEAAAEAV0@AEBV0@@Z                                                                         0x0201e6b2                                         
+??4CUMEDFactory@@QEAAAEAV0@AEBV0@@Z                                                                  0xe1aee20a                                         
+??_7CUMED@@6B@                                                                                       0x296ff17f                                         
+??_7CUMEDFactory@@6B@                                                                                0x17e00d97                                         
+?AddRef@CUMED@@UEAAKXZ                                                                               0xd12c11d1                                         
+?AddRef@CUMEDFactory@@UEAAKXZ                                                                        0x04c448c9                                         
+?CreateInstance@CUMEDFactory@@UEAAJPEAUIUnknown@@AEBU_GUID@@PEAPEAX@Z                                0x77eecc60                                         
+?Initialize@CUMED@@UEAAJPEAU_GUID@@PEAU_LUID@@PEAX2PEAUIUnknown@@@Z                                  0x6f905b13                                         
+?LockServer@CUMEDFactory@@UEAAJH@Z                                                                   0xc7f73672                                         
+?PauseGpup@CUMED@@UEAAJPEAU_LUID@@W4__MIDL_IGPUPMitigationDevice_0003@@@Z                            0x886aa89e                                         
+?PowerTransitionComplete@CUMED@@UEAAJPEAU_LUID@@W4__MIDL_IGPUPMitigationDevice_0002@@@Z              0xa97d3034                                         
+?QueryInterface@CUMED@@UEAAJAEBU_GUID@@PEAPEAX@Z                                                     0x7cb0ecc2                                         
+?QueryInterface@CUMEDFactory@@UEAAJAEBU_GUID@@PEAPEAX@Z                                              0x4831fe9a                                         
+?ReadInterceptedGpup@CUMED@@UEAAJPEAU_LUID@@W4__MIDL_IGPUPMitigationDevice_0001@@_K2PEAE@Z           0xb7e47e48                                         
+?Release@CUMED@@UEAAKXZ                                                                              0xe24dcf6c                                         
+?Release@CUMEDFactory@@UEAAKXZ                                                                       0x0ccb4a04                                         
+?RestoreGpup@CUMED@@UEAAJPEAU_LUID@@W4__MIDL_IGPUPMitigationDevice_0003@@K_K2QEAE@Z                  0x61439de7                                         
+?ResumeGpup@CUMED@@UEAAJPEAU_LUID@@W4__MIDL_IGPUPMitigationDevice_0003@@@Z                           0xf4b95871                                         
+?SaveGpupBegin@CUMED@@UEAAJPEAU_LUID@@W4__MIDL_IGPUPMitigationDevice_0003@@PEAKQEAE@Z                0xc58d6bb1                                         
+?SaveGpupContinue@CUMED@@UEAAJPEAU_LUID@@W4__MIDL_IGPUPMitigationDevice_0003@@PEAK2QEAE@Z            0x0de56023                                         
+?WriteInterceptedGpup@CUMED@@UEAAJPEAU_LUID@@W4__MIDL_IGPUPMitigationDevice_0001@@_K2QEBE@Z          0xb00b2699                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

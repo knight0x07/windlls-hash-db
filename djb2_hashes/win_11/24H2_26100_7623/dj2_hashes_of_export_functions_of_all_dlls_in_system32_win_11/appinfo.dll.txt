@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\appinfo.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AiDisableDesktopRpcInterface                                                                         0xb5af3f13                                         
+AiEnableDesktopRpcInterface                                                                          0xf3526de6                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

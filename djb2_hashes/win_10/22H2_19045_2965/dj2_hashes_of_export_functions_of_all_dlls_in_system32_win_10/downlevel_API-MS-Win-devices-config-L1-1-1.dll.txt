@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-devices-config-L1-1-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CM_Delete_Class_Key                                                                                  0x44a6eae4                                         
+CM_Delete_DevNode_Key                                                                                0xb564c693                                         
+CM_Delete_Device_Interface_KeyW                                                                      0x257163e5                                         
+CM_Disable_DevNode                                                                                   0x0bfb0fac                                         
+CM_Enable_DevNode                                                                                    0x9329f7bf                                         
+CM_Get_Child                                                                                         0x0d93c217                                         
+CM_Get_Class_PropertyW                                                                               0xc0679324                                         
+CM_Get_Class_Property_Keys                                                                           0x03402748                                         
+CM_Get_Class_Registry_PropertyW                                                                      0xf9a164bc                                         
+CM_Get_Depth                                                                                         0x0da45448                                         
+CM_Get_DevNode_PropertyW                                                                             0x9f248553                                         
+CM_Get_DevNode_Property_Keys                                                                         0xfe7898f7                                         
+CM_Get_DevNode_Registry_PropertyW                                                                    0xe6ff3bcb                                         
+CM_Get_DevNode_Status                                                                                0xc86f06fb                                         
+CM_Get_Device_IDW                                                                                    0x03e5d9a6                                         
+CM_Get_Device_ID_ListW                                                                               0x05f1e901                                         
+CM_Get_Device_ID_List_SizeW                                                                          0x01a3909b                                         
+CM_Get_Device_ID_Size                                                                                0xd1a652e9                                         
+CM_Get_Device_Interface_ListW                                                                        0xd26e6ee5                                         
+CM_Get_Device_Interface_List_SizeW                                                                   0x4d9364ff                                         
+CM_Get_Device_Interface_PropertyW                                                                    0x1467db6e                                         
+CM_Get_Device_Interface_Property_KeysW                                                               0xdf501729                                         
+CM_Get_Parent                                                                                        0xdde53cfd                                         
+CM_Get_Sibling                                                                                       0x930710db                                         
+CM_Locate_DevNodeW                                                                                   0x434d8987                                         
+CM_MapCrToWin32Err                                                                                   0x94d24ce6                                         
+CM_Open_Class_KeyW                                                                                   0xe712559a                                         
+CM_Open_DevNode_Key                                                                                  0x74b49052                                         
+CM_Open_Device_Interface_KeyW                                                                        0xddfba864                                         
+CM_Query_And_Remove_SubTreeW                                                                         0xee855139                                         
+CM_Register_Notification                                                                             0x571c6a7f                                         
+CM_Set_Class_PropertyW                                                                               0x0aa45e30                                         
+CM_Set_Class_Registry_PropertyW                                                                      0x18f15d48                                         
+CM_Set_DevNode_PropertyW                                                                             0x6bc0435f                                         
+CM_Set_DevNode_Registry_PropertyW                                                                    0x1a2f8757                                         
+CM_Set_Device_Interface_PropertyW                                                                    0x479826fa                                         
+CM_Setup_DevNode                                                                                     0x6524c189                                         
+CM_Uninstall_DevNode                                                                                 0x59196ab2                                         
+CM_Unregister_Notification                                                                           0x226cfee2                                         

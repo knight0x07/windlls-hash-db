@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\F12\F12AppFrame2.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AttachTools                                                                                          0xa79f3d0b                                         
+AttachToolsToDiagnosticsTarget                                                                       0xc292698d                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

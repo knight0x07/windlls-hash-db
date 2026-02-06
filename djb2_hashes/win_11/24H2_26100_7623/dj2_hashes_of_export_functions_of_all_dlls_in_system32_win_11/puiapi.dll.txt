@@ -1,0 +1,56 @@
+DLL Path: C:\Windows\System32\puiapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+PUIAPI_CreateInstance                                                                                0x5852bd35                                         
+PUIAPI_GetErrorString                                                                                0x62ee1f6d                                         
+PUIAPI_GetPrinter                                                                                    0x85c916b0                                         
+PUIAPI_IWaitNotify_CreateInstance                                                                    0x28dd550b                                         
+PUIAPI_IWaitNotify_RegisterTimer                                                                     0x81b19e08                                         
+PUIAPI_IWaitNotify_RegisterWaitObject                                                                0xc970b893                                         
+PUIAPI_IWaitNotify_UnregisterCookie                                                                  0x96324a24                                         
+PUIAPI_ShowBrowseForPrinterDialog                                                                    0x9953467a                                         
+PUIAPI_ShowDetailsMessageBox                                                                         0xf00d7241                                         
+PUIAPI_ShowDriverPackageRemovalUI                                                                    0xe3bc39f9                                         
+STRAPI_ConvertCase                                                                                   0x7a9f8b74                                         
+STRAPI_CrackPrintUNCName                                                                             0x9704de2f                                         
+STRAPI_FindAndReplace                                                                                0x8ffaea47                                         
+STRAPI_Format                                                                                        0xf8eea1e0                                         
+STRAPI_FormatMsg                                                                                     0xd2f32ca7                                         
+STRAPI_FormatMsgV                                                                                    0x3158c1dd                                         
+STRAPI_FormatV                                                                                       0x16c2de36                                         
+STRAPI_GUID2String                                                                                   0x8e179b49                                         
+STRAPI_GetJobStatusString                                                                            0x9bfb4c8d                                         
+STRAPI_GetPrinterStatusString                                                                        0xdc46f996                                         
+STRAPI_LoadString                                                                                    0xc3d8ca8e                                         
+STRAPI_MultiCat                                                                                      0x254c2fda                                         
+STRAPI_String2GUID                                                                                   0x4db4b549                                         
+STRAPI_TrimString                                                                                    0x587d706a                                         
+STRAPI_XMLSafeText                                                                                   0xcb5f208c                                         
+STRBUF_AppendString                                                                                  0x97d8fa29                                         
+STRBUF_Create                                                                                        0x77d1676e                                         
+STRBUF_CreateBSTR                                                                                    0x48190ba9                                         
+STRBUF_DeleteSubstring                                                                               0xab39b70e                                         
+STRBUF_Destroy                                                                                       0xa1ad3d44                                         
+STRBUF_FindAndReplace                                                                                0x37b304ca                                         
+STRBUF_Format                                                                                        0x7ea1e963                                         
+STRBUF_InsertString                                                                                  0xa1854da6                                         
+STRBUF_MultiCat                                                                                      0xe4ef641d                                         
+STRBUF_ToLower                                                                                       0x85e03a06                                         
+STRBUF_ToUpper                                                                                       0x86838529                                         
+STRBUF_TrimLeft                                                                                      0x6c4004e1                                         
+STRBUF_TrimRight                                                                                     0xf4af68b4                                         
+STRBUF_Truncate                                                                                      0x885c9260                                         
+STRBUF_Update                                                                                        0xa1a9855d                                         
+XMLAPI_GetAttributeDouble                                                                            0x03f9ed1e                                         
+XMLAPI_GetAttributeLong                                                                              0xc26e29b3                                         
+XMLAPI_GetAttributeString                                                                            0x275041fa                                         
+XMLAPI_GetAttributeULongLong                                                                         0xec5cd878                                         
+XMLAPI_SetAttributeDouble                                                                            0x2d0386aa                                         
+XMLAPI_SetAttributeLong                                                                              0x54ebf03f                                         
+XMLAPI_SetAttributeString                                                                            0x5059db86                                         
+XMLAPI_SetAttributeULongLong                                                                         0xb8f89684                                         

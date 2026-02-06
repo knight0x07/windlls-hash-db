@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\MdmDiagnostics.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CollectOneTraceFiles                                                                                 0x888e038f                                         
+CreateLogCabOnArea                                                                                   0x214f26d7                                         
+CreateLogZipOnArea                                                                                   0x303b4784                                         
+CreateLogZipOnXml                                                                                    0x5e8dcffc                                         
+CreateMdmEnterpriseDiagnosticHTMLReport                                                              0xfe46636e                                         
+CreateMdmEnterpriseDiagnosticReport                                                                  0x2ef1a659                                         

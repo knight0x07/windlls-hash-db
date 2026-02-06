@@ -1,0 +1,38 @@
+DLL Path: C:\Windows\System32\MCCSEngineShared.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BuildISO8601String                                                                                   0xd66f67c6                                         
+BuildISO8601StringFromSysTime                                                                        0xcf98d948                                         
+CopyMimeAttachmentsToMapi                                                                            0x5b98e46e                                         
+CreateTemporaryFileStream                                                                            0x4a28d648                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DownloadToVirtualStream                                                                              0xfeba78d3                                         
+FindMatchingNameForAddress                                                                           0xc9f1da3f                                         
+GetAccountDomainForAccountAccessor                                                                   0xd4dd2b91                                         
+GetAccountManagedState                                                                               0x31f85a00                                         
+GetDataProtectionPropertyForStore                                                                    0x6f7ec9ff                                         
+GetDomainFromAccountName                                                                             0x25dbaf7f                                         
+GetDomainNamesForEmailSyncList                                                                       0x6d40ba99                                         
+GetDplPropertyForStore                                                                               0x42a39a7e                                         
+GetIStoreForAccountGuid                                                                              0x321fa318                                         
+GetMimeStreamFromMMSMessage                                                                          0x6d1852df                                         
+GetMimeStreamFromMessage                                                                             0xa8bec4d2                                         
+GetProtectedDomainList                                                                               0x202f3483                                         
+GetProtectionPolicyState                                                                             0x42afc47d                                         
+GetSmProviderInfo                                                                                    0x0e21451c                                         
+GetSmRecipientType                                                                                   0x46222a0a                                         
+IsDPLInEffect                                                                                        0x6bf638c5                                         
+IsDomainInDelimitedList                                                                              0x7fe51edd                                         
+ParseISO8601String                                                                                   0x82b22c51                                         
+SearchDelimitedList                                                                                  0x68f73be8                                         
+SetDataProtectionPropertyForStore                                                                    0x3e1bfa0b                                         
+SetDplPropertyForStore                                                                               0xa2b71a0a                                         
+SetSmProviderInfo                                                                                    0xf057dd28                                         
+StringCompareWithWildcard                                                                            0xcb2aa069                                         
+SyncNormalizePhoneNumber                                                                             0x873ed936                                         
+WriteInputStreamToNetworkStream                                                                      0xdda369c5                                         
+WriteMapiBodiesFromMimeReader                                                                        0x420aeedc                                         
+WriteMapiBodiesFromMimeStream                                                                        0x4578dd35                                         
+WriteMapiBodiesFromMimeStreamEx                                                                      0x872507d2                                         

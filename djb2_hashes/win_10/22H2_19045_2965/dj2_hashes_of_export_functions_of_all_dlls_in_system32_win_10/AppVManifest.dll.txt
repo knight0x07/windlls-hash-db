@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\AppVManifest.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateManifestDocumentFromDocument                                                                   0x67284742                                         
+CreateManifestDocumentFromFile                                                                       0x34401f03                                         
+CreateManifestDocumentFromXML                                                                        0xcb480bb4                                         
+GetManifestSelectionNamespaces                                                                       0x62d3b5a2                                         

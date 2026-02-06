@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\wbem\mofd.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CompileFileViaDLL                                                                                    0x31b5902a                                         
+CreateBMOFViaDLL                                                                                     0xbdd936f9                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

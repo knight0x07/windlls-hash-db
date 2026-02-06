@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\fmifs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Chkdsk                                                                                               0xabbf007d                                         
+ChkdskEx                                                                                             0x97811d1a                                         
+ClearPerMachineFileSystemState                                                                       0x5e6d90ee                                         
+ComputeFmMediaType                                                                                   0xd5340777                                         
+CreatePerMachineFileSystemStateKey                                                                   0xeff38564                                         
+DiskCopy                                                                                             0xe3cae3ab                                         
+EnableVolumeCompression                                                                              0x60d55ab6                                         
+EnableVolumeIntegrity                                                                                0x34079e43                                         
+Extend                                                                                               0xb18fcccd                                         
+Format                                                                                               0xb341208e                                         
+FormatEx                                                                                             0x880b856b                                         
+FormatEx2                                                                                            0x897c32fd                                         
+FreeCorruptionInfo                                                                                   0xb02840e8                                         
+GetCorruptionInfoClose                                                                               0x87ea893c                                         
+GetDefaultFileSystem                                                                                 0x5376296f                                         
+GetDefaultFileSystem2                                                                                0xc23b5781                                         
+GetFirstCorruptionInfo                                                                               0x0f1187ce                                         
+GetFsFormatOptions                                                                                   0x2b670093                                         
+GetNextCorruptionInfo                                                                                0x4ec48745                                         
+QueryAvailableFileSystemFormat                                                                       0x7337a1aa                                         
+QueryCorruptionState                                                                                 0x8aba4c31                                         
+QueryCorruptionStateByHandle                                                                         0xdc6445f8                                         
+QueryDeviceInformation                                                                               0xc77a2411                                         
+QueryDeviceInformationByHandle                                                                       0xd7edfdd8                                         
+QueryFileSystemName                                                                                  0xdfa5cfa1                                         
+QueryIsDiskCheckScheduledForNextBoot                                                                 0x00a3346b                                         
+QueryLatestFileSystemVersion                                                                         0x9c564333                                         
+QuerySupportedMedia                                                                                  0xbff3ec81                                         
+SetLabel                                                                                             0x87f1d571                                         

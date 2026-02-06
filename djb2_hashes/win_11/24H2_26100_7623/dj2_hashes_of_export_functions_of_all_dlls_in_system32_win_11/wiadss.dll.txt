@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\wiadss.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseFindContext                                                                                     0x21b60141                                         
+FindFirstImportDS                                                                                    0xe548d6c0                                         
+FindImportDSByDeviceName                                                                             0x5221a944                                         
+FindNextImportDS                                                                                     0xeb15fcd7                                         
+GetLoaderStatus                                                                                      0xe4d99ee0                                         
+LoadImportDS                                                                                         0xef5ea8d7                                         
+UnloadImportDS                                                                                       0x88b6c21a                                         

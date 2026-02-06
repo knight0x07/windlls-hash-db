@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\wsdchngr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WSDCHNGRChallengeDeviceClass                                                                         0xbbe5db8e                                         
+WSDCHNGRInitialize                                                                                   0xfbbccf97                                         
+WSDCHNGRRegisterDeviceToChallenge                                                                    0x7d3f7da0                                         
+WSDCHNGRRegisterDeviceToChallengeByGlobalId                                                          0x19e08a99                                         
+WSDCHNGRRemoveDevice                                                                                 0x85defde3                                         
+WSDCHNGRShutdown                                                                                     0x24c6cc61                                         

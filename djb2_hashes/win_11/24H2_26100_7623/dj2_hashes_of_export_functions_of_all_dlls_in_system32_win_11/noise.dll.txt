@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\noise.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NoiseCloseHandle                                                                                     0xd40961a5                                         
+NoiseHandshakeGetHash                                                                                0xadfb2dae                                         
+NoiseHandshakeInitialize                                                                             0x8f3269fc                                         
+NoiseHandshakeProcessMessage                                                                         0x781e7eae                                         
+NoiseOpenHandle                                                                                      0x60e30c01                                         
+NoiseTransportMesssageDecrypt                                                                        0x1e8e15c3                                         
+NoiseTransportMesssageEncrypt                                                                        0x8086c02d                                         

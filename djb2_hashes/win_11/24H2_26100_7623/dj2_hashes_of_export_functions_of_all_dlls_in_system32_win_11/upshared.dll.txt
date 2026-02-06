@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\upshared.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConvertJsonValueToVariant                                                                            0x49c1ad75                                         
+CreateQueryStringBuilder                                                                             0xe38c6fcd                                         
+ExpandCabFile                                                                                        0x0a44870b                                         
+LoadJsonFromFile                                                                                     0x67454693                                         
+MapExceptionToHResult                                                                                0x3dc363fc                                         
+ParseJson                                                                                            0x38f0095a                                         
+SubmitRequestForData                                                                                 0x3f0ca7a3                                         
+SubmitRequestForSettings                                                                             0xcbe5745a                                         
+ToBase64                                                                                             0x02de024d                                         
+VerifySelfSignedImageFile                                                                            0xa06d8941                                         

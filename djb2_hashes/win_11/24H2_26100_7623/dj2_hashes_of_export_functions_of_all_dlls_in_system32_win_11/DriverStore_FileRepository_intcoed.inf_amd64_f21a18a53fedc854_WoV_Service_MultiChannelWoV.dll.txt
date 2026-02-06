@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_f21a18a53fedc854\WoV\Service\MultiChannelWoV.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?GetApiVersion@MultichannelWov@@YAPEBDXZ                                                             0x2da74eab                                         
+?GetBuildVersion@MultichannelWov@@YAPEBDXZ                                                           0x1962f9a1                                         
+?GetInstance@MultichannelWovVerification@@YA?AW4EMultiChannelWovStatusCode@@PEBVIMultiChannelWoVConfig@@PEAVIMultiChannelWoVLogger@@EAEAPEAVIMultiChannelWoV@@@Z 0x1d4f3ec1                                         
+?ReleaseInstance@MultichannelWovVerification@@YAXPEAVIMultiChannelWoV@@@Z                            0x4faf6f9e                                         

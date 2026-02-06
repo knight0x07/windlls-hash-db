@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\iscsiexe.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DiscpEstablishServiceLinkage                                                                         0xb3f6b763                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+iSNSBuildRequestPacket                                                                               0xdef38b73                                         
+iSNSGetPGTag                                                                                         0xa27625b5                                         
+iSNSGetResponseErrorCode                                                                             0xa226cfd6                                         
+iSNSParseAndDispatchServerRequest                                                                    0x016feba0                                         
+iSNSParseGetNextResponse                                                                             0xed565b6b                                         
+iSNSParseQueryResponse                                                                               0x73e25e82                                         
+iSNSProcessESI                                                                                       0x88c5abc2                                         
+iSNSProcessSCN                                                                                       0x88c5e545                                         
+iSNSSetupResponsePacket                                                                              0xe49f711a                                         

@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\davclnt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DavCancelConnectionsToServer                                                                         0x002e0cc3                                         
+DavFreeUsedDiskSpace                                                                                 0xf9afe7ca                                         
+DavGetDiskSpaceUsage                                                                                 0xb07c144c                                         
+DavGetTheLockOwnerOfTheFile                                                                          0x9cc526ab                                         
+DavInvalidateCache                                                                                   0xcb81f795                                         
+DavRegisterAuthCallback                                                                              0x1d08de04                                         
+DavSetCookieW                                                                                        0x0a057efd                                         
+DavUnregisterAuthCallback                                                                            0x83e7dd07                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+NPAddConnection                                                                                      0x56c5cffc                                         
+NPAddConnection3                                                                                     0x2f7fcfaf                                         
+NPCancelConnection                                                                                   0xb35212d9                                         
+NPCloseEnum                                                                                          0x6d5abaae                                         
+NPEnumResource                                                                                       0xf91522a0                                         
+NPFormatNetworkName                                                                                  0x68a7fdf7                                         
+NPGetCaps                                                                                            0x91f2e3aa                                         
+NPGetConnection                                                                                      0xb9beba73                                         
+NPGetResourceInformation                                                                             0x075d02b1                                         
+NPGetResourceParent                                                                                  0x5687f615                                         
+NPGetUniversalName                                                                                   0x106da2dd                                         
+NPGetUser                                                                                            0x91fd0da2                                         
+NPOpenEnum                                                                                           0x611bf60a                                         

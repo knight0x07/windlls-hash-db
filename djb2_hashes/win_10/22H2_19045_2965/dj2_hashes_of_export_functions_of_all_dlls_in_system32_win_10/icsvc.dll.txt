@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\icsvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GuestInterfaceServiceMain                                                                            0x605aa034                                         
+HeartbeatServiceMain                                                                                 0x3950ebeb                                         
+KvpexchangeServiceMain                                                                               0x63d75a8f                                         
+ShutdownServiceMain                                                                                  0x6b6564f7                                         
+TimesyncServiceMain                                                                                  0xb94efb07                                         
+VMSessionServiceMain                                                                                 0x3ebde682                                         

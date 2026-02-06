@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\onex.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OneXAddEapAttributes                                                                                 0x7dafdf85                                         
+OneXAddTLV                                                                                           0xcd503e9e                                         
+OneXCompareAuthParams                                                                                0xba67fb7c                                         
+OneXCopyAuthParams                                                                                   0x9ab32bf0                                         
+OneXCreateDefaultProfile                                                                             0x4ede3c09                                         
+OneXCreateDefaultProfileWithEapMethodId                                                              0xe38e7549                                         
+OneXCreateDiscoveryProfiles                                                                          0x5ffef14f                                         
+OneXCreateSupplicantPort                                                                             0x58e6d3db                                         
+OneXDeInitialize                                                                                     0xeb036cda                                         
+OneXDestroySupplicantPort                                                                            0xc07bccd1                                         
+OneXForceAuthenticatedState                                                                          0xc48af3b2                                         
+OneXFreeAuthParams                                                                                   0xb4ddc917                                         
+OneXFreeMemory                                                                                       0xe1ef83da                                         
+OneXIndicatePacket                                                                                   0x96597378                                         
+OneXIndicateSessionChange                                                                            0x3dc9ab0a                                         
+OneXInitialize                                                                                       0x90d5c0b1                                         
+OneXQueryAuthParams                                                                                  0x731d230b                                         
+OneXQueryPendingUIRequest                                                                            0xb5189f21                                         
+OneXQueryState                                                                                       0xb9ef06f6                                         
+OneXQueryStatistics                                                                                  0x95cedd00                                         
+OneXReasonCodeToString                                                                               0xb095f61c                                         
+OneXRestartReasonCodeToString                                                                        0xe77b9781                                         
+OneXSetAuthParams                                                                                    0xa32a5b61                                         
+OneXSetRuntimeState                                                                                  0x43c9a590                                         
+OneXStartAuthentication                                                                              0x92bcfcad                                         
+OneXStopAuthentication                                                                               0x34607ce5                                         
+OneXUIResponse                                                                                       0x472948ec                                         
+OneXUpdatePortProfile                                                                                0xd0013a18                                         
+OneXUpdateProfilePostDiscovery                                                                       0x0596a171                                         

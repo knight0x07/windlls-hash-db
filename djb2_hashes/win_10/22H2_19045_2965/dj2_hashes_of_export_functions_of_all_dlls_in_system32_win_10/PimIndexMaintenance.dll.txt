@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\PimIndexMaintenance.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateInprocPimimConnectionHandle                                                                    0x6d4da9fc                                         
+PimIMService_ResetInprocService                                                                      0xb5c55fb0                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

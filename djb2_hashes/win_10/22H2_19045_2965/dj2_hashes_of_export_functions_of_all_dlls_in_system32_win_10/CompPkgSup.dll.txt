@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\CompPkgSup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AreDvdCodecsEnabled                                                                                  0x5b8e6bd7                                         
+GetMediaComponentPackageInfo                                                                         0x11769d10                                         
+GetMediaExtensionCommunicationFactory                                                                0x7e015c30                                         
+GetNetworkRequestCount                                                                               0x2bc06fc1                                         
+GetServerForPMP                                                                                      0x5cb0d690                                         
+InstantiateComponentFromPackage                                                                      0xf8330f3c                                         
+IsMediaBehaviorEnabled                                                                               0x5828439c                                         
+RegisterServerForPMP                                                                                 0x2b05fa15                                         
+RequireNetworkDuringMediaTaskCompletion                                                              0xda7c7902                                         
+UnregisterServerForPMP                                                                               0x3ff8a658                                         

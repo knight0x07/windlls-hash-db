@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\wcimage.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WcCompressFile                                                                                       0xdb64b58b                                         
+WcCompressFileAsync                                                                                  0x18b43e09                                         
+WcConvertToReparsePoint                                                                              0x3165e79f                                         
+WcCreateContainerImageFromPortableBaseLayer                                                          0x0ffb2cbe                                         
+WcCreateContainerImageFromWim                                                                        0xce1d08da                                         
+WcCreateContainerImageFromWimEx                                                                      0xc982b0b7                                         
+WcDismountVirtualDisk                                                                                0x4e39a844                                         
+WcDismountVirtualDiskFromHandle                                                                      0x4d7dba04                                         
+WcEnsurePathExists                                                                                   0x374c51de                                         
+WcExpandContainerWim                                                                                 0x6117dd0f                                         
+WcMountVirtualDisk                                                                                   0x62ffd544                                         
+WcProcessContainerLayer                                                                              0xfc0267be                                         
+WcSetVirtualDiskAttributes                                                                           0x4b8489e4                                         
+WcWaitForPendingFileCompressionOperations                                                            0x637544f6                                         

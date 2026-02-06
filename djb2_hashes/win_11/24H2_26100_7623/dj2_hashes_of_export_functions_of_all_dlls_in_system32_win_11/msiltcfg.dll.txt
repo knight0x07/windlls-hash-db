@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\msiltcfg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MsiAdvertiseScriptW                                                                                  0x67024281                                         
+MsiConfigureProductExW                                                                               0xaa0ce885                                         
+MsiDecomposeDescriptorW                                                                              0x2fe356e3                                         
+MsiGetComponentPathW                                                                                 0xf6bdca65                                         
+MsiGetProductInfoW                                                                                   0x58935bd2                                         
+MsiIsProductElevatedW                                                                                0x656a932c                                         
+MsiProvideComponentFromDescriptorW                                                                   0x66e8ad84                                         
+MsiQueryFeatureStateFromDescriptorW                                                                  0xc47ccc7b                                         
+MsiQueryFeatureStateW                                                                                0xf624ac08                                         
+MsiQueryProductStateW                                                                                0x416db69d                                         
+MsiReinstallProductW                                                                                 0xccbc42f4                                         
+MsiSetInternalUI                                                                                     0x3cffe775                                         
+RestartMsi                                                                                           0x63b35af3                                         
+ShutdownMsi                                                                                          0x34cb026a                                         

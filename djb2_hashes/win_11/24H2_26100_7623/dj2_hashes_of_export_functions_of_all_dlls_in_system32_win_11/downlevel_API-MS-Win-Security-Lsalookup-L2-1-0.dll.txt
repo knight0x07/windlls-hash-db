@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-Security-Lsalookup-L2-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LookupAccountNameW                                                                                   0x46248084                                         
+LookupAccountSidW                                                                                    0xbc518d43                                         
+LookupPrivilegeDisplayNameW                                                                          0x42044114                                         
+LookupPrivilegeNameW                                                                                 0xe6176ffe                                         
+LookupPrivilegeValueW                                                                                0xbbae6e9a                                         
+LsaEnumerateTrustedDomains                                                                           0x3e14f321                                         

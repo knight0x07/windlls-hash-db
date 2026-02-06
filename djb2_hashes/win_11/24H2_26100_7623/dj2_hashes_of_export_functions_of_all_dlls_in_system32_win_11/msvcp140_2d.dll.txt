@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\msvcp140_2d.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+__std_smf_assoc_laguerre                                                                             0x82019f61                                         
+__std_smf_assoc_laguerref                                                                            0xc2358be7                                         
+__std_smf_assoc_legendre                                                                             0xb4cdbe30                                         
+__std_smf_assoc_legendref                                                                            0x4e858496                                         
+__std_smf_beta                                                                                       0x941ed90e                                         
+__std_smf_betaf                                                                                      0x17f9fb34                                         
+__std_smf_comp_ellint_1                                                                              0x00bd2e38                                         
+__std_smf_comp_ellint_1f                                                                             0x1862f59e                                         
+__std_smf_comp_ellint_2                                                                              0x00bd2e39                                         
+__std_smf_comp_ellint_2f                                                                             0x1862f5bf                                         
+__std_smf_comp_ellint_3                                                                              0x00bd2e3a                                         
+__std_smf_comp_ellint_3f                                                                             0x1862f5e0                                         
+__std_smf_cyl_bessel_i                                                                               0x2423155f                                         
+__std_smf_cyl_bessel_if                                                                              0xa885c1a5                                         
+__std_smf_cyl_bessel_j                                                                               0x24231560                                         
+__std_smf_cyl_bessel_jf                                                                              0xa885c1c6                                         
+__std_smf_cyl_bessel_k                                                                               0x24231561                                         
+__std_smf_cyl_bessel_kf                                                                              0xa885c1e7                                         
+__std_smf_cyl_neumann                                                                                0x20d4fd4b                                         
+__std_smf_cyl_neumannf                                                                               0x3b74a711                                         
+__std_smf_ellint_1                                                                                   0x98a3a28a                                         
+__std_smf_ellint_1f                                                                                  0xad17f430                                         
+__std_smf_ellint_2                                                                                   0x98a3a28b                                         
+__std_smf_ellint_2f                                                                                  0xad17f451                                         
+__std_smf_ellint_3                                                                                   0x98a3a28c                                         
+__std_smf_ellint_3f                                                                                  0xad17f472                                         
+__std_smf_expint                                                                                     0x1f8e9f2a                                         
+__std_smf_expintf                                                                                    0x116284d0                                         
+__std_smf_hermite                                                                                    0xcc258460                                         
+__std_smf_hermitef                                                                                   0x50d610c6                                         
+__std_smf_hypot3                                                                                     0x26a04b99                                         
+__std_smf_hypot3f                                                                                    0xfaa9bf1f                                         
+__std_smf_laguerre                                                                                   0xb4da3e09                                         
+__std_smf_laguerref                                                                                  0x5021ff8f                                         
+__std_smf_legendre                                                                                   0xe7a65cd8                                         
+__std_smf_legendref                                                                                  0xdc71f83e                                         
+__std_smf_riemann_zeta                                                                               0xaaa071af                                         
+__std_smf_riemann_zetaf                                                                              0xfeaea7f5                                         
+__std_smf_sph_bessel                                                                                 0x8acd347a                                         
+__std_smf_sph_besself                                                                                0xe473c420                                         
+__std_smf_sph_legendre                                                                               0x908829a2                                         
+__std_smf_sph_legendref                                                                              0xa18d5e48                                         
+__std_smf_sph_neumann                                                                                0x804f732e                                         
+__std_smf_sph_neumannf                                                                               0x8a3dd954                                         

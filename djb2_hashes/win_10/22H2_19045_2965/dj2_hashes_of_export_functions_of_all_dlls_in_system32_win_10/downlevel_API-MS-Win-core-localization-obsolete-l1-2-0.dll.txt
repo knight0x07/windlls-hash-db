@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-core-localization-obsolete-l1-2-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CompareStringA                                                                                       0xd1ff0384                                         
+EnumLanguageGroupLocalesW                                                                            0x4aa03685                                         
+EnumSystemLanguageGroupsW                                                                            0x53b3d29a                                         
+EnumUILanguagesW                                                                                     0x4421d4a6                                         
+GetNumberFormatW                                                                                     0x8993af4e                                         
+GetStringTypeA                                                                                       0xdc3bf09f                                         
+GetSystemDefaultLocaleName                                                                           0x27a25520                                         
+GetSystemDefaultUILanguage                                                                           0xcc826d31                                         
+GetUserDefaultUILanguage                                                                             0xb16cda6b                                         
+LCIDToLocaleName                                                                                     0x377c5455                                         

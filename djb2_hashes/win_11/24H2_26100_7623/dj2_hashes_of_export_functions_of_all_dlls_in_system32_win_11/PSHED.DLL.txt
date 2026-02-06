@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\PSHED.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PshedAddToDefectList                                                                                 0x486e446c                                         
+PshedAllocateMemory                                                                                  0x89345737                                         
+PshedArePluginsPresent                                                                               0x6738ba94                                         
+PshedAttemptErrorRecovery                                                                            0x30ae6191                                         
+PshedBugCheckSystem                                                                                  0xc12d0b3a                                         
+PshedClearErrorRecord                                                                                0xfe333d29                                         
+PshedDisableErrorSource                                                                              0x41304288                                         
+PshedDoPfa                                                                                           0x14ab11a3                                         
+PshedDoPluginCtl                                                                                     0xcf4d1ffe                                         
+PshedEnableErrorSource                                                                               0x90980d1b                                         
+PshedFinalizeErrorRecord                                                                             0x6fcf32d4                                         
+PshedFreeMemory                                                                                      0x2e276974                                         
+PshedGetAllErrorSources                                                                              0x5d72ef80                                         
+PshedGetBootErrorPacket                                                                              0xcd35b18f                                         
+PshedGetErrorSourceInfo                                                                              0xaecf1600                                         
+PshedGetHalEnlightenments                                                                            0xa70378b3                                         
+PshedGetInjectionCapabilities                                                                        0x96bb8786                                         
+PshedGetMemoryDetails                                                                                0xde66fe38                                         
+PshedInitAvailable                                                                                   0x17535f0e                                         
+PshedInitGlobal                                                                                      0x8e86d29e                                         
+PshedInitProc                                                                                        0xee0cae61                                         
+PshedInitialize                                                                                      0xdd0da64b                                         
+PshedInjectError                                                                                     0x771b1260                                         
+PshedIsSystemWheaEnabled                                                                             0x99fc884a                                         
+PshedMarkHiberPhase                                                                                  0xe658227f                                         
+PshedReadErrorRecord                                                                                 0x4de2bb3e                                         
+PshedRegisterPlugin                                                                                  0x36334ced                                         
+PshedRetrieveErrorInfo                                                                               0x5a875335                                         
+PshedSetErrorSourceInfo                                                                              0xd7d8af8c                                         
+PshedSetHalEnlightenments                                                                            0x38d9a53f                                         
+PshedSynchronizeExecution                                                                            0xbf3693e9                                         
+PshedTranslateDimmAddress                                                                            0xa450fab4                                         
+PshedTranslatePhysicalAddress                                                                        0x43ad172a                                         
+PshedUnregisterPlugin                                                                                0xb52187f0                                         
+PshedWriteErrorRecord                                                                                0x1ab9a26d                                         

@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\tcpmib.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CTcpMib@@QEAA@AEBV0@@Z                                                                            0x558035f5                                         
+??0CTcpMib@@QEAA@XZ                                                                                  0x6b15c6df                                         
+??0CTcpMibABC@@QEAA@AEBV0@@Z                                                                         0x67242a5b                                         
+??0CTcpMibABC@@QEAA@XZ                                                                               0x260be6c5                                         
+??1CTcpMib@@UEAA@XZ                                                                                  0x31d89be4                                         
+??1CTcpMibABC@@UEAA@XZ                                                                               0x261c082a                                         
+??4CTcpMib@@QEAAAEAV0@AEBV0@@Z                                                                       0xb694a8e6                                         
+??4CTcpMibABC@@QEAAAEAV0@AEBV0@@Z                                                                    0x87628e8c                                         
+??_7CTcpMib@@6B@                                                                                     0x9c0c62b3                                         
+??_7CTcpMibABC@@6B@                                                                                  0x8b1165d9                                         
+?GetDeviceDescription@CTcpMib@@UEAAKPEBD0KPEAGK@Z                                                    0x805fcf99                                         
+?GetDeviceId@CTcpMib@@UEAAJPEBGKPEAGKPEAK@Z                                                          0x31bc0555                                         
+?GetDeviceIdFromIni@CTcpMib@@AEAAJPEBGKPEAGKPEAK@Z                                                   0x068dd475                                         
+?GetDeviceIdFromMib@CTcpMib@@AEAAJPEBGKPEAGKPEAK@Z                                                   0xcba099cd                                         
+?GetNextRequestId@CTcpMib@@UEAAKPEAK@Z                                                               0x29861e7d                                         
+?GetPortList@CTcpMib@@UEAAJPEBGPEAEKPEAK@Z                                                           0x33181d2c                                         
+?GetPortListFromIni@CTcpMib@@AEAAJPEBGPEAEKPEAK@Z                                                    0x9e6e7fcc                                         
+?GetPortListFromMib@CTcpMib@@AEAAJPEBGPEAEKPEAK@Z                                                    0x4f11fa24                                         
+?GetStatusFromVBL@CTcpMib@@CAKPEAXPEAUsmiVALUE@@11@Z                                                 0xd560016c                                         
+?InitSnmp@CTcpMib@@UEAAKXZ                                                                           0xebb1c5d1                                         
+?IsValid@CTcpMib@@QEBAHXZ                                                                            0x3d9460a5                                         
+?MapAsynchToPortStatus@CTcpMib@@CAHKPEAU_PORT_INFO_3W@@@Z                                            0x6fefd1ea                                         
+?RFC1157ToString@CTcpMib@@UEAAHPEAUSnmpVarBind@@PEAGKPEAK@Z                                          0x81f9c2ff                                         
+?RegisterDeviceStatusCallback@CTcpMib@@UEAAKP6AKHPEBD0KKK@ZPEAPEAX@Z                                 0xaf804971                                         
+?RequestDeviceStatus@CTcpMib@@UEAAKPEAXKPEBG1K@Z                                                     0xab5fb857                                         
+?SnmpCallback@CTcpMib@@CAKPEAXPEAUHWND__@@I_K_J0@Z                                                   0x125c8bce                                         
+?SnmpGet@CTcpMib@@QEAAKPEBD0PEAUSnmpVarBindList@@@Z                                                  0x7eb7b3f7                                         
+?SnmpGet@CTcpMib@@UEAAKPEBD00PEAUSnmpVarBindList@@@Z                                                 0xfc39c8eb                                         
+?SnmpGet@CTcpMib@@UEAAKPEBD0PEAUAsnObjectIdentifier@@PEAUSnmpVarBindList@@@Z                         0x95c02b82                                         
+?SnmpGetNext@CTcpMib@@QEAAKPEBD0PEAUSnmpVarBindList@@@Z                                              0x709072b6                                         
+?SnmpGetNext@CTcpMib@@UEAAKPEBD0PEAUAsnObjectIdentifier@@PEAUSnmpVarBindList@@@Z                     0xb66e4f21                                         
+?SupportsPortMonMib@CTcpMib@@AEAAJPEBGPEAH@Z                                                         0x30b69b05                                         
+?SupportsPrinterMib@CTcpMib@@UEAAHPEBD0KPEAH@Z                                                       0x89b8fd84                                         
+?UnInitSnmp@CTcpMib@@UEAAXXZ                                                                         0x5740d6e1                                         
+GetTcpMibPtr                                                                                         0x5d8451fa                                         

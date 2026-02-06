@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\dmxmlhelputils.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConvertTextXmlToWBXmlEx                                                                              0x81a5bae6                                         
+ConvertWBXmlToTextXmlEx                                                                              0xbf4773a6                                         
+WBXMLToTextXMLGeneric                                                                                0x5a15a8c5                                         
+WSPFreeBuffer                                                                                        0x239bcb9b                                         
+XMLHCreateChildElement                                                                               0xd85c8be0                                         
+XMLHEscapeString                                                                                     0x496989a6                                         
+XMLHGetBooleanAttributeVal                                                                           0xf5db3335                                         
+XMLHGetBstrVarFromAttr                                                                               0x8eea79b1                                         
+XMLHGetBstrVarFromAttr2                                                                              0x6c39b003                                         
+XMLHGetStringAttributeVal                                                                            0x9331b20c                                         
+XMLHSkipXMLProlog                                                                                    0x22586ef9                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\mobilenetworking.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetPersistentRegPath                                                                                 0x3d929e41                                         
+GetPersistentRegPathFromRegPath                                                                      0xf8ff4ae0                                         
+PersistentRegPathCreateKey                                                                           0x28f9ebde                                         
+PersistentRegPathGetDWORD                                                                            0x113a2781                                         
+PersistentRegPathGetValue                                                                            0x1285dc5e                                         
+PersistentRegPathOpenKey                                                                             0x7945c0dc                                         
+PersistentRegPathSetDWORD                                                                            0x2450220d                                         
+PersistentRegPathSetString                                                                           0xd37224a4                                         
+PersistentRegPathSetValue                                                                            0x259bd6ea                                         

@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\Windows.Networking.NetworkOperators.HotspotAuthentication.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CleanupHotspotProfiles                                                                               0x6d6aa3c2                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+RegisterHotspotProfile                                                                               0x56f647ac                                         

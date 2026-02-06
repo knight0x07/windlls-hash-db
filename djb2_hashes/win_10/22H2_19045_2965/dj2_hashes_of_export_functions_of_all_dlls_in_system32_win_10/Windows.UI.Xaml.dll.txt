@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\Windows.UI.Xaml.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateString                                                                                         0x7d8d0470                                         
+CreateXamlUIPresenter                                                                                0x5af76021                                         
+DeleteString                                                                                         0xd706e96f                                         
+DisableDeferredInvoke                                                                                0xe6c50e06                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllMain                                                                                              0x79f31ec6                                         
+GetDependencyObjectAddress                                                                           0x6d063f81                                         
+GetErrorContextIndex                                                                                 0x3750836c                                         
+GetGlobalModuleParams                                                                                0x69ffd260                                         
+GetStringLen                                                                                         0x7509147b                                         
+GetStringRawBuffer                                                                                   0x41e61480                                         
+InitializeXamlDiagnosticsEx                                                                          0x4e79929e                                         
+OverrideXamlMetadataProvider                                                                         0x5132de23                                         
+OverrideXamlResourcePropertyBag                                                                      0xcbdc24ae                                         

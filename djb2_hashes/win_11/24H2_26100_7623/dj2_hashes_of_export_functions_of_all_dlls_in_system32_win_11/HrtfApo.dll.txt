@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\HrtfApo.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateHrtfApo                                                                                        0xdbe472ed                                         
+CreateHrtfApoWithDatasetType                                                                         0x9e5dff51                                         
+CreateHrtfEngineFactory                                                                              0x5ad7911b                                         
+GetHrtfEngineMinFrameCount                                                                           0x8c0f6dc7                                         
+IsHrtfApoAvailable                                                                                   0x0108a996                                         

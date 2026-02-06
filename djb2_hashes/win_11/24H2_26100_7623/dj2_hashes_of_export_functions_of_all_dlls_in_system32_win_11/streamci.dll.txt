@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\streamci.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+StreamingDeviceClassInstaller                                                                        0x88fb0423                                         
+StreamingDeviceRemove                                                                                0xd1ba790d                                         
+StreamingDeviceRemoveA                                                                               0x09099aee                                         
+StreamingDeviceRemoveW                                                                               0x09099b04                                         
+StreamingDeviceSetup                                                                                 0x828c3ab0                                         
+StreamingDeviceSetupA                                                                                0xd41390f1                                         
+StreamingDeviceSetupW                                                                                0xd4139107                                         
+SwEnumCoInstaller                                                                                    0x6431d1a4                                         

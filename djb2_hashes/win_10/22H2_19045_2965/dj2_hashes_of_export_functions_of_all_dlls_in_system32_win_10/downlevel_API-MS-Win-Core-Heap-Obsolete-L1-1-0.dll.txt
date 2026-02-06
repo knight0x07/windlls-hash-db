@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-Core-Heap-Obsolete-L1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GlobalAlloc                                                                                          0xbb513941                                         
+GlobalFlags                                                                                          0xbbab8403                                         
+GlobalFree                                                                                           0x4b816b98                                         
+GlobalHandle                                                                                         0x35065bc2                                         
+GlobalLock                                                                                           0x4b84a8df                                         
+GlobalReAlloc                                                                                        0xddc2ec18                                         
+GlobalSize                                                                                           0x4b8868f1                                         
+GlobalUnlock                                                                                         0x5443bf62                                         
+LocalAlloc                                                                                           0x73cebc5b                                         
+LocalFlags                                                                                           0x7429071d                                         
+LocalFree                                                                                            0xa66df372                                         
+LocalLock                                                                                            0xa67130b9                                         
+LocalReAlloc                                                                                         0xabad9db2                                         
+LocalSize                                                                                            0xa674f0cb                                         
+LocalUnlock                                                                                          0x1c71a5bc                                         

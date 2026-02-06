@@ -1,0 +1,56 @@
+DLL Path: C:\Windows\System32\Windows.StateRepositoryClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+SRAddOrUpdateUupProduct                                                                              0xaedf0652                                         
+SRAddPackageDependency                                                                               0xf98123fe                                         
+SRAppExtensionIterator_Close                                                                         0xeee2d3c7                                         
+SRAppExtensionIterator_GetNext                                                                       0x56c1f890                                         
+SRAppExtension_FindByUserAndName                                                                     0xb02d79d6                                         
+SRCacheCheckIntegrity                                                                                0x99d07d5b                                         
+SRCheckIntegrity                                                                                     0xe3e5e6a7                                         
+SRCheckIntegrity2                                                                                    0x60a2bbb9                                         
+SRDeletePackageDependency                                                                            0xac654ec8                                         
+SRDictionaryFree                                                                                     0x931866c2                                         
+SRDictionaryToPropertySet                                                                            0x2c1322d4                                         
+SREnsureCacheIsInitialized                                                                           0xd9861322                                         
+SRFindPackageDependency                                                                              0x5480aa36                                         
+SRFindPackageFullNamesByUupProductId                                                                 0xfe98f661                                         
+SRGetAllPackageFullNamesInUupProducts                                                                0x0f9559fb                                         
+SRGetAllUupProductsForPackageFullName                                                                0x935ff258                                         
+SRGetEffectivePackageStatusForUserFromToken                                                          0xb0ca91e6                                         
+SRGetEffectivePackageStatusForUserSid                                                                0x55505c71                                         
+SRGetExternalLocation                                                                                0xc77b9186                                         
+SRGetIdForPackageDependencyContext                                                                   0xe245dbae                                         
+SRGetIsEffectiveSupportedUsersMultiple                                                               0x4da8711b                                         
+SRGetPackageDependencyInformation                                                                    0xf0f947db                                         
+SRGetPackageOriginForUser                                                                            0x4b821c04                                         
+SRGetPackageStatus                                                                                   0x3836b43a                                         
+SRGetPackageStatusForUserFromToken                                                                   0x1808d595                                         
+SRGetPackageStatusForUserSid                                                                         0x4f0d48e0                                         
+SRGetProcessesUsingPackageDependency                                                                 0xf1f2db52                                         
+SRGetResolvedPackageFullNameForPackageDependency                                                     0x89e42380                                         
+SRGetResolvedPackageFullNameForPackageDependency2                                                    0xc66893b2                                         
+SRGetStagedPackageOrigin                                                                             0x20f94856                                         
+SRImportPackageUserStatus                                                                            0x21ad9594                                         
+SRPackageDependencyExistsByUserAndPackageFullName                                                    0x5c0a6ba2                                         
+SRPkgExtensionIterator_Close                                                                         0x0f3c85c8                                         
+SRPkgExtensionIterator_GetNext                                                                       0xf4502ed1                                         
+SRPkgExtension_FindByUserAndName                                                                     0xea224457                                         
+SRPropertySetToDictionary                                                                            0x4a7bb034                                         
+SRRemovePackageDependency                                                                            0x4b9d9423                                         
+SRRemovePackageStatus                                                                                0x0c94eec8                                         
+SRRemovePackageStatusForUserFromToken                                                                0xba766c23                                         
+SRRemovePackageStatusForUserSid                                                                      0xab688cee                                         
+SRRepair                                                                                             0x83dc884d                                         
+SRTryCreatePackageDependency                                                                         0x6cb91088                                         
+SRTryCreatePackageDependency2                                                                        0x03db21ba                                         
+SRUpdatePackageStatus                                                                                0x3ef7b91d                                         
+SRUpdatePackageStatusForUserFromToken                                                                0x1f854078                                         
+SRUpdatePackageStatusForUserSid                                                                      0x2f180583                                         
+SRWorkloads_FindIds                                                                                  0x55c2aca0                                         
+SRWorkloads_GetWorkload                                                                              0x58c6db62                                         
+StateRepositoryDoMaintenanceTasks                                                                    0x6d488782                                         

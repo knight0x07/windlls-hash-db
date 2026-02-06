@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\KerbClientShared.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+KerbClientAlloc                                                                                      0xa492e0d3                                         
+KerbClientAllocateStoredCred                                                                         0xaba6b37c                                         
+KerbClientBuildAsReqAuthenticator                                                                    0xd2ae760f                                         
+KerbClientBuildEncryptedAuthData                                                                     0x0942cf92                                         
+KerbClientBuildExplicitArmorKey                                                                      0x0a42e3c4                                         
+KerbClientBuildFastArmoredKdcRequest                                                                 0x13eb8aeb                                         
+KerbClientBuildFastChallenge                                                                         0xf243eec9                                         
+KerbClientBuildKeyList                                                                               0xc65dc45d                                         
+KerbClientBuildStrengthenedReplyKey                                                                  0x5e884758                                         
+KerbClientBuildTicketArmorKey                                                                        0x7bb040c6                                         
+KerbClientComputeTgsChecksum                                                                         0x84483da6                                         
+KerbClientDecryptApReply                                                                             0xce327900                                         
+KerbClientDecryptPacCredentials                                                                      0xfaa2a705                                         
+KerbClientDeriveFastChallengeKey                                                                     0x1af51241                                         
+KerbClientDuplicateStoredCred                                                                        0x471401f2                                         
+KerbClientFree                                                                                       0x148368ea                                         
+KerbClientFreeStoredCred                                                                             0x273efcb9                                         
+KerbClientFreeSupplementalCredentials                                                                0x74642892                                         
+KerbClientPackApReply                                                                                0x5e18e424                                         
+KerbClientPackAsn1Buffer                                                                             0x6b5349d4                                         
+KerbClientParseKeyListReplyPaData                                                                    0x40f8bbff                                         
+KerbClientSharedCleanup                                                                              0x797ef667                                         
+KerbClientSharedInit                                                                                 0x025c2ad3                                         
+KerbClientTransformStoredCred                                                                        0x3ada7813                                         
+KerbClientUnpackAsn1BufferVoid                                                                       0xdf045ec9                                         
+KerbClientUnpackKdcReplyBody                                                                         0x70cc39b6                                         
+KerbClientUpdateSharedConfiguration                                                                  0x70e425fa                                         
+KerbClientVerifyChecksum                                                                             0x5b618f70                                         
+KerbClientVerifyEncryptedChallengePaData                                                             0x11f11779                                         
+KerbClientVerifyFastArmoredKdcReply                                                                  0x33cc7413                                         
+KerbClientVerifyFastArmoredKerbError                                                                 0x3f570603                                         
+KerbClientVerifyFastArmoredTgsReply                                                                  0x8e5e304f                                         
+KerbDHCreateBCryptKey                                                                                0x48a547c6                                         
+KerbDHGetLegacyDHParameters                                                                          0x38c826ea                                         
+KerbDHGetLittleEndianPublicKey                                                                       0xc148223a                                         
+KerbDHGetSharedSecretFromCapiKeyBuffer                                                               0xb5930706                                         
+KerbGetFlagsForKdcReply                                                                              0xc1b44f7b                                         
+KerbKdcReplyContainsTgt                                                                              0xbb01a035                                         
+KerbPackKdcReplyWithEncryptedSessionKey                                                              0x4508e91d                                         

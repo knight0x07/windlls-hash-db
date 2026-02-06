@@ -1,0 +1,56 @@
+DLL Path: C:\Windows\System32\glu32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+gluBeginCurve                                                                                        0x9cc9f117                                         
+gluBeginPolygon                                                                                      0xd155de3a                                         
+gluBeginSurface                                                                                      0xc6a594fb                                         
+gluBeginTrim                                                                                         0x5a1ee6ee                                         
+gluBuild1DMipmaps                                                                                    0xfcab6109                                         
+gluBuild2DMipmaps                                                                                    0x7127d20a                                         
+gluCylinder                                                                                          0xc0243be7                                         
+gluDeleteNurbsRenderer                                                                               0xe13858e1                                         
+gluDeleteQuadric                                                                                     0x4fbd8509                                         
+gluDeleteTess                                                                                        0x1e932d7f                                         
+gluDisk                                                                                              0x00c77d98                                         
+gluEndCurve                                                                                          0x34927589                                         
+gluEndPolygon                                                                                        0x7d51472c                                         
+gluEndSurface                                                                                        0x72a0fded                                         
+gluEndTrim                                                                                           0xbbcfa520                                         
+gluErrorString                                                                                       0xdeb4998e                                         
+gluErrorUnicodeStringEXT                                                                             0xd4486126                                         
+gluGetNurbsProperty                                                                                  0x89dd79bc                                         
+gluGetString                                                                                         0x566d94a4                                         
+gluGetTessProperty                                                                                   0x4b219031                                         
+gluLoadSamplingMatrices                                                                              0x1558b7a0                                         
+gluLookAt                                                                                            0x63b0f2f7                                         
+gluNewNurbsRenderer                                                                                  0x7db27318                                         
+gluNewQuadric                                                                                        0x6c5a0200                                         
+gluNewTess                                                                                           0x5cf4f5d6                                         
+gluNextContour                                                                                       0xd19552f6                                         
+gluNurbsCallback                                                                                     0x72e69984                                         
+gluNurbsCurve                                                                                        0x2cb6163c                                         
+gluNurbsProperty                                                                                     0x96263d5c                                         
+gluNurbsSurface                                                                                      0x022f9760                                         
+gluOrtho2D                                                                                           0xc81712cf                                         
+gluPartialDisk                                                                                       0x5d7801c5                                         
+gluPerspective                                                                                       0xa5043337                                         
+gluPickMatrix                                                                                        0x4560df49                                         
+gluProject                                                                                           0x14b7c9c4                                         
+gluPwlCurve                                                                                          0x22dc0305                                         
+gluQuadricCallback                                                                                   0xbd5c6a63                                         
+gluQuadricDrawStyle                                                                                  0x57a8c715                                         
+gluQuadricNormals                                                                                    0x6dd0fcb2                                         
+gluQuadricOrientation                                                                                0xc3ebd962                                         
+gluQuadricTexture                                                                                    0x24cb9267                                         
+gluScaleImage                                                                                        0x4151e358                                         
+gluSphere                                                                                            0x74133df4                                         
+gluTessBeginContour                                                                                  0xf4ddf01b                                         
+gluTessBeginPolygon                                                                                  0xdd716ff9                                         
+gluTessCallback                                                                                      0x6650bbf9                                         
+gluTessEndContour                                                                                    0x98fbdd4d                                         
+gluTessEndPolygon                                                                                    0x818f5d2b                                         
+gluTessNormal                                                                                        0xb2d9e475                                         
+gluTessProperty                                                                                      0x89905fd1                                         
+gluTessVertex                                                                                        0xc4ce52ca                                         
+gluUnProject                                                                                         0x784caf07                                         

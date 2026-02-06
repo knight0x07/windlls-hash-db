@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igxess_fg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?xefgDebugLogMessage@@YAXPEB_W@Z                                                                     0x78a492d5                                         
+xefgAILGetDecision                                                                                   0x19a6ae73                                         
+xefgAILGetVersion                                                                                    0xa983888b                                         
+xefgD3D12BuildPipelines                                                                              0xc2a87a66                                         
+xefgD3D12CreateContext                                                                               0x00aff0a6                                         
+xefgD3D12Execute                                                                                     0x61096340                                         
+xefgD3D12GetInitParams                                                                               0x9a0755a5                                         
+xefgD3D12GetProfilingData                                                                            0x269a2691                                         
+xefgD3D12GetResourcesToDump                                                                          0x8161fb01                                         
+xefgD3D12Init                                                                                        0x9f5f4701                                         
+xefgDebugLog                                                                                         0x6fe068b8                                         
+xefgDebugLogMessage                                                                                  0x7ceb731d                                         
+xefgDestroyContext                                                                                   0x1b0484de                                         
+xefgGetProperties                                                                                    0xf9aaafdc                                         
+xefgGetVersion                                                                                       0x3e186135                                         
+xefgSelectTechnique                                                                                  0x274cafb5                                         
+xefgSetColorSpace                                                                                    0x2a807986                                         
+xefgSetContextParameterF                                                                             0xb4533a47                                         
+xefgSetLoggingCallback                                                                               0x4f51828f                                         
+xefgSetSceneChangeThreshold                                                                          0xcc99925c                                         
+xefgStartDump                                                                                        0xc400d793                                         
+xefgSwapChainD3D12CreateContext                                                                      0x0ac11044                                         
+xefgSwapChainD3D12GetProfilingData                                                                   0x5461896f                                         
+xefgSwapChainD3D12GetSwapChainPtr                                                                    0xa7f17c1f                                         
+xefgSwapChainD3D12InitFromSwapChain                                                                  0x2bb9af31                                         
+xefgSwapChainD3D12InitFromSwapChainDesc                                                              0xc296e650                                         
+xefgSwapChainD3D12SetDescriptorHeap                                                                  0x481a3334                                         
+xefgSwapChainD3D12TagFrameResource                                                                   0x2300defa                                         
+xefgSwapChainDestroy                                                                                 0x504e0017                                         
+xefgSwapChainEnableDebugFeature                                                                      0xbeebefc7                                         
+xefgSwapChainGetLastPresentStatus                                                                    0x54d9e966                                         
+xefgSwapChainGetProperties                                                                           0xde6414ba                                         
+xefgSwapChainGetVersion                                                                              0xea8ac2d3                                         
+xefgSwapChainSetEnabled                                                                              0x122d0da4                                         
+xefgSwapChainSetLatencyReduction                                                                     0xaf721736                                         
+xefgSwapChainSetLoggingCallback                                                                      0x5962a22d                                         
+xefgSwapChainSetPresentId                                                                            0x5f1e6ca7                                         
+xefgSwapChainSetSceneChangeThreshold                                                                 0x89c524ba                                         
+xefgSwapChainTagFrameConstants                                                                       0xf4da63b1                                         

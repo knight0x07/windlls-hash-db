@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\cryptuiwizard.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CryptUIWizBuildCTL                                                                                   0x03295762                                         
+CryptUIWizDigitalSign                                                                                0x12466e7e                                         
+CryptUIWizExport                                                                                     0xd3befc91                                         
+CryptUIWizFreeDigitalSignContext                                                                     0xeb1892e5                                         
+CryptUIWizImport                                                                                     0xdc4c918a                                         
+CryptUIWizImportInternal                                                                             0x37a8c287                                         
+DllMain                                                                                              0x79f31ec6                                         
+GetFunctionTable                                                                                     0x6c95eeb3                                         

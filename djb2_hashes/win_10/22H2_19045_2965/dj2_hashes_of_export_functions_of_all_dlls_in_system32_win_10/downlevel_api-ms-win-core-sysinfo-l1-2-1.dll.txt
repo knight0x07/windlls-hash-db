@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-sysinfo-l1-2-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DnsHostnameToComputerNameExW                                                                         0x9150d190                                         
+GetPhysicallyInstalledSystemMemory                                                                   0x436bc4e5                                         
+InstallELAMCertificateInfo                                                                           0xc9e4b80a                                         
+SetComputerNameEx2W                                                                                  0x66e42dc7                                         
+SetSystemTimeAdjustment                                                                              0xc165d384                                         

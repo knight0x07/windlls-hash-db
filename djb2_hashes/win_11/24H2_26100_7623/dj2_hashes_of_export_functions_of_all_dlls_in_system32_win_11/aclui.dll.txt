@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\aclui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateSecurityPage                                                                                   0x14d0184e                                         
+EditConditionalAceClaims                                                                             0xce104d81                                         
+EditResourceCondition                                                                                0x76ffed3a                                         
+EditSecurity                                                                                         0xfab0afa3                                         
+EditSecurityAdvanced                                                                                 0x0ffc7279                                         
+GetLocalizedStringForCondition                                                                       0xcef4de01                                         
+GetTlsIndexForClaimDictionary                                                                        0xc3698ed3                                         
+IID_ISecurityInformation                                                                             0xe0249681                                         

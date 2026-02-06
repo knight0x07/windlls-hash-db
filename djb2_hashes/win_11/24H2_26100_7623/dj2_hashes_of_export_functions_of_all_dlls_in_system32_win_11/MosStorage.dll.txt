@@ -1,0 +1,37 @@
+DLL Path: C:\Windows\System32\MosStorage.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MosQueryAnyPackagesFromPath                                                                          0x300b4c12                                         
+MosQueryCatalogExists                                                                                0x31b19945                                         
+MosQueryPackages                                                                                     0xb7190da9                                         
+MosQueryPackagesFromPath                                                                             0xe43a812a                                         
+MosStorageDumpConfiguration                                                                          0x095bfd77                                         
+MosStorageEnsureIsAppContainerCompliant                                                              0x4b27c542                                         
+MosStorageEnsureMapDataDirectory                                                                     0x061c6b08                                         
+MosStorageEnsureMapDataDirectoryAndKeepFileHandle                                                    0x72fdb92c                                         
+MosStorageEnsureMapDataDirectoryReturnPath                                                           0xd2514a95                                         
+MosStorageGetBrowseCacheSizeInMBytes                                                                 0xd2045755                                         
+MosStorageGetCurrentLocation                                                                         0x76e40265                                         
+MosStorageGetDataDirectory                                                                           0x0b1d9b58                                         
+MosStorageGetDefaultExternalStorage                                                                  0x5aa06246                                         
+MosStorageGetLocations                                                                               0xbc515335                                         
+MosStorageGetMapDataMaxBrowseCacheSizeInBytes                                                        0x34358b46                                         
+MosStorageGetMapsRepairAttempts                                                                      0x64e0854f                                         
+MosStorageGetMigrationState                                                                          0x9f2edf74                                         
+MosStorageGetResourceDirectory                                                                       0xbe5fe8c6                                         
+MosStorageGetStorageDeviceDataFromDeviceGuid                                                         0xc5df5eb5                                         
+MosStorageGetStorageSizesInBytes                                                                     0xdd7414ea                                         
+MosStorageGetSystemDataDirectory                                                                     0xa320e5dd                                         
+MosStorageGetTotalMapDataInBytes                                                                     0xcf764a23                                         
+MosStorageGetWhetherSpaceAvailable                                                                   0xf214fa2d                                         
+MosStorageIsStorageStateValid                                                                        0xa157e96b                                         
+MosStorageResetCacheValues                                                                           0xcfac5f90                                         
+MosStorageResetPreferredLocationIfDefined                                                            0x092e1f02                                         
+MosStorageResetPreferredLocationIfNotPresent                                                         0xd93d3b05                                         
+MosStorageSetLocation                                                                                0x3689818e                                         
+MosStorageSetMapsRepairAttempts                                                                      0x317c435b                                         
+MosStorageSetMigrationState                                                                          0x81657780                                         
+MosStorageUseDefaultExternalStorage                                                                  0x59951f53                                         
+MosStorageValidateLocation                                                                           0x22713a0c                                         
+MosStorage_SetServiceCallbacks                                                                       0xeb10b945                                         

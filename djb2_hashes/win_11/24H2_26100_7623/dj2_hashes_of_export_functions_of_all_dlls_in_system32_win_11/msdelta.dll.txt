@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\msdelta.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ApplyDeltaA                                                                                          0x3710eb36                                         
+ApplyDeltaB                                                                                          0x3710eb37                                         
+ApplyDeltaGetReverseB                                                                                0x2e30a3b3                                         
+ApplyDeltaProvidedB                                                                                  0x990cdbf4                                         
+ApplyDeltaW                                                                                          0x3710eb4c                                         
+CreateDeltaA                                                                                         0x597d1624                                         
+CreateDeltaB                                                                                         0x597d1625                                         
+CreateDeltaW                                                                                         0x597d163a                                         
+DeltaFree                                                                                            0xa84f33d1                                         
+DeltaNormalizeProvidedB                                                                              0xc101673f                                         
+GetDeltaInfoA                                                                                        0xab18dd1c                                         
+GetDeltaInfoB                                                                                        0xab18dd1d                                         
+GetDeltaInfoW                                                                                        0xab18dd32                                         
+GetDeltaSignatureA                                                                                   0xf3d8c622                                         
+GetDeltaSignatureB                                                                                   0xf3d8c623                                         
+GetDeltaSignatureW                                                                                   0xf3d8c638                                         

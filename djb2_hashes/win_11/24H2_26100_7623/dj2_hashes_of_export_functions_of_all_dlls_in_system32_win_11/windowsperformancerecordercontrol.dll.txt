@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\windowsperformancerecordercontrol.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+WPRCControlLogging                                                                                   0x12bc18e9                                         
+WPRCCreateInstance                                                                                   0xd41ad2ea                                         
+WPRCCreateInstanceUnderInstanceName                                                                  0x7866eb5e                                         
+WPRCDisableBuiltinProfiles                                                                           0xcae340d0                                         
+WPRCFormatError                                                                                      0xc488f014                                         
+WPRCQueryBuiltInProfiles                                                                             0xde56faf2                                         
+WPRCReleaseInstanceByName                                                                            0x05c8f873                                         
+WPRCRemoveLogging                                                                                    0x10241c56                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\AppxSysprep.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppxSysprepSpecializeOffline                                                                         0xb9de5f00                                         
+AppxSysprepSpecializeOnline                                                                          0x3c837962                                         
+SysprepGeneralize                                                                                    0x27221f41                                         
+SysprepGeneralizeValidate                                                                            0x5aea0bab                                         

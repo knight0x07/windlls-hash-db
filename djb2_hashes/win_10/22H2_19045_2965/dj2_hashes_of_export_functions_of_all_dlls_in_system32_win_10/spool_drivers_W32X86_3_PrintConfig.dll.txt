@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\spool\drivers\W32X86\3\PrintConfig.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DevQueryPrintEx                                                                                      0xa11f7644                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DrvConvertDevMode                                                                                    0x85035c16                                         
+DrvDeviceCapabilities                                                                                0x9d0e2bcb                                         
+DrvDevicePropertySheets                                                                              0x097bb8d2                                         
+DrvDocumentEvent                                                                                     0xb1fa1852                                         
+DrvDocumentPropertySheets                                                                            0xf2cf3761                                         
+DrvDriverEvent                                                                                       0x0674e95f                                         
+DrvPopulateFilterServices                                                                            0x68773d45                                         
+DrvPrinterEvent                                                                                      0xd147f097                                         
+DrvQueryColorProfile                                                                                 0xeb69d317                                         
+DrvQueryJobAttributes                                                                                0xa8b282e9                                         
+DrvResetConfigCache                                                                                  0xb417167e                                         
+DrvSplDeviceCaps                                                                                     0xd9d35cb7                                         
+DrvUpgradePrinter                                                                                    0x052cfd1d                                         
+GetStandardMessageForPrinterStatus                                                                   0x49f9014a                                         
+MxdcGetPDEVAdjustment                                                                                0x580e9b1f                                         
+NotifyEntry                                                                                          0xc8b4c5d0                                         
+ServiceMain                                                                                          0x0747703b                                         

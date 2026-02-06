@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\ApiSetHost.AppExecutionAlias.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckAppExecutionAliasApplicationType                                                                0xd34160f8                                         
+CloseAppExecutionAliasEx                                                                             0xe7455fd7                                         
+CompleteAppExecutionAliasProcessCreationEx                                                           0x06aa138e                                         
+CreateAppExecutionAliasEx                                                                            0xe9bffb75                                         
+CreateAppExecutionAliasEx2                                                                           0x21bf6a47                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+FreeAppExecutionAliasInfoEx                                                                          0xc250f9af                                         
+GetAppExecutionAliasApplicationType                                                                  0x88bbab3a                                         
+GetAppExecutionAliasApplicationUserModelIdEx                                                         0xa6c77932                                         
+GetAppExecutionAliasExecutableEx                                                                     0x5abac303                                         
+GetAppExecutionAliasPackageFamilyNameEx                                                              0x12dc95f0                                         
+GetAppExecutionAliasPackageFullNameEx                                                                0xafe3fe01                                         
+GetAppExecutionAliasPath                                                                             0x597c89b1                                         
+LoadAppExecutionAliasInfoEx                                                                          0x2a74a8ed                                         
+OpenAppExecutionAliasForUserEx                                                                       0x43c1a719                                         
+PerformAppxLicenseRundownEx                                                                          0x5dd4a1e6                                         
+PersistAppExecutionAliasToFileEx                                                                     0xd4934cce                                         
+PersistAppExecutionAliasToFileHandleEx                                                               0xd469301a                                         

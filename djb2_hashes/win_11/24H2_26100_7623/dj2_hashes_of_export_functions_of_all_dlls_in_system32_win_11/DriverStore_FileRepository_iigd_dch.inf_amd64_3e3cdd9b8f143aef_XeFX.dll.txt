@@ -1,0 +1,52 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\XeFX.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+XeFX_CreateEffect                                                                                    0x3e3763e0                                         
+XeFX_CreateVariablesObject                                                                           0x520fec43                                         
+XeFX_D3D11_ExecuteEffect                                                                             0x46f3fc3b                                         
+XeFX_D3D11_Init                                                                                      0x5d3ea3ef                                         
+XeFX_D3D12_ExecuteEffect                                                                             0xea3b69fc                                         
+XeFX_D3D12_ExecuteEffectWithDebug                                                                    0x42d6badf                                         
+XeFX_D3D12_Init                                                                                      0x5f93cc90                                         
+XeFX_DestroyEffect                                                                                   0x1775f6d6                                         
+XeFX_DestroyVariablesObject                                                                          0x59fa33f9                                         
+XeFX_Finalize                                                                                        0x4f26b9b1                                         
+XeFX_GetSupportedFloatValues                                                                         0xfb51190b                                         
+XeFX_GetSupportedFormats                                                                             0xfb714301                                         
+XeFX_GetSupportedResolutions                                                                         0xbebf220c                                         
+XeFX_GetSupportedUint32Values                                                                        0x6a7653da                                         
+XeFX_GetVariable2DCoord                                                                              0x8e8df392                                         
+XeFX_GetVariableD3D11Resource                                                                        0x74fa1d0a                                         
+XeFX_GetVariableD3D12Resource                                                                        0xe9768e0b                                         
+XeFX_GetVariableFloat                                                                                0x6113281b                                         
+XeFX_GetVariableFormat                                                                               0x83b04b2e                                         
+XeFX_GetVariableGenericParam                                                                         0x4225f9d3                                         
+XeFX_GetVariableUint32                                                                               0xa63effaa                                         
+XeFX_GetVariableUint64                                                                               0xa63f000f                                         
+XeFX_IsEffectSupported                                                                               0x770dce6e                                         
+XeFX_SetVariable2DCoord                                                                              0xb7978d1e                                         
+XeFX_SetVariableD3D11Resource                                                                        0x27ebaf96                                         
+XeFX_SetVariableD3D12Resource                                                                        0x9c682097                                         
+XeFX_SetVariableFloat                                                                                0xf390eea7                                         
+XeFX_SetVariableFormat                                                                               0x65e6e33a                                         
+XeFX_SetVariableGenericParam                                                                         0xa4a96adf                                         
+XeFX_SetVariableUint32                                                                               0x887597b6                                         
+XeFX_SetVariableUint64                                                                               0x8875981b                                         
+XeFX_UpdateVariablesObject                                                                           0xbbd0c652                                         
+xessIntelD3D12BuildPipelines                                                                         0xffe9845b                                         
+xessIntelD3D12CreateContext                                                                          0x0a4d0ffb                                         
+xessIntelD3D12DestroyContext                                                                         0x3c249a11                                         
+xessIntelD3D12Execute                                                                                0x3b2ae6d5                                         
+xessIntelD3D12GetHistoryTexture                                                                      0xf0664145                                         
+xessIntelD3D12GetProfilingData                                                                       0xb84581c6                                         
+xessIntelD3D12GetResourcesToDump                                                                     0x2b50f776                                         
+xessIntelD3D12GetVersion                                                                             0x0e0fd4e8                                         
+xessIntelD3D12Init                                                                                   0x290c6ab6                                         
+xessIntelD3D12SetJitterScale                                                                         0xc7b51e88                                         
+xessIntelD3D12SetVelocityScale                                                                       0x264b0905                                         
+xessIntelGetD3D12InputResolution                                                                     0x91659e46                                         
+xessIntelGetD3D12Properties                                                                          0xf4959f6f                                         
+xessIntelGetDescriptorCount                                                                          0xe7a5696c                                         
+xessIntelSelectNetworkModel                                                                          0x604f233f                                         
+xessIntelSetContextParameterf                                                                        0x99b582fc                                         

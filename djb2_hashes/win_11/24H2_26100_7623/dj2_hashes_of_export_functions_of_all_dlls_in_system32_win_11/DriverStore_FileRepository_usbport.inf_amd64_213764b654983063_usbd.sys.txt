@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\usbport.inf_amd64_213764b654983063\usbd.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+USBD_AddDeviceToGlobalList                                                                           0x39d204fb                                         
+USBD_AllocateHubNumber                                                                               0xda042cbf                                         
+USBD_CalculateUsbBandwidth                                                                           0xaa9b527f                                         
+USBD_CreateConfigurationRequest                                                                      0x63b2f027                                         
+USBD_CreateConfigurationRequestEx                                                                    0x1c2f9f44                                         
+USBD_GetInterfaceLength                                                                              0xfd7f01c5                                         
+USBD_GetPdoRegistryParameter                                                                         0x8264526f                                         
+USBD_GetRegistryKeyValue                                                                             0x0f1052d1                                         
+USBD_GetUSBDIVersion                                                                                 0xf986848f                                         
+USBD_MarkDeviceAsDisconnected                                                                        0x62f0ff54                                         
+USBD_ParseConfigurationDescriptor                                                                    0xc7bb6a44                                         
+USBD_ParseConfigurationDescriptorEx                                                                  0xa43f14a1                                         
+USBD_ParseConfigurationDescriptorEx2                                                                 0x2c21a8f3                                         
+USBD_ParseDescriptors                                                                                0xd235d01f                                         
+USBD_ParseDescriptors2                                                                               0x18efd431                                         
+USBD_QueryBusTime                                                                                    0xfd5f82c1                                         
+USBD_RegisterHcFilter                                                                                0x4cb71468                                         
+USBD_ReleaseHubNumber                                                                                0x72b317fb                                         
+USBD_RemoveDeviceFromGlobalList                                                                      0x28616cf1                                         
+USBD_ValidateConfigurationDescriptor                                                                 0x74638253                                         

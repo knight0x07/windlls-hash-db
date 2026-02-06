@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\WppRecorderUM.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WppAutoLogGetDefaultHandle                                                                           0xa57b5548                                         
+WppAutoLogStart                                                                                      0xee6f4965                                         
+WppAutoLogStop                                                                                       0x2641709d                                         
+WppAutoLogTrace                                                                                      0xee804726                                         
+imp_WppRecorderLogDumpLiveData                                                                       0x6d1838d9                                         

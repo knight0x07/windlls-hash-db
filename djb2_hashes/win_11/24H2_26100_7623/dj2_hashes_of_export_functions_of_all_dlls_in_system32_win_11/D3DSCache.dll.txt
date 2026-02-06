@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\D3DSCache.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ShaderCache_AddValue                                                                                 0x4a78a3b5                                         
+ShaderCache_AddValue1                                                                                0x998d1a86                                         
+ShaderCache_Clear                                                                                    0xe0ec7cf6                                         
+ShaderCache_Create                                                                                   0xfee8af63                                         
+ShaderCache_Delete                                                                                   0x00568122                                         
+ShaderCache_DeleteGroup                                                                              0xe423bd0f                                         
+ShaderCache_DeleteValue                                                                              0xe529cd5f                                         
+ShaderCache_Destroy                                                                                  0x0bad83d9                                         
+ShaderCache_FindGroup                                                                                0x9ddfc63d                                         
+ShaderCache_FindGroupValueKeys                                                                       0x040e7676                                         
+ShaderCache_FindGroupValues                                                                          0xfb70e70d                                         
+ShaderCache_FindValue                                                                                0x9ee5d68d                                         
+ShaderCache_FindValue1                                                                               0x7ba0a85e                                         
+ShaderCache_Flush                                                                                    0xe1230cd1                                         
+ShaderCache_FreeValue                                                                                0x3abf584e                                         
+ShaderCache_GetApplicationIdentity                                                                   0xd8c6128d                                         
+ShaderCache_GetCompilerIdentity                                                                      0x37d19534                                         
+ShaderCache_GetDesc                                                                                  0xf293c98e                                         
+ShaderCache_SetApplicationIdentity                                                                   0x38d99219                                         
+ShaderCache_SetCompilerIdentity                                                                      0x820e6040                                         
+ShaderCache_StoreGroupValueKeys                                                                      0x3eab92a2                                         

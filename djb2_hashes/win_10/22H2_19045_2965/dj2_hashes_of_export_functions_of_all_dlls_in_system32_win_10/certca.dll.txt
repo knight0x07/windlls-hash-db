@@ -1,0 +1,183 @@
+DLL Path: C:\Windows\System32\certca.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAAccessCheck                                                                                        0xf50013f9                                         
+CAAccessCheckEx                                                                                      0x3554ff96                                         
+CAAddCACertificateType                                                                               0xb1f9f5fb                                         
+CAAddCACertificateTypeEx                                                                             0x184f6a18                                         
+CACertTypeAccessCheck                                                                                0x8392d589                                         
+CACertTypeAccessCheckEx                                                                              0xb39e6526                                         
+CACertTypeAuthzAccessCheck                                                                           0x6e4dae15                                         
+CACertTypeGetSecurity                                                                                0x74033c31                                         
+CACertTypeQuery                                                                                      0x311d504f                                         
+CACertTypeRegisterQuery                                                                              0xbbe338d4                                         
+CACertTypeSetSecurity                                                                                0xb45bbb3d                                         
+CACertTypeUnregisterQuery                                                                            0xab9ed777                                         
+CACloneCertType                                                                                      0x97c9faca                                         
+CACloseCA                                                                                            0x94e99b83                                         
+CACloseCertType                                                                                      0xabfed06f                                         
+CACountCAs                                                                                           0x26b87589                                         
+CACountCertTypes                                                                                     0xe1792235                                         
+CACreateAutoEnrollmentObjectEx                                                                       0xcb1be2ca                                         
+CACreateCertType                                                                                     0x2743774d                                         
+CACreateLocalAutoEnrollmentObject                                                                    0xc133d238                                         
+CACreateNewCA                                                                                        0xa161428b                                         
+CADCSetCertTypePropertyEx                                                                            0x5c76484e                                         
+CADeleteCA                                                                                           0xfb933160                                         
+CADeleteCAEx                                                                                         0x2d2512bd                                         
+CADeleteCertType                                                                                     0xc6ca980c                                         
+CADeleteCertTypeEx                                                                                   0xa3d0d469                                         
+CADeleteLocalAutoEnrollmentObject                                                                    0xa66268d7                                         
+CAEnumCertTypes                                                                                      0x87f83401                                         
+CAEnumCertTypesEx                                                                                    0x66d5419e                                         
+CAEnumCertTypesEx2                                                                                   0x417d7590                                         
+CAEnumCertTypesForCA                                                                                 0x96bf5bcc                                         
+CAEnumCertTypesForCAEx                                                                               0x44058829                                         
+CAEnumFirstCA                                                                                        0x2dbe3daa                                         
+CAEnumNextCA                                                                                         0xa72bdf81                                         
+CAEnumNextCertType                                                                                   0xc5ef9aed                                         
+CAFindByCertType                                                                                     0xa6f9b275                                         
+CAFindByIssuerDN                                                                                     0x68a47252                                         
+CAFindByName                                                                                         0x1f83f606                                         
+CAFindCertTypeByName                                                                                 0x24d8ee96                                         
+CAFindCertTypeByName2                                                                                0xbff6c188                                         
+CAFreeCAProperty                                                                                     0xa7bf8c54                                         
+CAFreeCertTypeExtensions                                                                             0xec08a60b                                         
+CAFreeCertTypeProperty                                                                               0x4956be40                                         
+CAGetCACertificate                                                                                   0xc7575b30                                         
+CAGetCAExpiration                                                                                    0xfdd90350                                         
+CAGetCAFlags                                                                                         0xe90653da                                         
+CAGetCAProperty                                                                                      0xeaf61752                                         
+CAGetCASecurity                                                                                      0xab6a0dc5                                         
+CAGetCertTypeExpiration                                                                              0x3897c6bc                                         
+CAGetCertTypeExtensions                                                                              0xada14f09                                         
+CAGetCertTypeExtensionsEx                                                                            0x9b313ea6                                         
+CAGetCertTypeFlags                                                                                   0x6ef643c6                                         
+CAGetCertTypeFlagsEx                                                                                 0x059656a3                                         
+CAGetCertTypeKeySpec                                                                                 0x77ccb5cd                                         
+CAGetCertTypeProperty                                                                                0xe2150fbe                                         
+CAGetCertTypePropertyEx                                                                              0xbb98009b                                         
+CAGetDN                                                                                              0xc61af95b                                         
+CAInstallDefaultCertType                                                                             0xa9deceb5                                         
+CAInstallDefaultCertTypeEx                                                                           0x9ccd5952                                         
+CAIsCertTypeCurrent                                                                                  0x0588e238                                         
+CAIsCertTypeCurrentEx                                                                                0x8b4a5995                                         
+CAOIDAdd                                                                                             0x9a0e5fee                                         
+CAOIDAddEx                                                                                           0x57261ccb                                         
+CAOIDCreateNew                                                                                       0xe5fb1883                                         
+CAOIDCreateNewEx                                                                                     0x51234ea0                                         
+CAOIDDelete                                                                                          0x43003398                                         
+CAOIDDeleteEx                                                                                        0x03db82f5                                         
+CAOIDFreeLdapURL                                                                                     0x8a2f65bb                                         
+CAOIDFreeProperty                                                                                    0xd7844fcc                                         
+CAOIDGetLdapURL                                                                                      0x2d029df9                                         
+CAOIDGetProperty                                                                                     0xd4be8fca                                         
+CAOIDGetPropertyEx                                                                                   0xfea1b3a7                                         
+CAOIDSetProperty                                                                                     0x15170ed6                                         
+CAOIDSetPropertyEx                                                                                   0xb71625b3                                         
+CARemoveCACertificateType                                                                            0x11b19dc0                                         
+CARemoveCACertificateTypeEx                                                                          0x4490171d                                         
+CASetCACertificate                                                                                   0x59d521bc                                         
+CASetCAExpiration                                                                                    0xa532285c                                         
+CASetCAFlags                                                                                         0x19852166                                         
+CASetCAProperty                                                                                      0xa36a895e                                         
+CASetCASecurity                                                                                      0x63de7fd1                                         
+CASetCertTypeExpiration                                                                              0x053384c8                                         
+CASetCertTypeExtension                                                                               0xa69d0062                                         
+CASetCertTypeFlags                                                                                   0x01740a52                                         
+CASetCertTypeFlagsEx                                                                                 0x2e9ff02f                                         
+CASetCertTypeKeySpec                                                                                 0xa0d64f59                                         
+CASetCertTypeProperty                                                                                0x2c51daca                                         
+CASetCertTypePropertyEx                                                                              0x8833bea7                                         
+CAUpdateCA                                                                                           0xe7c14990                                         
+CAUpdateCAEx                                                                                         0xdd39f6ed                                         
+CAUpdateCertType                                                                                     0x8216143c                                         
+CAUpdateCertTypeEx                                                                                   0x5fec1c99                                         
+CCFindCertificateBuildFilter                                                                         0xd5b2e505                                         
+CCFindCertificateFreeFilter                                                                          0xff256ef7                                         
+CCFindCertificateFromFilter                                                                          0xa189a5c9                                         
+CCFreeStringArray                                                                                    0xa1b3fec3                                         
+CCGetCertNameList                                                                                    0xe72f0756                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

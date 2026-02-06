@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\EsclProtocol.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CancelScanJob                                                                                        0x2104e68b                                         
+CloseScanner                                                                                         0x990f3ea5                                         
+FreeScannerCapabilities                                                                              0xfb6d60db                                         
+GetScanJobState                                                                                      0xd6d74086                                         
+GetScannerCapabilities                                                                               0x0de14e19                                         
+GetScannerStatus                                                                                     0xa850b333                                         
+OpenScanner                                                                                          0x34312841                                         
+OpenUsbScanner                                                                                       0xac6bfa6b                                         
+StartScanJob                                                                                         0xfdf53f33                                         

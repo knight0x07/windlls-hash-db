@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\rdpnano.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateRdpUdpStreamWrapper                                                                            0x2ad76315                                         
+CreateRdpWebSocketStreamWrapper                                                                      0x5acda073                                         
+DllMain                                                                                              0x79f31ec6                                         
+FreeRdpUdpStreamWrapper                                                                              0x08a35a23                                         
+FreeRdpWebSocketStreamWrapper                                                                        0xcb262a01                                         

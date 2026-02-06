@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\wmdrmsdk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+MFWMDRMOutputTrustAuthority_CreateInstance                                                           0x80b7ee23                                         
+WMDRMCreateProvider                                                                                  0x957e044b                                         
+WMDRMShutdown                                                                                        0xd9436288                                         
+WMDRMStartup                                                                                         0x9585b05f                                         
+_WMDRMCreateProvider                                                                                 0xca43d6ea                                         

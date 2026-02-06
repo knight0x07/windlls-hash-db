@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\slcext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SLAcquireGenuineTicket                                                                               0x04294bfd                                         
+SLActivateProduct                                                                                    0x3ccaeab6                                         
+SLGetPackageProductKey                                                                               0x6039057a                                         
+SLGetPackageProperties                                                                               0xd7b1439d                                         
+SLGetPackageToken                                                                                    0xd78c76d1                                         
+SLGetReferralInformation                                                                             0xd005169d                                         
+SLGetServerStatus                                                                                    0x95d75f9f                                         
+SLInstallPackage                                                                                     0xe7b09f87                                         
+SLUninstallPackage                                                                                   0x8256b14a                                         

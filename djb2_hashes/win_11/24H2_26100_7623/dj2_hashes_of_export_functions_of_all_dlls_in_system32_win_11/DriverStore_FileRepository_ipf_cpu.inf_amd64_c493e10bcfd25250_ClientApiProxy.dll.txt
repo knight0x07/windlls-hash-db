@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_c493e10bcfd25250\ClientApiProxy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClientApiCreate                                                                                      0x7c27f692                                         
+ClientApiDestroy                                                                                     0x30d5b0e8                                         
+ClientApiR4Create                                                                                    0x0b1ca558                                         
+ClientApiR4Destroy                                                                                   0x9e60386e                                         
+ClientApiR4Revision                                                                                  0x5c39c8d3                                         
+ClientApiRevision                                                                                    0x3d5e508d                                         
+GetDllBuildType                                                                                      0xc98f5cf3                                         
+GetDllProperties                                                                                     0x987eb4ee                                         
+GetDllVersion                                                                                        0xe16a2f87                                         

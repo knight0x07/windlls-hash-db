@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\wkscli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetAddAlternateComputerName                                                                          0xf84f76c5                                         
+NetEnumerateComputerNames                                                                            0x7b461515                                         
+NetGetJoinInformation                                                                                0xa4ff9342                                         
+NetGetJoinableOUs                                                                                    0xa083bfc7                                         
+NetJoinDomain                                                                                        0xa8346bf4                                         
+NetRemoveAlternateComputerName                                                                       0x863fde2a                                         
+NetRenameMachineInDomain                                                                             0x09545c28                                         
+NetSetPrimaryComputerName                                                                            0xd5bf8f2c                                         
+NetUnjoinDomain                                                                                      0x0e83ee37                                         
+NetUseAdd                                                                                            0x560380a2                                         
+NetUseDel                                                                                            0x56038d8e                                         
+NetUseEnum                                                                                           0x1675f38e                                         
+NetUseGetInfo                                                                                        0x88b50805                                         
+NetValidateName                                                                                      0xb01fff37                                         
+NetWkstaGetInfo                                                                                      0x7c352082                                         
+NetWkstaSetInfo                                                                                      0x17eff98e                                         
+NetWkstaStatisticsGet                                                                                0x03360aa1                                         
+NetWkstaTransportAdd                                                                                 0xac4b72cc                                         
+NetWkstaTransportDel                                                                                 0xac4b7fb8                                         
+NetWkstaTransportEnum                                                                                0x35bc2af8                                         
+NetWkstaUserEnum                                                                                     0x03f45a8a                                         
+NetWkstaUserGetInfo                                                                                  0xa5ebdd81                                         
+NetWkstaUserSetInfo                                                                                  0x41a6b68d                                         
+NetpWkstaClientCertificateMappingAdd                                                                 0x6c48681d                                         
+NetpWkstaClientCertificateMappingEnum                                                                0xf557ca69                                         
+NetpWkstaClientCertificateMappingGet                                                                 0x6c4881d4                                         
+NetpWkstaClientCertificateMappingModify                                                              0xbd26105c                                         
+NetpWkstaClientCertificateMappingRemove                                                              0xc81ff162                                         
+NetpWkstaClientSmbDirectModuleControl                                                                0x8f760c29                                         

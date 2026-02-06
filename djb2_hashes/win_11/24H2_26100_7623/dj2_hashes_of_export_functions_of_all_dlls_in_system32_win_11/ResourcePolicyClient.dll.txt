@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\ResourcePolicyClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateGameConfigStoreClient                                                                          0x4ce1c2b5                                         
+CreateResourcePolicyEngineClient                                                                     0x40974406                                         
+CreateResourcePolicyStoreClient                                                                      0xd2621d1d                                         
+FreeGameConfigStoreClient                                                                            0xcd87b543                                         
+FreeResourcePolicyStoreClient                                                                        0x42baa6ab                                         
+InterruptiveUIStateChanged_Subscribe                                                                 0x5f00d060                                         
+InterruptiveUIStateChanged_Unsubscribe                                                               0x5aa442c3                                         
+QueryApplicationInterruptiveUIState                                                                  0xf3ee39bf                                         
+QueryApplicationInterruptiveUIStateByPsmKey                                                          0xae29e813                                         
+QueryPackageInterruptiveUIState                                                                      0xf1035857                                         
+ResourcePolicy_GetGlobalProcessAffinityMask                                                          0xeae78852                                         
+ResourcePolicy_GetProcessAffinityMask                                                                0xb9f1bc01                                         
+ResourcePolicy_RevertProcessAffinityMask                                                             0x7ced33f9                                         
+ResourcePolicy_SetGlobalProcessAffinityMask                                                          0x0a3780de                                         
+ResourcePolicy_SetProcessAffinityMask                                                                0x1a053b8d                                         

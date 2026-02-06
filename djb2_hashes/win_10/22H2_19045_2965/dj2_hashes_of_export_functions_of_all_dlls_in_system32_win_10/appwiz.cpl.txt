@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\appwiz.cpl
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConfigStartMenu                                                                                      0x040d34be                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllGetVersion                                                                                        0x5dd63a07                                         
+GetProgramsOnline                                                                                    0x99ccdaf5                                         
+NewLinkHereW                                                                                         0x4fa65cb8                                         
+RunFODW                                                                                              0xc4c0e7ea                                         
+RunOCMW                                                                                              0xc4c5a570                                         
+RunSPADW                                                                                             0x5dc9a139                                         

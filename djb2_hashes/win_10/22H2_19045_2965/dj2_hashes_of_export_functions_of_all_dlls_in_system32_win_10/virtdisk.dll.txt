@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\virtdisk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddVirtualDiskParent                                                                                 0x771a50aa                                         
+ApplySnapshotVhdSet                                                                                  0x520ebe69                                         
+AttachVirtualDisk                                                                                    0xc819e3ac                                         
+BreakMirrorVirtualDisk                                                                               0x003293d7                                         
+CompactVirtualDisk                                                                                   0xcb4e037e                                         
+CompleteForkVirtualDisk                                                                              0xa9d8a462                                         
+CreateVirtualDisk                                                                                    0xf6a9770b                                         
+DeleteSnapshotVhdSet                                                                                 0x75c86b56                                         
+DeleteVirtualDiskMetadata                                                                            0x5c2050eb                                         
+DetachVirtualDisk                                                                                    0xc98a5180                                         
+EnumerateVirtualDiskMetadata                                                                         0xa403d51e                                         
+ExpandVirtualDisk                                                                                    0x5c803f37                                         
+ForkVirtualDisk                                                                                      0x38b53f09                                         
+GetAllAttachedVirtualDiskPhysicalPaths                                                               0xa25d234b                                         
+GetStorageDependencyInformation                                                                      0x7a5b6abf                                         
+GetVirtualDiskInformation                                                                            0xf9dd975d                                         
+GetVirtualDiskMetadata                                                                               0xddfa69d8                                         
+GetVirtualDiskOperationProgress                                                                      0x65359b1d                                         
+GetVirtualDiskPhysicalPath                                                                           0x3a10cb41                                         
+MergeVirtualDisk                                                                                     0xf1f54ec7                                         
+MirrorVirtualDisk                                                                                    0x6eb2eb12                                         
+ModifyVhdSet                                                                                         0x94e2e3fb                                         
+OpenVirtualDisk                                                                                      0xbc7ef109                                         
+QueryChangesVirtualDisk                                                                              0xcec1dd66                                         
+RawSCSIVirtualDisk                                                                                   0x9153ab13                                         
+ResizeVirtualDisk                                                                                    0x96decf49                                         
+SetVirtualDiskInformation                                                                            0x0b017b69                                         
+SetVirtualDiskMetadata                                                                               0x3e0de964                                         
+TakeSnapshotVhdSet                                                                                   0x22b68ca8                                         

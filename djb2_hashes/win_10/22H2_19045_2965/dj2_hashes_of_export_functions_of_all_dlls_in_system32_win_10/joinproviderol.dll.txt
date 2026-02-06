@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\joinproviderol.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetpJoinProvider2OLInitialize                                                                        0x494ad676                                         
+NetpJoinProvider3OLInitialize                                                                        0x98a9dff7                                         
+NetpJoinProvider4OLInitialize                                                                        0xe808e978                                         
+NetpJoinProviderOLInitialize                                                                         0xbbebdc64                                         

@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\MUILanguageCleanup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OnMachineUILanguageClear                                                                             0x9f44fec0                                         
+OnMachineUILanguageInit                                                                              0x145abfed                                         
+OnMachineUILanguageSwitch                                                                            0xae00ef2b                                         
+OnUILanguageAdd                                                                                      0x155b278d                                         
+OnUILanguageRemove                                                                                   0x18ebbad2                                         

@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\PktMonApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PacketMonitorAddCaptureConstraint                                                                    0x3c5368c7                                         
+PacketMonitorAddSingleDataSourceToSession                                                            0x14d02942                                         
+PacketMonitorAttachOutputToSession                                                                   0xf2b842f2                                         
+PacketMonitorCloseRealtimeStream                                                                     0x07402a9a                                         
+PacketMonitorCloseSessionHandle                                                                      0xf24b6f6b                                         
+PacketMonitorCreateLiveSession                                                                       0x59c2c8cd                                         
+PacketMonitorCreateRealtimeStream                                                                    0xb556c378                                         
+PacketMonitorEnumDataSources                                                                         0xe8f60838                                         
+PacketMonitorInitialize                                                                              0x03523437                                         
+PacketMonitorSetSessionActive                                                                        0x09d893d1                                         
+PacketMonitorUninitialize                                                                            0x602890ba                                         
+PktmonAddFilter                                                                                      0x5bbd8a6d                                         
+PktmonGetComponentList                                                                               0xcabe766d                                         
+PktmonGetFilterList                                                                                  0x1e4b5e20                                         
+PktmonGetStatus                                                                                      0xf1a1e902                                         
+PktmonRemoveAllFilters                                                                               0x30015b1e                                         
+PktmonResetCounters                                                                                  0x4e563db4                                         
+PktmonStart                                                                                          0x106ef3ac                                         
+PktmonStop                                                                                           0x08416e04                                         
+PktmonUnload                                                                                         0x229120c1                                         

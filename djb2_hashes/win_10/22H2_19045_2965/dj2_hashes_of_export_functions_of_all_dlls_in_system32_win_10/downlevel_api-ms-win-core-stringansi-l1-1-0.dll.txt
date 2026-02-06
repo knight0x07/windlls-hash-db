@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-stringansi-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CharLowerA                                                                                           0x1cc427ed                                         
+CharLowerBuffA                                                                                       0xb1945690                                         
+CharNextA                                                                                            0xa3e69d63                                         
+CharNextExA                                                                                          0x3803a2e0                                         
+CharPrevA                                                                                            0xa4119ec1                                         
+CharPrevExA                                                                                          0xeef473be                                         
+CharUpperA                                                                                           0x31d0d770                                         
+CharUpperBuffA                                                                                       0xd4a30f93                                         
+IsCharAlphaA                                                                                         0x03e14586                                         
+IsCharAlphaNumericA                                                                                  0x58f2ecb9                                         
+IsCharLowerA                                                                                         0x1dc41a09                                         
+IsCharUpperA                                                                                         0x32d0c98c                                         

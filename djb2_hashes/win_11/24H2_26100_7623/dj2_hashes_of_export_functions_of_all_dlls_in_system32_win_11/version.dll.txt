@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\version.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetFileVersionInfoA                                                                                  0xd574f958                                         
+GetFileVersionInfoByHandle                                                                           0xe73951fe                                         
+GetFileVersionInfoExA                                                                                0x0698d015                                         
+GetFileVersionInfoExW                                                                                0x0698d02b                                         
+GetFileVersionInfoSizeA                                                                              0x11034673                                         
+GetFileVersionInfoSizeExA                                                                            0x5eeecff0                                         
+GetFileVersionInfoSizeExW                                                                            0x5eeed006                                         
+GetFileVersionInfoSizeW                                                                              0x11034689                                         
+GetFileVersionInfoW                                                                                  0xd574f96e                                         
+VerFindFileA                                                                                         0xf7ab9694                                         
+VerFindFileW                                                                                         0xf7ab96aa                                         
+VerInstallFileA                                                                                      0x07c9806a                                         
+VerInstallFileW                                                                                      0x07c98080                                         
+VerLanguageNameA                                                                                     0x5bc4f698                                         
+VerLanguageNameW                                                                                     0x5bc4f6ae                                         
+VerQueryValueA                                                                                       0x78659846                                         
+VerQueryValueW                                                                                       0x7865985c                                         

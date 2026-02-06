@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\ci.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CiCheckSignedFile                                                                                    0xdd7fc2a9                                         
+CiFindPageHashesInCatalog                                                                            0x8c39f93d                                         
+CiFindPageHashesInSignedFile                                                                         0x9303371c                                         
+CiFreePolicyInfo                                                                                     0x54cb0caf                                         
+CiGetCertPublisherName                                                                               0xb76c432e                                         
+CiGetPEInformation                                                                                   0x7b0970ac                                         
+CiInitialize                                                                                         0xd4404fc3                                         
+CiSetTrustedOriginClaimId                                                                            0x3e00c9a3                                         
+CiValidateFileObject                                                                                 0x0c2a2b12                                         
+CiVerifyHashInCatalog                                                                                0x5885c8bc                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\WinHvEmulation.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WHvEmulatorCreateEmulator                                                                            0xdb354760                                         
+WHvEmulatorDestroyEmulator                                                                           0x66bc5856                                         
+WHvEmulatorTryIoEmulation                                                                            0xb5685d28                                         
+WHvEmulatorTryMmioEmulation                                                                          0x5aea63e2                                         

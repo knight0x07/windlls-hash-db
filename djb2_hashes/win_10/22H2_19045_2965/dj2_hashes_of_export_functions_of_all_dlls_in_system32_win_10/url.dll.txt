@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\url.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddMIMEFileTypesPS                                                                                   0xe5c77d4e                                         
+AutodialHookCallback                                                                                 0x969dba36                                         
+FileProtocolHandler                                                                                  0x1e50b815                                         
+FileProtocolHandlerA                                                                                 0xe867baf6                                         
+InetIsOffline                                                                                        0x99ad03d4                                         
+MIMEAssociationDialogA                                                                               0x3eb2041b                                         
+MIMEAssociationDialogW                                                                               0x3eb20431                                         
+MailToProtocolHandler                                                                                0xb3c01cdb                                         
+MailToProtocolHandlerA                                                                               0x2bc3b87c                                         
+OpenURL                                                                                              0xd19b946a                                         
+OpenURLA                                                                                             0x050e21eb                                         
+TelnetProtocolHandler                                                                                0x07f4e661                                         
+TelnetProtocolHandlerA                                                                               0x0691b2c2                                         
+TranslateURLA                                                                                        0xc99cc0e7                                         
+TranslateURLW                                                                                        0xc99cc0fd                                         
+URLAssociationDialogA                                                                                0x70a2bec6                                         
+URLAssociationDialogW                                                                                0x70a2bedc                                         
+[Function Ordinal Only]                                                                              NA                                                 

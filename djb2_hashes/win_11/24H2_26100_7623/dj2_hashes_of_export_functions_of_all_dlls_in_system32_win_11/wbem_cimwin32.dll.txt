@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\wbem\cimwin32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CTcpMib@@QEAA@AEBV0@@Z                                                                            0x558035f5                                         
+??0CTcpMib@@QEAA@XZ                                                                                  0x6b15c6df                                         
+??1CTcpMib@@UEAA@XZ                                                                                  0x31d89be4                                         
+??4CTcpMib@@QEAAAEAV0@AEBV0@@Z                                                                       0xb694a8e6                                         
+??_7CTcpMib@@6B@                                                                                     0x9c0c62b3                                         
+?MySecurityDescriptor@@3VWin32SecurityDescriptor@@A                                                  0x2df36b35                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetSDFromWin32SecurityDescriptor                                                                     0x4c5f8c9a                                         
+SetWin32SecurityDescriptorFromSD                                                                     0x7b86ec86                                         

@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\WindowsPowerShell\v1.0\Modules\Microsoft.Windows.Bcd.Cmdlets\Microsoft.Windows.Bcd.Utils.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BcdUtilGetDebuggerStartPolicy                                                                        0x8d35110f                                         
+BcdUtilGetDebuggerType                                                                               0xf5826c73                                         
+BcdUtilGetHypervisorDebuggerType                                                                     0x996c982e                                         
+BcdUtilsGetElementAppliesTo                                                                          0x20131dda                                         
+BcdUtilsGetElementFriendlyName                                                                       0x91e2a287                                         
+BcdUtilsGetElementPolicyIndex                                                                        0x04dea2d1                                         
+BcdUtilsGetElementPolicyString                                                                       0xb87ae3b0                                         
+BcdUtilsGetElementTypeId                                                                             0x7943c278                                         
+BcdUtilsGetNamedElements                                                                             0xa7a67721                                         
+BcdUtilsGuidToString                                                                                 0xf67e4c02                                         
+BcdUtilsStringToGuid                                                                                 0xc0184b82                                         

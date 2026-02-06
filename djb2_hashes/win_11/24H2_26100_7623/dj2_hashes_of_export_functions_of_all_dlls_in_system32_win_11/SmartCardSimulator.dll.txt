@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\SmartCardSimulator.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+Microsoft_WDF_UMDF_Version                                                                           0xb210f24b                                         
+VGidsSimulatorCreate                                                                                 0x1fd746b6                                         
+VGidsSimulatorDestroy                                                                                0x4a6f058c                                         
+VGidsSimulatorReadProperties                                                                         0x8632bb4b                                         
+VGidsSimulatorWriteProperties                                                                        0x1216e1ba                                         
+VTransportClose                                                                                      0xa95069fe                                         
+VTransportDeinitialize                                                                               0x341f22a3                                         
+VTransportInitialize                                                                                 0x0e8cd41a                                         
+VTransportOpen                                                                                       0x33b3beba                                         
+VTransportReceive                                                                                    0xb087a1ab                                         
+VTransportTransmit                                                                                   0x7eb2785a                                         

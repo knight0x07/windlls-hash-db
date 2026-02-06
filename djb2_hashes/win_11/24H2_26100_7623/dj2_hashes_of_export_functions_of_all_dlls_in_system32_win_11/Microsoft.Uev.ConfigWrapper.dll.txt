@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\Microsoft.Uev.ConfigWrapper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClearSettingGroupValue                                                                               0x427117f4                                         
+ClearSettingValue                                                                                    0x4e40aae7                                         
+GetSettingGroupValue                                                                                 0x1799da0d                                         
+GetSettingValue                                                                                      0x44187960                                         
+SetSettingGroupValue                                                                                 0xa9700699                                         
+SetSettingValue                                                                                      0xeb719e6c                                         

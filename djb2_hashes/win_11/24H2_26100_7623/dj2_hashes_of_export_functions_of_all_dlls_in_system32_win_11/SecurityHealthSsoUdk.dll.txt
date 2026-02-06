@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\SecurityHealthSsoUdk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+Shield_ApplyOwnerDrawToMenu                                                                          0x3ce0f774                                         
+Shield_ContextMenuWndProc                                                                            0x75054594                                         
+Shield_GetDpiForShellUIComponentEx                                                                   0x3d086d47                                         
+Shield_RemoveOwnerDrawFromMenu                                                                       0xc9dbc00d                                         
+Shield_SHLoadNativeIconSizeEx                                                                        0xe095aae0                                         

@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\pnpui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+InstallSecurityPrompt                                                                                0x64d83976                                         
+InstallSecurityPromptLUA                                                                             0x755b9c38                                         
+InstallSecurityPromptRunDllW                                                                         0xd196eafe                                         
+NotifyDevicesNeedRebootRunDllW                                                                       0xc780b790                                         
+SimplifiedDINotificationW                                                                            0x5bbff696                                         

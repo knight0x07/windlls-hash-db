@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\TextInputMethodFormatter.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0TextInputMethodFormatter@@QEAA@XZ                                                                 0x27480107                                         
+??1TextInputMethodFormatter@@QEAA@XZ                                                                 0x5f784528                                         
+?ConnectToHost@TextInputMethodFormatter@@IEAAJXZ                                                     0xbe3ddfa5                                         
+?DataReceived@TextInputMethodFormatter@@UEAAJIAEAV?$vector@DV?$allocator@D@std@@@std@@@Z             0x23120ba3                                         
+?GetCIVMSender@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteCoreInputViewManager@@@Z                 0xa9ad0bc3                                         
+?GetCIVSender@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteCoreInputView@@@Z                         0xcc430dfb                                         
+?GetIsHost@TextInputMethodFormatter@@UEAA_NXZ                                                        0xb5f86ac3                                         
+?GetTICImpl@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteTextInputClient@@@Z                         0xa88d8cca                                         
+?GetTISImpl@TextInputMethodFormatter@@UEAAJPEAPEAUIRemoteTextInputServer@@@Z                         0x8c3677f2                                         
+?GetTVIImpl@TextInputMethodFormatter@@UEAAJPEAPEAUITextVirtualizationInternal@@@Z                    0x24dad4e4                                         
+?GetTVKRImpl@TextInputMethodFormatter@@UEAAJPEAPEAUITextVirtualizationKeyRouting@@@Z                 0x209648cc                                         
+?GetVirtTIS@TextInputMethodFormatter@@QEAAJPEAPEAUIRemoteTextInputServer@@@Z                         0x15d9c9e1                                         
+?Initialize@TextInputMethodFormatter@@QEAAJPEAUIMessagePort@@W4VirtualizationEnvironment@@PEAUIVirtualizedTextDataSender@@U_GUID@@@Z 0x3a37e283                                         
+?Initialize@TextInputMethodFormatter@@UEAAJPEAUIMessagePort@@@Z                                      0x964c99fe                                         
+?ProcessQueue@TextInputMethodFormatter@@QEAAJXZ                                                      0xaa2c9426                                         
+?SetCIVMTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteCoreInputViewManager@@@Z                    0x24a71e3f                                         
+?SetCIVTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteCoreInputView@@PEAVVirtCoreInputViewForwarder@@@Z 0x7ae1b808                                         
+?SetTICTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteTextInputClient@@PEAVVirtTextInputClient@@@Z 0x1e3eddba                                         
+?SetTISTarget@TextInputMethodFormatter@@UEAAJPEAUIRemoteTextInputServer@@@Z                          0x6a32535d                                         
+?SetTVKRTarget@TextInputMethodFormatter@@UEAAJPEAUITextVirtualizationKeyRouting@@@Z                  0x0beca877                                         
+?Uninitialize@TextInputMethodFormatter@@UEAAJXZ                                                      0x030d81db                                         

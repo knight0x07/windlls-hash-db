@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\dbnetlib.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseEnumServers                                                                                     0xe6df645a                                         
+ConnectionCheckForData                                                                               0xab3f2c34                                         
+ConnectionClose                                                                                      0x6c369beb                                         
+ConnectionError                                                                                      0x6c5e237f                                         
+ConnectionErrorW                                                                                     0xf82293b6                                         
+ConnectionFlushCache                                                                                 0xd3593ecb                                         
+ConnectionGetSvrUser                                                                                 0x4067b38f                                         
+ConnectionMode                                                                                       0x9e73c9da                                         
+ConnectionObjectSize                                                                                 0x061dcac7                                         
+ConnectionOpen                                                                                       0x9e74e707                                         
+ConnectionOpenW                                                                                      0x6d11c83e                                         
+ConnectionOption                                                                                     0x0f52f7ee                                         
+ConnectionRead                                                                                       0x9e765cd1                                         
+ConnectionServerEnum                                                                                 0xf6e899c1                                         
+ConnectionServerEnumW                                                                                0xd3fbd238                                         
+ConnectionSqlVer                                                                                     0x18b4fdd2                                         
+ConnectionStatus                                                                                     0x18e5c0d9                                         
+ConnectionTransact                                                                                   0x3b38cb55                                         
+ConnectionVer                                                                                        0xa7b613e2                                         
+ConnectionWrite                                                                                      0x6da3b6e0                                         
+ConnectionWriteOOB                                                                                   0x130c2560                                         
+GenClientContext                                                                                     0x04cbf5c3                                         
+GenClientContextEx                                                                                   0x67a07be0                                         
+GetNextEnumeration                                                                                   0x54f4538b                                         
+InitEnumServers                                                                                      0xc6d80c78                                         
+InitSSPIPackage                                                                                      0xa4357fc4                                         
+InitSession                                                                                          0x6d5f3bfd                                         
+InitSessionEx                                                                                        0x421e389a                                         
+TermSSPIPackage                                                                                      0x06b4f848                                         
+TermSession                                                                                          0xa68f1281                                         
+TermSessionEx                                                                                        0x869dc01e                                         

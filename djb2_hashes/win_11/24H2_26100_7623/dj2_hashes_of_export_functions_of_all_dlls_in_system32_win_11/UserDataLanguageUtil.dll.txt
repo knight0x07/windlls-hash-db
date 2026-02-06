@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\UserDataLanguageUtil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CHSPinYinHelper_CreateInstance                                                                       0xb05ad0a2                                         
+CHSPinYinHelper_HasPossibleCHSPinYin                                                                 0xf5100f8b                                         
+CHSPinYinHelper_HasPossiblePinYin                                                                    0x47639e2d                                         
+CHSPinYinHelper_Initialize                                                                           0xe03f85cb                                         
+CanConvertStringFromUnicode                                                                          0xf162a4ca                                         
+ConvertToMultiByte                                                                                   0xd9dc7008                                         
+ConvertToWideStream                                                                                  0xb379cebe                                         
+ConvertWideStreamToMultiByte                                                                         0xf4a5c07d                                         
+DecomposeHangulSyllables                                                                             0xdc6b76ae                                         
+DetermineStringEALangId                                                                              0x217c802e                                         
+DetermineStringEALangIdNLS                                                                           0xc6470f5b                                         
+GetCodepageName                                                                                      0xe4aa979e                                         
+GetConvertedTextForMatching                                                                          0x8d808326                                         
+GetCurrentLangIdForMatching                                                                          0xf0086389                                         
+GetMultiLanguage2                                                                                    0xfaeb45c6                                         
+GetNarrowSzCodepage                                                                                  0x3b8271c3                                         
+GetSystemDefaultCodepage                                                                             0x6fb3f5a7                                         
+GetWideSz                                                                                            0x2a91d07b                                         
+GetWideSzAlloc                                                                                       0xc1f3a126                                         
+InitializeLanguageUtil                                                                               0x73bf3239                                         
+IsAltChar                                                                                            0xdafb9520                                         
+IsCHNChar                                                                                            0x1e46b4d8                                         
+IsEAChar                                                                                             0x1494f9c5                                         
+IsHangulSyllable                                                                                     0xfcb48cd8                                         
+IsJPNChar                                                                                            0x4bc7a327                                         
+IsLocalePseudoLoc                                                                                    0x15f46dbf                                         
+IsMatchingEAPrefix                                                                                   0x7c6c0100                                         
+IsMatchingEAPrefixEx                                                                                 0x47704a5d                                         
+IsMatchingPrefix                                                                                     0xe3afe85a                                         
+IsMatchingPrefixEx                                                                                   0x8f4b7037                                         
+IsSkippableCharacter                                                                                 0x9d0eb8e9                                         
+IsSupportedCodepage                                                                                  0x05d2145f                                         
+MapCharToBaseChar                                                                                    0x5ed3b83d                                         
+MapStringToBaseCharacters                                                                            0x1ca552b8                                         
+UninitializeLanguageUtil                                                                             0x900dfb3c                                         

@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\ngcpopkeysrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NgcGetPregenKey                                                                                      0xd9ef61e7                                         
+NgcPregenKey                                                                                         0x6dbefb87                                         
+NgcTriggerTask                                                                                       0x487eb084                                         
+s_NgcCreateTokenBindingAik                                                                           0x36e75374                                         
+s_NgcDecryptWithSymmetricGcmPopKey                                                                   0x2f1fd412                                         
+s_NgcDecryptWithSymmetricPopKey                                                                      0x66fcae7b                                         
+s_NgcDeleteSymmetricPopKeyTransportKey                                                               0x0524f5ad                                         
+s_NgcDeleteTokenBindingAik                                                                           0xb8484753                                         
+s_NgcEncryptWithSymmetricGcmPopKey                                                                   0x9cb7b9fc                                         
+s_NgcEncryptWithSymmetricPopKey                                                                      0xa2fa4ca5                                         
+s_NgcGetKeyAttestationForContainerService                                                            0xfd65ee63                                         
+s_NgcGetPregenKeyState                                                                               0x0d25d57a                                         
+s_NgcGetPregenUserKey                                                                                0x9d9a0698                                         
+s_NgcGetSymmetricPopKeyTransportKey                                                                  0x4243afda                                         
+s_NgcGetSymmetricPopKeyTransportKeyName                                                              0x1a187d7b                                         
+s_NgcGetTokenBindingAikName                                                                          0xdbd006a1                                         
+s_NgcImportSymmetricPopKey                                                                           0x31b7993f                                         
+s_NgcRenewKeyAttestation                                                                             0xa88bea69                                         
+s_NgcSignWithSymmetricPopKey                                                                         0xdb1ae371                                         
+s_NgcVerifyWithSymmetricPopKey                                                                       0x77cc5155                                         

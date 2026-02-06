@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\cscdll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CSCDeleteW                                                                                           0x43f21368                                         
+CSCDisconnectPath                                                                                    0x12c60e55                                         
+CSCDoEnableDisable                                                                                   0xd863db4c                                         
+CSCEnumForStatsExW                                                                                   0x8fb305dd                                         
+CSCEnumForStatsW                                                                                     0xd6c21aa0                                         
+CSCFindClose                                                                                         0x36f1af15                                         
+CSCFindFirstFileForSidW                                                                              0x1ba878c5                                         
+CSCFindFirstFileW                                                                                    0x38eec47e                                         
+CSCFindNextFileW                                                                                     0xe864fad5                                         
+CSCIsCSCEnabled                                                                                      0x9e082e9e                                         
+CSCIsPathOffline                                                                                     0xafcdc6ea                                         
+CSCIsServerOfflineW                                                                                  0xbdfef86b                                         
+CSCPinFileW                                                                                          0x0ba6df5c                                         
+CSCQueryFileStatusW                                                                                  0xfa10d7cf                                         
+CSCSetMaxSpace                                                                                       0x0ff9ecfc                                         
+CSCTransitionPathOnline                                                                              0xe691b2fb                                         
+CSCTransitionServerOnlineW                                                                           0xf1c5011c                                         
+CSCUnpinFileW                                                                                        0x5335e95f                                         

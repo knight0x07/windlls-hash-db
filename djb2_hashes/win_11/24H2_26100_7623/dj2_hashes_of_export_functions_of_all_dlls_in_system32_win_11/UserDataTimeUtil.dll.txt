@@ -1,0 +1,52 @@
+DLL Path: C:\Windows\System32\UserDataTimeUtil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AdjustForAllDayAppts                                                                                 0xe7151336                                         
+AdjustForBias                                                                                        0x3dadf3d6                                         
+AdjustGMTForAllDayAppts                                                                              0x28885b7e                                         
+CmpDateST                                                                                            0x59ebbe6a                                         
+CmpST                                                                                                0x0cf916ac                                         
+CmpYMD                                                                                               0xac1c050f                                         
+ConvertFileTimeToLocalVariantTime                                                                    0x400214e7                                         
+ConvertLocalVariantTimeToFileTime                                                                    0xf7d4dae7                                         
+ConvertSchedPlusToRenTz                                                                              0x3aded027                                         
+ConvertTimeZone                                                                                      0x01345df1                                         
+ConvertVariantTimeToFileTime                                                                         0xc43d23dc                                         
+DaysBetweenDates                                                                                     0x544a9f11                                         
+DaysBetweenFT                                                                                        0x24658e7a                                         
+DowFromDate                                                                                          0x2aaea7e1                                         
+DurationBetweenFT                                                                                    0x0d8d700f                                         
+ExpandRtm                                                                                            0xae408c58                                         
+FileTimeAdjustTzToUTC                                                                                0x05091a1c                                         
+FileTimeAdjustUTCToTz                                                                                0xf81d4efc                                         
+FileTimeToLocalFileTimeEx                                                                            0xd320a78e                                         
+FileTimeToTzSpecificVariantTime                                                                      0x114bcc0f                                         
+FileTimeToVariantTime                                                                                0x7b15841b                                         
+GetCurrentLocalTime                                                                                  0x6d107da2                                         
+GetDaysForLunarMonthOfCalendar                                                                       0x097005f4                                         
+GetDaysForMonth                                                                                      0x09234a63                                         
+GetLeapMonthOfLunarYear                                                                              0x9fed35b5                                         
+GetLocalIANAName                                                                                     0x12eea78a                                         
+GetLunarDate                                                                                         0xeb872645                                         
+GetLunarDateOfCalendar                                                                               0xa15de2f4                                         
+GetSolarDateOfCalendar                                                                               0xbd1e1df3                                         
+GetStartEndTime                                                                                      0xc2d02039                                         
+IncrSystemTime                                                                                       0xb2a444a5                                         
+IsSupportedLunarCalendarType                                                                         0x4001bae5                                         
+LIncrWord                                                                                            0xe88921f9                                         
+LegacyTimezoneInformationToTimezoneInformation                                                       0x0fff4f3f                                         
+LocalFileTimeToFileTimeEx                                                                            0x8191920e                                         
+MapIANATZNameToTZInfo                                                                                0xfeada708                                         
+MapTZInfoToIANAName                                                                                  0x12488b1a                                         
+MinutesBetweenFT                                                                                     0xf7197b2e                                         
+MinutesBetweenST                                                                                     0xf7197cdb                                         
+PimGet24HourFormat                                                                                   0x0bf9a0b8                                         
+PimGetDateFormat                                                                                     0xd0536692                                         
+PimGetLocaleInfo                                                                                     0xc306a3e7                                         
+PimGetTimeFormat                                                                                     0x3f132e83                                         
+RenFromStdTimeZoneInfo                                                                               0xb049dd80                                         
+RoundEventTime                                                                                       0x65f4c81e                                         
+SecondsBetweenFT                                                                                     0xa02d0ef8                                         
+StdTimeZoneInfoFromRen                                                                               0x3bf0dd60                                         
+TruncFt                                                                                              0x584ad7ab                                         

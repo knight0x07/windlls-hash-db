@@ -1,0 +1,103 @@
+DLL Path: C:\Windows\System32\dwmapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DwmAttachMilContent                                                                                  0x58d4207f                                         
+DwmDefWindowProc                                                                                     0x6cd765e8                                         
+DwmDetachMilContent                                                                                  0xec4423d3                                         
+DwmEnableBlurBehindWindow                                                                            0x98c1c5eb                                         
+DwmEnableComposition                                                                                 0xb38b3768                                         
+DwmEnableMMCSS                                                                                       0x33ea64f7                                         
+DwmExtendFrameIntoClientArea                                                                         0x5a010ef2                                         
+DwmFlush                                                                                             0x08f44d2f                                         
+DwmGetColorizationColor                                                                              0x5c112f49                                         
+DwmGetCompositionTimingInfo                                                                          0x98f97455                                         
+DwmGetGraphicsStreamClient                                                                           0xc0892569                                         
+DwmGetGraphicsStreamTransformHint                                                                    0x48c9ced9                                         
+DwmGetTransportAttributes                                                                            0x2cfb6a61                                         
+DwmGetUnmetTabRequirements                                                                           0xe76e7711                                         
+DwmGetWindowAttribute                                                                                0xe7533699                                         
+DwmInvalidateIconicBitmaps                                                                           0xb9da8073                                         
+DwmIsCompositionEnabled                                                                              0xc7a6ea48                                         
+DwmModifyPreviousDxFrameDuration                                                                     0xb31392df                                         
+DwmQueryThumbnailSourceSize                                                                          0xf432e593                                         
+DwmRegisterThumbnail                                                                                 0xf69db3b6                                         
+DwmRenderGesture                                                                                     0x32ad73cc                                         
+DwmSetDxFrameDuration                                                                                0x9f683366                                         
+DwmSetIconicLivePreviewBitmap                                                                        0x076328dd                                         
+DwmSetIconicThumbnail                                                                                0x59d2fbb2                                         
+DwmSetPresentParameters                                                                              0xf92b21ae                                         
+DwmSetWindowAttribute                                                                                0x105cd025                                         
+DwmShowContact                                                                                       0xec9c74da                                         
+DwmTetherContact                                                                                     0xe4d1dca5                                         
+DwmTetherTextContact                                                                                 0xd423eaea                                         
+DwmTransitionOwnedWindow                                                                             0xee085aad                                         
+DwmUnregisterThumbnail                                                                               0x4145a8d9                                         
+DwmUpdateThumbnailProperties                                                                         0x878aa661                                         
+DwmpAllocateSecurityDescriptor                                                                       0x3d209e19                                         
+DwmpDxGetWindowSharedSurface                                                                         0xe3fad111                                         
+DwmpDxUpdateWindowSharedSurface                                                                      0xed54d1d4                                         
+DwmpDxgiIsThreadDesktopComposited                                                                    0xb542e68e                                         
+DwmpEnableDDASupport                                                                                 0x5040680a                                         
+DwmpFreeSecurityDescriptor                                                                           0xeb0601d6                                         
+DwmpGetColorizationParameters                                                                        0xcb92a8ce                                         
+DwmpRenderFlick                                                                                      0xcdcbd8e6                                         
+DwmpSetColorizationParameters                                                                        0xdcb68cda                                         
+DwmpUpdateProxyWindowForCapture                                                                      0x24eb61f5                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

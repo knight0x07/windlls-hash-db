@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\WinHvPlatform.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WHvCancelRunVirtualProcessor                                                                         0x7d6cef7c                                         
+WHvCreatePartition                                                                                   0x80a9c288                                         
+WHvCreateVirtualProcessor                                                                            0x28beefb5                                         
+WHvDeletePartition                                                                                   0x1114fb27                                         
+WHvDeleteVirtualProcessor                                                                            0xd63e5f74                                         
+WHvGetCapability                                                                                     0x86b9fe9c                                         
+WHvGetPartitionCounters                                                                              0xbe2f5c47                                         
+WHvGetPartitionProperty                                                                              0x96931d19                                         
+WHvGetVirtualProcessorCounters                                                                       0x19ca14f4                                         
+WHvGetVirtualProcessorInterruptControllerState                                                       0x4561d213                                         
+WHvGetVirtualProcessorInterruptControllerState2                                                      0xf19c14a5                                         
+WHvGetVirtualProcessorRegisters                                                                      0xaa61ce39                                         
+WHvGetVirtualProcessorXsaveState                                                                     0xa9ddd329                                         
+WHvMapGpaRange                                                                                       0xc97a287d                                         
+WHvQueryGpaRangeDirtyBitmap                                                                          0xb5a1cfbe                                         
+WHvRegisterPartitionDoorbellEvent                                                                    0x3946aace                                         
+WHvRequestInterrupt                                                                                  0x54f44e90                                         
+WHvResumePartitionTime                                                                               0x385136f4                                         
+WHvRunVirtualProcessor                                                                               0xafaebe76                                         
+WHvSetPartitionProperty                                                                              0x286949a5                                         
+WHvSetVirtualProcessorInterruptControllerState                                                       0x5e93811f                                         
+WHvSetVirtualProcessorInterruptControllerState2                                                      0x3103a531                                         
+WHvSetVirtualProcessorRegisters                                                                      0xc9b1c6c5                                         
+WHvSetVirtualProcessorXsaveState                                                                     0xb32cdd35                                         
+WHvSetupPartition                                                                                    0xc7446725                                         
+WHvSuspendPartitionTime                                                                              0x32e25865                                         
+WHvTranslateGva                                                                                      0xe4bb5e46                                         
+WHvUnmapGpaRange                                                                                     0xe59c9ea0                                         
+WHvUnregisterPartitionDoorbellEvent                                                                  0xf6e4b811                                         

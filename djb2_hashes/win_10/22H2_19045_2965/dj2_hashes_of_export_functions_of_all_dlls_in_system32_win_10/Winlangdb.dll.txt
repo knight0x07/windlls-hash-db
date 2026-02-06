@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\Winlangdb.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bcp47GetEnglishName                                                                                  0x7944ac10                                         
+Bcp47GetLocalizedName                                                                                0xba0cb3fd                                         
+Bcp47GetLocalizedScript                                                                              0x7bda8131                                         
+Bcp47GetNativeName                                                                                   0xa1f6a22d                                         
+EnsureLanguageProfileExists                                                                          0xa6f42b0c                                         
+GetLanguageNames                                                                                     0x1b2831dd                                         
+GetLocaleFromLanguageAndRegion                                                                       0xa371a684                                         
+GetRegionalFormatList                                                                                0xbb975ebb                                         
+IsoScriptGetLocalizedName                                                                            0x7ff5693d                                         
+LanguagesDatabaseGetChildLanguages                                                                   0x264175cc                                         
+LanguagesDatabaseGetLeafLanguages                                                                    0xd0332b60                                         
+LanguagesDatabaseHasChildren                                                                         0x1c1e1396                                         
+LanguagesDatabaseHasLocalizedContent                                                                 0x7da6e2bf                                         
+SetUserLanguages                                                                                     0xdfa13f67                                         
+SetUserLanguagesCore                                                                                 0x43973f90                                         
+SetUserLanguagesNoSpeller                                                                            0x2ef274db                                         

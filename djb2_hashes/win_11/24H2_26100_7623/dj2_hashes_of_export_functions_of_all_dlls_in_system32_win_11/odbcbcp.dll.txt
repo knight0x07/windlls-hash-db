@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\odbcbcp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LibMain                                                                                              0xda1095e1                                         
+SQLCloseEnumServers                                                                                  0xa124ce0a                                         
+SQLGetNextEnumeration                                                                                0xb63ae93b                                         
+SQLInitEnumServers                                                                                   0xd43f0028                                         
+SQLLinkedCatalogsA                                                                                   0xfc66d19b                                         
+SQLLinkedCatalogsW                                                                                   0xfc66d1b1                                         
+SQLLinkedServers                                                                                     0xbdd618f6                                         
+bcp_batch                                                                                            0x796e54fb                                         
+bcp_bind                                                                                             0xbddcaf76                                         
+bcp_colfmt                                                                                           0xaa871ede                                         
+bcp_collen                                                                                           0xaa873756                                         
+bcp_colptr                                                                                           0xaa874a4d                                         
+bcp_columns                                                                                          0xfb7333fa                                         
+bcp_control                                                                                          0xfb96edfa                                         
+bcp_done                                                                                             0xbddde1bf                                         
+bcp_exec                                                                                             0xbdde933e                                         
+bcp_getcolfmt                                                                                        0x7a6787de                                         
+bcp_initA                                                                                            0x79f3f4ae                                         
+bcp_initW                                                                                            0x79f3f4c4                                         
+bcp_moretext                                                                                         0xb14d2131                                         
+bcp_readfmtA                                                                                         0x250e92dd                                         
+bcp_readfmtW                                                                                         0x250e92f3                                         
+bcp_sendrow                                                                                          0xb3de5dbb                                         
+bcp_setcolfmt                                                                                        0xf03cd3ea                                         
+bcp_writefmtA                                                                                        0x99b55cec                                         
+bcp_writefmtW                                                                                        0x99b55d02                                         
+dbprtypeA                                                                                            0xa3ca3750                                         
+dbprtypeW                                                                                            0xa3ca3766                                         

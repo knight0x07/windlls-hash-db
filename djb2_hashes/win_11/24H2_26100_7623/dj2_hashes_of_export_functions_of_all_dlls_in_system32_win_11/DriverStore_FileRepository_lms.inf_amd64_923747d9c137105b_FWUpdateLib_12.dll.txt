@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_923747d9c137105b\FWUpdateLib_12.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FwuCheckCompatibilityFromBuffer                                                                      0x0905245d                                         
+FwuCheckCompatibilityFromFile                                                                        0xb6e824a3                                         
+FwuCheckUpdateProgress                                                                               0x8c15646d                                         
+FwuEnabledState                                                                                      0xa8ec83a3                                         
+FwuFullUpdateFromBuffer                                                                              0xa97895bb                                         
+FwuFullUpdateFromFile                                                                                0x4673a681                                         
+FwuFwType                                                                                            0x78fdcb16                                         
+FwuFwTypeFromBuffer                                                                                  0x66c7a644                                         
+FwuFwTypeFromFile                                                                                    0xc28300ca                                         
+FwuGetRecoveryImageToBuffer                                                                          0x0c4fb4a6                                         
+FwuOemId                                                                                             0xf4c01a65                                         
+FwuPartialUpdateFromBuffer                                                                           0x69ea6a15                                         
+FwuPartialUpdateFromFile                                                                             0x3bd09c5b                                         
+FwuPartialUpdateWithInstanceIdFromBuffer                                                             0x0b6e0c93                                         
+FwuPartialUpdateWithInstanceIdFromFile                                                               0xc26d8759                                         
+FwuPartitionInstances                                                                                0x08673ef9                                         
+FwuPartitionVendorIdFromFlash                                                                        0xbd86ba6e                                         
+FwuPartitionVersionFromBuffer                                                                        0x67279b25                                         
+FwuPartitionVersionFromFile                                                                          0xfaee496b                                         
+FwuPartitionVersionFromFlash                                                                         0x58b8ef59                                         
+FwuPchSku                                                                                            0x8ef1cca5                                         
+FwuPchSkuFromBuffer                                                                                  0x593a2693                                         
+FwuPchSkuFromFile                                                                                    0x1a6b2159                                         
+FwuPowerSource                                                                                       0x5ee1de75                                         
+FwuProductSegmentFromBuffer                                                                          0xf7f93759                                         
+FwuProductSegmentFromFile                                                                            0x5283489f                                         
+FwuProductSegmentFromFlash                                                                           0xa2edd50d                                         
+FwuSaveRestorePointToBuffer                                                                          0xd6345151                                         
+FwuSaveRestorePointToFile                                                                            0xb0bf8497                                         
+FwuSetEnabledState                                                                                   0x30cbd4cf                                         

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\wbem\repdrvfs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ResetRepository                                                                                      0xbdcbb108                                         
+RestoreWMIRepository                                                                                 0x7c07cfb6                                         
+SalvageRepository                                                                                    0x59f7e908                                         
+VerifyRepository                                                                                     0xcee9525a                                         

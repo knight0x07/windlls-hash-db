@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\CastingShellExt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateViewObjectForContentDirectoryFolder                                                            0xf2e5785e                                         
+CreateViewObjectForMediaServerFolder                                                                 0x62c9f6e5                                         
+DllMain                                                                                              0x79f31ec6                                         
+GetContextMenuForContentDirectoryFolder                                                              0xdb249472                                         
+GetContextMenuForMediaServerFolder                                                                   0xaa4e3679                                         
+GetExtractIconForContentDirectoryFolder                                                              0x4eb7aa7c                                         
+GetExtractIconForMediaServerFolder                                                                   0xed2ede43                                         

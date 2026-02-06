@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\drivers\RNDISMP.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+RndisMIndicateReceive                                                                                0x3cd43236                                         
+RndisMInitializeWrapper                                                                              0xf5c61725                                         
+RndisMSendComplete                                                                                   0xeba24195                                         

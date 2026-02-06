@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\pcasvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PcaPatchSdbTask                                                                                      0x31a8de15                                         
+QueryEncapsulationSettings                                                                           0x365c41e2                                         
+QueryEncapsulationSettingsTC                                                                         0x3e744d79                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\dmoleaututils.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Base64StrToSafeArray                                                                                 0x4dfb2564                                         
+ByteArrayToSafeArray                                                                                 0x8180e699                                         
+MultiStringToSafeArray                                                                               0x1f75fc48                                         
+ReadBSTRFromStream                                                                                   0xbf1efb7c                                         
+ReadBSTRFromStreamEx                                                                                 0x02cbd3d9                                         
+ReadStringFromStream                                                                                 0xf2853498                                         
+ReadVariantFromStream                                                                                0x62079d76                                         
+ReadVariantFromStreamEx                                                                              0x0264dc53                                         
+SafeArrayToBase64Str                                                                                 0xa1f38d64                                         
+SafeArrayToByteArray                                                                                 0x16034db9                                         
+SafeArrayToMultiString                                                                               0x41cdf708                                         
+WriteBSTRToStream                                                                                    0x20214b5a                                         
+WriteBSTRToStreamEx                                                                                  0xada19337                                         
+WriteStringToStream                                                                                  0x79556d36                                         
+WriteVariantToStream                                                                                 0x41d65074                                         
+WriteVariantToStreamEx                                                                               0x10ac46d1                                         

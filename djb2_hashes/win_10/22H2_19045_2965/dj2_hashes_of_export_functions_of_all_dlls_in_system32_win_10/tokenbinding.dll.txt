@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\tokenbinding.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TokenBindingDeleteAllBindings                                                                        0xa58fce9b                                         
+TokenBindingDeleteBinding                                                                            0x9f83ecef                                         
+TokenBindingGenerateBinding                                                                          0xde26c067                                         
+TokenBindingGenerateID                                                                               0xeef5d439                                         
+TokenBindingGenerateIDForUri                                                                         0x9c1e12d0                                         
+TokenBindingGenerateMessage                                                                          0x23f54b71                                         
+TokenBindingGetHighestSupportedVersion                                                               0x25dabb19                                         
+TokenBindingGetKeyTypesClient                                                                        0x77aaa1be                                         
+TokenBindingGetKeyTypesServer                                                                        0x9c83b6d6                                         
+TokenBindingVerifyMessage                                                                            0xc0ae1a9b                                         

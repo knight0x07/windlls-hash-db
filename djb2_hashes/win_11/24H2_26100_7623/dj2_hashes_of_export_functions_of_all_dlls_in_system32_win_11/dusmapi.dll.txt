@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\dusmapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DusmEnumConnectionList                                                                               0xc3b3243f                                         
+DusmEnumWlanProfileList                                                                              0xb2149b52                                         
+DusmFlushCostCache                                                                                   0xec48240d                                         
+DusmFree                                                                                             0x7fab9e20                                         
+DusmGetAttributedNetworkUsage                                                                        0x30fb4ff5                                         
+DusmGetConnectionListNetworkUsage                                                                    0x563da8c9                                         
+DusmGetNetworkUsage                                                                                  0x029c361d                                         
+DusmGetProviderNetworkUsage                                                                          0x2d28b4c8                                         
+DusmQueryBackgroundRestriction                                                                       0x0e345d0a                                         
+DusmQueryConnectionProperties                                                                        0xf491c631                                         
+DusmQueryCost                                                                                        0xc96915cd                                         
+DusmQueryDataPlan                                                                                    0x9826c459                                         
+DusmQueryGlobalDpuState                                                                              0xd3d8a56f                                         
+DusmQueryOperatorCost                                                                                0xc0043399                                         
+DusmQueryOperatorDataPlan                                                                            0x7f73e825                                         
+DusmQuerySource                                                                                      0xed596485                                         
+DusmQueryUserCost                                                                                    0x904d5a2c                                         
+DusmQueryUserDataPlan                                                                                0x06442038                                         
+DusmResetNetworkUsage                                                                                0xcbd100e0                                         
+DusmSetAttributionMapping                                                                            0x3e14524b                                         
+DusmSetBackgroundRestriction                                                                         0x492cd7e0                                         
+DusmSetOperatorCost                                                                                  0xcc79f5af                                         
+DusmSetOperatorDataPlan                                                                              0x7688c53b                                         
+DusmSetProperty                                                                                      0x5078332f                                         
+DusmSetSource                                                                                        0x2804ce1b                                         
+DusmSetUserCost                                                                                      0x23798142                                         
+DusmSetUserDataPlan                                                                                  0x12b9e24e                                         

@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\coloradapterclient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ModernColorGetGDILutFromHDC                                                                          0x34dc83d5                                         
+ModernColorSetGDILut                                                                                 0xfe22631e                                         
+ModernColorSetGDILutFromHDC                                                                          0xc75a4a61                                         
+ModernColorSetLut                                                                                    0xc444e8aa                                         
+ModernColorSetMatrix                                                                                 0x0e4651ea                                         
+ModernColorSetMatrixFromHDC                                                                          0x6a7c1bad                                         

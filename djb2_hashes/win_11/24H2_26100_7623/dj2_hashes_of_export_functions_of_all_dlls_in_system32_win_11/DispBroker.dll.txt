@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\DispBroker.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DispBrokerTraceLogCallback                                                                           0xc8607dd8                                         
+DispBrokerTraceLogCaptureRingBuffer                                                                  0xdda4d969                                         
+DispBrokerTraceLogHelper                                                                             0x1d4a7ccb                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

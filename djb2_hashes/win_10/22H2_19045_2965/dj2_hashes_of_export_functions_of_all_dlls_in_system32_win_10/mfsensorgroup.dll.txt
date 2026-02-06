@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\mfsensorgroup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MFCheckProcessCapabilities                                                                           0x9a825c9f                                         
+MFCloneSensorProfile                                                                                 0x82f83694                                         
+MFCreatePackageFamilyNameTag                                                                         0x50533017                                         
+MFCreatePassthroughTranslatedMediaType                                                               0x98acd238                                         
+MFCreateRelativePanelWatcher                                                                         0x22d47266                                         
+MFCreateSensorActivityMonitor                                                                        0x1b40f85b                                         
+MFCreateSensorGroup                                                                                  0xf7901c73                                         
+MFCreateSensorGroupById                                                                              0x42855b7b                                         
+MFCreateSensorGroupCollection                                                                        0x60f2de5f                                         
+MFCreateSensorGroupIdManager                                                                         0x04e855db                                         
+MFCreateSensorProfile                                                                                0xd0ccded7                                         
+MFCreateSensorProfileCollection                                                                      0x4ec0edc3                                         
+MFCreateSensorProfileWithFlags                                                                       0x5b7cd7c0                                         
+MFCreateSensorStream                                                                                 0x05b722f2                                         
+MFCreateTranslatedMediaType                                                                          0x05387aa0                                         
+MFDeleteSensorGroupById                                                                              0xc3e64f5a                                         
+MFGetDeviceFromFSUniqueId                                                                            0xa7cbd119                                         
+MFGetDeviceFromSGHash                                                                                0x23e4ab7a                                         
+MFGetSGCH                                                                                            0xe2ec735d                                         
+MFGetSensorDeviceProperty                                                                            0xd45eee87                                         
+MFGetSensorDeviceRegistryProperty                                                                    0x1040d3a0                                         
+MFGetSensorGroupAttributesFromId                                                                     0xf5f11a47                                         
+MFGetSensorGroupPropertyName                                                                         0xf312f065                                         
+MFGetSensorOrientation                                                                               0xc2c9a07e                                         
+MFInitializeSensorGroupStore                                                                         0xa0a3f2be                                         
+MFIsSensorGroupName                                                                                  0xe138319c                                         
+MFIsStreamAvailableToAppPackage                                                                      0xa4dfa111                                         
+MFLoadSensorGroupFromRegistry                                                                        0x3e3591cc                                         
+MFLoadSensorProfiles                                                                                 0x6a4b5936                                         
+MFPublishSensorProfiles                                                                              0xd59edead                                         
+MFSensorProfileParseFilterSetString                                                                  0x5b202407                                         
+MFValidateSensorProfile                                                                              0xf8cd222d                                         

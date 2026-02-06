@@ -1,0 +1,45 @@
+DLL Path: C:\Windows\System32\rtutils.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LogErrorA                                                                                            0x998b1d52                                         
+LogErrorW                                                                                            0x998b1d68                                         
+LogEventA                                                                                            0x99cc5a6a                                         
+LogEventW                                                                                            0x99cc5a80                                         
+MprSetupProtocolEnum                                                                                 0x233c4f6c                                         
+MprSetupProtocolFree                                                                                 0x233ceab9                                         
+RouterAssert                                                                                         0x9869f738                                         
+RouterGetErrorStringA                                                                                0xb52f82e8                                         
+RouterGetErrorStringW                                                                                0xb52f82fe                                         
+RouterLogDeregisterA                                                                                 0x5e097777                                         
+RouterLogDeregisterW                                                                                 0x5e09778d                                         
+RouterLogEventA                                                                                      0x1d8cf20b                                         
+RouterLogEventDataA                                                                                  0x1fea7405                                         
+RouterLogEventDataW                                                                                  0x1fea741b                                         
+RouterLogEventExA                                                                                    0xb491c188                                         
+RouterLogEventExW                                                                                    0xb491c19e                                         
+RouterLogEventStringA                                                                                0x73341b82                                         
+RouterLogEventStringW                                                                                0x73341b98                                         
+RouterLogEventValistExA                                                                              0x17bfd9fb                                         
+RouterLogEventValistExW                                                                              0x17bfda11                                         
+RouterLogEventW                                                                                      0x1d8cf221                                         
+RouterLogRegisterA                                                                                   0x0f0e9e0e                                         
+RouterLogRegisterW                                                                                   0x0f0e9e24                                         
+TraceDeregisterA                                                                                     0xfa5253a3                                         
+TraceDeregisterExA                                                                                   0xd835e920                                         
+TraceDeregisterExW                                                                                   0xd835e936                                         
+TraceDeregisterW                                                                                     0xfa5253b9                                         
+TraceDumpExA                                                                                         0x21369068                                         
+TraceDumpExW                                                                                         0x2136907e                                         
+TraceGetConsoleA                                                                                     0x861c1ee8                                         
+TraceGetConsoleW                                                                                     0x861c1efe                                         
+TracePrintfA                                                                                         0xb5a93a68                                         
+TracePrintfExA                                                                                       0xc4e19525                                         
+TracePrintfExW                                                                                       0xc4e1953b                                         
+TracePrintfW                                                                                         0xb5a93a7e                                         
+TracePutsExA                                                                                         0xbd71ba1e                                         
+TracePutsExW                                                                                         0xbd71ba34                                         
+TraceRegisterExA                                                                                     0xa9775677                                         
+TraceRegisterExW                                                                                     0xa977568d                                         
+TraceVprintfExA                                                                                      0x50d7b4db                                         
+TraceVprintfExW                                                                                      0x50d7b4f1                                         

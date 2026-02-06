@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\ngckeyenum.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NgcCredProvEnumLogonKeys                                                                             0xc4b2d172                                         
+NgcCredProvFreeBuffer                                                                                0xa7742d7e                                         
+NgcCredProvInvalidateLogonKeysCache                                                                  0x2620cb72                                         
+NgcSerializeConvenienceCredential                                                                    0x7d4160cd                                         
+NgcSerializeConveniencePasswordChangeCredential                                                      0x3cde54c6                                         
+NgcSerializeKeyCredential                                                                            0x9b267a49                                         
+NgcSerializeKeyPasswordChangeCredential                                                              0x57d45742                                         
+NgcSerializeKeySspiCredential                                                                        0x1529b788                                         
+NgcSerializeMsaPasswordCredential                                                                    0xab34fa54                                         
+NgcSerializePasswordCredential                                                                       0x727dfb73                                         
+NgcSerializeSmartCardCredential                                                                      0xd4a5ab01                                         

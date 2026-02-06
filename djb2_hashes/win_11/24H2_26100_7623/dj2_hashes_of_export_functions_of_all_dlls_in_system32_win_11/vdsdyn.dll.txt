@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\vdsdyn.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CPrvEnumObject@@QEAA@XZ                                                                           0x9cf13604                                         
+??0CRtlSharedLock@@QEAA@XZ                                                                           0xfcf020f2                                         
+??0CVdsCriticalSection@@QEAA@PEAU_RTL_CRITICAL_SECTION@@@Z                                           0x15d0a56f                                         
+??0CVdsPnPNotificationBase@@QEAA@XZ                                                                  0xa4be679d                                         
+??0CVdsUnlockIt@@QEAA@AEAJ@Z                                                                         0x13d12a0f                                         
+??1CPrvEnumObject@@QEAA@XZ                                                                           0x6bdaace5                                         
+??1CRtlSharedLock@@QEAA@XZ                                                                           0xcbd997d3                                         
+??1CVdsCriticalSection@@QEAA@XZ                                                                      0xd16bd62e                                         
+??1CVdsPnPNotificationBase@@QEAA@XZ                                                                  0xb5f62b9e                                         
+??1CVdsUnlockIt@@QEAA@XZ                                                                             0x1c051ab7                                         
+??_FCRtlList@@QEAAXXZ                                                                                0x2fd5a73b                                         
+??_FCRtlMap@@QEAAXXZ                                                                                 0xf55afb9d                                         
+?AcquireRead@CRtlSharedLock@@AEAAXXZ                                                                 0xf97c4bb1                                         
+?AcquireWrite@CRtlSharedLock@@AEAAXXZ                                                                0x6a0e51e0                                         
+?AllowCancel@CVdsAsyncObjectBase@@QEAAXXZ                                                            0xfceb932b                                         
+?CurrentThreadIsWriter@CRtlSharedLock@@QEAAHXZ                                                       0x53ef28bf                                         
+?DisallowCancel@CVdsAsyncObjectBase@@QEAAXXZ                                                         0x7058840b                                         
+?Downgrade@CRtlSharedLock@@AEAAXXZ                                                                   0x40888e86                                         
+?GetOutputType@CVdsAsyncObjectBase@@QEAA?AW4_VDS_ASYNC_OUTPUT_TYPE@@XZ                               0x22dc4886                                         
+?IsCancelRequested@CVdsAsyncObjectBase@@QEAAHXZ                                                      0xd637f1aa                                         
+?Release@CRtlSharedLock@@AEAAXXZ                                                                     0x3285cbac                                         
+?SetOutput@CVdsAsyncObjectBase@@QEAAXU_VDS_ASYNC_OUTPUT@@@Z                                          0x94c84ef9                                         
+?SetOutputType@CVdsAsyncObjectBase@@QEAAXW4_VDS_ASYNC_OUTPUT_TYPE@@@Z                                0x58fa3012                                         
+?SetPositionToLast@CPrvEnumObject@@QEAAXXZ                                                           0xf2599e45                                         
+?Upgrade@CRtlSharedLock@@AEAAXXZ                                                                     0xe2c30a53                                         
+?ZeroAsyncOut@CVdsAsyncObjectBase@@QEAAXXZ                                                           0x3e26de3c                                         
+?m_ExtraLogging@CVdsTraceSettings@@QEAAHXZ                                                           0x2cc5515d                                         
+?m_NoDebuggerLogging@CVdsTraceSettings@@QEAAHXZ                                                      0x324520bb                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

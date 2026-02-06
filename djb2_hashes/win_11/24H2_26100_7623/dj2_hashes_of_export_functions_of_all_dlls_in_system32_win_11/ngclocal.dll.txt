@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\ngclocal.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NgcLocalAddCredential                                                                                0x125c8bac                                         
+NgcLocalAddCredentialSilent                                                                          0xc7becafb                                         
+NgcLocalChangeCredential                                                                             0xfe597209                                         
+NgcLocalFindCredential                                                                               0xe3c32ca4                                         
+NgcLocalRemoveCredential                                                                             0xc04496b1                                         

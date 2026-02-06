@@ -1,0 +1,45 @@
+DLL Path: C:\Windows\System32\wscapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CLSID_WSCDefaultProduct                                                                              0x501180a6                                         
+CLSID_WSCProductList                                                                                 0x8d2cdc7d                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+IID_IWSCDefaultProduct                                                                               0xb9a264b6                                         
+IID_IWSCProductList                                                                                  0xb079ba8d                                         
+IID_IWscProduct                                                                                      0x85f5bb91                                         
+LIBID_wscAPILib                                                                                      0xf9bd4446                                         
+WscGetAntiMalwareUri                                                                                 0xd3f6c737                                         
+WscGetSecurityProviderHealth                                                                         0xb4294dab                                         
+WscQueryAntiMalwareUri                                                                               0xb5a0acad                                         
+WscRegisterForChanges                                                                                0x53408817                                         
+WscRegisterForUserNotifications                                                                      0x4991b677                                         
+WscUnRegisterChanges                                                                                 0x44460a53                                         
+wscAntiSpywareGetStatus                                                                              0x116b784d                                         
+wscAntiVirusExpiredBeyondThreshold                                                                   0x88a7d3f6                                         
+wscAntiVirusGetStatus                                                                                0x6a25a15b                                         
+wscAutoUpdatesEnableScheduledMode                                                                    0x6d1d1cbe                                         
+wscAutoUpdatesGetStatus                                                                              0xd768fa45                                         
+wscFirewallGetStatus                                                                                 0xe910ea8c                                         
+wscGeneralSecurityGetStatus                                                                          0xb780312c                                         
+wscGetAlertStatus                                                                                    0xaf6a8c2e                                         
+wscIcfEnable                                                                                         0x7c15d48b                                         
+wscIeSettingsFix                                                                                     0xe5be72b8                                         
+wscInitiateOfflineCleaning                                                                           0xb0ffb66d                                         
+wscIsDefenderAntivirusSupported                                                                      0xc511f4b6                                         
+wscLaunchAdminMakeDefaultUI                                                                          0x62941957                                         
+wscLuaSettingsFix                                                                                    0x0aeded6c                                         
+wscMakeDefaultProductRequest                                                                         0xfcf1283f                                         
+wscNotifyUserForNearExpiration                                                                       0xff22aafa                                         
+wscOverrideComponentStatus                                                                           0x01928c89                                         
+wscPing                                                                                              0xdf8040e0                                         
+wscProductInfoFree                                                                                   0x61a40be1                                         
+wscRegisterChangeNotification                                                                        0x1a959cc4                                         
+wscRegisterSecurityProduct                                                                           0xf89c1f30                                         
+wscSetDefaultProduct                                                                                 0xbca80e44                                         
+wscShowAMSCN                                                                                         0xcc6fedc5                                         
+wscUnRegisterChangeNotification                                                                      0x44706267                                         
+wscUnregisterSecurityProduct                                                                         0xa848e7d3                                         
+wscUpdateProductStatus                                                                               0x7c6fdd9a                                         
+wscUpdateProductSubStatus                                                                            0x3fbb09e4                                         

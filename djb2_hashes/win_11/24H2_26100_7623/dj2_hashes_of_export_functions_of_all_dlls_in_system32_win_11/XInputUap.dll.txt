@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\XInputUap.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+XInputEnable                                                                                         0x6b218714                                         
+XInputGetAudioDeviceIds                                                                              0x9c21a26f                                         
+XInputGetBatteryInformation                                                                          0xe50307ae                                         
+XInputGetCapabilities                                                                                0x278f3e77                                         
+XInputGetKeystroke                                                                                   0xa32b312e                                         
+XInputGetState                                                                                       0x089e18ce                                         
+XInputSetState                                                                                       0x1bb4135a                                         

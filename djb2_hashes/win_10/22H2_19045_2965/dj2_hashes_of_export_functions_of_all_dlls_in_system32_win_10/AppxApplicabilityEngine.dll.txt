@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\AppxApplicabilityEngine.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddDirectXFeatureLevelToContext                                                                      0x50cd3a0d                                         
+AddUserLanguagesToContext                                                                            0xac92116c                                         
+CreateApplicabilityContext                                                                           0xaa411625                                         
+CreateApplicabilityContextFromString                                                                 0x68ef8cb0                                         
+FreeApplicabilityContext                                                                             0x418beef3                                         
+FreeApplicablePackages                                                                               0x305d4ab3                                         
+GetApplicabilityContext                                                                              0xa27d83f1                                         
+GetApplicablePackages                                                                                0xa5498831                                         
+GetApplicablePackagesForUser                                                                         0x0272fdf7                                         
+GetApplicablePackagesForUserWithAppChosenResources                                                   0xae3f440f                                         
+GetApplicablePackagesWithAppChosenResources                                                          0xc94f45c9                                         

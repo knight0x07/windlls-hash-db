@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\authentication.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AuthzGetAccountType                                                                                  0x49b82d40                                         
+AuthzRequestTicketWithWindow                                                                         0x3d58b952                                         
+AuthzRequestTicketWithoutWindow                                                                      0x71d234ca                                         
+GetAccountType                                                                                       0x1a9ea0b4                                         
+RequestTicketWithWindow                                                                              0x04fa4f46                                         
+RequestTicketWithoutWindow                                                                           0x740d763e                                         

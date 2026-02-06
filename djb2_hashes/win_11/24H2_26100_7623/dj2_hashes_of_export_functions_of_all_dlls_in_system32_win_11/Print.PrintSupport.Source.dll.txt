@@ -1,0 +1,53 @@
+DLL Path: C:\Windows\System32\Print.PrintSupport.Source.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateAndStartPsaSession                                                                             0x53fd30a2                                         
+CreateAndStartPsaVirtualPrinterSession                                                               0x3a9edd4d                                         
+CreatePsaManagerForUserContextAbi                                                                    0xd3af11cf                                         
+CreatePsaPreferredPdlSourceStream                                                                    0xae4ceb39                                         
+CreatePsaSessionForUserContext                                                                       0xabe1a50c                                         
+CreatePsaSourceStream                                                                                0x7f5a9eba                                         
+CreateSoftwareDevnode                                                                                0x48dd6889                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DoesPsaHavePdcUpdatePolicyForPrinter                                                                 0x8ddfdacd                                         
+ExcludePdcRegenerationForPsaActivationProcess                                                        0xff9efb65                                         
+GetAppUserModelId                                                                                    0xa2c6cfa3                                         
+GetDeviceContainerIdByPerUserPrinterName                                                             0x7827914b                                         
+GetDeviceContainerIdByPrinterName                                                                    0xa2f20ce5                                         
+GetEntryPoint                                                                                        0xc818a8a1                                         
+GetSidFromUPPrinterName                                                                              0x495b32e3                                         
+GetVirtualPrinterTargetFilePathForJob                                                                0xfa04faa6                                         
+GetVirtualPrinterTargetFileToken                                                                     0x0dbf0898                                         
+HasAppWithContract                                                                                   0x4bf85b1c                                         
+IsActivationContractSupported                                                                        0x02f42017                                         
+IsActivationContractSupportedForUserContext                                                          0x949e99c2                                         
+IsCurrentProcessExcludedForPdcRegeneration                                                           0x680755f2                                         
+IsIppPrinterPsaEnabledForContractAsCurrentUser                                                       0xbf5c1458                                         
+IsMandatoryPsaMissing                                                                                0xaf8a2fae                                         
+IsPdcRegneratedForPrinterWithAppByPrinterName                                                        0x15868bc1                                         
+IsPrinterConnection                                                                                  0x1d2ff635                                         
+IsPsaContractActivatableForDevice                                                                    0x20fbee1a                                         
+IsPsaEnabledForContract                                                                              0x04404135                                         
+IsPsaEnabledForContractAsCurrentUser                                                                 0xe02a290b                                         
+IsPsaPreferredPdlConversionProcess                                                                   0x794d60c9                                         
+IsSameUserContextBySid                                                                               0x93dfa506                                         
+LaunchPsaAppForError                                                                                 0x94a142d6                                         
+LaunchSystemSettingsBroker                                                                           0x1bfa5b9b                                         
+NotifyPsaOnCommunicationError                                                                        0xe896085f                                         
+NotifyPsaOnJobIssue                                                                                  0x237b1e43                                         
+OnPrinterSelected                                                                                    0xe7ba266f                                         
+QueryAndSubscribePdmPrinterChangeNotification                                                        0xdd405dc2                                         
+RegeneratePdcForApp                                                                                  0x43633466                                         
+RemovePsaSession                                                                                     0xe990841b                                         
+RemovePsaSessionForUserContext                                                                       0x5037b4c6                                         
+SetJobIdForPsaSession                                                                                0x8ad6dc08                                         
+SetPrintTicketPsa                                                                                    0xd9a20b86                                         
+SetPsaPreferredPdlConversionProcess                                                                  0xcd5d4e19                                         
+ShoudPdcBeUpdatedNow                                                                                 0xbf141381                                         
+UpdatePDC                                                                                            0xf8ab2cdf                                         
+UpdatePDCAndPDR                                                                                      0x3cf523b8                                         
+UpdatePdcRegenerationRegKey                                                                          0x062f3749                                         
+ValidatePrintTicket                                                                                  0xbd560080                                         
+ValidatePrintTicketAndGetShowsJobUI                                                                  0x2b824720                                         
+WaitForSetJobPrintTicketCompletion                                                                   0x8a7c4ed3                                         

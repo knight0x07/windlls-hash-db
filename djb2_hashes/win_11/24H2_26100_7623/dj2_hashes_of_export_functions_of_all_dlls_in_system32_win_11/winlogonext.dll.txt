@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\winlogonext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConfigureUserArso                                                                                    0xe4b9197b                                         
+EnableDisableElevationForSessionWorker                                                               0xeb77866c                                         
+NotifyInteractiveSessionLogoff                                                                       0x026ec53d                                         
+UpdateUserTokenSessionId                                                                             0x492b9d99                                         
+WinLogonExt                                                                                          0x701e8043                                         

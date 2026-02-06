@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-memory-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateFileMappingW                                                                                   0xf33ffc9c                                         
+FlushViewOfFile                                                                                      0x8fb94397                                         
+MapViewOfFile                                                                                        0x11deb0b3                                         
+MapViewOfFileEx                                                                                      0x044db2d0                                         
+OpenFileMappingW                                                                                     0x73c4b65a                                         
+ReadProcessMemory                                                                                    0xb8932459                                         
+UnmapViewOfFile                                                                                      0xd639f256                                         
+VirtualAlloc                                                                                         0x382c0f97                                         
+VirtualAllocEx                                                                                       0xf36e5ab4                                         
+VirtualFree                                                                                          0x668fcf2e                                         
+VirtualFreeEx                                                                                        0x49c05c0b                                         
+VirtualProtect                                                                                       0x844ff18d                                         
+VirtualProtectEx                                                                                     0xd812922a                                         
+VirtualQuery                                                                                         0x395269c2                                         
+VirtualQueryEx                                                                                       0xd793eb9f                                         
+WriteProcessMemory                                                                                   0x6f22e8c8                                         

@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\AppVEntSubsystems64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+APIExportForDetours                                                                                  0xff3d42ee                                         
+CurrentThreadIsVirtualized                                                                           0x4111724f                                         
+IsProcessHooked                                                                                      0x1ed7e73a                                         
+RequestUnhookedFunctionList                                                                          0xd1f014ed                                         
+VirtualizeCurrentProcess                                                                             0xcbbd9c96                                         
+VirtualizeCurrentThread                                                                              0xc13a7e4f                                         

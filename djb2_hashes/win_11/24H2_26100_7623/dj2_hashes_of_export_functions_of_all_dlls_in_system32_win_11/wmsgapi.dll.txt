@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\wmsgapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WmsgBroadcastMessage                                                                                 0xb3fb165b                                         
+WmsgBroadcastNotifyMessage                                                                           0x97cf25f4                                         
+WmsgPostMessage                                                                                      0x94e7b3ee                                         
+WmsgPostNotifyMessage                                                                                0x24ae65c7                                         
+WmsgSendMessage                                                                                      0xf208a552                                         
+WmsgSendPSPMessage                                                                                   0x9b213e25                                         

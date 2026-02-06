@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\txfw32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TxfGetThreadMiniVersionForCreate                                                                     0x9a38837d                                         
+TxfLogCreateFileReadContext                                                                          0xead1ca8e                                         
+TxfLogCreateRangeReadContext                                                                         0x7cd9e63b                                         
+TxfLogDestroyReadContext                                                                             0x097b1084                                         
+TxfLogReadRecords                                                                                    0x7903e2c7                                         
+TxfLogRecordGetFileName                                                                              0xb8d51559                                         
+TxfLogRecordGetGenericType                                                                           0xd3b2afb7                                         
+TxfReadMetadataInfo                                                                                  0xf9f066e0                                         
+TxfSetThreadMiniVersionForCreate                                                                     0xa3878d89                                         

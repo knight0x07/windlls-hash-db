@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\LampArray.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RegisterLampArrayCallback                                                                            0x6ee26200                                         
+RegisterLampArrayStatusCallback                                                                      0xfb7474a4                                         
+TrySetLampArrayWorkerThreadAffinityMask                                                              0x32cbc951                                         
+UnregisterLampArrayCallback                                                                          0x3eaa3023                                         

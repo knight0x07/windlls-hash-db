@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\nshwfp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IdpConfigAddPolicy                                                                                   0x04b49271                                         
+IdpConfigAllocateAndGetPolicy                                                                        0x3c059240                                         
+IdpConfigFreePolicy                                                                                  0x02facf4a                                         
+IdpConfigInitDefaultPolicy                                                                           0xac84bec1                                         
+IdpConfigRemovePolicy                                                                                0xaeeffcf6                                         
+InitHelperDll                                                                                        0x1ea6cfd5                                         
+WfpCaptureExportedW                                                                                  0x94dd7308                                         
+WfpCaptureStop                                                                                       0xecb78dac                                         

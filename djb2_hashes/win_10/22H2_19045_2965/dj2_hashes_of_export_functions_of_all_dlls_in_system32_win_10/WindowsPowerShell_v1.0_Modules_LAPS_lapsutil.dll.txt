@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\WindowsPowerShell\v1.0\Modules\LAPS\lapsutil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DecryptNormalMode                                                                                    0xd0cfaace                                         
+DecryptRecoveryMode                                                                                  0x1b7494f4                                         
+GetSidProtectionString                                                                               0xeee0f623                                         
+LogonWithCredentials                                                                                 0xa56c56ee                                         
+ProcessCurrentPolicy                                                                                 0x739f4497                                         
+ResetPassword                                                                                        0x86ad107b                                         

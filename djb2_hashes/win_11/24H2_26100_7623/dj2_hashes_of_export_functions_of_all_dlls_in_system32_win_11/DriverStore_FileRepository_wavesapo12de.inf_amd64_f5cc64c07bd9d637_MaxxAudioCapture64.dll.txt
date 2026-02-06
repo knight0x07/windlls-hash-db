@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\MaxxAudioCapture64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EnrollmentSignature_GetVoiceSignature                                                                0xe37a649e                                         
+EnrollmentSignature_GetVoiceSignatureInfo                                                            0x2d616cca                                         
+EnrollmentSignature_StepValidation                                                                   0xc89c8ddd                                         

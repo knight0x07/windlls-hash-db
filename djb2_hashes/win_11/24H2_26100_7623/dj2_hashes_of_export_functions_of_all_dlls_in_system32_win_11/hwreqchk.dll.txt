@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\hwreqchk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckHardwareRequirement                                                                             0x3ad4be42                                         
+EvaluateHardwareRequirement                                                                          0x83c1c0db                                         
+EvaluateHardwareRequirementV2                                                                        0x7b356ee3                                         
+GetHardwareRequirementSystemInfo                                                                     0xce179995                                         
+GetHardwareRequirementSystemInfoV3                                                                   0xb2645e1e                                         
+GetHardwareRequirements                                                                              0x31abde37                                         
+GetLatestHardwareRequirement                                                                         0x9374b171                                         

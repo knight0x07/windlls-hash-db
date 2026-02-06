@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\batmeter.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BatMeterIconAnimationReset                                                                           0xae2b3bc5                                         
+BatMeterIconThemeReset                                                                               0xfbaba498                                         
+BatMeterOnDeviceChange                                                                               0x4ee9ef0c                                         
+CleanupBatteryData                                                                                   0xa9611602                                         
+CreateBatteryData                                                                                    0xacfeaa2e                                         
+GetBatMeterIconAnimationState                                                                        0xaeab14a3                                         
+GetBatMeterIconAnimationTimeDelay                                                                    0x45e48320                                         
+GetBatMeterIconAnimationUpdate                                                                       0x8870eee5                                         
+GetBatteryCapacityInfo                                                                               0x12ed5fda                                         
+GetBatteryDetails                                                                                    0x7e0717c6                                         
+GetBatteryImmersiveIcon                                                                              0xd2534ada                                         
+GetBatteryInfo                                                                                       0x2b77f5ec                                         
+GetBatteryStatusText                                                                                 0xfbb67089                                         
+GetBatteryWorkingState                                                                               0xaf76f9c2                                         
+IsBatteryBad                                                                                         0x47b17b23                                         
+IsBatteryHealthWarningEnabled                                                                        0x5dc7fd73                                         
+IsBatteryLevelCritical                                                                               0x346d539f                                         
+IsBatteryLevelLow                                                                                    0x9a533e06                                         
+IsBatteryLevelReserve                                                                                0xa4a99c10                                         
+PowerCapabilities                                                                                    0x8c43d93c                                         
+QueryBatteryData                                                                                     0x476bbc70                                         
+SetBatteryHealthWarningState                                                                         0x3fec5079                                         
+SetBatteryLevel                                                                                      0x420175c4                                         
+SetBatteryWorkingState                                                                               0x0f8a794e                                         
+SubscribeBatteryUpdateNotification                                                                   0x2136250c                                         
+UnsubscribeBatteryUpdateNotification                                                                 0xaf178a8f                                         
+UpdateBatteryData                                                                                    0x449ed4bd                                         
+UpdateBatteryDataAsync                                                                               0x1abbac7b                                         
+[Function Ordinal Only]                                                                              NA                                                 

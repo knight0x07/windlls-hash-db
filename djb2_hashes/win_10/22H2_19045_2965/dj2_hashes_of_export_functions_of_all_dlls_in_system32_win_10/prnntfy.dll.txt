@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\prnntfy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AsyncUILoaderEntryW                                                                                  0xb4491381                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+PrintNotifyTray_Exit                                                                                 0xbd98b444                                         
+PrintNotifyTray_Init                                                                                 0xbd9abb3e                                         

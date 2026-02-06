@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\Windows.Media.MediaControl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateCaptureAudioStateMonitor                                                                       0x2350be28                                         
+CreateCaptureAudioStateMonitorForCategory                                                            0xe3fd96ed                                         
+CreateCaptureAudioStateMonitorForCategoryAndDeviceId                                                 0x8aad1add                                         
+CreateCaptureAudioStateMonitorForCategoryAndDeviceRole                                               0xea6472a2                                         
+CreateRenderAudioStateMonitor                                                                        0x0fee66d4                                         
+CreateRenderAudioStateMonitorForCategory                                                             0x2d44fc19                                         
+CreateRenderAudioStateMonitorForCategoryAndDeviceId                                                  0x873f6c89                                         
+CreateRenderAudioStateMonitorForCategoryAndDeviceRole                                                0x54d1df4e                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

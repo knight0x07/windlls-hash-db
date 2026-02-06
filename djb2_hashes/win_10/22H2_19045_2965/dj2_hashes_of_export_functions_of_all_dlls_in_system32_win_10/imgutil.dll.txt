@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\imgutil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ComputeInvCMAP                                                                                       0xfc38e330                                         
+CreateDDrawSurfaceOnDIB                                                                              0xa0bdfcc0                                         
+CreateMIMEMap                                                                                        0xfa507ddf                                         
+DecodeImage                                                                                          0x6f9f5f6c                                         
+DecodeImageEx                                                                                        0xd4f4f3c9                                         
+DitherTo8                                                                                            0xa58a8a00                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetMaxMIMEIDBytes                                                                                    0x686178a7                                         
+IdentifyMIMEType                                                                                     0xc431310b                                         
+SniffStream                                                                                          0x440bcc87                                         

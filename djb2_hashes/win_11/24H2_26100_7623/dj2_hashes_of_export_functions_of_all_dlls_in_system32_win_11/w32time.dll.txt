@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\w32time.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+SvchostEntry_W32Time                                                                                 0x9a5bbdab                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+TimeProvClose                                                                                        0x018ee771                                         
+TimeProvCommand                                                                                      0xa7be83da                                         
+TimeProvOpen                                                                                         0xf08ed9cd                                         
+W32TimeBufferFree                                                                                    0x2f69998c                                         
+W32TimeDcPromo                                                                                       0x27b5b6e4                                         
+W32TimeDeleteConfig                                                                                  0x480a2a99                                         
+W32TimeGetNetlogonServiceBits                                                                        0x4c2adb99                                         
+W32TimeLog                                                                                           0x2de20532                                         
+W32TimeQueryConfig                                                                                   0x2472fd3c                                         
+W32TimeQueryConfiguration                                                                            0x1e68cfde                                         
+W32TimeQueryHardwareProviderStatus                                                                   0x9366d243                                         
+W32TimeQueryNTPProviderStatus                                                                        0x3c709d27                                         
+W32TimeQueryNtpProviderConfiguration                                                                 0xf12db89b                                         
+W32TimeQuerySource                                                                                   0x49c99037                                         
+W32TimeQueryStatus                                                                                   0x4a191e0a                                         
+W32TimeSetConfig                                                                                     0xfd5bd252                                         
+W32TimeSyncNow                                                                                       0xdfc6dd61                                         
+W32TimeVerifyJoinConfig                                                                              0x098689ab                                         
+W32TimeVerifyUnjoinConfig                                                                            0xf4121e2e                                         
+W32TmServiceMain                                                                                     0xfc4d0658                                         
+fnW32TmI_ScSetServiceBits                                                                            0x8cc3b223                                         
+fnW32TmRegisterServiceCtrlHandlerEx                                                                  0xf98a241c                                         
+fnW32TmSetServiceStatus                                                                              0x775c31d7                                         

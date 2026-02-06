@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\cimfs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CimCloseImage                                                                                        0x385cff97                                         
+CimCloseStream                                                                                       0x5bd87e20                                         
+CimCommitImage                                                                                       0x734a962a                                         
+CimCreateAlternateStream                                                                             0x20bbb69e                                         
+CimCreateFile                                                                                        0x73ffdeb2                                         
+CimCreateHardLink                                                                                    0x981e00bf                                         
+CimCreateImage                                                                                       0xf43401d5                                         
+CimDeletePath                                                                                        0x3773d2be                                         
+CimDismountImage                                                                                     0x901c3b74                                         
+CimMountImage                                                                                        0xe9e12cd4                                         
+CimWriteStream                                                                                       0x10ad3cd5                                         

@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\Microsoft.Management.Infrastructure.Native.Unmanaged.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetAddr_OperationCallbacks_ClassObjectNeededCallback                                                 0x016b892e                                         
+GetAddr_OperationCallbacks_FreeIncludedFileBufferCallback                                            0xd37ac8e0                                         
+GetAddr_OperationCallbacks_GetIncludedFileBufferCallback                                             0x179c5b1e                                         
+GetAddr_OperationCallbacks_NativeClassCallback                                                       0x3db8d019                                         
+GetAddr_OperationCallbacks_NativeIndicationCallback                                                  0x67ab4ba5                                         
+GetAddr_OperationCallbacks_NativeInstanceCallback                                                    0x436c4878                                         
+GetAddr_OperationCallbacks_NativePromptUserCallback                                                  0x21139a84                                         
+GetAddr_OperationCallbacks_NativeStreamedParameterResultCallback                                     0x8632cdb8                                         
+GetAddr_OperationCallbacks_NativeWriteErrorCallback                                                  0xe1ccf7d8                                         
+GetAddr_OperationCallbacks_NativeWriteMessageCallback                                                0x2f23b6d3                                         
+GetAddr_OperationCallbacks_NativeWriteProgressCallback                                               0x24fc0fa3                                         
+GetAddr_SessionHandle_OnReleaseHandleCompleted                                                       0xb69116f5                                         
+MI_ApplicationWrapper_Initialize                                                                     0xbeab80a0                                         
+MI_ApplicationWrapper_ScheduleCleanupCallback                                                        0x3b864930                                         
+MI_ApplicationWrapper_SetAppDomainIsUnloading                                                        0xc8099470                                         
+MI_Helpers_GetCurrentSecurityToken                                                                   0xf7fe2be8                                         
+MI_Helpers_IsClrShuttingDown                                                                         0xed6c1e77                                         
+MI_Helpers_SetClrIsNotShuttingDown                                                                   0xc53f3cb4                                         
+MI_Helpers_SetClrIsShuttingDown                                                                      0x9a1938c3                                         
+MI_OperationWrapper_DecrementCount_AndDontWorryAboutLifetimeOfMiDotNetDll                            0x2ef7b854                                         
+MI_OperationWrapper_DecrementCount_AndManageLifetimeOfMiDotNetDll                                    0x0c72f20a                                         
+MI_OperationWrapper_GetClass                                                                         0xa372c461                                         
+MI_OperationWrapper_GetIndication                                                                    0x5613390d                                         
+MI_OperationWrapper_GetInstance                                                                      0xff67e1a0                                         
+MI_OperationWrapper_Initialize                                                                       0xf9b88c3d                                         
+MI_OperationWrapper_ScheduleDrainingWorkIfNeeded                                                     0x5363a5fb                                         
+MI_OperationWrapper_SetupDrainingIfNeeded                                                            0xe0a483dc                                         
+UnmanagedMI_GetMiClientFT_V1                                                                         0x0c533b5f                                         
+UnmanagedMI_GetMiEvaluatorFT_V1                                                                      0x12b1d933                                         
+UnmanagedMI_GetMiMonitoringFT_V1                                                                     0xb221aea6                                         
+UnmanagedMI_GetMiReactiveExtensionsFT_V1                                                             0x10cb7483                                         

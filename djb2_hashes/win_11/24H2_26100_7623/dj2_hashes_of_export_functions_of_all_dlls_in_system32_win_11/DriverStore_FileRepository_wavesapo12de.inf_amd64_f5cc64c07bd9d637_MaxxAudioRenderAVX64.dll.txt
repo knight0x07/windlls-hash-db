@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\MaxxAudioRenderAVX64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

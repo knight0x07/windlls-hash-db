@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\IME\SHARED\IMEPADSM.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateObject                                                                                         0x72ee3370                                         
+CreateObject2                                                                                        0xd0b4a1a2                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+RegClass                                                                                             0x7cc01999                                         
+UnregClass                                                                                           0x23f0095c                                         

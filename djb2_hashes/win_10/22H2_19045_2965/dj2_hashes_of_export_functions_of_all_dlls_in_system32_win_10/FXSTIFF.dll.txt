@@ -1,0 +1,46 @@
+DLL Path: C:\Windows\System32\FXSTIFF.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConvMmrPageHiResToMrLoRes                                                                            0x0bcd9606                                         
+ConvMmrPageToMh                                                                                      0x5c7a2c5c                                         
+ConvMmrPageToMrSameRes                                                                               0xa15ed0b6                                         
+ConvertTiffFileToValidFaxFormat                                                                      0x5ee1546a                                         
+FXSTIFFInitialize                                                                                    0xa73440f1                                         
+FindNextEol                                                                                          0xcadc6b85                                         
+FreeMsTagInfo                                                                                        0x79e9000f                                         
+GetMsTagDwordLong                                                                                    0xe68e9971                                         
+GetMsTagFileTime                                                                                     0x9a1bf390                                         
+GetMsTagString                                                                                       0x682181f8                                         
+GetW2kMsTiffTags                                                                                     0x440a8191                                         
+MemoryMapTiffFile                                                                                    0xce363c85                                         
+MergeTiffFiles                                                                                       0xfab3bd11                                         
+MmrAddBranding                                                                                       0x82804a9f                                         
+PrintTiffFile                                                                                        0x4c8ab2fb                                         
+ScanMhSegment                                                                                        0x48002092                                         
+ScanMrSegment                                                                                        0x8292715c                                         
+TiffAddMsTags                                                                                        0xf61f5466                                         
+TiffClose                                                                                            0xb08dde64                                         
+TiffCreate                                                                                           0xc2b077e2                                         
+TiffEncodeLinesMmrCompression                                                                        0x455d4135                                         
+TiffEndPage                                                                                          0xa9439002                                         
+TiffEndPageForInMemoryConversion                                                                     0x235cff3f                                         
+TiffExtractFirstPage                                                                                 0xa20bacce                                         
+TiffGetCurrentPageData                                                                               0x8aeda768                                         
+TiffGetIFDData                                                                                       0x6cd0679b                                         
+TiffGetIFDSize                                                                                       0x6cd8c41c                                         
+TiffLimitTagNumber                                                                                   0x9e502192                                         
+TiffOpen                                                                                             0x89413e60                                         
+TiffPostProcessFast                                                                                  0x9bcb4c21                                         
+TiffPrint                                                                                            0xb17c4d1b                                         
+TiffPrintDC                                                                                          0x01c408e2                                         
+TiffRead                                                                                             0x8942b42a                                         
+TiffRecoverGoodPages                                                                                 0x3d44c51d                                         
+TiffSeekToPage                                                                                       0x2268b6f6                                         
+TiffSetCurrentPageParams                                                                             0xaac82b3e                                         
+TiffSetNextIFDOffset                                                                                 0xa0453413                                         
+TiffStartPage                                                                                        0x5a6ca479                                         
+TiffStartPageForInMemoryConversion                                                                   0x2c114416                                         
+TiffUncompressMmrPage                                                                                0xb2ee4146                                         
+TiffUncompressMmrPageRaw                                                                             0x17fa6d50                                         
+TiffWriteRaw                                                                                         0xb0769083                                         

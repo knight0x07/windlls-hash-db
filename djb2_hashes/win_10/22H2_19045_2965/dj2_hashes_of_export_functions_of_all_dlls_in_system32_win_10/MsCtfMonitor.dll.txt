@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\MsCtfMonitor.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DoMsCtfMonitor                                                                                       0x0117e6dd                                         
+InitLocalMsCtfMonitor                                                                                0x65d6bc89                                         
+UninitLocalMsCtfMonitor                                                                              0x191ef12c                                         

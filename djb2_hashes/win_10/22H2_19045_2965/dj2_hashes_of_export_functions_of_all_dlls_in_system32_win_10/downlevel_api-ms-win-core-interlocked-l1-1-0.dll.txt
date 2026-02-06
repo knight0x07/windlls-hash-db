@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-interlocked-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitializeSListHead                                                                                  0x63d7aa38                                         
+InterlockedFlushSList                                                                                0xe371ceea                                         
+InterlockedPopEntrySList                                                                             0x82a9ac09                                         
+InterlockedPushEntrySList                                                                            0x38c3049a                                         
+InterlockedPushListSList                                                                             0x67db1d64                                         
+QueryDepthSList                                                                                      0xbb82fddf                                         

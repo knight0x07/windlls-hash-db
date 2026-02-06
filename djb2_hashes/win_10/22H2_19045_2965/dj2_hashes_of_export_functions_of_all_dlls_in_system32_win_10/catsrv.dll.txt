@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\catsrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?CancelWriteICR@@YAJPEAPEAUIComponentRecords@@@Z                                                     0xfc586080                                         
+?GetReadICR@@YAJHPEAPEAUIComponentRecords@@@Z                                                        0xc8699193                                         
+?GetWriteICR@@YAJPEAPEAUIComponentRecords@@@Z                                                        0x8381507a                                         
+?ReleaseReadICR@@YAXPEAPEAUIComponentRecords@@@Z                                                     0xba02937a                                         
+?SaveWriteICR@@YAJPEAPEAUIComponentRecords@@@Z                                                       0xada26209                                         
+CreateComponentLibraryTS                                                                             0xc74feba8                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetAppImport                                                                                         0xae9baec1                                         
+GetCatalogCRMClerk                                                                                   0xa8e00033                                         
+OpenComponentLibraryTS                                                                               0x92747be6                                         

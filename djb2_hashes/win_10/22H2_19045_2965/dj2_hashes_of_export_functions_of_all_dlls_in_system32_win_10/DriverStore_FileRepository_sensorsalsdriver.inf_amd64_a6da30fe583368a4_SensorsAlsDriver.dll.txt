@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\sensorsalsdriver.inf_amd64_a6da30fe583368a4\SensorsAlsDriver.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+Microsoft_WDF_UMDF_Version                                                                           0xb210f24b                                         

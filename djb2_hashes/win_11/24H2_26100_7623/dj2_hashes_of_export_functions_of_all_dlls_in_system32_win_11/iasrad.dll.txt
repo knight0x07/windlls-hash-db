@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\iasrad.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?initialize@VSAFilter@@QEAAJXZ                                                                       0x01ffa29a                                         
+?radiusFromIAS@VSAFilter@@QEBAJPEAUIAttributesRaw@@H@Z                                               0x68c0f2d7                                         
+?radiusToIAS@VSAFilter@@QEBAJPEAEKAEAVIASAttributeVector@IASTL@@@Z                                   0x181a117d                                         
+?radiusToIAS@VSAFilter@@QEBAJPEAUIAttributesRaw@@@Z                                                  0xd1d212be                                         
+?shutdown@VSAFilter@@QEAAJXZ                                                                         0x5f4d9b64                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

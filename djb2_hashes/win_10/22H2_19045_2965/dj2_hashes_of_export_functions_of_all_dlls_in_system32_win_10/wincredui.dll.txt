@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\wincredui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CredUIInternalCmdLinePromptForCredentialsA                                                           0xa73226f2                                         
+CredUIInternalCmdLinePromptForCredentialsW                                                           0xa7322708                                         
+CredUIInternalConfirmCredentialsA                                                                    0xd0f61e3b                                         
+CredUIInternalConfirmCredentialsW                                                                    0xd0f61e51                                         
+CredUIInternalInitControls                                                                           0xd1abb1c6                                         
+CredUIInternalPromptForCredentialsA                                                                  0x1b0f4bb6                                         
+CredUIInternalPromptForCredentialsW                                                                  0x1b0f4bcc                                         
+CredUIInternalPromptForWindowsCredentialsA                                                           0x416e6741                                         
+CredUIInternalPromptForWindowsCredentialsW                                                           0x416e6757                                         
+CredUIInternalPromptForWindowsCredentialsWorker                                                      0x6c908d7a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

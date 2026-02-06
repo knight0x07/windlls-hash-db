@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\CallHistoryClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DoesCallHistoryItemMatchFilter                                                                       0x64183f80                                         
+StringToUdmObjectId                                                                                  0xeb184b49                                         
+UdmAreCallEventsEqual                                                                                0x8b82dbcc                                         
+UdmCancelAsyncTask                                                                                   0xa4fa44c2                                         
+UdmCreateDataSession                                                                                 0x12e83ffd                                         
+UdmCreateDataSessionForUser                                                                          0x85f37843                                         
+UdmCreateSyncCallbackHandler                                                                         0x5cdb76c7                                         
+UdmDebugModifyNotifyState                                                                            0x5d17cff4                                         
+UdmFreeCallFavoriteItemSet                                                                           0x340bd8a4                                         
+UdmFreeCallHistoryItemSet                                                                            0xb3b4e6d6                                         
+UdmObjectIdToString                                                                                  0x463e3e09                                         

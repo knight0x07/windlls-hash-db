@@ -1,0 +1,29 @@
+DLL Path: C:\Windows\System32\msftedit.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateTextServices                                                                                   0x51705522                                         
+DisableOleinitCheck                                                                                  0x2581d6ab                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetVersion                                                                                        0x5dd63a07                                         
+GetMathAlphanumeric                                                                                  0xd4c2ba48                                         
+GetMathAlphanumericCode                                                                              0x90cd4123                                         
+IID_IRichEditOle                                                                                     0x065418cf                                         
+IID_IRichEditOleCallback                                                                             0xf95e151c                                         
+IID_IRicheditUiaNotificationOverrides                                                                0x2ea59208                                         
+IID_IRicheditUiaOverrides                                                                            0xfcc23cc1                                         
+IID_IRicheditWindowlessAccessibility                                                                 0x364f1166                                         
+IID_ITextDocument2                                                                                   0xd0b28099                                         
+IID_ITextHost                                                                                        0x2d1e4006                                         
+IID_ITextHost2                                                                                       0xd0e640f8                                         
+IID_ITextServices                                                                                    0x35c2e7ec                                         
+IID_ITextServices2                                                                                   0xee1fe59e                                         
+MathBuildDown                                                                                        0x8308e9d7                                         
+MathBuildUp                                                                                          0x44872fc4                                         
+MathTranslate                                                                                        0x8d00eb3d                                         
+RichEdit10ANSIWndProc                                                                                0x24a1951a                                         
+RichEditANSIWndProc                                                                                  0x8fcec8f9                                         
+RichEditWndProc                                                                                      0x53da736e                                         
+SetCustomTextOutHandlerEx                                                                            0xed41b4e4                                         
+SetTextServicesDpiCalculationOverride                                                                0xe8e96d46                                         
+ShutdownTextServices                                                                                 0xa5d559ca                                         

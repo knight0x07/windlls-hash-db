@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_e54441f6cc56b0cb\PTTdll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreatePTTAPI                                                                                         0x743958eb                                         
+FreePTTAPI                                                                                           0x856ac139                                         
+GenSineTone                                                                                          0xc1a9e424                                         
+GetGain                                                                                              0x511b3264                                         
+GetPttCompensationLevelTable                                                                         0x32611a4d                                         
+GetPttScoreTable                                                                                     0xd413e2a1                                         
+GetRTPttStaticCurveTable                                                                             0x45fe5538                                         
+GetStaticCurve                                                                                       0xbb5efbb2                                         
+IfHear                                                                                               0xb98693f4                                         
+PttLock                                                                                              0x28e7af46                                         
+SetATGSliderGain                                                                                     0x8b7ed3ef                                         
+SetFreqSliderGain                                                                                    0xfb8479e1                                         
+SetGain                                                                                              0xecd60b70                                         
+SetStaticCurve                                                                                       0x8261af3e                                         

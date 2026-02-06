@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\SimCfg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EapPeerConfigBlob2Xml                                                                                0xda78207f                                         
+EapPeerConfigXml2Blob                                                                                0x6abfb1df                                         
+EapPeerCredentialsXml2Blob                                                                           0xeef35737                                         
+EapPeerFreeErrorMemory                                                                               0x8ae6b22c                                         
+EapPeerFreeMemory                                                                                    0xed357f62                                         
+EapPeerGetConfigBlobAndUserBlob                                                                      0xf0143eed                                         
+EapPeerGetIdentityPageGuid                                                                           0x72671c97                                         
+EapPeerInvokeConfigUI                                                                                0x16d62547                                         
+EapPeerInvokeIdentityUI                                                                              0x6f3b4ffb                                         
+EapPeerInvokeInteractiveUI                                                                           0xb8fcaf8f                                         
+InternalFunction01                                                                                   0x53afb589                                         
+InternalFunction02                                                                                   0x53afb58a                                         

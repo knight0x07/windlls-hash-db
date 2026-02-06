@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\srmtrace.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SrmGetTracingContextPerThread                                                                        0x486100e3                                         
+SrmGetTracingModuleInfo                                                                              0xcf5df331                                         
+SrmGetTracingSequenceNumber                                                                          0x3b649121                                         
+SrmIsTracingEnabled                                                                                  0x5f1c99a6                                         
+SrmIsTracingEnabledOnFunction                                                                        0xf17f0ae9                                         
+SrmIsTracingEnabledOnModule                                                                          0x5adc5a49                                         
+SrmIsTracingEnabledPerThread                                                                         0xbe09b665                                         
+SrmSetTracingContextPerThread                                                                        0x7e01666f                                         
+SrmTraceInitialize                                                                                   0xb51ed378                                         
+SrmTraceMessage                                                                                      0x0fda8f6b                                         
+SrmTraceUninitialize                                                                                 0xb79a043b                                         

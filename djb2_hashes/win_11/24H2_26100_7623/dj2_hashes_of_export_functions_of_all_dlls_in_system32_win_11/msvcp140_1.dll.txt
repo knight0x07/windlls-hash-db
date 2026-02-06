@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\msvcp140_1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+_Aligned_get_default_resource                                                                        0x443c51c2                                         
+_Aligned_new_delete_resource                                                                         0xe05c111a                                         
+_Aligned_set_default_resource                                                                        0xd6127e4e                                         
+_Unaligned_get_default_resource                                                                      0x4d0fecc5                                         
+_Unaligned_new_delete_resource                                                                       0xb9d6d7bd                                         
+_Unaligned_set_default_resource                                                                      0xdee61951                                         
+null_memory_resource                                                                                 0x3907ee5f                                         

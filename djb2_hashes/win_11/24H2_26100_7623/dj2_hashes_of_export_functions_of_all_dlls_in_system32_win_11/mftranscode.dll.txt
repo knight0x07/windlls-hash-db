@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\mftranscode.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetTranscodeComponentCreator                                                                         0xd99bb9cb                                         
+MFCreateSmartRemuxEngine                                                                             0xe701fb7a                                         
+MFCreateTranscodeEngine                                                                              0x9a599be5                                         
+MFCreateTranscodeProfile                                                                             0x3e316240                                         
+MFCreateTranscodeSinkActivate                                                                        0xa43a9015                                         
+MFCreateTranscodeTopology                                                                            0xd16fff4c                                         
+MFCreateTranscodeTopologyFromByteStream                                                              0xa5404200                                         
+MFTranscodeGetAudioOutputAvailableTypes                                                              0x828aca34                                         

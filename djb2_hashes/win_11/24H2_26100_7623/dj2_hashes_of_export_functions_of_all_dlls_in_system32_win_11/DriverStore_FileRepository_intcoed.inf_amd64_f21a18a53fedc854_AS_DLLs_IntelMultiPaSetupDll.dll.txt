@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_f21a18a53fedc854\AS\DLLs\IntelMultiPaSetupDll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddSid                                                                                               0xa6c82cee                                         
+AddSv                                                                                                0x0ccfc357                                         
+AssistantSubscribe                                                                                   0xcbcdfee1                                         
+AssistantUnsubscribe                                                                                 0x2f771584                                         
+CompleteEnrollment                                                                                   0xd62d151e                                         
+FeedEnrollmentData                                                                                   0x8ce976b3                                         
+GetApiVersion                                                                                        0xe276c185                                         
+GetApiVersionV2                                                                                      0x5b2d420d                                         
+GetParameter                                                                                         0x7bf528a6                                         
+QueryCapabilities                                                                                    0x1b3316a5                                         
+QueryCurrentLanguage                                                                                 0x98a13462                                         
+QueryEnrollmentConfiguration                                                                         0xf9102cd3                                         
+RegisterPdt                                                                                          0xaabc23d2                                         
+RegisterUdt                                                                                          0xaabc3917                                         
+RemoveEnrollment                                                                                     0xa23df033                                         
+RemoveSid                                                                                            0x49fa5273                                         
+RemoveSv                                                                                             0x8de0cc3c                                         
+SetParameter                                                                                         0xc75d8932                                         
+StartEnrollment                                                                                      0x6dbc0193                                         
+UnregisterPdt                                                                                        0x3b04a0b5                                         
+UnregisterUdt                                                                                        0x3b04b5fa                                         

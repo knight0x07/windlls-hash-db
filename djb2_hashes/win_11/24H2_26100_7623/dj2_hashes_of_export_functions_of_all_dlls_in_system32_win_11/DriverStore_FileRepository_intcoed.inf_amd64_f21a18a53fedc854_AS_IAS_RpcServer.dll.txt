@@ -1,0 +1,49 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_f21a18a53fedc854\AS\IAS\RpcServer.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitRpcLauncherDll                                                                                   0x9c75740c                                         
+SetAcaProxyAcaContextQueryDelegate                                                                   0xe0436d13                                         
+SetAcaProxyAcaDetectorGetCapsDelegate                                                                0x27546439                                         
+SetAcaProxyAcaGetIpParamDelegate                                                                     0x1358fa62                                         
+SetAcaProxyAcaRegisterNotificationHandleDelegate                                                     0x24521f50                                         
+SetAcaProxyAcaSetIpParamDelegate                                                                     0x3c6293ee                                         
+SetAcaProxyAcaStartSoundDetectDelegate                                                               0xa897c668                                         
+SetAcaProxyAcaStopSoundDetectDelegate                                                                0x406a09e0                                         
+SetAcaProxyAcaUnregisterNotificationHandleDelegate                                                   0x5ce602d3                                         
+SetAcaProxyGetAcaApiVersionDelegate                                                                  0xd2a2edd8                                         
+SetIntelClientProxyCpApiVersionQueryDelegate                                                         0xa32a28f2                                         
+SetIntelClientProxyCpAudioFormatQueryDelegate                                                        0x169bb1cd                                         
+SetIntelClientProxyCpCreateStreamV1Delegate                                                          0x7aeb0783                                         
+SetIntelClientProxyCpCreateStreamV2Delegate                                                          0xef677884                                         
+SetIntelClientProxyCpCreateStreamV3Delegate                                                          0x63e3e985                                         
+SetIntelClientProxyCpDestroyStreamDelegate                                                           0x30870232                                         
+SetIntelClientProxyCpEventQueryDelegate                                                              0x50cfc274                                         
+SetIntelClientProxyCpFarfieldSupportQueryDelegate                                                    0x4e36442c                                         
+SetIntelClientProxyCpGetBufferDelegate                                                               0xa5784b56                                         
+SetIntelClientProxyCpMicArrayQueryDelegate                                                           0xd363c9ca                                         
+SetIntelClientProxyCpQueryDelegate                                                                   0xe8a54ed2                                         
+SetIntelClientProxyCpStartDelegate                                                                   0xfa8efa6a                                         
+SetIntelClientProxyCpStopDelegate                                                                    0x3d40b862                                         
+SetIntelMultiPaSetupProxyAddSidDelegate                                                              0xa900a2a0                                         
+SetIntelMultiPaSetupProxyAddSvDelegate                                                               0x06372f29                                         
+SetIntelMultiPaSetupProxyAssistantSubscribeDelegate                                                  0xeb646213                                         
+SetIntelMultiPaSetupProxyAssistantUnsubscribeDelegate                                                0x89476576                                         
+SetIntelMultiPaSetupProxyCompleteEnrollmentDelegate                                                  0x58206550                                         
+SetIntelMultiPaSetupProxyFeedEnrollmentDataDelegate                                                  0xfe1b8be5                                         
+SetIntelMultiPaSetupProxyGetMultiPaApiVersionDelegate                                                0xddd52933                                         
+SetIntelMultiPaSetupProxyGetMultiPaParameterDelegate                                                 0x8bc84ef4                                         
+SetIntelMultiPaSetupProxyQueryCapabilitiesDelegate                                                   0x65da4af7                                         
+SetIntelMultiPaSetupProxyQueryCurrentLanguageDelegate                                                0x15998254                                         
+SetIntelMultiPaSetupProxyQueryEnrollmentConfigurationDelegate                                        0x6a9ca2c5                                         
+SetIntelMultiPaSetupProxyRegisterPdtDelegate                                                         0x01c58fe4                                         
+SetIntelMultiPaSetupProxyRegisterUdtDelegate                                                         0x9c951a29                                         
+SetIntelMultiPaSetupProxyRemoveEnrollmentDelegate                                                    0x0c92fba5                                         
+SetIntelMultiPaSetupProxyRemoveSidDelegate                                                           0xe70acdc5                                         
+SetIntelMultiPaSetupProxyRemoveSvDelegate                                                            0x3e6609ae                                         
+SetIntelMultiPaSetupProxySetMultiPaParameterDelegate                                                 0x75756600                                         
+SetIntelMultiPaSetupProxyStartEnrollmentDelegate                                                     0x1f69f225                                         
+SetIntelMultiPaSetupProxyUnregisterPdtDelegate                                                       0x6c33b187                                         
+SetIntelMultiPaSetupProxyUnregisterUdtDelegate                                                       0x07033bcc                                         
+StartRpcServerDll                                                                                    0xc6ad796b                                         
+StopRpcServerDll                                                                                     0x0ccfc2e3                                         

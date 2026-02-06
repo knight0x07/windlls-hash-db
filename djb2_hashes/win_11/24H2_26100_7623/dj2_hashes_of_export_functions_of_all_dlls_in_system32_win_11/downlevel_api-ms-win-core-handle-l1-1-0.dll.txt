@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-handle-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseHandle                                                                                          0x3870ca07                                         
+CompareObjectHandles                                                                                 0xce6e2a02                                         
+DuplicateHandle                                                                                      0xee96b40c                                         
+GetHandleInformation                                                                                 0xdf140177                                         
+SetHandleInformation                                                                                 0x70ea2e03                                         

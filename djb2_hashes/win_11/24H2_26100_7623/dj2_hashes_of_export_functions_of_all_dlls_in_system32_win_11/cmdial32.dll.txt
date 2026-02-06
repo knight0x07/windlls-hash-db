@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\cmdial32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AutoDialFunc                                                                                         0x4eb9a864                                         
+CmCustomDialDlg                                                                                      0xfa31f0a1                                         
+CmCustomHangUp                                                                                       0x9c02bd53                                         
+CmReConnect                                                                                          0x41714a56                                         
+GetCustomProperty                                                                                    0xb3358825                                         
+InetDialHandler                                                                                      0x91684f0d                                         
+RasCustomDeleteEntryNotify                                                                           0x81e99804                                         
+RasCustomDial                                                                                        0xa7aa1a20                                         
+RasCustomDialDlg                                                                                     0x8dbe95b7                                         
+RasCustomEntryDlg                                                                                    0xdf914f2f                                         
+RasCustomHangUp                                                                                      0x436417a9                                         

@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\tellib.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TelLib_Cleanup                                                                                       0x215568a8                                         
+TelLib_ConfigureSetting                                                                              0xc1c1cb40                                         
+TelLib_EventWrite                                                                                    0xe022252d                                         
+TelLib_ForceUpload                                                                                   0x89809db4                                         
+TelLib_ForceUploadLatency                                                                            0x1c527764                                         
+TelLib_Initialize                                                                                    0xb2568e52                                         
+TelLib_Initialize2                                                                                   0xfd2858c4                                         
+TelLib_SetAgentConnectivityCallback                                                                  0x5d756747                                         
+TelLib_SetBandwidthExceededChangedCallback                                                           0x0b724daf                                         
+TelLib_SetBatteryState                                                                               0x9aaf9048                                         
+TelLib_SetConnectedStandby                                                                           0x99b58b14                                         
+TelLib_SetCustomRequestFieldCallback                                                                 0xa4acd781                                         
+TelLib_SetDailyUploadQuota                                                                           0xce451f8e                                         
+TelLib_SetDiskActivityCallback                                                                       0xaf3a9811                                         
+TelLib_SetDiskQuota                                                                                  0x96200a61                                         
+TelLib_SetGeneralQuietMode                                                                           0x03265bf7                                         
+TelLib_SetNetworkActivityCallback                                                                    0x6e60dc10                                         
+TelLib_SetNetworkImpersonationContext                                                                0x2f2559c3                                         
+TelLib_SetNetworkState                                                                               0x72ea30d7                                         
+TelLib_SetProxyInfo                                                                                  0x476b9cfa                                         
+TelLib_SetTenantToken                                                                                0x17054e17                                         
+TelLib_SetTimerValue                                                                                 0x8e23778a                                         
+TelLib_SetUploadFailedCallback                                                                       0x2eea3023                                         
+TelLib_SetUploadUrls                                                                                 0xb068d297                                         

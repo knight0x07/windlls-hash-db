@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\drt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DrtClose                                                                                             0x982ed6c5                                         
+DrtContinueSearch                                                                                    0x1f51c8aa                                         
+DrtEndSearch                                                                                         0x55e4af7c                                         
+DrtFlushCache                                                                                        0x820a51e5                                         
+DrtGetCacheStatsEx                                                                                   0xa51ec4cf                                         
+DrtGetEventData                                                                                      0x0b328fcb                                         
+DrtGetEventDataSize                                                                                  0x7e6acf86                                         
+DrtGetInstanceName                                                                                   0x8cef2dc5                                         
+DrtGetInstanceNameSize                                                                               0xa8d9da80                                         
+DrtGetSearchPath                                                                                     0x4b90b672                                         
+DrtGetSearchPathSize                                                                                 0x7939f1ad                                         
+DrtGetSearchResult                                                                                   0x778a8784                                         
+DrtGetSearchResultSize                                                                               0xc0f9fbbf                                         
+DrtHandlePowerEvent                                                                                  0xcbcaa9ca                                         
+DrtOpen                                                                                              0x88842ea1                                         
+DrtPingPeer                                                                                          0x5c641e49                                         
+DrtRegisterKey                                                                                       0x0f601abd                                         
+DrtStartPartitionDetection                                                                           0x36a0eeb6                                         
+DrtStartSearch                                                                                       0x64b879f3                                         
+DrtUnregisterKey                                                                                     0x58dbc220                                         
+DrtUpdateKey                                                                                         0x97e89d9b                                         

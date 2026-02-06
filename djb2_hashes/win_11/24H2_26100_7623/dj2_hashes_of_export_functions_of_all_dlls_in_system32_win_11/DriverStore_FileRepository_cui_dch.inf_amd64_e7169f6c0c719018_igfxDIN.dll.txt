@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\cui_dch.inf_amd64_e7169f6c0c719018\igfxDIN.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

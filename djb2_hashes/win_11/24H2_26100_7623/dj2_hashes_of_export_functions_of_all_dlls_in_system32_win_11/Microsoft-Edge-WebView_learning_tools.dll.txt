@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\learning_tools.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BuildLinguisticModelResourceRequest                                                                  0x40aa0cf2                                         
+GetPdfReadAloudScript                                                                                0xf0a70405                                         
+GetReadingViewExtractionScript                                                                       0xa20fea70                                         
+GetReadingViewLearningToolsScript                                                                    0xe8550af0                                         
+GetReadingViewThemes                                                                                 0xf6076480                                         
+GetTranslateScript                                                                                   0xe62062c8                                         
+GetWebReadAloudScript                                                                                0xd5473d69                                         

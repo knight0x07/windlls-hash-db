@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\lpk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LpkDrawTextEx                                                                                        0x30404e3c                                         
+LpkEditControl                                                                                       0x5e323bb3                                         
+LpkExtTextOut                                                                                        0x1adebf3a                                         
+LpkGetCharacterPlacement                                                                             0xaec5b692                                         
+LpkGetTextExtentExPoint                                                                              0xac931450                                         
+LpkInitialize                                                                                        0x1e50873e                                         
+LpkPSMTextOut                                                                                        0x734f3839                                         
+LpkTabbedTextOut                                                                                     0x36da764b                                         
+LpkUseGDIWidthCache                                                                                  0x5af384e1                                         
+ftsWordBreak                                                                                         0x54ce7d33                                         

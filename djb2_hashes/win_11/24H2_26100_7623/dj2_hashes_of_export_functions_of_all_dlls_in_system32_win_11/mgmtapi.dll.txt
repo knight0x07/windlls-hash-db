@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\mgmtapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SnmpMgrClose                                                                                         0x4bb2437f                                         
+SnmpMgrCtl                                                                                           0x933a778c                                         
+SnmpMgrGetTrap                                                                                       0x252fb4e0                                         
+SnmpMgrGetTrapEx                                                                                     0x2ff0763d                                         
+SnmpMgrOidToStr                                                                                      0x3bc98121                                         
+SnmpMgrOpen                                                                                          0xfa8fec1b                                         
+SnmpMgrRequest                                                                                       0x73cbeb32                                         
+SnmpMgrStrToOid                                                                                      0x5c399741                                         
+SnmpMgrTrapListen                                                                                    0xd745592f                                         

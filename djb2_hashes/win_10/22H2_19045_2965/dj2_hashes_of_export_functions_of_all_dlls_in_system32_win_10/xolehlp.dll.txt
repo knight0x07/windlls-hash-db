@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\xolehlp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DtcGetTransactionManager                                                                             0xa5726a21                                         
+DtcGetTransactionManagerC                                                                            0x53bfae84                                         
+DtcGetTransactionManagerEx                                                                           0xcbb57fbe                                         
+DtcGetTransactionManagerExA                                                                          0x426577bf                                         
+DtcGetTransactionManagerExW                                                                          0x426577d5                                         
+FreezeLocalTransactionManagers                                                                       0xdc12f485                                         
+GetDtcLocaleResourceHandle                                                                           0x58ba9984                                         
+ThawLocalTransactionManagers                                                                         0xe510f9f8                                         

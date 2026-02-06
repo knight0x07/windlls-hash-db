@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\WinBioPlugIns\FaceDriver\amd64\FaceProcessor.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateColorFaceProcessor                                                                             0x8d959547                                         
+CreateFacePreprocessorOutput                                                                         0xace6db80                                         
+FileInputManager_InitializeRuntime                                                                   0x64eb1ee5                                         
+FileInputManager_ReadSourceColorFrameData                                                            0xc62a86c0                                         
+FileInputManager_ReadSourceDeviceMetadata                                                            0xadff6acd                                         
+FileInputManager_ReadSourceInfraredFrameData                                                         0x1952f08c                                         
+FileInputManager_Reset                                                                               0x1ddd93d2                                         
+FileInputManager_SendColorFrameData                                                                  0x1fbb08bd                                         
+FileInputManager_SendInfraredFrameData                                                               0x102a8d69                                         

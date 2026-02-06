@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\msisip.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+MsiSIPCreateIndirectData                                                                             0x0210d7ba                                         
+MsiSIPGetSignedDataMsg                                                                               0x8874efb5                                         
+MsiSIPIsMyTypeOfFile                                                                                 0x7160d073                                         
+MsiSIPPutSignedDataMsg                                                                               0x2aca20ae                                         
+MsiSIPRemoveSignedDataMsg                                                                            0x898f9443                                         
+MsiSIPVerifyIndirectData                                                                             0xe77cd7db                                         

@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\detectionverificationdrv.inf_amd64_85e9fbc6fd099df7\DetectionVerificationDrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cleanup                                                                                              0x2c8566ed                                         
+FxDriverEntryUm                                                                                      0x69327383                                         
+GetParameter                                                                                         0x7bf528a6                                         
+Initialize                                                                                           0x2e93a277                                         
+Reset                                                                                                0x0e043268                                         
+SetArmed                                                                                             0x8734491a                                         
+UpdateDvConfiguration                                                                                0xee474ffa                                         
+UpdateMicGeoConfiguration                                                                            0x7c520f54                                         
+UpdatePPConfiguration                                                                                0xca17e720                                         
+UpdateReferenceWovConfiguration                                                                      0x261bff2b                                         
+UpdateWovConfiguration                                                                               0xac020fdc                                         
+Verify                                                                                               0xd7dea53a                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\acmigration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AcmEngineApply                                                                                       0x18a3b9b2                                         
+AcmEngineCollect                                                                                     0x67cf9532                                         
+AcmEngineCreate                                                                                      0x31e33b00                                         
+AcmEngineDelete                                                                                      0x33510cbf                                         
+AcmEngineGenerateMigXml                                                                              0x13e79065                                         
+AcmEngineGetCapabilityList                                                                           0x283bbb0a                                         
+AcmEngineSetBaseWorkingDirectory                                                                     0xd04f5109                                         
+AcmMatchPluginExecute                                                                                0x65fa74a5                                         
+ApplyMigrationShimsW                                                                                 0x54adfeb0                                         

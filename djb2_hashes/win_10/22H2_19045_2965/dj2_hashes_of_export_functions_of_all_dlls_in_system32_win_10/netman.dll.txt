@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\netman.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+HrGetPnpDeviceStatus                                                                                 0x50195fc1                                         
+HrLanConnectionNameFromGuidOrPath                                                                    0x11c74496                                         
+HrPnpInstanceIdFromGuid                                                                              0x2170834c                                         
+HrQueryLanMediaState                                                                                 0x28123791                                         
+NetManDiagFromCommandArgs                                                                            0xff3cf91d                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

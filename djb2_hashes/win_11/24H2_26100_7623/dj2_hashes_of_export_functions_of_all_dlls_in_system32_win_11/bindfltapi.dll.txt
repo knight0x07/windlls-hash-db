@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\bindfltapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BfAttachFilter                                                                                       0x14a06848                                         
+BfConfigureFilter                                                                                    0x08103e75                                         
+BfGenerateBatchedConfig                                                                              0x13bf1f59                                         
+BfGenerateMappingConfiguration                                                                       0xdfcf6d9c                                         
+BfGetMappings                                                                                        0x09bdb9ac                                         
+BfRemoveMapping                                                                                      0x8bb11f47                                         
+BfRemoveMappingEx                                                                                    0x3c761664                                         
+BfSetupFilter                                                                                        0x549373a4                                         
+BfSetupFilterBatched                                                                                 0xc133adaf                                         
+BfSetupFilterEx                                                                                      0xc73ef601                                         
+BfTrackWritesFromSilo                                                                                0x1b3887ab                                         
+CreateBindLink                                                                                       0x0bfe7664                                         
+RemoveBindLink                                                                                       0x57b0521e                                         

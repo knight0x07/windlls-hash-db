@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\RstrtMgr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RmAddFilter                                                                                          0xf59d9313                                         
+RmCancelCurrentTask                                                                                  0x8e556380                                         
+RmEndSession                                                                                         0x2635477f                                         
+RmGetFilterList                                                                                      0x44ab49c6                                         
+RmGetList                                                                                            0x275ed700                                         
+RmJoinSession                                                                                        0x32dcdff8                                         
+RmRegisterResources                                                                                  0x78ba8024                                         
+RmRemoveFilter                                                                                       0x48702618                                         
+RmReserveHeap                                                                                        0xecc4dcbe                                         
+RmRestart                                                                                            0x762327c9                                         
+RmShutdown                                                                                           0x12649680                                         
+RmStartSession                                                                                       0x7db54216                                         

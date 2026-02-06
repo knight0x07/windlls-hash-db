@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\usp10.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LpkPresent                                                                                           0x3e49ea4d                                         
+ScriptApplyDigitSubstitution                                                                         0x97eb572e                                         
+ScriptApplyLogicalWidth                                                                              0x68e9d3fb                                         
+ScriptBreak                                                                                          0x3ff4dadf                                         
+ScriptCPtoX                                                                                          0x3ff49008                                         
+ScriptCacheGetHeight                                                                                 0x2dc43c87                                         
+ScriptFreeCache                                                                                      0x6b3ea870                                         
+ScriptGetCMap                                                                                        0x7425b7bb                                         
+ScriptGetFontAlternateGlyphs                                                                         0xc62cd488                                         
+ScriptGetFontFeatureTags                                                                             0x40a6c8ac                                         
+ScriptGetFontLanguageTags                                                                            0x99318884                                         
+ScriptGetFontProperties                                                                              0x5984483e                                         
+ScriptGetFontScriptTags                                                                              0x560273f5                                         
+ScriptGetGlyphABCWidth                                                                               0xe554eec4                                         
+ScriptGetLogicalWidths                                                                               0x9b004908                                         
+ScriptGetProperties                                                                                  0x42260927                                         
+ScriptIsComplex                                                                                      0x960db9ce                                         
+ScriptItemize                                                                                        0x301fa551                                         
+ScriptItemizeOpenType                                                                                0x78af5c85                                         
+ScriptJustify                                                                                        0x807035e8                                         
+ScriptLayout                                                                                         0x54bb6158                                         
+ScriptPlace                                                                                          0x40eed6df                                         
+ScriptPlaceOpenType                                                                                  0x57263c13                                         
+ScriptPositionSingleGlyph                                                                            0x5e4dad95                                         
+ScriptRecordDigitSubstitution                                                                        0xf127c4c7                                         
+ScriptShape                                                                                          0x4122f08b                                         
+ScriptShapeOpenType                                                                                  0xb5ff41bf                                         
+ScriptStringAnalyse                                                                                  0xf100d2fe                                         
+ScriptStringCPtoX                                                                                    0x986528ff                                         
+ScriptStringFree                                                                                     0x88816393                                         
+ScriptStringGetLogicalWidths                                                                         0x87b0f99f                                         
+ScriptStringGetOrder                                                                                 0x101b348d                                         
+ScriptStringOut                                                                                      0x232adc29                                         
+ScriptStringValidate                                                                                 0xa3333a9b                                         
+ScriptStringXtoCP                                                                                    0x99f4ce3f                                         
+ScriptString_pLogAttr                                                                                0x68b21b9d                                         
+ScriptString_pSize                                                                                   0xe88b9d5b                                         
+ScriptString_pcOutChars                                                                              0xf5c3ee0c                                         
+ScriptSubstituteSingleGlyph                                                                          0x7e8e0bfc                                         
+ScriptTextOut                                                                                        0x5d3e1937                                         
+ScriptXtoCP                                                                                          0x41843548                                         
+UspAllocCache                                                                                        0x40c26c1c                                         
+UspAllocTemp                                                                                         0x09c1b59e                                         
+UspFreeMem                                                                                           0x5b990bbe                                         

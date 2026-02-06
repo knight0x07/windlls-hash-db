@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\WsmWmiPl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ                             0x78097350                                         
+??0?$SafeMap_Iterator@VKey@Locale@@K@@QEAA@AEAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z 0x95cd0b85                                         
+??0?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@AEBV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z 0xc34312be                                         
+??1?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ                             0xcfd323f1                                         
+??1?$SafeMap_Iterator@VKey@Locale@@K@@QEAA@XZ                                                        0x7e3753a1                                         
+??1?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ                        0x4f849e79                                         
+??1CWSManCriticalSectionWithConditionVar@@QEAA@XZ                                                    0x1b2e0653                                         
+??_7?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@6B@                                0xe9f51a64                                         
+?Acquire@?$SafeMap@VKey@CWmiPtrCache@@VMapping@2@V?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@@@UEBAXXZ 0x80d13b6e                                         
+?Acquire@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEBAXXZ                       0x78514848                                         
+?Acquire@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAAXXZ                  0xcd667b8b                                         
+?Acquired@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA_NXZ                0x1bba0544                                         
+?AsReference@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAAAEAV1@XZ              0x1ebd9ff2                                         
+?Data@?$SafeMap_Iterator@VKey@Locale@@K@@IEBAAEAV?$STLMap@VKey@Locale@@K@@XZ                         0xa0eeff2f                                         
+?DeInitialize@?$SafeMap@VKey@CWmiPtrCache@@VMapping@2@V?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@@@UEAA_NAEAVIRequestContext@@@Z 0x9bba236f                                         
+?DeInitialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEAA_NAEAVIRequestContext@@@Z 0xe2a35bc9                                         
+?GetInitError@CWSManCriticalSection@@QEBAKXZ                                                         0x9175fbc1                                         
+?GetMap@?$SafeMap_Iterator@VKey@Locale@@K@@QEBAAEAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ 0x9cddf4c0                                         
+?GetMap@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEBAAEBV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ 0x45121ab9                                         
+?Initialize@?$SafeMap@VKey@CWmiPtrCache@@VMapping@2@V?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@@@UEAA_NAEAVIRequestContext@@@Z 0x40f64686                                         
+?Initialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEAA_NAEAVIRequestContext@@@Z 0x5f80e2e0                                         
+?IsValid@?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@QEBA_NXZ                                 0x3097543e                                         
+?IsValid@?$SafeMap_Iterator@VKey@Locale@@K@@QEBA_NXZ                                                 0x941bfd6b                                         
+?Release@?$SafeMap@VKey@CWmiPtrCache@@VMapping@2@V?$SafeMap_Iterator@VKey@CWmiPtrCache@@VMapping@2@@@@@UEBAXXZ 0x4c4e1c45                                         
+?Release@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEBAXXZ                       0x61e88d1f                                         
+?Reset@?$SafeMap_Iterator@VKey@Locale@@K@@QEAAXXZ                                                    0x3d859e0c                                         
+?SkipOrphans@?$SafeMap_Iterator@VKey@Locale@@K@@IEAAXXZ                                              0xef8d0873                                         
+WSManPluginShutdown                                                                                  0x292bfc96                                         
+WSManPluginStartup                                                                                   0x429c40ad                                         
+WSManProvCreate                                                                                      0xb90ce2c6                                         
+WSManProvDelete                                                                                      0xba7ab485                                         
+WSManProvEnumerate                                                                                   0x4c72d478                                         
+WSManProvGet                                                                                         0x373dd9b2                                         
+WSManProvIdentify                                                                                    0x8497b42e                                         
+WSManProvInvoke                                                                                      0xc6cd015e                                         
+WSManProvPullEvents                                                                                  0x51036684                                         
+WSManProvPut                                                                                         0x373e020b                                         
+WSManProvSubscribe                                                                                   0x785634d4                                         
+WSManProvUnsubscribe                                                                                 0x1ee49437                                         

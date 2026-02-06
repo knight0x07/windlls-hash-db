@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\rastlsext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+RasTlsExt_FreeMemory                                                                                 0xd295ef49                                         
+RasTlsExt_GetConfigCacheOnlyCertValidation                                                           0x25cb5153                                         
+RasTlsExt_GetConfigForceNotDomainJoined                                                              0x58574815                                         
+RasTlsExt_GetPinUserBlob                                                                             0x98cbea33                                         
+RasTlsExt_GetServerCertDetails                                                                       0x0c0550b9                                         
+RasTlsExt_PackUserBlob                                                                               0x162e890b                                         
+RasTlsExt_SelectCertificate                                                                          0x2c842831                                         
+RasTlsExt_ShowHelp                                                                                   0xaaeb41d8                                         
+RasTlsExt_UnpackUserBlob                                                                             0x424c408e                                         
+RasTlsExt_ValidateServer                                                                             0x8f7b308f                                         
+RasTlsExt_ValidateServerDialogProc                                                                   0x28beebd3                                         

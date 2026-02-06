@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\CoreMessaging.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CoreUICallComputeMaximumMessageSize                                                                  0xa0563423                                         
+CoreUICallCreateConversationHost                                                                     0x283cc8d5                                         
+CoreUICallCreateEndpointHost                                                                         0xe04fd49b                                         
+CoreUICallCreateEndpointHostWithSendPriority                                                         0x001f00c3                                         
+CoreUICallGetAddressOfParameterInBuffer                                                              0x5a0ff4d5                                         
+CoreUICallReceive                                                                                    0x71e9680b                                         
+CoreUICallSend                                                                                       0xf52624f2                                         
+CoreUICallSendVaList                                                                                 0x7e60fc25                                         
+CoreUIConfigureTestHost                                                                              0xfc79fe8c                                         
+CoreUIConfigureUserIntegration                                                                       0xeeec5551                                         
+CoreUICreate                                                                                         0xc71c9dc0                                         
+CoreUICreateAnonymousStream                                                                          0xc50bd5b5                                         
+CoreUICreateEx                                                                                       0x00bb171d                                         
+CoreUIInitializeTestService                                                                          0x6867c72f                                         
+CoreUIOpenExisting                                                                                   0x5dd92309                                         
+CoreUIRouteToTestRegistrar                                                                           0xadbb94f1                                         
+CoreUIUninitializeTestService                                                                        0x9efa2992                                         
+CreateDispatcherQueueController                                                                      0x98d25789                                         
+CreateDispatcherQueueForCurrentThread                                                                0x4aeaa4c7                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetDispatcherQueueForCurrentThread                                                                   0xc6575b13                                         
+MsgBlobCreateShared                                                                                  0xadf67fd6                                         
+MsgBlobCreateStack                                                                                   0x1c91ebd5                                         
+MsgBufferShare                                                                                       0x6d9cc1d9                                         
+MsgRelease                                                                                           0x6adad20d                                         
+MsgStringCreateShared                                                                                0x4a98dace                                         
+MsgStringCreateStack                                                                                 0x4058c7cd                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

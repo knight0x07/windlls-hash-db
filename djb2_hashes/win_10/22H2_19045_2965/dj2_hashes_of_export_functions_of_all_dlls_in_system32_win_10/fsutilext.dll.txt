@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\fsutilext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckSonyMSWorker                                                                                    0xb3049ca6                                         
+DeviceInstIsRemovableWorker                                                                          0xa753a5c6                                         
+FindFirstVolumeMountPointWStub                                                                       0x16953a38                                         
+FindNextVolumeMountPointWStub                                                                        0x3cd54daf                                         
+FindVolumeMountPointCloseStub                                                                        0x75aca4ef                                         
+GetDeviceIDDiskFromDeviceIDVolumeWorker                                                              0x8a39fe10                                         
+GetDeviceInstanceWorker                                                                              0x5e180304                                         
+GetRemovableDeviceInstRecursWorker                                                                   0x2ded705e                                         
+GetWidgetWorker                                                                                      0xebaf3483                                         
+InvalidateFveWorker                                                                                  0xf50d6701                                         
+SendWithSenseParseWorker                                                                             0x081d901e                                         
+SetThreadUILanguageStub                                                                              0x5be47329                                         
+SystemParametersInfoWStub                                                                            0x7af6c4bf                                         
+WaitForUnitAndReportProgressWorker                                                                   0x252bcaff                                         

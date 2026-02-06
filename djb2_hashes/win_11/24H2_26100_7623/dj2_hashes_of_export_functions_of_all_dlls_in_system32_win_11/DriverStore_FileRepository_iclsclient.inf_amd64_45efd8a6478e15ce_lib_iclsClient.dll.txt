@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_45efd8a6478e15ce\lib\iclsClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+iclsDestroyPermitInfo                                                                                0xf249e177                                         
+iclsDestroyPlatformInfo                                                                              0x565d610b                                         
+iclsESInit                                                                                           0xd14e019c                                         
+iclsGetClientVersion                                                                                 0x799498d5                                         
+iclsGetGlobalAttribute                                                                               0x02d0cdd5                                         
+iclsGetPermitAttribute                                                                               0x755e68f5                                         
+iclsGetPermitInfo                                                                                    0xde11cc0d                                         
+iclsGetPermitInfoCapability                                                                          0xb341966f                                         
+iclsGetPlatformInfo                                                                                  0x53ca4921                                         
+iclsGetPlatformType                                                                                  0x53d08157                                         
+iclsInit                                                                                             0x2bb12864                                         
+iclsInitDG1                                                                                          0x70382880                                         
+iclsInitPCH                                                                                          0x70385b1f                                         
+iclsPassThrough                                                                                      0xdc27b2c8                                         
+iclsPermitInstall                                                                                    0xf5d61ad8                                         
+iclsPermitInstallIndirect                                                                            0xbb8b6bca                                         

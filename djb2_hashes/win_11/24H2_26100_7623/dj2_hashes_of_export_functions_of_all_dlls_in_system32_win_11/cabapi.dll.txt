@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\cabapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Cab_CheckForFile                                                                                     0x6959eb4f                                         
+Cab_CheckIsCabinet                                                                                   0x5288a63a                                         
+Cab_CreateCab                                                                                        0x47c6d504                                         
+Cab_CreateCabSelected                                                                                0x0518a94d                                         
+Cab_Extract                                                                                          0x7e902a45                                         
+Cab_ExtractOne                                                                                       0xcbbf1ec7                                         
+Cab_ExtractOneToBuffer                                                                               0xc54681c4                                         
+Cab_ExtractSelected                                                                                  0xd9ffaf8e                                         
+Cab_ExtractSelectedToTarget                                                                          0xc86c7398                                         
+Cab_FreeBuffer                                                                                       0x0d3cfbe6                                         
+Cab_FreeFileList                                                                                     0x739716a8                                         
+Cab_FreeFileSizeList                                                                                 0x864f2463                                         
+Cab_GetFileList                                                                                      0xe2023206                                         
+Cab_GetFileSizeList                                                                                  0x2174bec1                                         

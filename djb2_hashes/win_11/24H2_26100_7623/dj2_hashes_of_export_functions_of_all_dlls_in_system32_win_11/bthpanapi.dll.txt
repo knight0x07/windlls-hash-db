@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\bthpanapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BluetoothCloseNetworkHandle                                                                          0x232cd267                                         
+BluetoothConnectToNetwork                                                                            0xfb603832                                         
+BluetoothCreateNetworkHandle                                                                         0x5cca1245                                         
+BluetoothDisconnectFromNetwork                                                                       0x54f630c3                                         
+BluetoothDuplicateNetworkHandle                                                                      0xf0fcbfcc                                         
+BluetoothFindFirstNetwork                                                                            0x15965e4e                                         
+BluetoothFindNetworkClose                                                                            0xa22ef85c                                         
+BluetoothFindNextNetwork                                                                             0xf0fb22c5                                         
+BluetoothGetIncompleteConnectedNetworkHandle                                                         0xafd8d6f4                                         
+BluetoothGetNetworkAddress                                                                           0x08ce44cb                                         
+BluetoothGetNetworkAvailableRoles                                                                    0x21bfe22b                                         
+BluetoothGetNetworkContainerId                                                                       0xedd9ba35                                         
+BluetoothGetNetworkInterfaceId                                                                       0x01bc95c3                                         
+BluetoothGetNetworkName                                                                              0xe37da926                                         
+BluetoothGetNetworkStatus                                                                            0xc687e229                                         
+BluetoothRegisterNetworkNotifications                                                                0x71bfe624                                         
+BluetoothUnregisterNetworkNotifications                                                              0x703262e7                                         

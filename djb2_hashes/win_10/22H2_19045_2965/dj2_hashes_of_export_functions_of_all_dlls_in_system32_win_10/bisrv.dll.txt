@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\bisrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PsmBiExtInitialize                                                                                   0x136ece83                                         
+PsmBiExtNotifyAppState                                                                               0xbd7d7fcc                                         
+PsmBiExtNotifySessionStateChange                                                                     0x0ad85075                                         
+PsmBiExtNotifySessionUserStateChange                                                                 0x044dd0f4                                         
+PsmBiExtNotifyWerReportProgress                                                                      0x948bb3a9                                         
+PsmBiExtPrepareToSuspendPackage                                                                      0x1ee0af11                                         
+PsmBiExtResumePackage                                                                                0x44b484ce                                         

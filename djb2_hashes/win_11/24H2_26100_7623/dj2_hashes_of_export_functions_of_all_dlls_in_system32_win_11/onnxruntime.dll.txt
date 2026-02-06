@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\onnxruntime.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OrtGetApiBase                                                                                        0xdfe9634f                                         
+OrtGetWinMLAdapter                                                                                   0x1ff4c062                                         
+OrtSessionOptionsAppendExecutionProviderEx_DML                                                       0x0773349a                                         
+OrtSessionOptionsAppendExecutionProvider_CPU                                                         0xae407ca8                                         
+OrtSessionOptionsAppendExecutionProvider_DML                                                         0xae40807d                                         

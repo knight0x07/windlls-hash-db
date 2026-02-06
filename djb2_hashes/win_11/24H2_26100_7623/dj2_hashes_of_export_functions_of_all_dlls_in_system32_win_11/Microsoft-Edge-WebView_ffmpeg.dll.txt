@@ -1,0 +1,55 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\ffmpeg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+av_buffer_create                                                                                     0xc8eec9e8                                         
+av_buffer_get_opaque                                                                                 0x2ea5685e                                         
+av_dict_count                                                                                        0x0c6e8da7                                         
+av_dict_free                                                                                         0x1f69e2a0                                         
+av_dict_get                                                                                          0x5649097e                                         
+av_dict_set                                                                                          0x56493c8a                                         
+av_force_cpu_flags                                                                                   0x6cc63fbd                                         
+av_frame_alloc                                                                                       0x2e198dd0                                         
+av_frame_clone                                                                                       0x2e3dcb76                                         
+av_frame_free                                                                                        0x4739ea47                                         
+av_frame_unref                                                                                       0x2f84a8e5                                         
+av_free                                                                                              0x48c2559d                                         
+av_get_bytes_per_sample                                                                              0x585ab868                                         
+av_get_cpu_flags                                                                                     0x4736ce4e                                         
+av_image_check_size                                                                                  0x0887b1f5                                         
+av_init_packet                                                                                       0x217b1486                                         
+av_log_set_level                                                                                     0xcc40325f                                         
+av_malloc                                                                                            0x91d2afd3                                         
+av_max_alloc                                                                                         0xf56d3e4b                                         
+av_new_packet                                                                                        0xaf00dc1c                                         
+av_packet_alloc                                                                                      0x69d6b6bd                                         
+av_packet_copy_props                                                                                 0x5a861d60                                         
+av_packet_free                                                                                       0x604f2994                                         
+av_packet_get_side_data                                                                              0xfaeb240f                                         
+av_packet_unref                                                                                      0x6b41d1d2                                         
+av_read_frame                                                                                        0xcb20dd01                                         
+av_rescale_q                                                                                         0x755419ca                                         
+av_samples_get_buffer_size                                                                           0x9efa32e2                                         
+av_seek_frame                                                                                        0x9b0a6aed                                         
+av_strdup                                                                                            0xa12c9e3d                                         
+av_stream_get_first_dts                                                                              0xc77d81f7                                         
+av_strerror                                                                                          0x9eddac1e                                         
+avcodec_align_dimensions                                                                             0x3e4e057c                                         
+avcodec_alloc_context3                                                                               0xfb6360bb                                         
+avcodec_descriptor_get                                                                               0xe3bd2737                                         
+avcodec_descriptor_next                                                                              0x5b65e5b6                                         
+avcodec_find_decoder                                                                                 0xf48e26af                                         
+avcodec_flush_buffers                                                                                0xb8d7bcc7                                         
+avcodec_free_context                                                                                 0xc011087f                                         
+avcodec_get_name                                                                                     0xfe910059                                         
+avcodec_open2                                                                                        0xc4a6791d                                         
+avcodec_parameters_to_context                                                                        0xd9b67bf3                                         
+avcodec_receive_frame                                                                                0xe3963f46                                         
+avcodec_send_packet                                                                                  0x8354371a                                         
+avformat_alloc_context                                                                               0x90427773                                         
+avformat_close_input                                                                                 0xc73b73a9                                         
+avformat_find_stream_info                                                                            0xb8b80abb                                         
+avformat_free_context                                                                                0x92d73f0a                                         
+avformat_open_input                                                                                  0x570339e5                                         
+avio_alloc_context                                                                                   0x55ba05c2                                         
+avio_close                                                                                           0x9b624929                                         

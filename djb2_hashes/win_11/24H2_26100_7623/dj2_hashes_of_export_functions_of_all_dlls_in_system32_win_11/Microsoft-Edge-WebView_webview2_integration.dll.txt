@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\webview2_integration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CallCreateProcessInputs2                                                                             0x59757e29                                         
+ConnectUiaHostProviderFromEndpoint                                                                   0x397383ac                                         
+GetXboxForceDeviceScaleFactor                                                                        0xbcaf78cc                                         
+GetXboxRasterizationScaleAdjust                                                                      0xe5c36128                                         
+LoadWCOSAdapter                                                                                      0x5e324b62                                         
+OpenSharedResource                                                                                   0xad590536                                         
+PrepareVisualForWcos                                                                                 0x7d633a8b                                         
+RegisterUIAEndpointBrowser                                                                           0xa2b2c28e                                         
+UnregisterUIAEndpointBrowser                                                                         0x6b745511                                         

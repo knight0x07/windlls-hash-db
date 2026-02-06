@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\capisp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAPISysPrep_Generalize                                                                               0xe05d21dd                                         
+CryptoSysPrep_Clean                                                                                  0xa044429e                                         
+CryptoSysPrep_Specialize                                                                             0x77ca6a64                                         
+CryptoSysPrep_Specialize_Clone                                                                       0x38c54294                                         
+CryptoSysPrep_Specialize_Offline                                                                     0x0c384726                                         

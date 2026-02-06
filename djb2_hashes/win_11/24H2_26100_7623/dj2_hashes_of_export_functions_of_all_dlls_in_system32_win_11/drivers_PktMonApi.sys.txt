@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\drivers\PktMonApi.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+PktMonClntAddEdge                                                                                    0xea0b3e4d                                         
+PktMonClntComponentRegister                                                                          0x6a475047                                         
+PktMonClntComponentUnregister                                                                        0x140a2b4a                                         
+PktMonClntHeaderInfoDrop                                                                             0x8a2b4959                                         
+PktMonClntHeaderInfoLog                                                                              0x4a017166                                         
+PktMonClntInitialize                                                                                 0x4c02d7a1                                         
+PktMonClntNblDrop                                                                                    0xcea67720                                         
+PktMonClntNblLog                                                                                     0x635a824d                                         
+PktMonClntSetComponentProperty                                                                       0x6d8d9ab3                                         
+PktMonClntUninitialize                                                                               0x978fb6a4                                         

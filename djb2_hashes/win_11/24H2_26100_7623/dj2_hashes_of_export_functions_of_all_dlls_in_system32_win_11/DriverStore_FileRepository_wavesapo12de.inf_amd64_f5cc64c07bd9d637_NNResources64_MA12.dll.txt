@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\NNResources64_MA12.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Resource_GetData                                                                                     0x5b87faa6                                         
+Resource_GetDataSize                                                                                 0x7ee02fe1                                         
+Resource_Initialize                                                                                  0x857e651e                                         
+Resource_InitializeWithFlags                                                                         0x8e335de7                                         
+Resource_LoadNNSignatureResources                                                                    0x013e8ed5                                         
+Resource_LoadNNSoloResources                                                                         0xa8689820                                         
+Resource_Uninitialize                                                                                0x1e249761                                         

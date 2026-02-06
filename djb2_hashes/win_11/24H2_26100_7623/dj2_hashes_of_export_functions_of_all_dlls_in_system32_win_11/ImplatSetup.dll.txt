@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\ImplatSetup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ImplatMuxDispatch                                                                                    0x322d9d16                                         
+ImplatMuxMemberUninstall                                                                             0x25731478                                         
+ImplatMuxModified                                                                                    0x2ae207e7                                         
+ImplatMuxVirtualInterfaceChanged                                                                     0x32363de8                                         
+ImplatMuxVirtualInterfaces                                                                           0xb57969d1                                         
+ImplatTransactionDispatch                                                                            0xa77a9502                                         
+ImplatVmsBinding                                                                                     0x0c52c15d                                         

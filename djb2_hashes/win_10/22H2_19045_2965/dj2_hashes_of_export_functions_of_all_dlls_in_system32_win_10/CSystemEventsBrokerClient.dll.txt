@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\CSystemEventsBrokerClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CSebCreateCustomEvent                                                                                0x3b3ba673                                         
+CSebCreatePrivateEvent                                                                               0xc5faddf3                                         
+CSebCreateWellKnownEvent                                                                             0x3f0a2e79                                         
+CSebDeleteEvent                                                                                      0xc9b5c557                                         
+CSebEnumerateEvents                                                                                  0x839fb4dd                                         
+CSebQueryEventData                                                                                   0xf3014c14                                         

@@ -1,0 +1,6 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wudfusbcciddriver.inf_amd64_a084e687a06b255f\WUDFUsbccidDriver.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+Microsoft_WDF_UMDF_Version                                                                           0xb210f24b                                         

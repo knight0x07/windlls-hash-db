@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-libraryloader-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddDllDirectory                                                                                      0x3f0c2fff                                         
+DisableThreadLibraryCalls                                                                            0x530574f5                                         
+FindResourceExW                                                                                      0x19bcb6c2                                         
+FindStringOrdinal                                                                                    0xd27f1686                                         
+FreeLibrary                                                                                          0x30eece3c                                         
+FreeLibraryAndExitThread                                                                             0xe222dba1                                         
+FreeResource                                                                                         0xcbe6fe4f                                         
+GetModuleFileNameA                                                                                   0x13b8a14d                                         
+GetModuleFileNameW                                                                                   0x13b8a163                                         
+GetModuleHandleA                                                                                     0x5a153f58                                         
+GetModuleHandleExA                                                                                   0x34629615                                         
+GetModuleHandleExW                                                                                   0x3462962b                                         
+GetModuleHandleW                                                                                     0x5a153f6e                                         
+GetProcAddress                                                                                       0xcf31bb1f                                         
+LoadLibraryExA                                                                                       0x4f803c78                                         
+LoadLibraryExW                                                                                       0x4f803c8e                                         
+LoadResource                                                                                         0xdcde594d                                         
+LoadStringA                                                                                          0xbc64f7fd                                         
+LoadStringW                                                                                          0xbc64f813                                         
+LockResource                                                                                         0x145a9296                                         
+RemoveDllDirectory                                                                                   0x3af55b24                                         
+SetDefaultDllDirectories                                                                             0x4a81bdcf                                         
+SizeofResource                                                                                       0x0c17a85d                                         

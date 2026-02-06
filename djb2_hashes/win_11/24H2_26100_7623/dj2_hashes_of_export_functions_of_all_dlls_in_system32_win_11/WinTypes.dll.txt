@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\WinTypes.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+RoCreateNonAgilePropertySet                                                                          0xcfee1ef8                                         
+RoCreatePropertySetSerializer                                                                        0x073f30c5                                         
+RoGetBufferMarshaler                                                                                 0xdabe2cdf                                         
+RoGetMetaDataFile                                                                                    0xbce64b67                                         
+RoIsApiContractMajorVersionPresent                                                                   0x1cfdc97a                                         
+RoIsApiContractPresent                                                                               0x6751357b                                         
+RoParseTypeName                                                                                      0x0e5ba244                                         
+RoResolveNamespace                                                                                   0x1f6df913                                         

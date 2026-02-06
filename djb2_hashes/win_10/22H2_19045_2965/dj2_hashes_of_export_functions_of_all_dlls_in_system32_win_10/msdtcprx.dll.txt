@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\msdtcprx.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ContactToNameObject                                                                                  0x109d86ec                                         
+Create                                                                                               0xac709e99                                         
+CreateInstance                                                                                       0x0f85634e                                         
+CreateLegacyTmInstance                                                                               0x294dc664                                         
+CreateLocalTmInstance                                                                                0xf620919a                                         
+CreateRemoteProxyTmInstance                                                                          0x58cfb01d                                         
+CreateTmInstanceForRemoteAdmin                                                                       0x65fd954b                                         
+DTC_XaClose                                                                                          0x31c3f02e                                         
+DTC_XaCommit                                                                                         0x6a770e21                                         
+DTC_XaComplete                                                                                       0xe4aad891                                         
+DTC_XaEnd                                                                                            0x724b342f                                         
+DTC_XaForget                                                                                         0x71792bdf                                         
+DTC_XaOpen                                                                                           0xbbb73eea                                         
+DTC_XaPrepare                                                                                        0xa87e2127                                         
+DTC_XaRecover                                                                                        0x23fb24ce                                         
+DTC_XaRollback                                                                                       0xb9e33822                                         
+DTC_XaStart                                                                                          0x32e99fa6                                         
+DeployDtc                                                                                            0xcaa76e6d                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllGetDTCConnectionManager                                                                           0x8fe8f4e7                                         
+DllGetDTCProxy                                                                                       0xef479c3e                                         
+DllGetDTCUtilObject                                                                                  0x86216651                                         
+DllGetDtcConfigManager                                                                               0x91af268d                                         
+DllGetTransactionManagerCore                                                                         0x9b82c96b                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetDtcLogPath                                                                                        0x4bb0122f                                         
+GetTmInstance                                                                                        0xa1c7e89b                                         
+InstallContacts                                                                                      0x13e5edfb                                         
+InstallDtc                                                                                           0x57431d97                                         
+InstallDtcClient                                                                                     0xe225fb76                                         
+RemoveDtc                                                                                            0x49fa140e                                         
+ShutDownCM                                                                                           0x59dd3051                                         
+SysPrepDtcCleanup                                                                                    0x18791a3e                                         
+SysPrepDtcGeneralize                                                                                 0xeb23cb9c                                         
+SysPrepDtcSpecialize                                                                                 0x1fb8111f                                         
+UpgradeApplySuccess                                                                                  0x569af42c                                         

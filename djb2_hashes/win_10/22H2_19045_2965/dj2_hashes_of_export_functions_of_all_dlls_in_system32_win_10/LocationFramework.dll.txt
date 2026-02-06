@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\LocationFramework.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+LocationObjectManagerInstance                                                                        0x9bb44285                                         
+LocationServiceHostShutdown                                                                          0xca19e3c9                                         
+LocationServiceHostStartup                                                                           0x57008d80                                         
+RegisterLocationCOMServer                                                                            0x3e938739                                         
+SvcLocationAddRef                                                                                    0x0f513a70                                         
+SvcLocationInitServerLock                                                                            0x7e6766fe                                         
+SvcLocationReleaseRef                                                                                0x3ae99888                                         
+SvcOnConsoleSessionNotification                                                                      0x26befa4c                                         
+SvcOnUserLogOnStateNotification                                                                      0x871206b4                                         
+UnregisterLocationCOMServer                                                                          0x0e5b555c                                         

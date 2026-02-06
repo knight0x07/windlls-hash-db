@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\acledit.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+EditAuditInfo                                                                                        0x1532de8e                                         
+EditOwnerInfo                                                                                        0x44d24262                                         
+EditPermissionInfo                                                                                   0x0a9d7d00                                         
+FMExtensionProcW                                                                                     0x87f6faa0                                         
+SedDiscretionaryAclEditor                                                                            0x62b604b8                                         
+SedSystemAclEditor                                                                                   0x74fccbfd                                         
+SedTakeOwnership                                                                                     0xfd0bd305                                         

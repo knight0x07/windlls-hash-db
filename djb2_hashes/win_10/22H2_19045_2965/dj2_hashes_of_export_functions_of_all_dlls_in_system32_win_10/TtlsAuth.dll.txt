@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\TtlsAuth.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EapPeerFreeErrorMemory                                                                               0x8ae6b22c                                         
+EapPeerFreeMemory                                                                                    0xed357f62                                         
+EapPeerGetInfo                                                                                       0x3f1b2313                                         

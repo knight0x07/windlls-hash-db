@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\ngcrecovery.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NgcGetPinRecoveryParams                                                                              0x3a491b97                                         
+NgcIsPinRecoveryEnabled                                                                              0x326d5a3a                                         
+NgcProtectPinRecoverySecret                                                                          0x2f1c84fa                                         
+NgcRecoverPin                                                                                        0xf9c9ebda                                         
+NgcRecoverPinSilent                                                                                  0x78ab15a9                                         
+NgcRecoverPinSilentWithToken                                                                         0x49620146                                         
+NgcVerifyPinRecoverySecret                                                                           0x8fb8418e                                         

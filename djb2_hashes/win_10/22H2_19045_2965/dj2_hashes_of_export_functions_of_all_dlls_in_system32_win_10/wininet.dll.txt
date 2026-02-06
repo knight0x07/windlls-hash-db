@@ -1,0 +1,331 @@
+DLL Path: C:\Windows\System32\wininet.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppCacheCheckManifest                                                                                0xd0015a2f                                         
+AppCacheCloseHandle                                                                                  0x597e215c                                         
+AppCacheCreateAndCommitFile                                                                          0x79a9736a                                         
+AppCacheDeleteGroup                                                                                  0x3dfcf55a                                         
+AppCacheDeleteIEGroup                                                                                0xdf369b08                                         
+AppCacheDuplicateHandle                                                                              0xfa79ade1                                         
+AppCacheFinalize                                                                                     0xe549bfec                                         
+AppCacheFreeDownloadList                                                                             0xbb3b6dd0                                         
+AppCacheFreeGroupList                                                                                0xba2d08c5                                         
+AppCacheFreeIESpace                                                                                  0x16032e56                                         
+AppCacheFreeSpace                                                                                    0x2f99c0e8                                         
+AppCacheGetDownloadList                                                                              0xfd3faa2e                                         
+AppCacheGetFallbackUrl                                                                               0xfcb6e71d                                         
+AppCacheGetGroupList                                                                                 0x9e8d71e3                                         
+AppCacheGetIEGroupList                                                                               0xe76aa5d1                                         
+AppCacheGetInfo                                                                                      0x71c176e6                                         
+AppCacheGetManifestUrl                                                                               0x04d74c44                                         
+AppCacheLookup                                                                                       0xc9fd9774                                         
+CommitUrlCacheEntryA                                                                                 0xd0465d28                                         
+CommitUrlCacheEntryBinaryBlob                                                                        0x8434ca4b                                         
+CommitUrlCacheEntryW                                                                                 0xd0465d3e                                         
+CreateMD5SSOHash                                                                                     0xb30fc558                                         
+CreateUrlCacheContainerA                                                                             0xc06d5904                                         
+CreateUrlCacheContainerW                                                                             0xc06d591a                                         
+CreateUrlCacheEntryA                                                                                 0x85071933                                         
+CreateUrlCacheEntryExW                                                                               0xe33252c6                                         
+CreateUrlCacheEntryW                                                                                 0x85071949                                         
+CreateUrlCacheGroup                                                                                  0x9f55104d                                         
+DeleteIE3Cache                                                                                       0xc237c20d                                         
+DeleteUrlCacheContainerA                                                                             0xcb87b483                                         
+DeleteUrlCacheContainerW                                                                             0xcb87b499                                         
+DeleteUrlCacheEntry                                                                                  0x6db332d1                                         
+DeleteUrlCacheEntryA                                                                                 0x24198d32                                         
+DeleteUrlCacheEntryW                                                                                 0x24198d48                                         
+DeleteUrlCacheGroup                                                                                  0x6dd9806c                                         
+DeleteWpadCacheForNetworks                                                                           0x591901fc                                         
+DetectAutoProxyUrl                                                                                   0x403e6e0c                                         
+DispatchAPICall                                                                                      0x06de3feb                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+FindCloseUrlCache                                                                                    0xae23cf23                                         
+FindFirstUrlCacheContainerA                                                                          0x5902bbf9                                         
+FindFirstUrlCacheContainerW                                                                          0x5902bc0f                                         
+FindFirstUrlCacheEntryA                                                                              0x94bf49a8                                         
+FindFirstUrlCacheEntryExA                                                                            0xc1b87465                                         
+FindFirstUrlCacheEntryExW                                                                            0xc1b8747b                                         
+FindFirstUrlCacheEntryW                                                                              0x94bf49be                                         
+FindFirstUrlCacheGroup                                                                               0xddde8622                                         
+FindNextUrlCacheContainerA                                                                           0x814baad0                                         
+FindNextUrlCacheContainerW                                                                           0x814baae6                                         
+FindNextUrlCacheEntryA                                                                               0x0fcc64ff                                         
+FindNextUrlCacheEntryExA                                                                             0x3479c17c                                         
+FindNextUrlCacheEntryExW                                                                             0x3479c192                                         
+FindNextUrlCacheEntryW                                                                               0x0fcc6515                                         
+FindNextUrlCacheGroup                                                                                0x657a1299                                         
+ForceNexusLookup                                                                                     0x61490d61                                         
+ForceNexusLookupExW                                                                                  0xd0005315                                         
+FreeUrlCacheSpaceA                                                                                   0x63ccabbb                                         
+FreeUrlCacheSpaceW                                                                                   0x63ccabd1                                         
+FtpCommandA                                                                                          0x69e766ef                                         
+FtpCommandW                                                                                          0x69e76705                                         
+FtpCreateDirectoryA                                                                                  0x34d36af9                                         
+FtpCreateDirectoryW                                                                                  0x34d36b0f                                         
+FtpDeleteFileA                                                                                       0xd2eda3e3                                         
+FtpDeleteFileW                                                                                       0xd2eda3f9                                         
+FtpFindFirstFileA                                                                                    0x37e49759                                         
+FtpFindFirstFileW                                                                                    0x37e4976f                                         
+FtpGetCurrentDirectoryA                                                                              0xe2d893e8                                         
+FtpGetCurrentDirectoryW                                                                              0xe2d893fe                                         
+FtpGetFileA                                                                                          0x26bf1650                                         
+FtpGetFileEx                                                                                         0xfea1e14c                                         
+FtpGetFileSize                                                                                       0x2ea6e1ea                                         
+FtpGetFileW                                                                                          0x26bf1666                                         
+FtpOpenFileA                                                                                         0xa1837bc2                                         
+FtpOpenFileW                                                                                         0xa1837bd8                                         
+FtpPutFileA                                                                                          0x44b35e49                                         
+FtpPutFileEx                                                                                         0xdb1f2865                                         
+FtpPutFileW                                                                                          0x44b35e5f                                         
+FtpRemoveDirectoryA                                                                                  0x346b1d33                                         
+FtpRemoveDirectoryW                                                                                  0x346b1d49                                         
+FtpRenameFileA                                                                                       0x3b1972a8                                         
+FtpRenameFileW                                                                                       0x3b1972be                                         
+FtpSetCurrentDirectoryA                                                                              0x74aec074                                         
+FtpSetCurrentDirectoryW                                                                              0x74aec08a                                         
+GetProxyDllInfo                                                                                      0x64ea9e0f                                         
+GetUrlCacheConfigInfoA                                                                               0x334d862f                                         
+GetUrlCacheConfigInfoW                                                                               0x334d8645                                         
+GetUrlCacheEntryBinaryBlob                                                                           0x9aee6d02                                         
+GetUrlCacheEntryInfoA                                                                                0x1bc3dbab                                         
+GetUrlCacheEntryInfoExA                                                                              0x1c299328                                         
+GetUrlCacheEntryInfoExW                                                                              0x1c29933e                                         
+GetUrlCacheEntryInfoW                                                                                0x1bc3dbc1                                         
+GetUrlCacheGroupAttributeA                                                                           0xb12f7f0e                                         
+GetUrlCacheGroupAttributeW                                                                           0xb12f7f24                                         
+GetUrlCacheHeaderData                                                                                0x25191a6f                                         
+GopherCreateLocatorA                                                                                 0x3a9677b3                                         
+GopherCreateLocatorW                                                                                 0x3a9677c9                                         
+GopherFindFirstFileA                                                                                 0xee177a34                                         
+GopherFindFirstFileW                                                                                 0xee177a4a                                         
+GopherGetAttributeA                                                                                  0x60439b9f                                         
+GopherGetAttributeW                                                                                  0x60439bb5                                         
+GopherGetLocatorTypeA                                                                                0x0499d241                                         
+GopherGetLocatorTypeW                                                                                0x0499d257                                         
+GopherOpenFileA                                                                                      0x4d3b69bd                                         
+GopherOpenFileW                                                                                      0x4d3b69d3                                         
+HttpAddRequestHeadersA                                                                               0xc71bbf34                                         
+HttpAddRequestHeadersW                                                                               0xc71bbf4a                                         
+HttpCheckDavCompliance                                                                               0xd0705199                                         
+HttpCloseDependencyHandle                                                                            0xd54dd166                                         
+HttpDuplicateDependencyHandle                                                                        0xcdba15ab                                         
+HttpEndRequestA                                                                                      0x0ae85686                                         
+HttpEndRequestW                                                                                      0x0ae8569c                                         
+HttpGetServerCredentials                                                                             0xe278b98a                                         
+HttpGetTunnelSocket                                                                                  0x9bab7a24                                         
+HttpIndicatePageLoadComplete                                                                         0xfd52307c                                         
+HttpIsHostHstsEnabled                                                                                0xcc57024c                                         
+HttpOpenDependencyHandle                                                                             0x3415f682                                         
+HttpOpenRequestA                                                                                     0xf0fcb9e1                                         
+HttpOpenRequestW                                                                                     0xf0fcb9f7                                         
+HttpPushClose                                                                                        0x0d92e29b                                         
+HttpPushEnable                                                                                       0xc4b5c3ec                                         
+HttpPushWait                                                                                         0x6d0f3b7a                                         
+HttpQueryInfoA                                                                                       0x55a2f888                                         
+HttpQueryInfoW                                                                                       0x55a2f89e                                         
+HttpSendRequestA                                                                                     0x915115b9                                         
+HttpSendRequestExA                                                                                   0x29ed88b6                                         
+HttpSendRequestExW                                                                                   0x29ed88cc                                         
+HttpSendRequestW                                                                                     0x915115cf                                         
+HttpWebSocketClose                                                                                   0x42fde322                                         
+HttpWebSocketCompleteUpgrade                                                                         0x265e9aed                                         
+HttpWebSocketQueryCloseStatus                                                                        0x9a8a10bc                                         
+HttpWebSocketReceive                                                                                 0x6b77f3cf                                         
+HttpWebSocketSend                                                                                    0xdb46a736                                         
+HttpWebSocketShutdown                                                                                0xd8b06ac8                                         
+IncrementUrlCacheHeaderData                                                                          0x1bd46ab4                                         
+InternetAlgIdToStringA                                                                               0x94c6a4ea                                         
+InternetAlgIdToStringW                                                                               0x94c6a500                                         
+InternetAttemptConnect                                                                               0xc5efbeb7                                         
+InternetAutodial                                                                                     0x47bdbb41                                         
+InternetAutodialCallback                                                                             0x32b4098e                                         
+InternetAutodialHangup                                                                               0x66743584                                         
+InternetCanonicalizeUrlA                                                                             0x74c60932                                         
+InternetCanonicalizeUrlW                                                                             0x74c60948                                         
+InternetCheckConnectionA                                                                             0x4a45867d                                         
+InternetCheckConnectionW                                                                             0x4a458693                                         
+InternetClearAllPerSiteCookieDecisions                                                               0xd864d8c5                                         
+InternetCloseHandle                                                                                  0x4241bef0                                         
+InternetCombineUrlA                                                                                  0x41d1503f                                         
+InternetCombineUrlW                                                                                  0x41d15055                                         
+InternetConfirmZoneCrossing                                                                          0x32a0c640                                         
+InternetConfirmZoneCrossingA                                                                         0x86b98e81                                         
+InternetConfirmZoneCrossingW                                                                         0x86b98e97                                         
+InternetConnectA                                                                                     0x44536159                                         
+InternetConnectW                                                                                     0x4453616f                                         
+InternetConvertUrlFromWireToWideChar                                                                 0x9808def7                                         
+InternetCrackUrlA                                                                                    0x918c1966                                         
+InternetCrackUrlW                                                                                    0x918c197c                                         
+InternetCreateUrlA                                                                                   0xf0324e36                                         
+InternetCreateUrlW                                                                                   0xf0324e4c                                         
+InternetDial                                                                                         0xa28abde8                                         
+InternetDialA                                                                                        0xf3e27b29                                         
+InternetDialW                                                                                        0xf3e27b3f                                         
+InternetEnumPerSiteCookieDecisionA                                                                   0xcea40228                                         
+InternetEnumPerSiteCookieDecisionW                                                                   0xcea4023e                                         
+InternetErrorDlg                                                                                     0x0d33188f                                         
+InternetFindNextFileA                                                                                0xb5960f6f                                         
+InternetFindNextFileW                                                                                0xb5960f85                                         
+InternetFortezzaCommand                                                                              0xfafa92a2                                         
+InternetFreeCookies                                                                                  0x94da1c5d                                         
+InternetFreeProxyInfoList                                                                            0x5ac102fa                                         
+InternetGetCertByURL                                                                                 0xafeca88a                                         
+InternetGetCertByURLA                                                                                0xad81ba0b                                         
+InternetGetConnectedState                                                                            0xf920aca2                                         
+InternetGetConnectedStateEx                                                                          0xc3fe667f                                         
+InternetGetConnectedStateExA                                                                         0x43cb36a0                                         
+InternetGetConnectedStateExW                                                                         0x43cb36b6                                         
+InternetGetCookieA                                                                                   0xddaa4349                                         
+InternetGetCookieEx2                                                                                 0xf1485a37                                         
+InternetGetCookieExA                                                                                 0xf1485a46                                         
+InternetGetCookieExW                                                                                 0xf1485a5c                                         
+InternetGetCookieW                                                                                   0xddaa435f                                         
+InternetGetLastResponseInfoA                                                                         0x210333be                                         
+InternetGetLastResponseInfoW                                                                         0x210333d4                                         
+InternetGetPerSiteCookieDecisionA                                                                    0x13b35493                                         
+InternetGetPerSiteCookieDecisionW                                                                    0x13b354a9                                         
+InternetGetProxyForUrl                                                                               0xc03dba8a                                         
+InternetGetSecurityInfoByURL                                                                         0x99ad96e0                                         
+InternetGetSecurityInfoByURLA                                                                        0xcf607321                                         
+InternetGetSecurityInfoByURLW                                                                        0xcf607337                                         
+InternetGoOnline                                                                                     0xad0eb8e9                                         
+InternetGoOnlineA                                                                                    0x4ee5d64a                                         
+InternetGoOnlineW                                                                                    0x4ee5d660                                         
+InternetHangUp                                                                                       0x78fccd71                                         
+InternetInitializeAutoProxyDll                                                                       0x562a04f7                                         
+InternetLockRequestFile                                                                              0xd486b9e0                                         
+InternetOpenA                                                                                        0xf4ad70a1                                         
+InternetOpenUrlA                                                                                     0x8f5ca3b4                                         
+InternetOpenUrlW                                                                                     0x8f5ca3ca                                         
+InternetOpenW                                                                                        0xf4ad70b7                                         
+InternetQueryDataAvailable                                                                           0x39006c3f                                         
+InternetQueryFortezzaStatus                                                                          0x7fcc281d                                         
+InternetQueryOptionA                                                                                 0xfe8e069e                                         
+InternetQueryOptionW                                                                                 0xfe8e06b4                                         
+InternetReadFile                                                                                     0xfb4f8eaa                                         
+InternetReadFileExA                                                                                  0xbb2b3ba8                                         
+InternetReadFileExW                                                                                  0xbb2b3bbe                                         
+InternetSecurityProtocolToStringA                                                                    0xbbbe82b3                                         
+InternetSecurityProtocolToStringW                                                                    0xbbbe82c9                                         
+InternetSetCookieA                                                                                   0x0e2910d5                                         
+InternetSetCookieEx2                                                                                 0x3cb0bac3                                         
+InternetSetCookieExA                                                                                 0x3cb0bad2                                         
+InternetSetCookieExW                                                                                 0x3cb0bae8                                         
+InternetSetCookieW                                                                                   0x0e2910eb                                         
+InternetSetDialState                                                                                 0xf2c299f5                                         
+InternetSetDialStateA                                                                                0x4b15d8d6                                         
+InternetSetDialStateW                                                                                0x4b15d8ec                                         
+InternetSetFilePointer                                                                               0x520ba43b                                         
+InternetSetOptionA                                                                                   0xac928ef4                                         
+InternetSetOptionExA                                                                                 0x1b723cb1                                         
+InternetSetOptionExW                                                                                 0x1b723cc7                                         
+InternetSetOptionW                                                                                   0xac928f0a                                         
+InternetSetPerSiteCookieDecisionA                                                                    0x24d7389f                                         
+InternetSetPerSiteCookieDecisionW                                                                    0x24d738b5                                         
+InternetSetSecureLegacyServersAppCompat                                                              0xc90d6bc5                                         
+InternetSetStatusCallback                                                                            0xf057c88b                                         
+InternetSetStatusCallbackA                                                                           0xfb50da2c                                         
+InternetSetStatusCallbackW                                                                           0xfb50da42                                         
+InternetShowSecurityInfoByURL                                                                        0x169abfe1                                         
+InternetShowSecurityInfoByURLA                                                                       0xe9f2bc42                                         
+InternetShowSecurityInfoByURLW                                                                       0xe9f2bc58                                         
+InternetTimeFromSystemTime                                                                           0xe04b7685                                         
+InternetTimeFromSystemTimeA                                                                          0xe9ba4766                                         
+InternetTimeFromSystemTimeW                                                                          0xe9ba477c                                         
+InternetTimeToSystemTime                                                                             0x7029d714                                         
+InternetTimeToSystemTimeA                                                                            0x7564b9d5                                         
+InternetTimeToSystemTimeW                                                                            0x7564b9eb                                         
+InternetUnlockRequestFile                                                                            0x128eee83                                         
+InternetWriteFile                                                                                    0x3a499359                                         
+InternetWriteFileExA                                                                                 0x5276b5f7                                         
+InternetWriteFileExW                                                                                 0x5276b60d                                         
+IsHostInProxyBypassList                                                                              0x137b80e6                                         
+IsUrlCacheEntryExpiredA                                                                              0x23d7dbac                                         
+IsUrlCacheEntryExpiredW                                                                              0x23d7dbc2                                         
+LoadUrlCacheContent                                                                                  0x0f9d16e7                                         
+ParseX509EncodedCertificateForListBoxEntry                                                           0xb24b9589                                         
+PrivacyGetZonePreferenceW                                                                            0xedab7d75                                         
+PrivacySetZonePreferenceW                                                                            0x16b51701                                         
+ReadUrlCacheEntryStream                                                                              0x18fa8a26                                         
+ReadUrlCacheEntryStreamEx                                                                            0x41c5b503                                         
+RegisterUrlCacheNotification                                                                         0x19885858                                         
+ResumeSuspendedDownload                                                                              0xc2af6719                                         
+RetrieveUrlCacheEntryFileA                                                                           0xaeb2c945                                         
+RetrieveUrlCacheEntryFileW                                                                           0xaeb2c95b                                         
+RetrieveUrlCacheEntryStreamA                                                                         0x29552cb1                                         
+RetrieveUrlCacheEntryStreamW                                                                         0x29552cc7                                         
+RunOnceUrlCache                                                                                      0xbd805c46                                         
+SetUrlCacheConfigInfoA                                                                               0x936105bb                                         
+SetUrlCacheConfigInfoW                                                                               0x936105d1                                         
+SetUrlCacheEntryGroup                                                                                0xe83dc177                                         
+SetUrlCacheEntryGroupA                                                                               0xeff5f098                                         
+SetUrlCacheEntryGroupW                                                                               0xeff5f0ae                                         
+SetUrlCacheEntryInfoA                                                                                0xe85f99b7                                         
+SetUrlCacheEntryInfoW                                                                                0xe85f99cd                                         
+SetUrlCacheGroupAttributeA                                                                           0xe6cfe49a                                         
+SetUrlCacheGroupAttributeW                                                                           0xe6cfe4b0                                         
+SetUrlCacheHeaderData                                                                                0xf1b4d87b                                         
+ShowCertificate                                                                                      0xbb9d5089                                         
+ShowClientAuthCerts                                                                                  0xbe95ac38                                         
+ShowSecurityInfo                                                                                     0xc6c3f1ea                                         
+ShowX509EncodedCertificate                                                                           0x7916c831                                         
+UnlockUrlCacheEntryFile                                                                              0xca145f8a                                         
+UnlockUrlCacheEntryFileA                                                                             0x0ca0510b                                         
+UnlockUrlCacheEntryFileW                                                                             0x0ca05121                                         
+UnlockUrlCacheEntryStream                                                                            0xbfc7def6                                         
+UpdateUrlCacheContentPath                                                                            0xc1b94ef7                                         
+UrlCacheCheckEntriesExist                                                                            0x67c40bf1                                         
+UrlCacheCloseEntryHandle                                                                             0xb02d0e80                                         
+UrlCacheContainerSetEntryMaximumAge                                                                  0xac4ed698                                         
+UrlCacheCreateContainer                                                                              0x01db49a3                                         
+UrlCacheFindFirstEntry                                                                               0xe6daa367                                         
+UrlCacheFindNextEntry                                                                                0xb74ddbfe                                         
+UrlCacheFreeEntryInfo                                                                                0xc49a29ec                                         
+UrlCacheFreeGlobalSpace                                                                              0x6430adcb                                         
+UrlCacheGetContentPaths                                                                              0x1059a747                                         
+UrlCacheGetEntryInfo                                                                                 0x1b7e20ca                                         
+UrlCacheGetGlobalCacheSize                                                                           0xb7c8ce4c                                         
+UrlCacheGetGlobalLimit                                                                               0x036b85dc                                         
+UrlCacheReadEntryStream                                                                              0xa239a9a6                                         
+UrlCacheReloadSettings                                                                               0x21cce674                                         
+UrlCacheRetrieveEntryFile                                                                            0xfd1fa984                                         
+UrlCacheRetrieveEntryStream                                                                          0xe2cd8f70                                         
+UrlCacheServer                                                                                       0x5593aec3                                         
+UrlCacheSetGlobalLimit                                                                               0xca6e3968                                         
+UrlCacheUpdateEntryExtraData                                                                         0x385820df                                         
+UrlZonesDetach                                                                                       0xd8c1f410                                         
+_GetFileExtensionFromUrl                                                                             0x1bde9e68                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

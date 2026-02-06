@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\WindowsPowerShell\v1.0\Modules\PersistentMemory\scmbridge.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ScmDeletePmemDisk                                                                                    0xfc194855                                         
+ScmGetDiskNumberFromDiskGuid                                                                         0x719f3924                                         
+ScmGetLogicalPmemDiskByDiskNumber                                                                    0xcb15d2ec                                         
+ScmGetLogicalPmemDisks                                                                               0xa3e03130                                         
+ScmGetPhysicalNvdimmByNfitHandle                                                                     0x9423a008                                         
+ScmGetPhysicalNvdimms                                                                                0xa182a603                                         
+ScmGetUnusedPmemRegionById                                                                           0x3a40ef17                                         
+ScmGetUnusedPmemRegions                                                                              0x79028462                                         
+ScmInitializePmemPhysicalDevice                                                                      0x775a6316                                         
+ScmNewPmemDiskFromUnusedRegion                                                                       0xf56493f8                                         
+ScmRebuildStacks                                                                                     0x035b6a38                                         

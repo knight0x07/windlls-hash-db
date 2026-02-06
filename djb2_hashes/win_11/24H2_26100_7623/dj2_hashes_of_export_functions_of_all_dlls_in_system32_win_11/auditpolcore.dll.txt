@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\auditpolcore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AdtBackupPolicy                                                                                      0xfbaa33e4                                         
+AdtBackupPolicyGeneralized                                                                           0x3ba8012e                                         
+AdtClearPolicy                                                                                       0x66feef95                                         
+AdtConstructAllCategoryGuids                                                                         0x02850db6                                         
+AdtConvertGuidStringToGuid                                                                           0x20eca1eb                                         
+AdtConvertGuidToString                                                                               0xfb5556e2                                         
+AdtDisableSinglePrivilege                                                                            0x8721847b                                         
+AdtEnableSinglePrivilege                                                                             0xbc4f9fee                                         
+AdtGetOption                                                                                         0xd9c19177                                         
+AdtGetPerUserPolicy                                                                                  0xb9ee57f4                                         
+AdtGetSystemPolicy                                                                                   0x97c076f3                                         
+AdtListCategories                                                                                    0xa8e4e220                                         
+AdtListSubCategories                                                                                 0xff205cea                                         
+AdtLoadStringEx                                                                                      0x1ad015d2                                         
+AdtParseAuditOptionName                                                                              0x174a316a                                         
+AdtParseGuidOrNameArray                                                                              0xe22e0963                                         
+AdtRemoveAllUsers                                                                                    0xc2011477                                         
+AdtRemoveBasePolicy                                                                                  0x3dc761f7                                         
+AdtRestorePolicy                                                                                     0xcae14612                                         
+AdtRestorePolicyGeneralized                                                                          0xa2ca9a9c                                         
+AdtSetOption                                                                                         0x4f96dd83                                         
+AdtSetPerUserPolicy                                                                                  0x4c6c1e80                                         
+AdtSetSystemPolicy                                                                                   0x3f199bff                                         
+AuditPolicyData_DeleteAuditDataInstance                                                              0x0149423e                                         
+DisplayMessage                                                                                       0x4b4b2080                                         
+DisplayMessageToSpecificConsoleHandle                                                                0x920abb68                                         
+GetDisplayPolicy                                                                                     0x09908c2b                                         
+LoadFormatStringAndPrintToConsole                                                                    0x50681c9b                                         
+SetDisplayPolicy                                                                                     0x9c0e52b7                                         

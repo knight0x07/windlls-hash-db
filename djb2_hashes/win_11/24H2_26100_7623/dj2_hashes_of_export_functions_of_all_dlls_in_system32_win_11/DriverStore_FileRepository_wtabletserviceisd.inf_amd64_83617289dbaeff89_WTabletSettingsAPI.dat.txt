@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wtabletserviceisd.inf_amd64_83617289dbaeff89\WTabletSettingsAPI.dat
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WacomISD_Connect                                                                                     0x125df865                                         
+WacomISD_FinishKeyCapture                                                                            0xf66a2559                                         
+WacomISD_RegisterCallbacks                                                                           0x6b0b1f40                                         
+WacomISD_SetBatteryAlertDelay                                                                        0x9372fa29                                         
+WacomISD_SetBottomHoverClick                                                                         0x4b44c5c6                                         
+WacomISD_SetBottomSinglePress                                                                        0x0ab6476b                                         
+WacomISD_SetEraserDoublePress                                                                        0x434f2a91                                         
+WacomISD_SetEraserLongPress                                                                          0xc46c42c6                                         
+WacomISD_SetEraserSinglePress                                                                        0x696073f8                                         
+WacomISD_SetLogLevel                                                                                 0x17cc3f61                                         
+WacomISD_SetMenuCenterRightClick                                                                     0xd2203b61                                         
+WacomISD_SetMenuOp                                                                                   0xafdbabbb                                         
+WacomISD_SetSlavedDisplayZoom                                                                        0xea51db81                                         
+WacomISD_SetTiltSensitivity                                                                          0x0e19306f                                         
+WacomISD_SetTipSensitivity                                                                           0x537bb3ff                                         
+WacomISD_SetTopHoverClick                                                                            0x69753724                                         
+WacomISD_SetTopSinglePress                                                                           0xeef4e489                                         
+WacomISD_Shutdown                                                                                    0x182300b7                                         
+WacomISD_StartKeyCapture                                                                             0x11d32746                                         

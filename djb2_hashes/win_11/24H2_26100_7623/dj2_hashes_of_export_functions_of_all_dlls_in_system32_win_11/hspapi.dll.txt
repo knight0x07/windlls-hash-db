@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\hspapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HspCloseContext                                                                                      0x6a5f170b                                         
+HspCreateContext                                                                                     0x588fd309                                         
+HspGetActiveVersion                                                                                  0xae2d3832                                         
+HspGetPlatRotHealthStatus                                                                            0x02439630                                         
+HspGetPlatRotVendorId                                                                                0x0c9582b1                                         
+HspGetTelemetry                                                                                      0xbe6ccfcb                                         
+HspIsPlatRotCapable                                                                                  0xddf34d1a                                         
+HspIsPlatRotEnabled                                                                                  0x952c1d3d                                         
+IsHspPresent                                                                                         0x29de134d                                         

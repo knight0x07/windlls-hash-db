@@ -1,0 +1,53 @@
+DLL Path: C:\Windows\System32\spinf.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SpInfDetermineInfStyle                                                                               0x2ef1d330                                         
+SpInfDoesInfContainString                                                                            0xd7cc4a10                                         
+SpInfEnumInfSections                                                                                 0xbc0ffbdf                                         
+SpInfFileFullPathFromLineContext                                                                     0x8aabb446                                         
+SpInfFindFirstLine                                                                                   0xd571c3d6                                         
+SpInfFindNextMatchLine                                                                               0xb108463a                                         
+SpInfFindValueInSectionList                                                                          0x6e646b6b                                         
+SpInfFreeInfFile                                                                                     0x0dd50224                                         
+SpInfGetBestInstallSection                                                                           0x3a18871f                                         
+SpInfGetBestModelsSection                                                                            0xdcd3e54c                                         
+SpInfGetDirIdHandler                                                                                 0x4398832f                                         
+SpInfGetDriverVer                                                                                    0xe9775bbe                                         
+SpInfGetField                                                                                        0xb993c509                                         
+SpInfGetIndirectString                                                                               0x2927d52e                                         
+SpInfGetInfInformation                                                                               0xf83afd08                                         
+SpInfGetInfLineNumber                                                                                0x46b7ec13                                         
+SpInfGetInfSections                                                                                  0xe410cc4a                                         
+SpInfGetInfStyle                                                                                     0x6702ddf3                                         
+SpInfGetLanguageId                                                                                   0xbb3bab96                                         
+SpInfGetLineByIndex                                                                                  0x4a8a3600                                         
+SpInfGetLineCount                                                                                    0x95dd83b6                                         
+SpInfGetLineCountFromSection                                                                         0xad9076ff                                         
+SpInfGetLineFieldCount                                                                               0xd71e495a                                         
+SpInfGetLineTextWithKey                                                                              0x6d5bd917                                         
+SpInfGetLogToken                                                                                     0x7b26e028                                         
+SpInfGetNextInf                                                                                      0xcd723f21                                         
+SpInfGetOriginalInfName                                                                              0x522c1cd8                                         
+SpInfGetPathFromDirId                                                                                0xbcd0c372                                         
+SpInfGetPrevInf                                                                                      0x84630fff                                         
+SpInfGetStringField                                                                                  0xb04d1240                                         
+SpInfGetStringsSection                                                                               0xdca7d424                                         
+SpInfGetTargetPath                                                                                   0x68902779                                         
+SpInfGetVersionDatum                                                                                 0x2e6ebce6                                         
+SpInfGetVersionNode                                                                                  0xd2e24691                                         
+SpInfIsIndirectString                                                                                0xa7a123ea                                         
+SpInfLineFromContext                                                                                 0xd10d8ce6                                         
+SpInfLineIsSearchable                                                                                0x720bc353                                         
+SpInfLoadInfFile                                                                                     0x63adf562                                         
+SpInfLocateLine                                                                                      0x96470705                                         
+SpInfLocateSection                                                                                   0xd9866532                                         
+SpInfLockInf                                                                                         0xcb422c8b                                         
+SpInfQueryInfFileInformation                                                                         0xec4a46be                                         
+SpInfQueryInfVersionInformation                                                                      0x81a4a744                                         
+SpInfSectionNameFromLineContext                                                                      0x8652ef7c                                         
+SpInfSetDirIdHandler                                                                                 0xeaf1a83b                                         
+SpInfSetDirectoryId                                                                                  0x9be33793                                         
+SpInfSourcePathFromHandle                                                                            0xcaa151a3                                         
+SpInfUnlockInf                                                                                       0x9092cfee                                         
+SpInfVersionNodeFromInfInformation                                                                   0xaf1d7208                                         

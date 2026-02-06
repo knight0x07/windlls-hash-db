@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\AuthBroker.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AuthBrokerClearThreadClientContext                                                                   0x8c45c4ff                                         
+AuthBrokerCreateClientContext                                                                        0xfe3b81f4                                         
+AuthBrokerFreeClientContext                                                                          0x3949ecc2                                         
+AuthBrokerSetThreadClientContext                                                                     0xf85fff24                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+FindCallingThreadImmersiveWindow                                                                     0xeec2d0e1                                         
+PurgeAuthHostSsoCache                                                                                0xb4d4cfc1                                         

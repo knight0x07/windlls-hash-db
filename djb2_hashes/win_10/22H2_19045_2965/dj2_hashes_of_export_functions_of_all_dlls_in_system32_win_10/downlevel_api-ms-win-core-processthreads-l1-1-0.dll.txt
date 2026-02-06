@@ -1,0 +1,53 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-processthreads-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateProcessA                                                                                       0xaeb52e19                                         
+CreateProcessAsUserW                                                                                 0xb053cc42                                         
+CreateProcessW                                                                                       0xaeb52e2f                                         
+CreateRemoteThread                                                                                   0xaa30775d                                         
+CreateRemoteThreadEx                                                                                 0xf82bcbfa                                         
+CreateThread                                                                                         0x7f08f451                                         
+DeleteProcThreadAttributeList                                                                        0x281072f4                                         
+ExitProcess                                                                                          0xb769339e                                         
+ExitThread                                                                                           0x7acb5457                                         
+FlushProcessWriteBuffers                                                                             0x24a4bf9e                                         
+GetCurrentProcess                                                                                    0xca8d7527                                         
+GetCurrentProcessId                                                                                  0xa3bf64b4                                         
+GetCurrentThread                                                                                     0xe03908c0                                         
+GetCurrentThreadId                                                                                   0xd29e428d                                         
+GetExitCodeProcess                                                                                   0xe21026f9                                         
+GetExitCodeThread                                                                                    0xb263c852                                         
+GetPriorityClass                                                                                     0x3986e9dd                                         
+GetProcessId                                                                                         0x4986c7f1                                         
+GetProcessIdOfThread                                                                                 0x3414963e                                         
+GetProcessTimes                                                                                      0x923536e6                                         
+GetProcessVersion                                                                                    0x85606b6a                                         
+GetStartupInfoW                                                                                      0x348b755b                                         
+GetThreadId                                                                                          0x2537b22a                                         
+GetThreadPriority                                                                                    0x3a45e99f                                         
+GetThreadPriorityBoost                                                                               0x672cdbc6                                         
+InitializeProcThreadAttributeList                                                                    0x5ca2ca33                                         
+OpenProcessToken                                                                                     0xc57bd097                                         
+OpenThread                                                                                           0x806cb78f                                         
+OpenThreadToken                                                                                      0xd7b785f0                                         
+ProcessIdToSessionId                                                                                 0xe7e26065                                         
+QueryProcessAffinityUpdateMode                                                                       0x2845eddc                                         
+QueueUserAPC                                                                                         0x76c0c4bd                                         
+ResumeThread                                                                                         0x74162a6e                                         
+SetPriorityClass                                                                                     0xcc04b069                                         
+SetProcessAffinityUpdateMode                                                                         0xf02bf5f2                                         
+SetProcessShutdownParameters                                                                         0xe60ea420                                         
+SetThreadPriority                                                                                    0x1c7c81ab                                         
+SetThreadPriorityBoost                                                                               0xc7405b52                                         
+SetThreadStackGuarantee                                                                              0xc6cc019b                                         
+SetThreadToken                                                                                       0x575b17ca                                         
+SuspendThread                                                                                        0x8bf7525f                                         
+SwitchToThread                                                                                       0x3d8342d2                                         
+TerminateProcess                                                                                     0x60af076d                                         
+TerminateThread                                                                                      0x87ae6a46                                         
+TlsAlloc                                                                                             0x8bf55163                                         
+TlsFree                                                                                              0x4a12077a                                         
+TlsGetValue                                                                                          0xb00ef115                                         
+TlsSetValue                                                                                          0xc324eba1                                         
+UpdateProcThreadAttribute                                                                            0x09c91a68                                         

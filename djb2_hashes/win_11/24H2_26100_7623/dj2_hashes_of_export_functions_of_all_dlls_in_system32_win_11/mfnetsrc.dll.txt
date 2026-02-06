@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\mfnetsrc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+MFCreateByteCacheFile                                                                                0x2eceb454                                         
+MFCreateCacheManager                                                                                 0x78b6a41b                                         
+MFCreateFileBlockMap                                                                                 0x2293a5f5                                         

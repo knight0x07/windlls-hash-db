@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-Eventing-ClassicProvider-L1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetTraceEnableFlags                                                                                  0x932f8608                                         
+GetTraceEnableLevel                                                                                  0x93989b73                                         
+GetTraceLoggerHandle                                                                                 0xaaa4c0c0                                         
+RegisterTraceGuidsW                                                                                  0x4b5c46ac                                         
+TraceEvent                                                                                           0xa3030bb6                                         
+TraceMessage                                                                                         0xb11ed659                                         
+TraceMessageVa                                                                                       0x742ddc10                                         
+UnregisterTraceGuids                                                                                 0xf9d70f38                                         

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\httpprxp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ProxyHelperGetProxyEventInformation                                                                  0xfa28eb11                                         
+ProxyHelperProviderConnectToServer                                                                   0x41a37e76                                         
+ProxyHelperProviderDisconnectFromServer                                                              0x342df347                                         
+ProxyHelperProviderFreeMemory                                                                        0x7f8a540d                                         
+ProxyHelperProviderRegisterForEventNotification                                                      0x12cdd5a7                                         
+ProxyHelperProviderSetProxyConfiguration                                                             0xec1a1bd8                                         
+ProxyHelperProviderSetProxyCredentials                                                               0x0ffe3b6e                                         
+ProxyHelperProviderUnregisterEventNotification                                                       0xd2905303                                         

@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\detectionverificationdrv.inf_amd64_85e9fbc6fd099df7\WakeWordEngine.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateWoVEngineInstance                                                                              0xcc819240                                         
+GetApiVersion                                                                                        0xe276c185                                         
+GetBuildVersion                                                                                      0xb1fe293b                                         
+GetChunkSizeIn10Ms                                                                                   0x781c2171                                         
+GetVendorId                                                                                          0x0d6dd380                                         
+OnReferenceSignalLevelChanged                                                                        0xf2fadab1                                         
+ReleaseWoVEngineInstance                                                                             0x737d828d                                         
+Reset                                                                                                0x0e043268                                         
+UpdateConfiguration                                                                                  0x6e171680                                         
+Verify                                                                                               0xd7dea53a                                         

@@ -1,0 +1,56 @@
+DLL Path: C:\Windows\System32\reseteng.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RjvApplyData                                                                                         0xbe5ab677                                         
+RjvApplyDataEntryPoint                                                                               0x778a2f33                                         
+RjvBareMetalResetAvailable                                                                           0x4920cf48                                         
+RjvBasicReset                                                                                        0x65f6473c                                         
+RjvBasicResetChecks                                                                                  0x9bd2706d                                         
+RjvCheckBattery                                                                                      0x28d31c90                                         
+RjvCheckBitLocker                                                                                    0xaf795bb4                                         
+RjvCheckDiskSpace                                                                                    0x91d4346c                                         
+RjvCheckOsHealth                                                                                     0x44720d0d                                         
+RjvCheckWinRE                                                                                        0xf2f6b7ba                                         
+RjvCleanup                                                                                           0xcbb50f7f                                         
+RjvCommitReset                                                                                       0xf49a0e63                                         
+RjvCreateSuccessTaskEntryPoint                                                                       0x35e51173                                         
+RjvDelayedCleanup                                                                                    0x5ee24ab7                                         
+RjvDelayedCleanupEntryPoint                                                                          0x9cc81373                                         
+RjvFactoryImageAvailable                                                                             0x96767d73                                         
+RjvFactoryReset                                                                                      0x1fd1e492                                         
+RjvFactoryResetChecks                                                                                0x61403643                                         
+RjvFinalize                                                                                          0x352aeb49                                         
+RjvGenerateImageBasedBMRConfigData                                                                   0x0bfbc715                                         
+RjvGenerateReconstructionBMRConfigData                                                               0xfbc2d2b5                                         
+RjvGetCloudRecInfo                                                                                   0xa58f4b54                                         
+RjvGetVolumeInfo                                                                                     0x109672fb                                         
+RjvInitializeEngine                                                                                  0xbddf8f9f                                         
+RjvInitializeSystemPartitionInfo                                                                     0x2d918fd4                                         
+RjvIsCloudRec                                                                                        0x6c0d25a4                                         
+RjvLoadState                                                                                         0x3b899758                                         
+RjvLogFailureEntryPoint                                                                              0x484477fd                                         
+RjvLogSuccessEntryPoint                                                                              0x4ea1fd4e                                         
+RjvOfflineCleanup                                                                                    0x93442382                                         
+RjvPDeleteFilesFromVolumeBeforeWimApply                                                              0x273fb9df                                         
+RjvPEraseVolume                                                                                      0x83502b8f                                         
+RjvPolicyAllowsReset                                                                                 0x37031d7c                                         
+RjvPostApplyDataEntryPoint                                                                           0x02f716b9                                         
+RjvPreApplyDataEntryPoint                                                                            0x16799bda                                         
+RjvPrepareForReset                                                                                   0x88b89830                                         
+RjvReInitializeEngine                                                                                0x3456fa56                                         
+RjvRePartitionSystemDisk                                                                             0x8870b8d8                                         
+RjvRePartitionSystemDiskEx                                                                           0x67825835                                         
+RjvRollBack                                                                                          0x1223e1c1                                         
+RjvSaveState                                                                                         0xd2332e87                                         
+RjvSendCancelEvent                                                                                   0xd4d7a529                                         
+RjvSetCloudRecInfo                                                                                   0x4ce87060                                         
+RjvStageBasicReset                                                                                   0x0b425eb0                                         
+RjvStartLogging                                                                                      0xab4e916c                                         
+RjvStopLogging                                                                                       0x49d2dda4                                         
+RjvSysResetErrBasicEntryPoint                                                                        0xb5644900                                         
+RjvSysResetErrFactoryEntryPoint                                                                      0x722572d6                                         
+RjvTestFunction                                                                                      0x1b33773d                                         
+RjvUndoPrepareForReset                                                                               0xda228e66                                         
+RjvUninitializeEngine                                                                                0xaee70ee2                                         
+RjvVerifySystemDiskInfo                                                                              0x8ea14788                                         

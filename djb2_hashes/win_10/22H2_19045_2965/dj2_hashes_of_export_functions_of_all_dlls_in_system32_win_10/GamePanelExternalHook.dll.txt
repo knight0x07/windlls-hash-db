@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\GamePanelExternalHook.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?GPHHookWindowPointerDown@CGamePanelExternalHook@@SAIXZ                                              0x66b5fa15                                         
+?GetInstance@CGamePanelExternalHook@@SAAEAV1@XZ                                                      0x4539ab8e                                         
+?Hook@CGamePanelExternalHook@@QEAAXPEAUHWND__@@@Z                                                    0x32af7b1a                                         
+?SetIntercept@CGamePanelExternalHook@@QEAAX_NPEAUHWND__@@@Z                                          0x867729f0                                         
+?Unhook@CGamePanelExternalHook@@QEAAXXZ                                                              0x1a83b85b                                         

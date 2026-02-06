@@ -1,0 +1,38 @@
+DLL Path: C:\Windows\System32\wlansec.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MSMSecConnectionHealthCheck                                                                          0xd951c9b1                                         
+MSMSecCreateDiscoveryProfiles                                                                        0x1ee9a97d                                         
+MSMSecDeinitialize                                                                                   0x5ea079e8                                         
+MSMSecDeinitializeAdapter                                                                            0x5fcf3f09                                         
+MSMSecDisableIpAddressAllocation                                                                     0x31d3c966                                         
+MSMSecEnableIpAddressAllocation                                                                      0xc3eccc79                                         
+MSMSecFreeIntfState                                                                                  0x538a1e41                                         
+MSMSecFreeMemory                                                                                     0x14ef5948                                         
+MSMSecFreePeerState                                                                                  0xcdf5119c                                         
+MSMSecFreeProfile                                                                                    0xb83b62c0                                         
+MSMSecGetPeerIpAddress                                                                               0xcb1ce938                                         
+MSMSecInitialize                                                                                     0xc3d5961f                                         
+MSMSecInitializeAdapter                                                                              0x2cd19760                                         
+MSMSecIsUIRequestPending                                                                             0x84987f55                                         
+MSMSecPerformCapabilityMatch                                                                         0x555601d7                                         
+MSMSecPerformPostAssociateSecurity                                                                   0x5f4e84e2                                         
+MSMSecPerformPreAssociateSecurity                                                                    0xe8a60fa3                                         
+MSMSecPerformPreAssociateSecurityEx                                                                  0xaa688dc0                                         
+MSMSecProcessSessionChange                                                                           0x14a470d6                                         
+MSMSecQueryAPPeerPSKIndex                                                                            0xfa864f06                                         
+MSMSecQueryIntfState                                                                                 0xc68cdf75                                         
+MSMSecQueryPeerState                                                                                 0x40f7d2d0                                         
+MSMSecRecvIndication                                                                                 0x4414cbbf                                         
+MSMSecRecvPacket                                                                                     0xa5e85235                                         
+MSMSecRedoSecurity                                                                                   0x8f5395cf                                         
+MSMSecRemoveAPPeerKey                                                                                0x28efa061                                         
+MSMSecSendPktCompletion                                                                              0x48001700                                         
+MSMSecSetAPPeerKey                                                                                   0x00cf843f                                         
+MSMSecSetAPSecondaryPSK                                                                              0x53c35800                                         
+MSMSecSetRuntimeState                                                                                0x098e0fbe                                         
+MSMSecSetWcnOneXEnable                                                                               0x9c1d0d82                                         
+MSMSecStopPostAssociateSecurity                                                                      0x510e994d                                         
+MSMSecStopSecurity                                                                                   0x31a63f6b                                         
+MSMSecUIResponse                                                                                     0x7a291e5a                                         

@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\usbui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CPlApplet                                                                                            0x5c9b924a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+USBControllerBandwidthPage                                                                           0x8d4de2a5                                         
+USBControllerPropPageProvider                                                                        0x6678021c                                         
+USBDevicePropPageProvider                                                                            0x33e20c28                                         
+USBErrorHandler                                                                                      0x25afc5d7                                         
+USBHubPowerPage                                                                                      0x53a2c3b8                                         
+USBHubPropPageProvider                                                                               0x92683c17                                         
+UsbControlPanelApplet                                                                                0xeeb90946                                         

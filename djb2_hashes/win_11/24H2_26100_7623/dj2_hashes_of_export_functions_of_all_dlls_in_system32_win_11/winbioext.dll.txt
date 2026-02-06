@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\winbioext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+WinBioAcquireFocus                                                                                   0xb7c022d7                                         
+WinBioAsyncEnumDatabases                                                                             0xfdc33868                                         
+WinBioAsyncMonitorFrameworkChanges                                                                   0xba71473a                                         
+WinBioCaptureSample                                                                                  0xf664fac3                                         
+WinBioCaptureSampleWithCallback                                                                      0x71f5938c                                         
+WinBioEnrollCaptureWithCallback                                                                      0x09023576                                         
+WinBioEnumDatabases                                                                                  0x3730f1ea                                         
+WinBioGetDomainLogonSetting                                                                          0xe5171f22                                         
+WinBioGetEnabledSetting                                                                              0x901e9f56                                         
+WinBioGetLogonSetting                                                                                0x184492ca                                         
+WinBioIdentifyWithCallback                                                                           0x1419ae52                                         
+WinBioIsESSCapable                                                                                   0xf4d0ab3c                                         
+WinBioIsLegacy                                                                                       0xfdccb43e                                         
+WinBioLocateSensor                                                                                   0xd693c43f                                         
+WinBioLocateSensorWithCallback                                                                       0x17a27708                                         
+WinBioLogonIdentifiedUser                                                                            0x86d70ba0                                         
+WinBioNotifyPasswordChange                                                                           0x73482b7f                                         
+WinBioOpenSession                                                                                    0xe68e3343                                         
+WinBioRegisterEventMonitor                                                                           0x905c41fc                                         
+WinBioRegisterServiceMonitor                                                                         0x74e21feb                                         
+WinBioReleaseFocus                                                                                   0x919270ce                                         
+WinBioUnregisterEventMonitor                                                                         0x824c003f                                         
+WinBioUnregisterServiceMonitor                                                                       0xa1ba7aee                                         
+WinBioVerifyWithCallback                                                                             0x54878e4b                                         

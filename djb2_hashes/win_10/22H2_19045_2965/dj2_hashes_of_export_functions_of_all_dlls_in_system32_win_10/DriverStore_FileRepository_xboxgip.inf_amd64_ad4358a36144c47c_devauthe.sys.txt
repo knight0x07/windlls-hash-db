@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\xboxgip.inf_amd64_ad4358a36144c47c\devauthe.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DevAuthExportKey                                                                                     0x2c77dd01                                         
+DevAuthGetDeviceInfo                                                                                 0x8125c7f2                                         
+DevAuthGetHostMessage                                                                                0x12938db9                                         
+DevAuthGetStatus                                                                                     0x7f40e9fa                                         
+DevAuthGetTelemetryInfo                                                                              0xce4e775d                                         
+DevAuthProcessDeviceMessage                                                                          0x9d1ee6aa                                         
+DevAuthRegister                                                                                      0x7a8547bb                                         
+DevAuthUnregister                                                                                    0x2ba3cfbe                                         
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         

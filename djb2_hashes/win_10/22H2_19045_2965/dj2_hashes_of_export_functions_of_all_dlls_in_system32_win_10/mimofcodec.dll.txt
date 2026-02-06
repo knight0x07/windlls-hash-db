@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\mimofcodec.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MI_Application_NewDeserializer_Mof                                                                   0x4158c39b                                         
+MI_Application_NewSerializer_Mof                                                                     0xed9378d2                                         
+MI_MOFParser_Delete                                                                                  0xfa3ad91b                                         
+MI_MOFParser_Init                                                                                    0x0e1c551c                                         
+MI_MOFParser_Lex                                                                                     0x8c106b51                                         
+MI_MOFParser_Parse                                                                                   0xd21ea9c3                                         
+NITS_PRESENCE_STUB                                                                                   0xa3f793f4                                         
+NITS_STUB                                                                                            0xd96ad480                                         

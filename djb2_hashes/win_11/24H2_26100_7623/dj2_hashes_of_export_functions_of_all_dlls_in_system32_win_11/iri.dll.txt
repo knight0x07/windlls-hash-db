@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\iri.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IriAppendRelativeIri                                                                                 0xc78f4c01                                         
+IriAppendSegment                                                                                     0xfdde6fb4                                         
+IriClose                                                                                             0x1bcf403f                                         
+IriCompare                                                                                           0x5379edd0                                         
+IriCopy                                                                                              0x0899b984                                         
+IriCreateFromString                                                                                  0x0571a1a8                                         
+IriFindLastCommonSegment                                                                             0x4a62107a                                         
+IriGetAsString                                                                                       0x164e9b54                                         
+IriGetAttributeFlags                                                                                 0x6d3bc7aa                                         
+IriGetComponent                                                                                      0xdff56cdc                                         
+IriGetRelative                                                                                       0xc9f8aba5                                         
+IriGetSegment                                                                                        0x98965adc                                         
+IriGetSegmentCount                                                                                   0x5cc8cc85                                         
+IriMakeConstantEx                                                                                    0x770ee68e                                         
+IriMutableClose                                                                                      0x98f24069                                         
+IriSetComponent                                                                                      0x2b5dcd68                                         
+IriSetMetadata                                                                                       0x7fa85ef6                                         
+IriSplit                                                                                             0x1cf2ebd5                                         
+IriSplitIntoMutableIris                                                                              0x504eab90                                         

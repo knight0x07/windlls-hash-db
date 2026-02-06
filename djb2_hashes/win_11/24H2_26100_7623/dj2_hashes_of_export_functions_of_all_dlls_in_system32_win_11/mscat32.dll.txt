@@ -1,0 +1,40 @@
+DLL Path: C:\Windows\System32\mscat32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CatalogCompactHashDatabase                                                                           0xb6562720                                         
+CryptCATAdminAcquireContext                                                                          0x6cb32507                                         
+CryptCATAdminAddCatalog                                                                              0xae62873c                                         
+CryptCATAdminCalcHashFromFileHandle                                                                  0x29f2602f                                         
+CryptCATAdminEnumCatalogFromHash                                                                     0xef1a77e0                                         
+CryptCATAdminReleaseCatalogContext                                                                   0xf6741719                                         
+CryptCATAdminReleaseContext                                                                          0x0450ccbe                                         
+CryptCATCDFClose                                                                                     0xa575dc52                                         
+CryptCATCDFEnumAttributes                                                                            0x9c3dcdf8                                         
+CryptCATCDFEnumAttributesWithCDFTag                                                                  0x56d06d1d                                         
+CryptCATCDFEnumCatAttributes                                                                         0xd3e63050                                         
+CryptCATCDFEnumMembers                                                                               0xddcfc59c                                         
+CryptCATCDFEnumMembersByCDFTag                                                                       0xe8193400                                         
+CryptCATCDFEnumMembersByCDFTagEx                                                                     0x53363d5d                                         
+CryptCATCDFOpen                                                                                      0x050a368e                                         
+CryptCATCatalogInfoFromContext                                                                       0x43ae306f                                         
+CryptCATClose                                                                                        0xbebdc885                                         
+CryptCATEnumerateAttr                                                                                0x673faab0                                         
+CryptCATEnumerateCatAttr                                                                             0x5e018088                                         
+CryptCATEnumerateMember                                                                              0x50bf816d                                         
+CryptCATGetAttrInfo                                                                                  0x4a29a156                                         
+CryptCATGetCatAttrInfo                                                                               0x602568ee                                         
+CryptCATGetMemberInfo                                                                                0xd463d513                                         
+CryptCATHandleFromStore                                                                              0xeeb11dfc                                         
+CryptCATOpen                                                                                         0x3c1be861                                         
+CryptCATPersistStore                                                                                 0x91b959a6                                         
+CryptCATPutAttrInfo                                                                                  0x3b1512af                                         
+CryptCATPutCatAttrInfo                                                                               0x6b5807a7                                         
+CryptCATPutMemberInfo                                                                                0xadf100ac                                         
+CryptCATStoreFromHandle                                                                              0x83b92b3c                                         
+CryptCATVerifyMember                                                                                 0xd9f186bc                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+IsCatalogFile                                                                                        0x4cef935c                                         
+MsCatConstructHashTag                                                                                0xb0c7f662                                         
+MsCatFreeHashTag                                                                                     0x8616e9df                                         

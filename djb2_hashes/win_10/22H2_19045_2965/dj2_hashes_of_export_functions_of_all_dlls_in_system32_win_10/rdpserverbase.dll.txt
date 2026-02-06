@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\rdpserverbase.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?GetEncodingPixelMap@RdpSurface@@QEAAJPEAPEAVPixelMap@@@Z                                            0xdf331d18                                         
+?GetGfxPipeSettingBOOL@@YAJPEAGHPEAH@Z                                                               0x9c539042                                         
+?GetGfxPipeSettingUINT@@YAJPEAGIPEAI@Z                                                               0x93d0cad8                                         
+?GetGraphicsSourceContext@RdpSurface@@QEAAJPEAPEAUIRdpGFXSourceUpdateContext@@@Z                     0x3c2c9b04                                         
+?GetTileFirst@Tiler@@QEAAJPEBURdpRect@@PEAU2@@Z                                                      0x440acc73                                         
+?GetTileNext@Tiler@@QEAAJPEAURdpRect@@@Z                                                             0x51f902cc                                         
+?Initialize@Tiler@@QEAAJPEBURdpRect@@0@Z                                                             0xbac21542                                         
+?LogRDPGraphicsError@RDPGraphicsTraceLogging@@YAXU_GUID@@IIJ@Z                                       0x69e57a19                                         
+?LogRDPGraphicsFirstNonBlackFrame@RDPGraphicsTraceLogging@@YAX_K@Z                                   0x8d5f499b                                         
+?LogRDPGraphicsFirstNonBlackFramePostLogon@RDPGraphicsTraceLogging@@YAXI@Z                           0x33496fff                                         
+?LogRDPGraphicsSubsampleAdapter@RDPGraphicsTraceLogging@@YAXPEBGII@Z                                 0xa1334993                                         
+?LogRDPGraphicsSubsampleFailure@RDPGraphicsTraceLogging@@YAXJI@Z                                     0xeed570fd                                         
+?LogRDPGraphicsVOBRHint@RDPGraphicsTraceLogging@@YAXI_KII@Z                                          0x33f88087                                         
+?RDPGraphicsTraceLogging_Register@RDPGraphicsTraceLogging@@YAJXZ                                     0xd8cb5418                                         
+?RDPGraphicsTraceLogging_Unregister@RDPGraphicsTraceLogging@@YAXXZ                                   0x52d475c9                                         
+?RDPServerStackQOE_Register@@YAJXZ                                                                   0xb0f3be16                                         
+?RDPServerStackQOE_Unregister@@YAXXZ                                                                 0xefaba587                                         
+CCompressedUpdateContext_CreateInstance                                                              0x7ed0744d                                         
+CUpdateContext_CreateInstance                                                                        0xc966a4b8                                         
+CUpdateDataAccumulator_CreateInstance                                                                0x028281ed                                         
+RDPEncryptionTraceLogging_Register                                                                   0x00c14bb0                                         
+RDPEncryptionTraceLogging_Unregister                                                                 0x30f0a4f3                                         
+RDPSERVERBASE_CreateInstance                                                                         0x38470a25                                         

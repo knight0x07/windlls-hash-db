@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\UpdateCompression.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ApplyDeltaB                                                                                          0x3710eb37                                         
+ApplyDeltaGetReverseB                                                                                0x2e30a3b3                                         
+ApplyDeltaProvidedB                                                                                  0x990cdbf4                                         
+CreateDeltaB                                                                                         0x597d1625                                         
+DeltaFree                                                                                            0xa84f33d1                                         
+DeltaNormalizeProvidedB                                                                              0xc101673f                                         
+GetDeltaInfoB                                                                                        0xab18dd1d                                         
+GetDeltaInfoExB                                                                                      0xd4c4b4da                                         
+GetDeltaSignatureB                                                                                   0xf3d8c623                                         

@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\Windows.Mirage.Internal.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetActivationFactoryMirageInternal                                                                0xd527279d                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+InjectDependencyInternal                                                                             0x1a7eef5e                                         

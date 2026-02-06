@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_f21a18a53fedc854\AS\MultiPaOemDll\WweConfigurationDll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateInstance                                                                                       0x0f85634e                                         
+GetApiVersion                                                                                        0xe276c185                                         
+GetBuildVersion                                                                                      0xb1fe293b                                         
+GetDetectionConfig                                                                                   0x3c5a19da                                         
+GetSupportedLanguages                                                                                0x2d124402                                         
+GetVendorId                                                                                          0x0d6dd380                                         
+ReleaseInstance                                                                                      0xe768a0fb                                         
+SetValidEvents                                                                                       0xdce7d6b6                                         

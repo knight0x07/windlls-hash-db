@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\dinput.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DirectInputCreateA                                                                                   0x1cf9cb85                                         
+DirectInputCreateEx                                                                                  0xbc333d21                                         
+DirectInputCreateW                                                                                   0x1cf9cb9b                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

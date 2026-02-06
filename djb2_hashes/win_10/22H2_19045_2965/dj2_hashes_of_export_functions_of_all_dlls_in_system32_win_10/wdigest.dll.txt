@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\wdigest.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CredentialUpdateFree                                                                                 0x29971225                                         
+CredentialUpdateNotify                                                                               0xfe1f833c                                         
+CredentialUpdateRegister                                                                             0x95023f28                                         
+DllMain                                                                                              0x79f31ec6                                         
+SpInitialize                                                                                         0x88ff1a9a                                         
+SpInstanceInit                                                                                       0x5edec931                                         
+SpLsaModeInitialize                                                                                  0x98bfd8ff                                         
+SpUserModeInitialize                                                                                 0xb41f209e                                         
+SsiCredentialsUpdateFree                                                                             0x43967fe7                                         
+SsiCredentialsUpdateNotify                                                                           0x95b1697e                                         

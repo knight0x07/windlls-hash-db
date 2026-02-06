@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\UpdateAgent.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateDeploymentSession                                                                              0x42355ffe                                         
+CreateDeploymentSessionEx                                                                            0xa50d60db                                         
+CreateOfflineDeploymentSession                                                                       0x37dc9d81                                         
+UA_CommitActionList                                                                                  0x22386b5d                                         
+UA_CreateActionList                                                                                  0xc39ed9e8                                         
+UA_CreateDownloadList                                                                                0x053e8a02                                         
+UA_CreateDownloadListFromActionList                                                                  0x6d7c1a90                                         
+UA_CreatePackageListFromDownloadList                                                                 0x5957533e                                         
+UA_InstallActionList                                                                                 0xbc91a82b                                         
+UA_ReleaseDownloadList                                                                               0x971a44cf                                         

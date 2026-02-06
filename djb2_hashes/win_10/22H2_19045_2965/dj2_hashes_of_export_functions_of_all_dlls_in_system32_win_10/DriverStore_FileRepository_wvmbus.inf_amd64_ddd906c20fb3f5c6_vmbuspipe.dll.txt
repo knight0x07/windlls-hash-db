@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wvmbus.inf_amd64_ddd906c20fb3f5c6\vmbuspipe.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+VmbusPipeClientEnumeratePipes                                                                        0x3fc88366                                         
+VmbusPipeClientOpenChannel                                                                           0xbff70caa                                         
+VmbusPipeClientOpenChannelEx                                                                         0x99ece887                                         
+VmbusPipeClientReadyForChannelNotification                                                           0x9dafc17b                                         
+VmbusPipeClientRegisterChannelNotification                                                           0x7002ed44                                         
+VmbusPipeClientUnregisterChannelNotification                                                         0xbf328ea7                                         
+VmbusPipeClientWaitChannel                                                                           0x09baf70d                                         
+VmbusPipeServerConnectPipe                                                                           0x1b803c6f                                         
+VmbusPipeServerOfferChannel                                                                          0x3341efa2                                         
+VmbusPipeServerOfferChannelEx                                                                        0x0b7c697f                                         

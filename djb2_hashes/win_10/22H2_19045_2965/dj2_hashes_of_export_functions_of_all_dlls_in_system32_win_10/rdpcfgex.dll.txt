@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\rdpcfgex.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ExGetCfgVersionInfo                                                                                  0xd7f74ae4                                         
+ExtEncryptionLevels                                                                                  0x0ce0d72c                                         
+ExtEnd                                                                                               0xb18f44ad                                         
+ExtGetCapabilities                                                                                   0xd0158d20                                         
+ExtGetEncryptionLevelAndDescrEx                                                                      0x1f5086da                                         
+ExtGetEncryptionLevelDescr                                                                           0xfd9a29ea                                         
+ExtGetSecurityLayerDescrString                                                                       0xa9745f93                                         
+ExtGetSecurityLayerName                                                                              0xc3304bcc                                         
+ExtSecurityLayers                                                                                    0xe54bbfbe                                         
+ExtStart                                                                                             0x5373c7a4                                         

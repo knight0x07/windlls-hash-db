@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\dbgeng.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DebugConnect                                                                                         0xfeb207d6                                         
+DebugConnectWide                                                                                     0x95af83bf                                         
+DebugCreate                                                                                          0x1f2ec7e0                                         
+DebugCreateEx                                                                                        0xa600493d                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\ProximityCommonPal.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PAL_AppHasPackage                                                                                    0x34699c8a                                         
+PAL_FreeTransientObjectSecurityAttribute                                                             0x26806abe                                         
+PAL_GetAppPlatformQualifier                                                                          0xdf1cf409                                         
+PAL_GetSupportedBrowseTypes                                                                          0x85a695ee                                         
+PAL_HoldReferenceUntilAppExit                                                                        0x3c27f77e                                         
+PAL_QueryTransientObjectSecurityAttribute                                                            0x60f82bf2                                         
+PAL_RegisterAppSuspendResumeCallback                                                                 0x6a5c06a7                                         
+PAL_UnregisterAppSuspendResumeCallback                                                               0x2867fe6a                                         

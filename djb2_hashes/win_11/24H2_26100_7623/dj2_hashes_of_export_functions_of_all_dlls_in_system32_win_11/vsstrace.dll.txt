@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\vsstrace.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AssertFail                                                                                           0x22d75493                                         
+VssGetTracingContextPerThread                                                                        0xc2274e4d                                         
+VssGetTracingModuleInfo                                                                              0x80f8f91b                                         
+VssGetTracingSequenceNumber                                                                          0xad847c0b                                         
+VssIsKernelDebuggerAttached                                                                          0x10470261                                         
+VssIsTracingEnabled                                                                                  0xd0dd3a90                                         
+VssIsTracingEnabledOnFunction                                                                        0x6b455853                                         
+VssIsTracingEnabledOnModule                                                                          0xccfc4533                                         
+VssIsTracingEnabledPerThread                                                                         0x7426fe8f                                         
+VssSetDebugReport                                                                                    0xabd8c330                                         
+VssSetTracingContextPerThread                                                                        0xf7c7b3d9                                         
+VssTraceBinary                                                                                       0xa91247d5                                         
+VssTraceInitialize                                                                                   0x5b79ff22                                         
+VssTraceMessage                                                                                      0x112b4b55                                         
+VssTraceUninitialize                                                                                 0x616ec265                                         

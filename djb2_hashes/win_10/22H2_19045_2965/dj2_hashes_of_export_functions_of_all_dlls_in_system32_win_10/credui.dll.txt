@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\credui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CredPackAuthenticationBufferA                                                                        0xea82ba5d                                         
+CredPackAuthenticationBufferW                                                                        0xea82ba73                                         
+CredUICmdLinePromptForCredentialsA                                                                   0xd24bf175                                         
+CredUICmdLinePromptForCredentialsW                                                                   0xd24bf18b                                         
+CredUIConfirmCredentialsA                                                                            0x2908b15e                                         
+CredUIConfirmCredentialsW                                                                            0x2908b174                                         
+CredUIInitControls                                                                                   0xed7ed649                                         
+CredUIParseUserNameA                                                                                 0xdfb55fdd                                         
+CredUIParseUserNameW                                                                                 0xdfb55ff3                                         
+CredUIPromptForCredentialsA                                                                          0xc2133399                                         
+CredUIPromptForCredentialsW                                                                          0xc21333af                                         
+CredUIPromptForWindowsCredentialsA                                                                   0x6c8831c4                                         
+CredUIPromptForWindowsCredentialsW                                                                   0x6c8831da                                         
+CredUIPromptForWindowsCredentialsWorker                                                              0xd2ec61dd                                         
+CredUIReadSSOCredA                                                                                   0x9aa70751                                         
+CredUIReadSSOCredW                                                                                   0x9aa70767                                         
+CredUIStoreSSOCredA                                                                                  0x1e2ac3e2                                         
+CredUIStoreSSOCredW                                                                                  0x1e2ac3f8                                         
+CredUnPackAuthenticationBufferA                                                                      0x00031fe0                                         
+CredUnPackAuthenticationBufferW                                                                      0x00031ff6                                         
+SspiGetCredUIContext                                                                                 0x552ce2c5                                         
+SspiIsPromptingNeeded                                                                                0x98583945                                         
+SspiPromptForCredentialsA                                                                            0x9077cf3c                                         
+SspiPromptForCredentialsW                                                                            0x9077cf52                                         
+SspiUnmarshalCredUIContext                                                                           0x32c615b0                                         
+SspiUpdateCredentials                                                                                0x595d7ff5                                         

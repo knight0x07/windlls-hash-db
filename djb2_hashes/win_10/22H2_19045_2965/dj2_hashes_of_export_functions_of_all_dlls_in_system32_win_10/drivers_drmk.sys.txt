@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\drivers\drmk.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+DrmAddContentHandlers                                                                                0x3040349d                                         
+DrmCreateContentMixed                                                                                0x3066746e                                         
+DrmDestroyContent                                                                                    0x114cc66d                                         
+DrmForwardContentToDeviceObject                                                                      0x93b9ae82                                         
+DrmForwardContentToFileObject                                                                        0x7677d912                                         
+DrmForwardContentToInterface                                                                         0xcd7c02ec                                         
+DrmGetContentRights                                                                                  0xa4f2e854                                         
+DrmGetFilterDescriptor                                                                               0x4774a32d                                         

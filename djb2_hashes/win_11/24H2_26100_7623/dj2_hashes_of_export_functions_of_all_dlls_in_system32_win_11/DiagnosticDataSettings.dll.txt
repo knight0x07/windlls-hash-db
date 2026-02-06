@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\DiagnosticDataSettings.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TelEvaluateActiveSettingAuthority                                                                    0x2c2db664                                         
+TelGetAllAllowedTelemetryTypes                                                                       0x0ac0ed3b                                         
+TelGetLocalAllowTelemetryRegPath                                                                     0x58af519a                                         
+TelGetMaximumAllowedTelemetryLevel                                                                   0x9da5a0e3                                         
+TelGetNumericPolicy                                                                                  0x019d9eed                                         
+TelGetRegionalSettingsValue                                                                          0x03df2329                                         
+TelGetStringPolicy                                                                                   0x54d5cb51                                         
+TelGetWerTelemetryMode                                                                               0x7d99ff38                                         
+TelGetWerTelemetryModeWinRE                                                                          0x41b4089d                                         
+TelIsOsInProcessorMode                                                                               0xf2248be4                                         
+TelIsProcessorModeAllowed                                                                            0x264791f3                                         
+TelIsRestrictivePolicySet                                                                            0xd534d176                                         
+TelIsTelemetryTypeAllowed                                                                            0xeecc762b                                         
+TelIsTelemetryTypeAllowedWinRE                                                                       0xb9b5cf70                                         
+TelSetLocalTelemetrySetting                                                                          0x961d8f5a                                         

@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\wtdsensor.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WtdsAllocateEvent                                                                                    0x81cc456e                                         
+WtdsFreeEvent                                                                                        0xdc519d0b                                         
+WtdsGetEventData                                                                                     0x666b1fc3                                         
+WtdsGetProcessId                                                                                     0x9de4e533                                         
+WtdsRegisterSensor                                                                                   0x804b2066                                         
+WtdsSendEvent                                                                                        0x79c284d3                                         
+WtdsUnregisterSensor                                                                                 0x50830ee9                                         

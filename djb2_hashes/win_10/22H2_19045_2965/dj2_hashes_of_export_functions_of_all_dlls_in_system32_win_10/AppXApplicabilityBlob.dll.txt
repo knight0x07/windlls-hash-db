@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\AppXApplicabilityBlob.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateSerializedBundleManifestStatement                                                              0xa909af8b                                         
+GetApplicabilityFactory                                                                              0x67fd1da4                                         
+IsAppx                                                                                               0xba6e2c9a                                         
+IsModernApp                                                                                          0x43371587                                         
+IsPreThresholdDesktop                                                                                0x359fd9cf                                         
+IsPreThresholdPhone                                                                                  0x6aec818f                                         
+IsXAP                                                                                                0x0d688b8a                                         

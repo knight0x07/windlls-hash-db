@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\KBDKOR.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+KbdLayerDescriptor                                                                                   0x3ee7e8d2                                         
+KbdLayerMultiDescriptor                                                                              0x7c97345d                                         
+KbdLayerRealDllFile                                                                                  0xb62e5053                                         
+KbdLayerRealDllFileNT4                                                                               0x5b7b2a49                                         
+KbdNlsLayerDescriptor                                                                                0x78bcc79f                                         

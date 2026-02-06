@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\nlaapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LANIdFreeCollection                                                                                  0x4bdc18fb                                         
+LANIdRetrieveCollection                                                                              0xa2dcc33f                                         
+NSPStartup                                                                                           0x14a52589                                         
+NlaAddToPluginRequests                                                                               0xb7e5de97                                         
+NlaAddToTypeSet                                                                                      0x9305cf7a                                         
+NlaAnd                                                                                               0xc5aa1013                                         
+NlaCloseQuery                                                                                        0xf4893acc                                         
+NlaComposeNetSignature                                                                               0xf13afc4f                                         
+NlaCreateFilter                                                                                      0x70d0929a                                         
+NlaCreatePluginRequests                                                                              0xd7b5231f                                         
+NlaCreateTypeSet                                                                                     0xe6249d02                                         
+NlaDecomposeNetSignature                                                                             0xa3dedaf8                                         
+NlaDeleteDataSet                                                                                     0x6781b739                                         
+NlaDeleteFilter                                                                                      0xca4a7799                                         
+NlaDeletePluginRequests                                                                              0x76c7971e                                         
+NlaDeleteTypeSet                                                                                     0x6edb21e1                                         
+NlaEqual                                                                                             0xd8b8bd38                                         
+NlaEqualNetSignatures                                                                                0xb47f1904                                         
+NlaGetCaptivePortalHosts                                                                             0x7b59412f                                         
+NlaGetInternetCapability                                                                             0x4bcae56b                                         
+NlaGetIntranetCapability                                                                             0xa727a487                                         
+NlaIndicateReprobe                                                                                   0x4c7f6470                                         
+NlaNotEqual                                                                                          0xd58b3a69                                         
+NlaOpenQuery                                                                                         0xc267c208                                         
+NlaOr                                                                                                0x0dbf57a1                                         
+NlaQueryNetData                                                                                      0x6647bcb7                                         
+NlaQueryNetDataEx                                                                                    0x1729cfd4                                         
+NlaQueryNetSignatures                                                                                0x3f9f1382                                         
+NlaRefreshQuery                                                                                      0xf5218d25                                         
+NlaRegisterQuery                                                                                     0xa8e9727b                                         

@@ -1,0 +1,37 @@
+DLL Path: C:\Windows\System32\AppxSip.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppxBundleSipCreateIndirectData                                                                      0xf3fa5c64                                         
+AppxBundleSipGetSignedDataMsg                                                                        0xe60141df                                         
+AppxBundleSipIsFileSupportedName                                                                     0x7041b0e7                                         
+AppxBundleSipPutSignedDataMsg                                                                        0x885672d8                                         
+AppxBundleSipRemoveSignedDataMsg                                                                     0xb8a9ae2d                                         
+AppxBundleSipVerifyIndirectData                                                                      0xd9665c85                                         
+AppxSipCreateIndirectData                                                                            0x66e9c3ca                                         
+AppxSipGetSignedDataMsg                                                                              0x0f0397c5                                         
+AppxSipIsFileSupportedName                                                                           0x411e050d                                         
+AppxSipPutSignedDataMsg                                                                              0xb158c8be                                         
+AppxSipRemoveSignedDataMsg                                                                           0x89860253                                         
+AppxSipVerifyIndirectData                                                                            0x4c55c3eb                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EappxBundleSipCreateIndirectData                                                                     0x070bc0c9                                         
+EappxBundleSipGetSignedDataMsg                                                                       0xa0344904                                         
+EappxBundleSipIsFileSupportedName                                                                    0xe57fa1ec                                         
+EappxBundleSipPutSignedDataMsg                                                                       0x428979fd                                         
+EappxBundleSipRemoveSignedDataMsg                                                                    0x2de79f32                                         
+EappxBundleSipVerifyIndirectData                                                                     0xec77c0ea                                         
+EappxSipCreateIndirectData                                                                           0x2a35006f                                         
+EappxSipGetSignedDataMsg                                                                             0x049d672a                                         
+EappxSipIsFileSupportedName                                                                          0x6dd0d652                                         
+EappxSipPutSignedDataMsg                                                                             0xa6f29823                                         
+EappxSipRemoveSignedDataMsg                                                                          0xb638d398                                         
+EappxSipVerifyIndirectData                                                                           0x0fa10090                                         
+P7xSipCreateIndirectData                                                                             0xda86fad0                                         
+P7xSipGetSignedDataMsg                                                                               0xf5bb554b                                         
+P7xSipIsFileSupportedName                                                                            0x28621cd3                                         
+P7xSipPutSignedDataMsg                                                                               0x98108644                                         
+P7xSipRemoveSignedDataMsg                                                                            0x70ca1a19                                         
+P7xSipVerifyIndirectData                                                                             0xbff2faf1                                         

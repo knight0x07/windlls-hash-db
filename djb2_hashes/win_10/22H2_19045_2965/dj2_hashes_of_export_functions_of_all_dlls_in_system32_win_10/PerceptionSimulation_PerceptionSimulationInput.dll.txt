@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\PerceptionSimulation\PerceptionSimulationInput.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseSimulationConnection                                                                            0xab977eb0                                         
+HidePerceptionSimulationControlUx                                                                    0x91d0ac4b                                         
+ShowPerceptionSimulationControlUx                                                                    0x8314af12                                         
+StartPerceptionSimulationControlUx                                                                   0x97d723bf                                         
+StopPerceptionSimulationControlUx                                                                    0x10548c37                                         
+TogglePerceptionSimulationControlUx                                                                  0xccb29393                                         
+UpdatePerceptionSimulationControlUx                                                                  0x156222b4                                         

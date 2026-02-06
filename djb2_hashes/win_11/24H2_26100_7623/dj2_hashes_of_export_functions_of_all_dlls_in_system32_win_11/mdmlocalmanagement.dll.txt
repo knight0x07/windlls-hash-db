@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\mdmlocalmanagement.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ApplyLocalManagementSyncML                                                                           0x265ab2c9                                         
+RegisterDeviceWithLocalManagement                                                                    0x789554de                                         
+UnregisterDeviceWithLocalManagement                                                                  0x2f4e9601                                         

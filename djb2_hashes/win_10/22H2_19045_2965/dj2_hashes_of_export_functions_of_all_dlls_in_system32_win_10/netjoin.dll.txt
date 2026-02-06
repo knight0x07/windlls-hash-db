@@ -1,0 +1,38 @@
+DLL Path: C:\Windows\System32\netjoin.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetCreateProvisioningPackage                                                                         0x318d6c13                                         
+NetProvisionComputerAccount                                                                          0x907448d1                                         
+NetRequestOfflineDomainJoin                                                                          0x6cb170a0                                         
+NetRequestProvisioningPackageInstall                                                                 0x26db993f                                         
+NetSetuppCloseLog                                                                                    0xc00e1a25                                         
+NetSetuppOpenLog                                                                                     0x2e0a3cc1                                         
+NetpAvoidNetlogonSpnSet                                                                              0x526905d2                                         
+NetpChangeMachineName                                                                                0x275f4778                                         
+NetpControlServices                                                                                  0xef6889a1                                         
+NetpCrackNamesStatus2Win32Error                                                                      0xd92b0a87                                         
+NetpCreateComputerObjectInDs                                                                         0x795d50e4                                         
+NetpDoDomainJoin                                                                                     0x9c2be1d7                                         
+NetpDomainJoinLicensingCheck                                                                         0xfc47f55e                                         
+NetpGetJoinInformation                                                                               0x00203532                                         
+NetpGetListOfJoinableOUs                                                                             0x92539e68                                         
+NetpGetLsaPrimaryDomain                                                                              0xd3ece238                                         
+NetpGetMachineAccountName                                                                            0x0a30b43f                                         
+NetpIsSetupInProgress                                                                                0x9fd7dd35                                         
+NetpJoinProvider2Initialize                                                                          0xc770dffb                                         
+NetpJoinProvider3Initialize                                                                          0x4ccd953c                                         
+NetpJoinProvider4Initialize                                                                          0xd22a4a7d                                         
+NetpJoinProviderInitialize                                                                           0x449b9269                                         
+NetpLogPrintHelper                                                                                   0xd99ab96b                                         
+NetpMachineValidToJoin                                                                               0x6051fbf4                                         
+NetpManageIPCConnect                                                                                 0xb6f9388b                                         
+NetpManageMachineAccountWithSid                                                                      0x1b21fb43                                         
+NetpQueryService                                                                                     0xeff85563                                         
+NetpSeparateUserAndDomain                                                                            0x16899efb                                         
+NetpSetComputerAccountPassword                                                                       0xec6313b7                                         
+NetpStopService                                                                                      0xf46f5593                                         
+NetpUnJoinDomain                                                                                     0x50bbb807                                         
+NetpUpdateAutoenrolConfig                                                                            0x1d8220ee                                         
+NetpUpgradePreNT5JoinInfo                                                                            0xde86d35e                                         
+NetpValidateName                                                                                     0x73a9ed27                                         

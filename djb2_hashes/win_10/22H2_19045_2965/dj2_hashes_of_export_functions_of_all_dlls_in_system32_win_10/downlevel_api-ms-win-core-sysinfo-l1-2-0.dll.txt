@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-sysinfo-l1-2-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EnumSystemFirmwareTables                                                                             0x69032c17                                         
+GetNativeSystemInfo                                                                                  0x395dc89d                                         
+GetOsSafeBootMode                                                                                    0x3c9d35ff                                         
+GetProductInfo                                                                                       0x5cfdefb2                                         
+GetSystemFirmwareTable                                                                               0x650be28f                                         
+GetSystemTimePreciseAsFileTime                                                                       0xcb30c627                                         
+SetComputerNameExW                                                                                   0xfb5c3f95                                         
+SetSystemTime                                                                                        0x3b8355c5                                         
+VerSetConditionMask                                                                                  0x7df255b1                                         

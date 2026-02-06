@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\CapabilityAccessManager.Desktop.Storage.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CAMStorageAccessCheck                                                                                0x6138945b                                         
+ClearCAMStorageDatabase                                                                              0x72a22fa7                                         
+DeleteCAMStorageDatabaseFiles                                                                        0x2cce9966                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DoCAMStorageDatabaseMaintenance                                                                      0x978b5736                                         
+EraseUInt64CAMSetting                                                                                0x17477b4e                                         
+EraseUInt64MCPSettingsForClient                                                                      0x75c333b6                                         
+EraseUInt64MCPSettingsForServer                                                                      0x9a9c48ce                                         
+FreeCAMStorageAppConsentArray                                                                        0xd2ee59a7                                         
+FreeMCPStorageConsentArray                                                                           0x60f61a55                                         
+GetUInt64CAMSetting                                                                                  0xc8ca7fbe                                         
+GetUInt64MCPSetting                                                                                  0x9ef28bad                                         
+GetUInt64MCPSettingsForClient                                                                        0xf26a8426                                         
+GetUInt64MCPSettingsForServer                                                                        0x1743993e                                         
+InitializeCAMStorage                                                                                 0x291900bd                                         
+MCPStorageAccessCheck                                                                                0x3697ecea                                         
+PrepareCAMStorageDatabase                                                                            0xa261b6af                                         
+PutUInt64CAMSetting                                                                                  0xe1da3a17                                         
+PutUInt64CAMSettings                                                                                 0x1d217d6a                                         
+PutUInt64MCPSetting                                                                                  0xb8024606                                         
+QueryCAMSettingAppList                                                                               0x9c77c987                                         
+Test_ResetCAMStorageInitializationState                                                              0xf0abc976                                         

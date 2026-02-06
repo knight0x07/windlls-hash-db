@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\AppVPolicy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreatePackageGroupDescriptorDocumentFromFile                                                         0xcb4c16e4                                         
+CreatePackageGroupDescriptorDocumentFromXML                                                          0xb0d40b75                                         
+CreatePackageMachinePolicyDocument                                                                   0x29979f49                                         
+CreatePackageMachinePolicyDocumentFromFile                                                           0x3e7b57fd                                         
+CreatePackageMachinePolicyDocumentFromXML                                                            0xfa230d6e                                         
+CreatePackageUserPolicyDocument                                                                      0xcdb34c33                                         
+CreatePackageUserPolicyDocumentFromFile                                                              0xe3424ee7                                         
+CreatePackageUserPolicyDocumentFromXML                                                               0xc111cf18                                         
+CreatePublishingDescriptorDocumentFromFile                                                           0x4c55cf60                                         
+CreatePublishingDescriptorDocumentFromXML                                                            0xeb0aa471                                         

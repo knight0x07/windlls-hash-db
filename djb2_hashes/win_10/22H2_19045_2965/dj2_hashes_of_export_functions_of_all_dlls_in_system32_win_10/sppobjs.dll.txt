@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\sppobjs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SppPluginCanUnloadNow                                                                                0x29f74d50                                         
+SppPluginCreateInstance                                                                              0x3786c3d0                                         
+SppPluginInitialize                                                                                  0x044511f9                                         
+SppPluginShutdown                                                                                    0x90370e43                                         
+SppPluginVersion                                                                                     0x31aaa2ed                                         

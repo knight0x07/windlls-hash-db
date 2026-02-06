@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\prvdmofcomp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0MIFree@@QEAA@PEAX@Z                                                                               0x261064ab                                         
+??1MIFree@@QEAA@XZ                                                                                   0x583b9c16                                         
+??4MIServer@@QEAAAEAV0@$$QEAV0@@Z                                                                    0x8e076308                                         
+??4MIServer@@QEAAAEAV0@AEBV0@@Z                                                                      0xd7d56a91                                         
+CompileSchemaToWMI                                                                                   0x1aea542f                                         
+CreateRegisterParameter                                                                              0x4647d65f                                         
+GetProviderSchema                                                                                    0xfcd42121                                         
+GetProviderSchemaFile                                                                                0x9e79f921                                         

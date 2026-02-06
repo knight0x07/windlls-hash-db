@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\gpsvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GenerateRsopPolicy                                                                                   0xc23d18e4                                         
+GroupPolicyClientServiceMain                                                                         0x72574337                                         
+ProcessGroupPolicyCompletedExInternal                                                                0x2d413db8                                         
+ProcessGroupPolicyCompletedInternal                                                                  0x980377db                                         
+RsopAccessCheckByTypeInternal                                                                        0x747c2ef3                                         
+RsopFileAccessCheckInternal                                                                          0x06301f56                                         
+RsopResetPolicySettingStatusInternal                                                                 0xdb3f5d9b                                         
+RsopSetPolicySettingStatusInternal                                                                   0x1775b604                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+[Function Ordinal Only]                                                                              NA                                                 

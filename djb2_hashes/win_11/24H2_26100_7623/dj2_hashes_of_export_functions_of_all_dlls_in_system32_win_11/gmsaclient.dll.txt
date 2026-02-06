@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\gmsaclient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GMSAAdd                                                                                              0x16c66796                                         
+GMSACheckIfExistsInAD                                                                                0x4e76da96                                         
+GMSACleanup                                                                                          0x09232dd5                                         
+GMSADelete                                                                                           0x28eafa40                                         
+GMSAGetPassword                                                                                      0x4f2e7460                                         
+GMSAInit                                                                                             0xef97e901                                         
+GMSARefreshPasswords                                                                                 0xab151d82                                         

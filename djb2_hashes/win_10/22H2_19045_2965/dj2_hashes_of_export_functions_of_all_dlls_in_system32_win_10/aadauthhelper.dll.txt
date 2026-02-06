@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\aadauthhelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseFidoAuthenticationSession                                                                       0xf9e97da1                                         
+CreateAuthBuffer                                                                                     0x1e356f85                                         
+CreateResourceAccountAuthBuffer                                                                      0xa0d9ca1a                                         
+CreateTokenAuthBuffer                                                                                0x1fef3166                                         
+CreateTokenAuthBufferEx                                                                              0xd8812c43                                         
+GetFidoAuthenticationSessionStatus                                                                   0xf40995af                                         
+GetSerializedAuthBuffer                                                                              0x2cc27d9d                                         
+StartChangingFidoPin                                                                                 0x7b9633fb                                         
+StartFidoAuthenticationSession                                                                       0xcf660419                                         
+StartSigningFidoClientData                                                                           0xf24b641d                                         

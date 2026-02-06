@@ -1,0 +1,259 @@
+DLL Path: C:\Windows\System32\winspool.drv
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ADVANCEDSETUPDIALOG                                                                                  0x1f24ad5c                                         
+AbortPrinter                                                                                         0xa1880041                                         
+AddFormA                                                                                             0x789f7603                                         
+AddFormW                                                                                             0x789f7619                                         
+AddJobA                                                                                              0x7fc8f4ca                                         
+AddJobW                                                                                              0x7fc8f4e0                                         
+AddMonitorA                                                                                          0x55430737                                         
+AddMonitorW                                                                                          0x5543074d                                         
+AddPortA                                                                                             0x79546bf4                                         
+AddPortExA                                                                                           0x201f59b1                                         
+AddPortExW                                                                                           0x201f59c7                                         
+AddPortW                                                                                             0x79546c0a                                         
+AddPrintProcessorA                                                                                   0xada3a91c                                         
+AddPrintProcessorW                                                                                   0xada3a932                                         
+AddPrintProvidorA                                                                                    0x77a694f1                                         
+AddPrintProvidorW                                                                                    0x77a69507                                         
+AddPrinterA                                                                                          0xf5a7c0f3                                         
+AddPrinterConnection2A                                                                               0xcc6d4995                                         
+AddPrinterConnection2W                                                                               0xcc6d49ab                                         
+AddPrinterConnectionA                                                                                0x3c7f6ee3                                         
+AddPrinterConnectionW                                                                                0x3c7f6ef9                                         
+AddPrinterDriverA                                                                                    0x0e88b75f                                         
+AddPrinterDriverExA                                                                                  0xd3942bdc                                         
+AddPrinterDriverExW                                                                                  0xd3942bf2                                         
+AddPrinterDriverW                                                                                    0x0e88b775                                         
+AddPrinterW                                                                                          0xf5a7c109                                         
+AdvancedDocumentPropertiesA                                                                          0x13999088                                         
+AdvancedDocumentPropertiesW                                                                          0x1399909e                                         
+AdvancedSetupDialog                                                                                  0xd9c3575c                                         
+ClosePrinter                                                                                         0xd5aec75f                                         
+CloseSpoolFileHandle                                                                                 0x13367354                                         
+CommitSpoolData                                                                                      0xbcf1d8f5                                         
+ConfigurePortA                                                                                       0xdd585e2d                                         
+ConfigurePortW                                                                                       0xdd585e43                                         
+ConnectToPrinterDlg                                                                                  0x7322cdcd                                         
+ConvertAnsiDevModeToUnicodeDevmode                                                                   0x65190c03                                         
+ConvertUnicodeDevModeToAnsiDevmode                                                                   0xe16592c3                                         
+CorePrinterDriverInstalledA                                                                          0xe1fdd0df                                         
+CorePrinterDriverInstalledW                                                                          0xe1fdd0f5                                         
+CreatePrintAsyncNotifyChannel                                                                        0xa0cae1d6                                         
+CreatePrinterIC                                                                                      0xd22e02e9                                         
+DEVICECAPABILITIES                                                                                   0xd6fe0c7f                                         
+DEVICEMODE                                                                                           0xa0d5871a                                         
+DeleteFormA                                                                                          0x1cdbebed                                         
+DeleteFormW                                                                                          0x1cdbec03                                         
+DeleteJobNamedProperty                                                                               0x3d0dd4fd                                         
+DeleteMonitorA                                                                                       0xa0a7ace1                                         
+DeleteMonitorW                                                                                       0xa0a7acf7                                         
+DeletePortA                                                                                          0x1d90e1de                                         
+DeletePortW                                                                                          0x1d90e1f4                                         
+DeletePrintProcessorA                                                                                0x12740b86                                         
+DeletePrintProcessorW                                                                                0x12740b9c                                         
+DeletePrintProvidorA                                                                                 0x255f521b                                         
+DeletePrintProvidorW                                                                                 0x255f5231                                         
+DeletePrinter                                                                                        0xcbab0adc                                         
+DeletePrinterConnectionA                                                                             0x6546b10d                                         
+DeletePrinterConnectionW                                                                             0x6546b123                                         
+DeletePrinterDataA                                                                                   0x2855e197                                         
+DeletePrinterDataExA                                                                                 0x9554c414                                         
+DeletePrinterDataExW                                                                                 0x9554c42a                                         
+DeletePrinterDataW                                                                                   0x2855e1ad                                         
+DeletePrinterDriverA                                                                                 0xbc417489                                         
+DeletePrinterDriverExA                                                                               0xd270db86                                         
+DeletePrinterDriverExW                                                                               0xd270db9c                                         
+DeletePrinterDriverPackageA                                                                          0x7e344715                                         
+DeletePrinterDriverPackageW                                                                          0x7e34472b                                         
+DeletePrinterDriverW                                                                                 0xbc41749f                                         
+DeletePrinterIC                                                                                      0x62993b88                                         
+DeletePrinterKeyA                                                                                    0x6dd7f6c6                                         
+DeletePrinterKeyW                                                                                    0x6dd7f6dc                                         
+DevQueryPrint                                                                                        0x6cc10727                                         
+DevQueryPrintEx                                                                                      0xa11f7644                                         
+DeviceCapabilities                                                                                   0xa6a8827f                                         
+DeviceCapabilitiesA                                                                                  0x7bb8d2a0                                         
+DeviceCapabilitiesW                                                                                  0x7bb8d2b6                                         
+DeviceMode                                                                                           0xa4ce8c1a                                         
+DevicePropertySheets                                                                                 0xe3068c86                                         
+DocumentEvent                                                                                        0x1da26e86                                         
+DocumentPropertiesA                                                                                  0xc01b4772                                         
+DocumentPropertiesW                                                                                  0xc01b4788                                         
+DocumentPropertySheets                                                                               0x5a5dc815                                         
+EXTDEVICEMODE                                                                                        0xd2d41f6b                                         
+EndDocPrinter                                                                                        0x04641eb6                                         
+EndPagePrinter                                                                                       0xa76994fd                                         
+EnumFormsA                                                                                           0xc603d282                                         
+EnumFormsW                                                                                           0xc603d298                                         
+EnumJobNamedProperties                                                                               0x6ca4a6e7                                         
+EnumJobsA                                                                                            0x0e0a2ca9                                         
+EnumJobsW                                                                                            0x0e0a2cbf                                         
+EnumMonitorsA                                                                                        0x10e8a2b6                                         
+EnumMonitorsW                                                                                        0x10e8a2cc                                         
+EnumPortsA                                                                                           0xdd578693                                         
+EnumPortsW                                                                                           0xdd5786a9                                         
+EnumPrintProcessorDatatypesA                                                                         0x8da4c5f7                                         
+EnumPrintProcessorDatatypesW                                                                         0x8da4c60d                                         
+EnumPrintProcessorsA                                                                                 0xea691fbb                                         
+EnumPrintProcessorsW                                                                                 0xea691fd1                                         
+EnumPrinterDataA                                                                                     0xf1456d59                                         
+EnumPrinterDataExA                                                                                   0x58564856                                         
+EnumPrinterDataExW                                                                                   0x5856486c                                         
+EnumPrinterDataW                                                                                     0xf1456d6f                                         
+EnumPrinterDriversA                                                                                  0x67a218de                                         
+EnumPrinterDriversW                                                                                  0x67a218f4                                         
+EnumPrinterKeyA                                                                                      0xc9441248                                         
+EnumPrinterKeyW                                                                                      0xc944125e                                         
+EnumPrintersA                                                                                        0xbde493f2                                         
+EnumPrintersW                                                                                        0xbde49408                                         
+ExtDeviceMode                                                                                        0xa0cf78ab                                         
+FindClosePrinterChangeNotification                                                                   0x9399616d                                         
+FindFirstPrinterChangeNotification                                                                   0x28ee2edf                                         
+FindNextPrinterChangeNotification                                                                    0xcf6925d6                                         
+FlushPrinter                                                                                         0x458dc4eb                                         
+FreePrintNamedPropertyArray                                                                          0x3bdaf9fd                                         
+FreePrintPropertyValue                                                                               0x415bad56                                         
+FreePrinterNotifyInfo                                                                                0xe7af08b0                                         
+GetCorePrinterDriversA                                                                               0x3ef536d2                                         
+GetCorePrinterDriversW                                                                               0x3ef536e8                                         
+GetDefaultPrinterA                                                                                   0x5368920f                                         
+GetDefaultPrinterW                                                                                   0x53689225                                         
+GetFormA                                                                                             0x74773a1a                                         
+GetFormW                                                                                             0x74773a30                                         
+GetJobA                                                                                              0x511d1201                                         
+GetJobNamedPropertyValue                                                                             0xa80aca47                                         
+GetJobW                                                                                              0x511d1217                                         
+GetPrintExecutionData                                                                                0xc496fcc0                                         
+GetPrintOutputInfo                                                                                   0x9d0b4b0f                                         
+GetPrintProcessorDirectoryA                                                                          0xdc0d8c08                                         
+GetPrintProcessorDirectoryW                                                                          0xdc0d8c1e                                         
+GetPrinterA                                                                                          0x61a5a1aa                                         
+GetPrinterDataA                                                                                      0x19ffdb24                                         
+GetPrinterDataExA                                                                                    0x996354e1                                         
+GetPrinterDataExW                                                                                    0x996354f7                                         
+GetPrinterDataW                                                                                      0x19ffdb3a                                         
+GetPrinterDriver2A                                                                                   0xca50ae68                                         
+GetPrinterDriver2W                                                                                   0xca50ae7e                                         
+GetPrinterDriverA                                                                                    0xc0500556                                         
+GetPrinterDriverDirectoryA                                                                           0x0147dacb                                         
+GetPrinterDriverDirectoryW                                                                           0x0147dae1                                         
+GetPrinterDriverPackagePathA                                                                         0x3678bbaf                                         
+GetPrinterDriverPackagePathW                                                                         0x3678bbc5                                         
+GetPrinterDriverW                                                                                    0xc050056c                                         
+GetPrinterW                                                                                          0x61a5a1c0                                         
+GetSpoolFileHandle                                                                                   0x3d698e3e                                         
+InstallPrinterDriverFromPackageA                                                                     0x6d1b23ed                                         
+InstallPrinterDriverFromPackageW                                                                     0x6d1b2403                                         
+IsValidDevmodeA                                                                                      0xa3f958f6                                         
+IsValidDevmodeW                                                                                      0xa3f9590c                                         
+OpenPrinter2A                                                                                        0xe7c0e26e                                         
+OpenPrinter2W                                                                                        0xe7c0e284                                         
+OpenPrinterA                                                                                         0x8ae6d09c                                         
+OpenPrinterW                                                                                         0x8ae6d0b2                                         
+PerfClose                                                                                            0xc94f9fe8                                         
+PerfCollect                                                                                          0x627ca0d8                                         
+PerfOpen                                                                                             0xc04edf64                                         
+PlayGdiScriptOnPrinterIC                                                                             0xf4bd6ab1                                         
+PrinterMessageBoxA                                                                                   0x97f41418                                         
+PrinterMessageBoxW                                                                                   0x97f4142e                                         
+PrinterProperties                                                                                    0x17e569f6                                         
+QueryColorProfile                                                                                    0x02fa234b                                         
+QueryRemoteFonts                                                                                     0x41847eb1                                         
+QuerySpoolMode                                                                                       0x3ad3e4cd                                         
+ReadPrinter                                                                                          0xc7ee7f85                                         
+RegisterForPrintAsyncNotifications                                                                   0xcb7d29b6                                         
+ReportJobProcessingProgress                                                                          0xa9b2b42e                                         
+ResetPrinterA                                                                                        0x8b9b38ad                                         
+ResetPrinterW                                                                                        0x8b9b38c3                                         
+ScheduleJob                                                                                          0x6b9be00d                                         
+SeekPrinter                                                                                          0x9509caf1                                         
+SetDefaultPrinterA                                                                                   0x7c722b9b                                         
+SetDefaultPrinterW                                                                                   0x7c722bb1                                         
+SetFormA                                                                                             0x878d34a6                                         
+SetFormW                                                                                             0x878d34bc                                         
+SetJobA                                                                                              0xecd7eb0d                                         
+SetJobNamedProperty                                                                                  0xc9409816                                         
+SetJobW                                                                                              0xecd7eb23                                         
+SetPortA                                                                                             0x88422a97                                         
+SetPortW                                                                                             0x88422aad                                         
+SetPrinterA                                                                                          0xa1fe20b6                                         
+SetPrinterDataA                                                                                      0xc1590030                                         
+SetPrinterDataExA                                                                                    0x7b99eced                                         
+SetPrinterDataExW                                                                                    0x7b99ed03                                         
+SetPrinterDataW                                                                                      0xc1590046                                         
+SetPrinterW                                                                                          0xa1fe20cc                                         
+SetSplwow64AppCompat                                                                                 0x40ded7ec                                         
+SplDriverUnloadComplete                                                                              0xd748cc9c                                         
+SpoolerDevQueryPrintW                                                                                0x554f6ba2                                         
+SpoolerPrinterEvent                                                                                  0x27212e8f                                         
+StartDocDlgA                                                                                         0x97575001                                         
+StartDocDlgW                                                                                         0x97575017                                         
+StartDocPrinterA                                                                                     0xfb9ec80e                                         
+StartDocPrinterW                                                                                     0xfb9ec824                                         
+StartPagePrinter                                                                                     0x12206754                                         
+UnRegisterForPrintAsyncNotifications                                                                 0x53560b19                                         
+UploadPrinterDriverPackageA                                                                          0x963416a7                                         
+UploadPrinterDriverPackageW                                                                          0x963416bd                                         
+WaitForPrinterChange                                                                                 0xb411286b                                         
+WritePrinter                                                                                         0x251b5cb4                                         
+XcvDataW                                                                                             0x8f605d87                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

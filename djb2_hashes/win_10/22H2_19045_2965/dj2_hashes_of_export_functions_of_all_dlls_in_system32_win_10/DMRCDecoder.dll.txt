@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\DMRCDecoder.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateDecoder                                                                                        0x887a520f                                         
+DeleteDecoder                                                                                        0x1130d6ee                                         
+Detect                                                                                               0xade2d13e                                         
+EnableExtendedReadingDistance                                                                        0x57165842                                         
+EnableFalsePositiveMitigation                                                                        0xa33ebb1f                                         
+EnableInvertedReads                                                                                  0xb6266b7c                                         
+GetActiveBarcodeTypes                                                                                0x5aa8c7e6                                         
+GetBarcodeAttributesSupport                                                                          0xe221cf79                                         
+GetExceptions                                                                                        0xa96aada7                                         
+GetMillisecsPerFrameBarcode                                                                          0x418b4fac                                         
+GetMillisecsPerFrameDWCode                                                                           0xc006ca72                                         
+GetPayloadBarcodeType                                                                                0x9607b841                                         
+GetPayloadCount                                                                                      0xa4a34898                                         
+GetPayloadData                                                                                       0x33892449                                         
+GetPayloadRawData                                                                                    0xbca60cb3                                         
+GetRebarNV12BufferPtr                                                                                0x3d485048                                         
+GetStatus                                                                                            0x2202da89                                         
+GetSupportedBarcodeTypes                                                                             0xbd5eb2d0                                         
+SetActiveBarcodeTypes                                                                                0x274485f2                                         
+SetBarcodeCheckDigitAttribute                                                                        0x36bde124                                         
+SetBarcodeDecodeLengthAttribute                                                                      0xb35623db                                         
+SetBarcodeTransmitCheckDigitAttribute                                                                0x1627fa56                                         

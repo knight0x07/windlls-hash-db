@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\DscCore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CATraps                                                                                              0xc70d0dd3                                         
+CUTraps                                                                                              0xf5b43a67                                         
+CreateAuthenticationCertificateWrapper                                                               0x78c9661d                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetProviderClassID                                                                                   0xdc3bff53                                         
+LCMTraps                                                                                             0x7e89d4cb                                         
+MI_Main                                                                                              0xdc2f74ff                                         
+NITS_PRESENCE_STUB                                                                                   0xa3f793f4                                         
+NITS_STUB                                                                                            0xd96ad480                                         
+SysPrep_Cleanup                                                                                      0x4580aac2                                         
+ValidateCertificateExpirationWrapper                                                                 0xd5ffcf76                                         
+ValidatorTraps                                                                                       0x96664cf5                                         

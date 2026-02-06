@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\sedplugins.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckShellTask                                                                                       0x81a9d06e                                         
+EnumeratePlugins                                                                                     0x5cea988d                                         
+EnumeratePluginsWithApplicationSource                                                                0xa88e71ae                                         
+ExecuteShell                                                                                         0x7f266a90                                         
+GetPluginDefaultSettings                                                                             0xa976b2ca                                         
+GetSettingsName                                                                                      0x461aa4f7                                         
+Plugin_DetectCondition                                                                               0x7432a5f3                                         
+Plugin_Init                                                                                          0x324f53e7                                         
+Plugin_IsActionApplicable                                                                            0xeae1449a                                         
+Plugin_IsEnabled                                                                                     0x75df649a                                         
+Plugin_IsInteractiveOnly                                                                             0xee7366cf                                         
+Plugin_PerformAction                                                                                 0x5530ef4c                                         
+Plugin_Process                                                                                       0x968267d2                                         
+Plugin_Process_Aqua                                                                                  0x2bd2c7b9                                         
+Plugin_Uninit                                                                                        0x1f71c5aa                                         
+RegisterApplication                                                                                  0xf2d6631e                                         
+SedimentDriver_Init                                                                                  0x5d207a1d                                         
+SedimentDriver_Init_Aqua                                                                             0x70ff00e4                                         
+SedimentDriver_Uninit                                                                                0x43255160                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\Win32AppSettingsProvider.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ApplyProviderSettings                                                                                0xfe923d47                                         
+GatherProviderSettings                                                                               0x00c8ef3c                                         
+RegisterChangeNotifications                                                                          0x8a3d1e8a                                         
+UnregisterChangeNotifications                                                                        0x6b31016d                                         

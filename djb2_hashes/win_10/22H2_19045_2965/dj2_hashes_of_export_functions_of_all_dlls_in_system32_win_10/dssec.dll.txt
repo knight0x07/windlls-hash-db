@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\dssec.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DSCreateISecurityInfoObject                                                                          0x37763294                                         
+DSCreateISecurityInfoObjectEx                                                                        0xedcd30f1                                         
+DSCreateSecurityPage                                                                                 0xed2db665                                         
+DSEditSecurity                                                                                       0x2753487a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\aspnet_counters.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseGenericCounters                                                                                 0x2f0f8fcb                                         
+CloseStateCounters                                                                                   0x319dfd2f                                         
+CloseVersion4Counters                                                                                0x73db4a48                                         
+CollectGenericCounters                                                                               0xeef45b7b                                         
+CollectStateCounters                                                                                 0x817c1cdf                                         
+CollectVersion4Counters                                                                              0x30598bf8                                         
+OpenGenericCounters                                                                                  0x99df5567                                         
+OpenStateCounters                                                                                    0x8b47abcb                                         
+OpenVersion4Counters                                                                                 0x38a3c364                                         

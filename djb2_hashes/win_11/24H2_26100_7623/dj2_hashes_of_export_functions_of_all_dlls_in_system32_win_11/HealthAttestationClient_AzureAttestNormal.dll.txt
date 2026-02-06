@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\HealthAttestationClient\AzureAttestNormal.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EnclaveAttestationAttest                                                                             0xcbc73bc8                                         
+EnclaveAttestationAttestInternal                                                                     0xda50cac5                                         
+EnclaveAttestationCloseSession                                                                       0xb240c82d                                         
+EnclaveAttestationCloseSessionInternal                                                               0x2caeec2a                                         
+EnclaveAttestationConfigure                                                                          0xaa9c6755                                         
+EnclaveAttestationConfigureInternal                                                                  0xcdab3352                                         
+EnclaveAttestationCreateSession                                                                      0x8761308b                                         
+EnclaveAttestationCreateSessionInternal                                                              0x7568d288                                         
+EnclaveAttestationGetKey                                                                             0xd8b64f9c                                         
+EnclaveAttestationGetReport                                                                          0xe0ee8e6f                                         
+EnclaveAttestationGetReportInternal                                                                  0xffd7d46c                                         

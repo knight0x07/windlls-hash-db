@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\SCardDlg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetOpenCardNameA                                                                                     0xdfacc0f3                                         
+GetOpenCardNameW                                                                                     0xdfacc109                                         
+SCardDlgExtendedError                                                                                0x72f023c4                                         
+SCardUIDlgSelectCardA                                                                                0x0ac32582                                         
+SCardUIDlgSelectCardW                                                                                0x0ac32598                                         

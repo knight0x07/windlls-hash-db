@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igd11dxva32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?MosGetMemNinjaCounter@MosUtilities@@SGHXZ                                                           0x33320f01                                         
+?MosGetMemNinjaCounterGfx@MosUtilities@@SGHXZ                                                        0x9c321be6                                         
+?MosSetUltFlag@MosUtilities@@SGXE@Z                                                                  0x53f7c24a                                         
+@GTPin_Init@12                                                                                       0xfa7ee93d                                         
+DumpRegistryKeyDefinitions                                                                           0xe0d20e79                                         
+DumpRegistryKeyDefinitions3                                                                          0xfb13ddcc                                         
+_MOS_GetMemNinjaCounter@0                                                                            0x39d35f71                                         
+_MOS_GetMemNinjaCounterGfx@0                                                                         0x81e744b6                                         
+_MOS_SetUltFlag@4                                                                                    0xe61680e1                                         
+_OpenDxva11@4                                                                                        0xeb8d8a9f                                         

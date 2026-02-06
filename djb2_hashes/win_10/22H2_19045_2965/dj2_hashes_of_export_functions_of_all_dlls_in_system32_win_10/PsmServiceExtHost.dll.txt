@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\PsmServiceExtHost.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PsmApplicationStateNotification                                                                      0x28f74511                                         
+PsmCrmCleanup                                                                                        0xaf76281f                                         
+PsmCrmSessionUserNotification                                                                        0xc641f361                                         
+PsmCrmStart                                                                                          0x23290665                                         
+PsmCrmSuspendNotification                                                                            0x1946e540                                         
+PsmHamGetPackageDebugMode                                                                            0x6fe115c3                                         
+PsmHamRegisterProcess                                                                                0x3bd9fd4f                                         
+PsmHamTerminateApplication                                                                           0xb0f30288                                         
+PsmHamTerminateHost                                                                                  0x7ce7ecd2                                         
+PsmHamTerminatePackage                                                                               0x6f6873a0                                         
+PsmHangNotification                                                                                  0xa077805a                                         
+PsmHangNotification2                                                                                 0xaf678bcc                                         
+PsmHostStateNotification                                                                             0x94f017bb                                         
+PsmHostStateNotification2                                                                            0x32f30f4d                                         
+PsmInitializeServiceExtension                                                                        0xcd8b9735                                         
+PsmInitializeServiceExtension2                                                                       0x7efe7e07                                         
+PsmInitializeServiceExtension3                                                                       0x7efe7e08                                         
+PsmInitializeServiceExtension4                                                                       0x7efe7e09                                         
+PsmMemoryLimitNotification                                                                           0x9b2be694                                         
+PsmMemoryLimitNotification2                                                                          0x00a8b946                                         

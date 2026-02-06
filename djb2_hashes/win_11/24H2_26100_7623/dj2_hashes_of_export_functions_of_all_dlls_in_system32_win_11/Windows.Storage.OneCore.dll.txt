@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\Windows.Storage.OneCore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BrokeredCopyFileW                                                                                    0x5b7b80e5                                         
+BrokeredCreateDirectoryW                                                                             0x9138f153                                         
+BrokeredCreateFile2                                                                                  0xd5ef6e79                                         
+BrokeredDeleteFileW                                                                                  0x07312fbd                                         
+BrokeredFindFirstFileExW                                                                             0x1fcd78b0                                         
+BrokeredGetFileAttributesExW                                                                         0x9fdd1d2e                                         
+BrokeredGetFileAttributesW                                                                           0xe42c29b1                                         
+BrokeredMoveFileExW                                                                                  0xa3c42a5e                                         
+BrokeredRemoveDirectoryW                                                                             0x90d0a38d                                         
+BrokeredReplaceFileW                                                                                 0xfd3564a6                                         
+BrokeredSetFileAttributesW                                                                           0x0d35c33d                                         
+CopyFileFromAppW                                                                                     0xd707438c                                         
+CreateDirectoryFromAppW                                                                              0xa3826ffa                                         
+CreateFile2FromAppW                                                                                  0xbefd60f7                                         
+CreateFileFromAppW                                                                                   0x976fdba5                                         
+DeleteFileFromAppW                                                                                   0xf30743e4                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+FindFirstFileExFromAppW                                                                              0x0ec36cb7                                         
+GetFileAttributesExFromAppW                                                                          0x04814075                                         
+MoveFileFromAppW                                                                                     0x812f5a08                                         
+RemoveDirectoryFromAppW                                                                              0xa0281cf4                                         
+ReplaceFileFromAppW                                                                                  0xf1bc1eed                                         
+SetFileAttributesFromAppW                                                                            0xfc451b24                                         

@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\bitsperf.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CPerfMon@@QEAA@PEAGPEAU_PERF_ITEM@0@@Z                                                            0xcb7537d1                                         
+??1CPerfMon@@QEAA@XZ                                                                                 0x2214fa58                                         
+??4CPerfMon@@QEAAAEAV0@AEBV0@@Z                                                                      0xc6b8e3be                                         
+?CalcBytesForPerfObject@CPerfMon@@AEBAKPEAU__OBJECT_ORD@1@@Z                                         0x34e49e06                                         
+?CalcPerfMetrics@CPerfMon@@AEBAXPEAU__OBJECT_ORD@1@PEAU__INSTANCE_ID@1@PEAU_PERF_METRICS@1@PEAPEAU_PERF_ITEM@1@@Z 0x8a7f7e2a                                         
+?Collect@CPerfMon@@QEAAKPEAGPEAPEAEPEAK2@Z                                                           0xe38f95a2                                         
+?CollectAllObjects@CPerfMon@@AEBAKPEAGPEAPEAEPEAK2@Z                                                 0x87ddef76                                         
+?CollectAnObject@CPerfMon@@AEBAKPEAU__OBJECT_ORD@1@PEAPEAE@Z                                         0xe61e2ebe                                         
+?ConvertInstIdToInUseInstId@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@PEAU__INSTANCE_ID@1@@Z                 0x60ef1db7                                         
+?CounterIdToObjectOrd@CPerfMon@@AEBAPEAU__OBJECT_ORD@1@PEAU__COUNTER_ID@1@PEAH@Z                     0xbec47386                                         
+?CounterIdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__COUNTER_ID@1@@Z                            0xf95ee1e9                                         
+?CounterIdToPerfItemIndex@CPerfMon@@AEBAHPEAU__COUNTER_ID@1@PEAH@Z                                   0xc0794731                                         
+?CounterOrdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__OBJECT_ORD@1@PEAU__COUNTER_ORD@1@@Z       0x3533c18e                                         
+?DetermineObjectsToCollect@CPerfMon@@AEBAXPEAU__OBJECT_ORD@1@@Z                                      0x66cccefe                                         
+?GetCounter32@CPerfMon@@QEAAPEAJPEAU__COUNTER_ID@1@PEAU__INSTANCE_ID@1@@Z                            0xcf475f76                                         
+?GetCounter64@CPerfMon@@QEAAPEA_JPEAU__COUNTER_ID@1@PEAU__INSTANCE_ID@1@@Z                           0xbb1c173a                                         
+?GetCounter@CPerfMon@@AEAAPEAEPEAU__COUNTER_ID@1@PEAU__INSTANCE_ID@1@@Z                              0xa1d4a07c                                         
+?HowManyInstancesAreInUse@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@@Z                                       0xa0501745                                         
+?IdToPerfItemIndex@CPerfMon@@AEBAHH_K@Z                                                              0x0df81c5f                                         
+?Initialize@CPerfMon@@QEAAKH@Z                                                                       0x5093acd5                                         
+?InitializePerfMon@CPerfMon@@AEAAKH@Z                                                                0x171f8adc                                         
+?IsValidInstId@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@PEAU__INSTANCE_ID@1@@Z                              0x3a115fd0                                         
+?IsValidObjOrd@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@@Z                                                  0xbafe058a                                         
+?ObjectIdToObjectOrd@CPerfMon@@AEBAPEAU__OBJECT_ORD@1@PEAU__OBJECT_ID@1@@Z                           0x57521216                                         
+?ObjectIdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__OBJECT_ID@1@@Z                              0xeddf8ab7                                         
+?ObjectIdToPerfItemIndex@CPerfMon@@AEBAHPEAU__OBJECT_ID@1@@Z                                         0x8da5d2a1                                         
+?ObjectOrdToPerfItem@CPerfMon@@AEBAPEAU_PERF_ITEM@1@PEAU__OBJECT_ORD@1@@Z                            0x493f9c87                                         
+?ObjectOrdToPerfItemIndex@CPerfMon@@AEBAHPEAU__OBJECT_ORD@1@@Z                                       0x881ec4b1                                         
+?VerifyPerfItemTable@CPerfMon@@AEAAKXZ                                                               0xedf9e6bc                                         
+PerfMon_Close                                                                                        0xfa43b271                                         
+PerfMon_Collect                                                                                      0xa0bf79a1                                         
+PerfMon_Open                                                                                         0xf05644cd                                         

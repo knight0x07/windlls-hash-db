@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\VsGraphicsHelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DisableD3DSpy                                                                                        0x4b350190                                         
+VsgDbgAddHUDMessage                                                                                  0x48475a31                                         
+VsgDbgBeginCapture                                                                                   0x6ffa05db                                         
+VsgDbgCaptureCurrentFrame                                                                            0x1ba6aa04                                         
+VsgDbgCopy                                                                                           0x521e3b9d                                         
+VsgDbgEndCapture                                                                                     0x00405d8d                                         
+VsgDbgInit                                                                                           0x522180b6                                         
+VsgDbgInitDelayed                                                                                    0xca299a0e                                         
+VsgDbgToggleHUD                                                                                      0x48ca7ee5                                         
+VsgDbgUnInit                                                                                         0x7c70d619                                         

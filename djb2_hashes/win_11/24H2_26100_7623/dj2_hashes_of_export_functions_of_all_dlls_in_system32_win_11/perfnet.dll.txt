@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\perfnet.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseNetSvcsObject                                                                                   0x45e97818                                         
+CloseTcpIpPerformanceData                                                                            0x27e7e527                                         
+CollectNetSvcsObjectData                                                                             0xdc053182                                         
+CollectTcpIpPerformanceData                                                                          0x980f7ed7                                         
+OpenNetSvcsObject                                                                                    0x9f9326b4                                         
+OpenTcpIpPerformanceData                                                                             0xa03f8c43                                         

@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\CertPKICmdlet.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+ExportCertificate                                                                                    0x6073302a                                         
+ExportPFXCertificate                                                                                 0xd586bbb8                                         
+FindCertificate                                                                                      0xbacdffa9                                         
+FreeCertResults                                                                                      0x4a9a72e7                                         
+FreeResourceString                                                                                   0x73f5d4a6                                         
+GetCertificateFromEnrollmentInternal                                                                 0x7670a9b9                                         
+ImportCertificate                                                                                    0x25921783                                         
+ImportPFXCertificate                                                                                 0x6cc11071                                         
+IsSecureKernelRunning                                                                                0xfeaba48a                                         
+IsSmartCard                                                                                          0x5d0f90c2                                         
+LoadResourceString                                                                                   0x7bd0f624                                         
+SuppressFreeCert                                                                                     0x5b44cc3a                                         
+SuppressFreeStore                                                                                    0xc5080899                                         

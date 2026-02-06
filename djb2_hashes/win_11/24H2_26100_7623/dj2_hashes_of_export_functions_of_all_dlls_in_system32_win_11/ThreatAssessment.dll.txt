@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\ThreatAssessment.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetSnapshotFeatureSettings                                                                           0xabd474b2                                         
+PerformThreatAssessment                                                                              0x9e098b8e                                         
+ReportAssessment                                                                                     0x9231f427                                         
+UploadSnapshot                                                                                       0x8c1678ba                                         

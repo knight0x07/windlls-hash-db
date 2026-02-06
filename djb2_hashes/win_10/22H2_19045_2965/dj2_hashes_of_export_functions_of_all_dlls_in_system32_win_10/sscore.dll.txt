@@ -1,0 +1,52 @@
+DLL Path: C:\Windows\System32\sscore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SsCoreAliasAdd                                                                                       0xc0ecfe67                                         
+SsCoreAliasAddEx                                                                                     0xb0263d84                                         
+SsCoreAliasDel                                                                                       0xc0ed0b53                                         
+SsCoreAliasDelEx                                                                                     0xb05d3570                                         
+SsCoreCertificatesUpdate                                                                             0x614069cd                                         
+SsCoreCloseInstance                                                                                  0xdb1603df                                         
+SsCoreCompleteCsvVolumeDrain                                                                         0x8c4a4abf                                         
+SsCoreDeregisterNetnameForMultichannel                                                               0xaab0e7d5                                         
+SsCoreFileDel                                                                                        0xec8f3749                                         
+SsCoreFileDelForInstance                                                                             0x71f482e5                                         
+SsCoreFileEnum                                                                                       0x7e76d4a9                                         
+SsCoreFileEnumForInstance                                                                            0x41030445                                         
+SsCoreFileNotifyClose                                                                                0xb32cfb83                                         
+SsCoreFileNotifyCloseForInstance                                                                     0x2712eedf                                         
+SsCoreFreeBuffer                                                                                     0x9388b170                                         
+SsCoreInitialize                                                                                     0x5afa23c6                                         
+SsCoreInitializeEx                                                                                   0x021236a3                                         
+SsCoreInvalidationRequest                                                                            0xc6dcfcbf                                         
+SsCoreLockVolumes                                                                                    0xaf403fa8                                         
+SsCoreMarkAsClusterSvc                                                                               0x40148421                                         
+SsCoreNodeResetInfo                                                                                  0x759a7ec9                                         
+SsCoreNodeSetInfo                                                                                    0xa7217912                                         
+SsCoreOpenInstance                                                                                   0xd8f2ff1b                                         
+SsCoreRefreshSrvCredentialHandle                                                                     0x10a4abc5                                         
+SsCoreRegisterNetnameForMultichannel                                                                 0x4a9b6fcc                                         
+SsCoreServerTransportSetInfo                                                                         0xc2a9b5f0                                         
+SsCoreSessionDel                                                                                     0x5999b9cd                                         
+SsCoreSessionDelForInstance                                                                          0x37a5eae9                                         
+SsCoreSessionEnlist                                                                                  0x07d555c7                                         
+SsCoreSessionEnum                                                                                    0x8cd1a7ad                                         
+SsCoreSessionEnumForInstance                                                                         0xbce16cc9                                         
+SsCoreSetMaxClusterDialect                                                                           0xca2a283e                                         
+SsCoreShareAdd                                                                                       0x1827b170                                         
+SsCoreShareAddEx                                                                                     0xc0d9d6cd                                         
+SsCoreShareAddForInstance                                                                            0x9e1ff6ac                                         
+SsCoreShareCleanup                                                                                   0x0b69d4af                                         
+SsCoreShareDel                                                                                       0x1827be5c                                         
+SsCoreShareDelForInstance                                                                            0x26da9818                                         
+SsCoreShareGetInfo                                                                                   0x3000efd3                                         
+SsCoreShareGetInfoForInstance                                                                        0x5b13912f                                         
+SsCoreShareSetInfo                                                                                   0xcbbbc8df                                         
+SsCoreShareSetInfoForInstance                                                                        0x841d2abb                                         
+SsCoreShareShutdownForScope                                                                          0x6dcee784                                         
+SsCoreStartCsvVolumeDrain                                                                            0xabbae414                                         
+SsCoreStartInstance                                                                                  0xdccfab57                                         
+SsCoreStopInstance                                                                                   0xc395d6ef                                         
+SsCoreUninitialize                                                                                   0x418aa009                                         
+SsCoreUnlockVolumes                                                                                  0x67e0444b                                         

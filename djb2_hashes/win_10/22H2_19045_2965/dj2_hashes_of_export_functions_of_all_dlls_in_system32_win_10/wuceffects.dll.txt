@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\wuceffects.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CompileEffectDescription                                                                             0x9d07737f                                         
+CreateEffectDescription                                                                              0xca25916a                                         
+DeserializeEffectDescription                                                                         0x80467067                                         
+SerializeEffectDescription                                                                           0x1322a49e                                         

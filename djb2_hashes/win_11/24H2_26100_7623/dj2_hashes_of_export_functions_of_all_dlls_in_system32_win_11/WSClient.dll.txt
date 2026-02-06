@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\WSClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AcquireDeveloperLicense                                                                              0x7c530178                                         
+CheckDeveloperLicense                                                                                0x48550dec                                         
+GetApplicationURL                                                                                    0x8945520c                                         
+RefreshBannedAppsList                                                                                0x9f55ab4c                                         
+RemoveDeveloperLicense                                                                               0xd6a8a21c                                         
+WSCallServer                                                                                         0x58a8dfa2                                         
+WSCheckForConsumable                                                                                 0x22b9087d                                         
+WSEvaluatePackage                                                                                    0xd17ad172                                         
+WSGetEvaluatePackageAttempted                                                                        0x8834193a                                         
+WSLicenseCleanUpState                                                                                0xe2a8f4bb                                         
+WSLicenseClose                                                                                       0xb4c3bee8                                         
+WSLicenseFilterValidAppCategoryIds                                                                   0x33465067                                         
+WSLicenseGetAllUserTokens                                                                            0x40eadade                                         
+WSLicenseGetAllValidAppCategoryIds                                                                   0x7b82a31a                                         
+WSLicenseGetDevInstalledApps                                                                         0x1e85d525                                         
+WSLicenseGetExtendedUserInfo                                                                         0xb34423ce                                         
+WSLicenseGetFeatureLicenseResults                                                                    0xd094e1b3                                         
+WSLicenseGetLicensesForProducts                                                                      0xa8e52123                                         
+WSLicenseGetOAuthServiceTicket                                                                       0xe523c028                                         
+WSLicenseGetProductLicenseResults                                                                    0xfdb5b148                                         
+WSLicenseInstallLicense                                                                              0x236244ec                                         
+WSLicenseOpen                                                                                        0xee3b1e64                                         
+WSLicenseRefreshLicense                                                                              0x75c1d5a4                                         
+WSLicenseRetrieveMachineID                                                                           0x8eb502ba                                         
+WSLicenseRevokeLicenses                                                                              0x81a29e14                                         
+WSLicenseUninstallLicense                                                                            0xccb4c22f                                         
+WSNotifyOOBECompletion                                                                               0xca3a2cc7                                         
+WSNotifyPackageInstalled                                                                             0xf40c4e14                                         
+WSTriggerOOBEFileValidation                                                                          0xaae3e8f3                                         
+WSpTLRW                                                                                              0xf68085a8                                         

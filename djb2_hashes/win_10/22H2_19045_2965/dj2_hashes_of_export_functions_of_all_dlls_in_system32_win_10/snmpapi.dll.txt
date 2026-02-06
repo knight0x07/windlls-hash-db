@@ -1,0 +1,42 @@
+DLL Path: C:\Windows\System32\snmpapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SnmpSvcAddrIsIpx                                                                                     0xb5c29217                                         
+SnmpSvcAddrToSocket                                                                                  0x50c0efd6                                         
+SnmpSvcGetEnterpriseOID                                                                              0xaefb766c                                         
+SnmpSvcGetUptime                                                                                     0xebb00e83                                         
+SnmpSvcGetUptimeFromTime                                                                             0xf1cc0ea6                                         
+SnmpSvcInitUptime                                                                                    0x6e627d77                                         
+SnmpSvcSetLogLevel                                                                                   0x1c979d95                                         
+SnmpSvcSetLogType                                                                                    0xda18d35f                                         
+SnmpTfxClose                                                                                         0x8283ccab                                         
+SnmpTfxOpen                                                                                          0x137effc7                                         
+SnmpTfxQuery                                                                                         0x8385e88b                                         
+SnmpUtilAnsiToUnicode                                                                                0x19668b56                                         
+SnmpUtilAsnAnyCpy                                                                                    0x1ce3b2f7                                         
+SnmpUtilAsnAnyFree                                                                                   0xb95bbd4d                                         
+SnmpUtilDbgPrint                                                                                     0x7abd16bb                                         
+SnmpUtilIdsToA                                                                                       0xbf4ecf05                                         
+SnmpUtilMemAlloc                                                                                     0xbce88fab                                         
+SnmpUtilMemFree                                                                                      0xdef29cc2                                         
+SnmpUtilMemReAlloc                                                                                   0xa2898502                                         
+SnmpUtilOctetsCmp                                                                                    0xd9d4fe73                                         
+SnmpUtilOctetsCpy                                                                                    0xd9d4fedf                                         
+SnmpUtilOctetsFree                                                                                   0x14768635                                         
+SnmpUtilOctetsNCmp                                                                                   0x147a2261                                         
+SnmpUtilOidAppend                                                                                    0x3f790295                                         
+SnmpUtilOidCmp                                                                                       0xcd9fbb3d                                         
+SnmpUtilOidCpy                                                                                       0xcd9fbba9                                         
+SnmpUtilOidFree                                                                                      0x8198dc3f                                         
+SnmpUtilOidNCmp                                                                                      0x819c786b                                         
+SnmpUtilOidToA                                                                                       0xcda003a1                                         
+SnmpUtilPrintAsnAny                                                                                  0x40c3ba18                                         
+SnmpUtilPrintOid                                                                                     0x6440b72a                                         
+SnmpUtilUTF8ToUnicode                                                                                0x1cca29d2                                         
+SnmpUtilUnicodeToAnsi                                                                                0xb4982b16                                         
+SnmpUtilUnicodeToUTF8                                                                                0xb4a2ae12                                         
+SnmpUtilVarBindCpy                                                                                   0xcf1a1773                                         
+SnmpUtilVarBindFree                                                                                  0xb25eb149                                         
+SnmpUtilVarBindListCpy                                                                               0x18bad42f                                         
+SnmpUtilVarBindListFree                                                                              0x30170585                                         

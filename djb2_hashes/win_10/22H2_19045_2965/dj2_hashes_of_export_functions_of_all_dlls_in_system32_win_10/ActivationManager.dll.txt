@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\ActivationManager.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DisableAppXDebuggingForPackage                                                                       0x018fc411                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+EnableAppXDebuggingForPackage                                                                        0xfb7a6da4                                         
+FreeAppXLaunchContext                                                                                0x98ef62c0                                         
+GetPackageExecutionContextForAumid                                                                   0x421470a1                                         
+GetPackageExecutionContextForAumidAndUser                                                            0x998058f3                                         
+GetPackageExecutionContextForDeviceFamilyName                                                        0x6ee32464                                         
+GetPackageExecutionContextForPackageByFullName                                                       0x825a8d2c                                         
+PostCreateProcessAppXActivation                                                                      0xa67ecec9                                         
+PrepareAppXActivation                                                                                0xe11bfadf                                         
+RegisterAppXPackageIfNecessary                                                                       0xc1729dcb                                         
+RegisterAppXPackageIfNecessary2                                                                      0xefc6575d                                         

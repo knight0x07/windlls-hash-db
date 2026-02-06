@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\icst_service.inf_amd64_11f09e2b209c665a\ipfcoresdk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IpfCore_Exit                                                                                         0x69d17586                                         
+IpfCore_Init                                                                                         0x69d37c80                                         
+IpfCore_SessionConnect                                                                               0x6d0c0eba                                         
+IpfCore_SessionCreate                                                                                0xcd318244                                         
+IpfCore_SessionDestroy                                                                               0xa310b2da                                         
+IpfCore_SessionDisconnect                                                                            0x9960d81a                                         
+IpfCore_SessionExecute                                                                               0x1b565763                                         
+IpfCore_SessionRegisterEvent                                                                         0x4213b5b7                                         
+IpfCore_SessionUnregisterEvent                                                                       0x1871761a                                         
+IpfCore_SessionWaitForStop                                                                           0x5d0bb812                                         

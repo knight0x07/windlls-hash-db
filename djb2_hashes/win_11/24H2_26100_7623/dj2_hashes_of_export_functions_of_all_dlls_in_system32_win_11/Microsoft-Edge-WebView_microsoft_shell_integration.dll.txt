@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\microsoft_shell_integration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ChallengeUser                                                                                        0xb7e50387                                         
+CreateWin7SpellCheckerFactory                                                                        0x9f4a86eb                                         
+DisableControllerNavigation                                                                          0xbd28040d                                         
+EnableControllerNavigation                                                                           0x8ae9de80                                         
+EnableControllerNavigationHwnd                                                                       0x91dea291                                         
+GetProcessAppSessionGuid                                                                             0x8c7f2272                                         
+GetUIAClientInfo                                                                                     0x1341a1cf                                         
+GetWindowsFlightIdsComponentStr                                                                      0x44777efa                                         
+IsItemPinnedToTaskbarByAppID                                                                         0xc2f920c2                                         
+RegisterClosestInteractiveBoundsWindow                                                               0xbaf823e8                                         
+XboxAreWebAppsEnabled                                                                                0x80f6c91b                                         
+XboxAreWebAppsUserInstallable                                                                        0xb6a2731a                                         
+XboxCreateArgbScreenshot                                                                             0x932b1bb4                                         
+XboxDidAppTerminateNormally                                                                          0x38a0a18f                                         
+XboxFreeArgbScreenshot                                                                               0xee1b7dc2                                         
+XboxGetProtocolHandlerForScheme                                                                      0x870bd552                                         
+XboxIsBrowserOnFastStorage                                                                           0x3186faa6                                         
+XboxIsBrowserSetBackgroundImageEnabled                                                               0x74222c40                                         
+XboxIsHevcCapEnabledForCurrentProcess                                                                0xab420090                                         
+XboxNavigateBack                                                                                     0xbc2bf3a6                                         
+XboxSetBackgroundImageFromArgbBuffer                                                                 0xb869363f                                         
+XboxShowLegalDocuments                                                                               0x4cd9443e                                         

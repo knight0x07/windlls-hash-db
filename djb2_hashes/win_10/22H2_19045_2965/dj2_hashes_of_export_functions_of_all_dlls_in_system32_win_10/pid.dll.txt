@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\pid.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+PID_GetFFEffectSettingsFromMemory                                                                    0x4a5c77d8                                         
+PID_WriteFFEffectSettingsToMemory                                                                    0x4fc50c32                                         

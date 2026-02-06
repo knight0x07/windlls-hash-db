@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-service-private-l1-1-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+I_QueryTagInformation                                                                                0xb13eac85                                         
+I_ScBroadcastServiceControlMessage                                                                   0xb86831ed                                         
+I_ScIsSecurityProcess                                                                                0x04e29616                                         
+I_ScPnPGetServiceName                                                                                0xdacb1cc3                                         
+I_ScQueryServiceConfig                                                                               0x197a6740                                         
+I_ScRegisterDeviceNotification                                                                       0x2a112e5f                                         
+I_ScRegisterPreshutdownRestart                                                                       0xc8e04530                                         
+I_ScRpcBindA                                                                                         0x6d61aa46                                         
+I_ScRpcBindW                                                                                         0x6d61aa5c                                         
+I_ScSendPnPMessage                                                                                   0xc35e7c40                                         
+I_ScSendTSMessage                                                                                    0x944b60d9                                         
+I_ScSetServiceBitsA                                                                                  0x2fa174d3                                         
+I_ScSetServiceBitsW                                                                                  0x2fa174e9                                         
+I_ScUnregisterDeviceNotification                                                                     0xeb98f062                                         
+I_ScValidatePnPService                                                                               0x7c3b5c2c                                         
+SubscribeServiceChangeNotifications                                                                  0xdf999758                                         
+UnsubscribeServiceChangeNotifications                                                                0x29a7ad3b                                         
+WaitServiceState                                                                                     0x9e5d768c                                         

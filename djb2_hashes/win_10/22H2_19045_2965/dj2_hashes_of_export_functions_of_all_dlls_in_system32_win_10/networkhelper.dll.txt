@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\networkhelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CHttpTransport_CreateInstance                                                                        0xfec1691d                                         
+CheckPdcRenewal                                                                                      0x206933c8                                         
+CreateControlChannelTriggerConnectionManager                                                         0x5518b6d2                                         
+GetOrCreateNullPowerDependencyCoordinatorManager                                                     0xe31c9400                                         
+GetSerializedAppMetadata                                                                             0x777fa5f3                                         
+InitializePowerDependencyCoordinatorManager                                                          0xaa18c782                                         
+IsNetworkConnectionCostRestricted                                                                    0xd4224c2d                                         
+ProgressStatus                                                                                       0x0c6c37fe                                         
+ReleasePowerDependencyCoordinatorManager                                                             0xf9533a31                                         
+ReportSyncProgress                                                                                   0xe570de53                                         
+SyncPdcReference_WatchdogReport                                                                      0xb7fcc594                                         
+SyncPdcReference_WatchdogsEnabled                                                                    0x79c8d076                                         
+SyncWerReportComponentName                                                                           0xc99601c0                                         
+SyncWerReportGenerator                                                                               0x96c83333                                         

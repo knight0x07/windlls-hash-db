@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_e54441f6cc56b0cb\SpeakerVerfDll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SVD_Destroy                                                                                          0x87f50d3b                                         
+SVD_GetDetect                                                                                        0x92fc710a                                         
+SVD_GetDetectCount                                                                                   0x83b9ef73                                         
+SVD_GetParam                                                                                         0x4b1ca162                                         
+SVD_GetScore                                                                                         0x4b53f90d                                         
+SVD_Init                                                                                             0x969b8405                                         
+SVD_Init2                                                                                            0x6a0c04d7                                         
+SVD_Process                                                                                          0x41b10b30                                         
+SVD_Process2                                                                                         0x77d27162                                         
+SVD_SetParam                                                                                         0x5e329bee                                         
+SVD_StartRecog                                                                                       0x62fe3cef                                         
+SVD_Stop                                                                                             0x96a11a17                                         
+SVE_Destroy                                                                                          0xfc717e3c                                         
+SVE_GetOutputTrainDataSize                                                                           0x98d6b256                                         
+SVE_GetParam                                                                                         0x4f273283                                         
+SVE_GetTrainDataReady                                                                                0xcd8bc53f                                         
+SVE_GetTrainIdByIndex                                                                                0x073d8a10                                         
+SVE_GetTrainIdCount                                                                                  0x6a8c93c6                                         
+SVE_Init                                                                                             0x98f0aca6                                         
+SVE_Init2                                                                                            0xb7064198                                         
+SVE_Process                                                                                          0xb62d7c31                                         
+SVE_Process2                                                                                         0x7bdd0283                                         
+SVE_SaveTrainDataToMemory                                                                            0xb3be1335                                         
+SVE_SetParam                                                                                         0x623d2d0f                                         
+SVE_StartTrain                                                                                       0x941ce2fe                                         
+SVE_Stop                                                                                             0x98f642b8                                         

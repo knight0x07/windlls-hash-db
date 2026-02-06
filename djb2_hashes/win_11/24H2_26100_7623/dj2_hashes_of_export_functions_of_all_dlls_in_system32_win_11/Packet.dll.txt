@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\Packet.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PacketAllocatePacket                                                                                 0x988325da                                         
+PacketCloseAdapter                                                                                   0x921ac114                                         
+PacketFreePacket                                                                                     0x91be3617                                         
+PacketGetAdapterNames                                                                                0x8f041ff2                                         
+PacketGetAirPcapHandle                                                                               0xa8e11c09                                         
+PacketGetDriverName                                                                                  0xe0bd92ca                                         
+PacketGetDriverVersion                                                                               0x45a5944f                                         
+PacketGetMonitorMode                                                                                 0x61d3964a                                         
+PacketGetNetInfoEx                                                                                   0x065c3d2d                                         
+PacketGetNetType                                                                                     0xcb233806                                         
+PacketGetReadEvent                                                                                   0x5dd97bfb                                         
+PacketGetStats                                                                                       0xa997906c                                         
+PacketGetStatsEx                                                                                     0x6dbd64c9                                         
+PacketGetTimestampModes                                                                              0x7585d2c9                                         
+PacketGetVersion                                                                                     0x32e1a8a3                                         
+PacketInitPacket                                                                                     0xff9d0849                                         
+PacketIsDumpEnded                                                                                    0xf6f16a4f                                         
+PacketIsLoopbackAdapter                                                                              0xc1b7c585                                         
+PacketIsMonitorModeSupported                                                                         0xe237494c                                         
+PacketLibraryVersion                                                                                 0xddc3a9b8                                         
+PacketOpenAdapter                                                                                    0x443767b0                                         
+PacketReceivePacket                                                                                  0x8c3d2c98                                         
+PacketRequest                                                                                        0xa915af06                                         
+PacketSendPacket                                                                                     0xdd4c16df                                         
+PacketSendPackets                                                                                    0x86cef332                                         
+PacketSetBpf                                                                                         0x4d471a81                                         
+PacketSetBuff                                                                                        0xf62a804c                                         
+PacketSetDumpLimits                                                                                  0x9eee8d51                                         
+PacketSetDumpName                                                                                    0xf682f220                                         
+PacketSetHwFilter                                                                                    0xe617a64e                                         
+PacketSetLoopbackBehavior                                                                            0x364d8ec4                                         
+PacketSetMinToCopy                                                                                   0xda19bf6b                                         
+PacketSetMode                                                                                        0xf6306eae                                         
+PacketSetMonitorMode                                                                                 0x28d649d6                                         
+PacketSetNumWrites                                                                                   0x1bfc9bd7                                         
+PacketSetReadTimeout                                                                                 0x660d684c                                         
+PacketSetSnapLen                                                                                     0x903a6b3a                                         
+PacketSetTimestampMode                                                                               0x7ec7a622                                         
+PacketStopDriver                                                                                     0x1dcc95ef                                         

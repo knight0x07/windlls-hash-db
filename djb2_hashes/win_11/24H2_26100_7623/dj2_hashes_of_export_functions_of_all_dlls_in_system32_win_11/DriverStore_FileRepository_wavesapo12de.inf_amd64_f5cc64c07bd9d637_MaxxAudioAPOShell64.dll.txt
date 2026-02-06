@@ -1,0 +1,52 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\MaxxAudioAPOShell64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WavesFX_CreatePluginWindow                                                                           0x03262d83                                         
+WavesFX_DetachPluginWindow                                                                           0x32225698                                         
+WavesFX_GetChunk                                                                                     0x6d0b76c1                                         
+WavesFX_GetParameter                                                                                 0xcf1ba1e9                                         
+WavesFX_GetParametersArray                                                                           0xf86b9adb                                         
+WavesFX_GetProperty                                                                                  0x898ba16d                                         
+WavesFX_GetRuntimeData_Text                                                                          0xe331bfea                                         
+WavesFX_GetRuntimeData_Value                                                                         0x498b8a22                                         
+WavesFX_Initialize                                                                                   0x9434eefa                                         
+WavesFX_IsConnectionActive                                                                           0x6ea6b810                                         
+WavesFX_Preset_Add                                                                                   0x7c6a7bc3                                         
+WavesFX_Preset_Delete                                                                                0x671f3b4d                                         
+WavesFX_Preset_GetActive                                                                             0x97677df6                                         
+WavesFX_Preset_GetCount                                                                              0x80e059e3                                         
+WavesFX_Preset_GetDefaultParameter                                                                   0xc94656c0                                         
+WavesFX_Preset_GetDefaultType                                                                        0xc57e3021                                         
+WavesFX_Preset_GetName                                                                               0x3279331b                                         
+WavesFX_Preset_GetNameW                                                                              0x819f96d2                                         
+WavesFX_Preset_GetOutputName                                                                         0x5d53cbac                                         
+WavesFX_Preset_GetParameter                                                                          0x44a1975b                                         
+WavesFX_Preset_GetParametersArray                                                                    0x81445dcd                                         
+WavesFX_Preset_GetSoundMode                                                                          0x92423a08                                         
+WavesFX_Preset_GetType                                                                               0x327ce3dc                                         
+WavesFX_Preset_RegisterChangeNotification                                                            0xc3cbbeac                                         
+WavesFX_Preset_RegisterFile                                                                          0xcae7a59f                                         
+WavesFX_Preset_RegisterMem                                                                           0x998b033e                                         
+WavesFX_Preset_RevertToDefault                                                                       0xc90138da                                         
+WavesFX_Preset_SaveDefault                                                                           0xec1ba7ce                                         
+WavesFX_Preset_SaveDefault2                                                                          0x6f90a1c0                                         
+WavesFX_Preset_SetActive                                                                             0x0d3cca02                                         
+WavesFX_Preset_SetActive2                                                                            0xb4d60a74                                         
+WavesFX_Preset_SetNameW                                                                              0x94b5915e                                         
+WavesFX_Preset_SetParameter                                                                          0x9009f7e7                                         
+WavesFX_Preset_SetParametersArray                                                                    0xaa4df759                                         
+WavesFX_Preset_SetSoundMode                                                                          0xddaa9a94                                         
+WavesFX_Preset_SetType                                                                               0xce37bce8                                         
+WavesFX_Preset_SetTypeEx                                                                             0x3b1aa045                                         
+WavesFX_RegisterChangeNotification                                                                   0x77ae29ba                                         
+WavesFX_SetBypassMode                                                                                0x547e60cb                                         
+WavesFX_SetChunk                                                                                     0x8021714d                                         
+WavesFX_SetDoubleBufferingMode                                                                       0x485cd50c                                         
+WavesFX_SetParameter                                                                                 0x1a840275                                         
+WavesFX_SetParametersArray                                                                           0x21753467                                         
+WavesFX_SetProperty                                                                                  0xc9e42079                                         
+WavesFX_SetRuntimeData_Text                                                                          0x2d6e8af6                                         
+WavesFX_SetRuntimeData_Value                                                                         0xdb61b6ae                                         
+WavesFX_Uninitialize                                                                                 0xb4a5083d                                         
+WavesFX_VendorSpecific                                                                               0xf59086fc                                         

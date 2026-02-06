@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\cryptcatsvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CatDbOfflineRebuildDatabasesRundll32W                                                                0x6293e182                                         
+CatDbOfflineRebuildDatabasesW                                                                        0x962356cc                                         
+CryptCATAdminCatalogDatabase                                                                         0x1e66eb48                                         
+CryptsvcDllCtrl                                                                                      0x69960254                                         

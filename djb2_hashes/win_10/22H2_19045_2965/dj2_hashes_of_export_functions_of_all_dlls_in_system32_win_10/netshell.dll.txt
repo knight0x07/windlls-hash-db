@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\netshell.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+HrCreateDesktopIcon                                                                                  0xffbddd36                                         
+HrGetIconFromMediaType                                                                               0x21ccf19e                                         
+HrGetIconFromMediaTypeEx                                                                             0xc8cfda7b                                         
+HrLaunchConnection                                                                                   0x9e190b4a                                         
+HrLaunchConnectionEx                                                                                 0x88890f27                                         
+HrRenameConnection                                                                                   0x274c1ca7                                         
+NcFreeNetconProperties                                                                               0x747c4cec                                         
+NcIsValidConnectionName                                                                              0x4c027253                                         
+StartNCW                                                                                             0xe103159b                                         

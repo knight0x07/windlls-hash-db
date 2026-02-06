@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\drivers\stream.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+StreamClassAbortOutstandingRequests                                                                  0x15e00a6b                                         
+StreamClassCallAtNewPriority                                                                         0xe134c3a4                                         
+StreamClassCompleteRequestAndMarkQueueReady                                                          0xcb5c4381                                         
+StreamClassDebugAssert                                                                               0xff2e9560                                         
+StreamClassDebugPrint                                                                                0x0108613b                                         
+StreamClassDeviceNotification                                                                        0x62e2ecbe                                         
+StreamClassFilterReenumerateStreams                                                                  0x83e37b29                                         
+StreamClassGetDmaBuffer                                                                              0x2b724413                                         
+StreamClassGetNextEvent                                                                              0xb20196a8                                         
+StreamClassGetPhysicalAddress                                                                        0x0dd40a0a                                         
+StreamClassLogError                                                                                  0x4d91aa53                                         
+StreamClassPnPAddDeviceWorker                                                                        0x23ae3728                                         
+StreamClassQueryMasterClock                                                                          0x0b7cbff5                                         
+StreamClassQueryMasterClockSync                                                                      0xfb454732                                         
+StreamClassReadWriteConfig                                                                           0x357b0884                                         
+StreamClassReenumerateStreams                                                                        0xb80647a3                                         
+StreamClassRegisterAdapter                                                                           0x73074a6d                                         
+StreamClassRegisterFilterWithNoKSPins                                                                0x3aab3663                                         
+StreamClassScheduleTimer                                                                             0x0c88d6f5                                         
+StreamClassStreamNotification                                                                        0x3778b4fa                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\nettraceex.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TraceExGenerateDump                                                                                  0x8ef5b892                                         
+TraceExGenerateMiniReport                                                                            0x3bb45805                                         
+TraceExGenerateReport                                                                                0x42ce85d8                                         
+TraceExRunDiagnostic                                                                                 0x778dd52b                                         

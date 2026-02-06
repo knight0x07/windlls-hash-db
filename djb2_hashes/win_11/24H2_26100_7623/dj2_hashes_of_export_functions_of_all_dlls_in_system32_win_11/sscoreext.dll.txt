@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\sscoreext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SsCoreExtMiApplicationClose                                                                          0xb83503a5                                         
+SsCoreExtMiApplicationInitialize                                                                     0x76c68e21                                         
+SsCoreExtMiApplicationNewOperationOptions                                                            0xaed57ed6                                         
+SsCoreExtMiApplicationNewParameterSet                                                                0x5f7c8026                                         
+SsCoreExtMiApplicationNewSession                                                                     0x69e825fd                                         
+SsCoreExtMiInstanceAddElement                                                                        0xff92d4e3                                         
+SsCoreExtMiInstanceDelete                                                                            0x1c808263                                         
+SsCoreExtMiOperationClose                                                                            0x0c84ffe2                                         
+SsCoreExtMiOperationGetInstance                                                                      0xdd339601                                         
+SsCoreExtMiOperationOptionsDelete                                                                    0x5526216b                                         
+SsCoreExtMiOperationOptionsSetResourceUriPrefix                                                      0xb219ca6a                                         
+SsCoreExtMiSessionClose                                                                              0xa1f77a35                                         
+SsCoreExtMiSessionInvoke                                                                             0xef0dac6b                                         

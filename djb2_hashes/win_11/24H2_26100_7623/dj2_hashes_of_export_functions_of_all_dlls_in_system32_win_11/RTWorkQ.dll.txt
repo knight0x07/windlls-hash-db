@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\RTWorkQ.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RtwqAddPeriodicCallback                                                                              0x8e7ac578                                         
+RtwqAllocateSerialWorkQueue                                                                          0x703d2e00                                         
+RtwqAllocateWorkQueue                                                                                0xb9670220                                         
+RtwqBeginRegisterWorkQueueWithMMCSS                                                                  0xd158dee4                                         
+RtwqBeginUnregisterWorkQueueWithMMCSS                                                                0xf3fdc227                                         
+RtwqCancelDeadline                                                                                   0xe2670fcf                                         
+RtwqCancelWorkItem                                                                                   0x952396ab                                         
+RtwqCreateAsyncResult                                                                                0xf4cf27c4                                         
+RtwqDebugGetOutstandingRefs                                                                          0x02af7c9a                                         
+RtwqDebugSetCleanShutdown                                                                            0xd2aba825                                         
+RtwqEndRegisterWorkQueueWithMMCSS                                                                    0x50b8fd16                                         
+RtwqEndUnregisterWorkQueueWithMMCSS                                                                  0xcbde34d9                                         
+RtwqGetPlatform                                                                                      0xd5d45298                                         
+RtwqGetWorkQueueMMCSSClass                                                                           0xee1f3674                                         
+RtwqGetWorkQueueMMCSSPriority                                                                        0x2b3272a0                                         
+RtwqGetWorkQueueMMCSSTaskId                                                                          0xd8f061de                                         
+RtwqInvokeCallback                                                                                   0xf890bacc                                         
+RtwqJoinWorkQueue                                                                                    0xff0fb74b                                         
+RtwqLockPlatform                                                                                     0x0b5e80a1                                         
+RtwqLockSharedWorkQueue                                                                              0x14f985fb                                         
+RtwqLockWorkQueue                                                                                    0x7181d764                                         
+RtwqPutWaitingWorkItem                                                                               0x7e5ab551                                         
+RtwqPutWorkItem                                                                                      0x4a704f1e                                         
+RtwqRegisterPlatformEvents                                                                           0x18a18a92                                         
+RtwqRegisterPlatformWithMMCSS                                                                        0x503aad7c                                         
+RtwqRemovePeriodicCallback                                                                           0x27d6a85d                                         
+RtwqScheduleWorkItem                                                                                 0xa0bb54f2                                         
+RtwqSetDeadline                                                                                      0xe720d5f5                                         
+RtwqSetDeadline2                                                                                     0xcb3b94c7                                         
+RtwqSetLongRunning                                                                                   0xd5741770                                         
+RtwqShutdown                                                                                         0xb8c8440f                                         
+RtwqStartup                                                                                          0xf1a0fd06                                         
+RtwqUnjoinWorkQueue                                                                                  0xe2e4946e                                         
+RtwqUnlockPlatform                                                                                   0xa5aac564                                         
+RtwqUnlockWorkQueue                                                                                  0x5556b487                                         
+RtwqUnregisterPlatformEvents                                                                         0x37b0df15                                         
+RtwqUnregisterPlatformFromMMCSS                                                                      0x9414ed57                                         

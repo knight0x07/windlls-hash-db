@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\sti_ci.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddDevice                                                                                            0x8731155e                                         
+ClassInstall                                                                                         0x65401f72                                         
+CoinstallerEntry                                                                                     0x553b3dd7                                         
+CreateWiaDeviceList                                                                                  0x73c20d66                                         
+DestroyWiaDeviceList                                                                                 0x6668d05c                                         
+DisableWiaDevice                                                                                     0x8ba43baa                                         
+EnableWiaDevice                                                                                      0x0a934ffd                                         
+GetWiaDeviceProperty                                                                                 0xb1c87a1b                                         
+InstallWiaDevice                                                                                     0xc8776ced                                         
+InstallWiaService                                                                                    0x59cd726e                                         
+SetWiaDeviceProperty                                                                                 0x439ea6a7                                         
+UninstallWiaDevice                                                                                   0x16f06fb0                                         
+WiaAddDevice                                                                                         0xcb73605f                                         
+WiaCreatePortList                                                                                    0x02aa061b                                         
+WiaDestroyPortList                                                                                   0x33020b71                                         
+WiaDeviceEnum                                                                                        0x7155d22b                                         
+WiaRemoveDevice                                                                                      0xe7d90024                                         

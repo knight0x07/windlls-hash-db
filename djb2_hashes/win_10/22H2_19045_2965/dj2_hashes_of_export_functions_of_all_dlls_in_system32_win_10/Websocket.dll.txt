@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\Websocket.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WebSocketAbortHandle                                                                                 0xf0f99630                                         
+WebSocketBeginClientHandshake                                                                        0x9b1f94f7                                         
+WebSocketBeginServerHandshake                                                                        0x82fde50f                                         
+WebSocketCompleteAction                                                                              0x72057c43                                         
+WebSocketCreateClientHandle                                                                          0x8ff9992b                                         
+WebSocketCreateServerHandle                                                                          0xf2042043                                         
+WebSocketDeleteHandle                                                                                0xb9cd2a4b                                         
+WebSocketEndClientHandshake                                                                          0x50698429                                         
+WebSocketEndServerHandshake                                                                          0x3847d441                                         
+WebSocketGetAction                                                                                   0x2413340a                                         
+WebSocketGetGlobalProperty                                                                           0xf3f7f502                                         
+WebSocketReceive                                                                                     0xd420412f                                         
+WebSocketSend                                                                                        0x1332f096                                         

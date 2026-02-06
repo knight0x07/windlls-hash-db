@@ -1,0 +1,42 @@
+DLL Path: C:\Windows\System32\ninput.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddPointerInteractionContext                                                                         0x32bb4ab4                                         
+BufferPointerPacketsInteractionContext                                                               0xcb4b23f0                                         
+CreateInteractionContext                                                                             0x88076f3e                                         
+DefaultInputHandler                                                                                  0xb8457958                                         
+DestroyInteractionContext                                                                            0xd90c7bf4                                         
+GetCrossSlideParameterInteractionContext                                                             0x72f60946                                         
+GetHoldParameterInteractionContext                                                                   0xd9120a72                                         
+GetInertiaParameterInteractionContext                                                                0x5e4d1117                                         
+GetInteractionConfigurationInteractionContext                                                        0xa113f322                                         
+GetMouseWheelParameterInteractionContext                                                             0x272187c9                                         
+GetPropertyInteractionContext                                                                        0x0db9176f                                         
+GetStateInteractionContext                                                                           0x8986d92b                                         
+GetTapParameterInteractionContext                                                                    0x685b2790                                         
+GetTranslationParameterInteractionContext                                                            0x893ae4fa                                         
+ProcessBufferedPacketsInteractionContext                                                             0xebb0e1f7                                         
+ProcessInertiaInteractionContext                                                                     0xc40a7555                                         
+ProcessPointerFramesInteractionContext                                                               0x17783928                                         
+RegisterOutputCallbackInteractionContext                                                             0xf8514d2d                                         
+RegisterOutputCallbackInteractionContext2                                                            0x027af2ff                                         
+RemovePointerInteractionContext                                                                      0xdb3aa9f9                                         
+ResetInteractionContext                                                                              0x49aa70cd                                         
+SetCrossSlideParametersInteractionContext                                                            0xebef10a5                                         
+SetHoldParameterInteractionContext                                                                   0x7b553bfe                                         
+SetInertiaParameterInteractionContext                                                                0x98db6723                                         
+SetInteractionConfigurationInteractionContext                                                        0xcd6d952e                                         
+SetMouseWheelParameterInteractionContext                                                             0x2e1eb255                                         
+SetPivotInteractionContext                                                                           0x7f37d008                                         
+SetPropertyInteractionContext                                                                        0x1708217b                                         
+SetTapParameterInteractionContext                                                                    0x36f8579c                                         
+SetTranslationParameterInteractionContext                                                            0x6fdd6106                                         
+StopInteractionContext                                                                               0xbd4db050                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

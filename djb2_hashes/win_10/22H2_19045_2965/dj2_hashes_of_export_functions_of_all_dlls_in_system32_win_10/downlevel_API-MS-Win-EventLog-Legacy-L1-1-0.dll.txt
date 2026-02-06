@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-EventLog-Legacy-L1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DeregisterEventSource                                                                                0x7c3ef3e6                                         
+GetEventLogInformation                                                                               0xcb0f2aaf                                         
+RegisterEventSourceA                                                                                 0x661087de                                         
+RegisterEventSourceW                                                                                 0x661087f4                                         
+ReportEventA                                                                                         0xaaf78604                                         
+ReportEventW                                                                                         0xaaf7861a                                         

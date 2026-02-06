@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\pcrpf.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CleanupBitLockerReducedPcrProfile                                                                    0x1cd1f5fe                                         
+NotifyFirmwareUpdateStaged                                                                           0xd8f69996                                         
+PpfCancelTransform                                                                                   0x0dfea76d                                         
+PpfCreatePpfEventLogFromTcgLog                                                                       0x6da0429d                                         
+PpfFinalizeTransform                                                                                 0xcbfdc6d9                                         
+PpfFreePredictions                                                                                   0xc5337311                                         
+PpfGenerateFinalPcrValuesForPpfEventLog                                                              0x2aa2d766                                         
+PpfGetPredictions                                                                                    0xe91a918f                                         
+PpfLock                                                                                              0x1e95b5b4                                         
+PpfLogIteratorGetCurrent                                                                             0x66a8e3fa                                         
+PpfLogIteratorInitialize                                                                             0xfefabaa9                                         
+PpfLogIteratorTryGetNext                                                                             0x317405b5                                         
+PpfScheduledTaskMain                                                                                 0x399d0f34                                         
+PpfStageTransform                                                                                    0x5c830e9b                                         
+PpfUnlock                                                                                            0x2fcb5577                                         

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\rasmans.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NlmGetBestCostNetworkConnection                                                                      0x7be9864d                                         
+NlmGetCostedNetworkSettings                                                                          0xc267b1e9                                         
+NlmSetCostedNetworkSettings                                                                          0x75594475                                         
+ServiceInitialized                                                                                   0x971c558c                                         
+ServiceMain                                                                                          0x0747703b                                         
+ServiceRequestInProcess                                                                              0xc2019775                                         
+VpnProfileMatchingNrpt                                                                               0xd6c58339                                         
+VpnProfileNrptHasExemptions                                                                          0x8a571136                                         

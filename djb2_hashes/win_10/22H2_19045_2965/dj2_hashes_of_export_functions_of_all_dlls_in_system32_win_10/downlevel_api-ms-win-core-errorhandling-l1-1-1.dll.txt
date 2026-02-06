@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-errorhandling-l1-1-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddVectoredContinueHandler                                                                           0x40866d8d                                         
+AddVectoredExceptionHandler                                                                          0x37d1f0d7                                         
+RemoveVectoredContinueHandler                                                                        0x4cab3792                                         
+RemoveVectoredExceptionHandler                                                                       0xc88ffb7c                                         
+RestoreLastError                                                                                     0x9de790e7                                         

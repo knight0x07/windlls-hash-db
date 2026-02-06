@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\msdtclog.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateInstance                                                                                       0x0f85634e                                         
+DeleteInstance                                                                                       0xaf0c840d                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllGetDTCLOG                                                                                         0x5b6dff5e                                         
+DllGetDTCLOG2                                                                                        0xc92deb50                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

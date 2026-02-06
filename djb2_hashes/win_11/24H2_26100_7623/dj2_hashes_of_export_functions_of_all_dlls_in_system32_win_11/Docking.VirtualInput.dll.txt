@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\Docking.VirtualInput.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateVirtualInputManager                                                                            0x993102ab                                         
+CreateVirtualTouchPad                                                                                0x23a2b4f8                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\container.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?AddRuntimeVirtualKeysToContainer@container@@YAXPEAXKPEAU_WC_VKEY_INFO@@@Z                           0xbbd330cf                                         
+?CleanupContainer@container@@YAXPEAXPEBG@Z                                                           0xf5c65cea                                         
+?CreateContainer@container@@YAXPEAXAEBUContainer@DefinitionFile@1@_N0@Z                              0xf728092f                                         
+?GetComRegistryRoot@container@@YAPEAXPEAX@Z                                                          0x56347213                                         
+?GetContainerIdentifierString@container@@YA?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PEAX@Z 0x94b4bb1a                                         
+?GetContainerObjectRootPath@container@@YAXPEAXAEAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z 0x671b58a7                                         
+?GetRegistryRootPath@container@@YAXPEAXAEBV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@AEAV23@@Z 0x4d474989                                         
+?IsContainerQuiescent@container@@YAEPEAX@Z                                                           0xa0188cde                                         
+?LaunchApplicationContainer@container@@YAPEAXPEAXPEBGK@Z                                             0x344923d2                                         
+?LaunchContainer@container@@YAXPEAX@Z                                                                0xeb0d4f1f                                         
+?RegisterForContainerTerminationNotification@container@@YAPEAU_WC_CONTAINER_NOTIFICATION@@PEAXP6AX0W4_WC_CONTAINER_TERMINATION_REASON@@PEAU2@0@Z0@Z 0x8a946291                                         
+?ReleaseContainerTerminationNotification@container@@YAXPEAU_WC_CONTAINER_NOTIFICATION@@@Z            0x8bdd1674                                         
+?SetRegistryFlushState@container@@YAXPEAXE@Z                                                         0x03c7c38e                                         
+?ShutdownAppContainer@container@@YA_NPEAX@Z                                                          0xfde16636                                         
+?WaitForContainerTerminationNotification@container@@YAXPEAU_WC_CONTAINER_NOTIFICATION@@@Z            0x9bc651ef                                         
+WcAddRuntimeVirtualKeysToContainer                                                                   0xc36a6135                                         
+WcCleanupContainer                                                                                   0x70b4792a                                         
+WcCreateContainer                                                                                    0x2f52df16                                         
+WcCreateDescriptionFromXml                                                                           0xd1ac233c                                         
+WcDestroyDescription                                                                                 0xfc2f054d                                         
+WcGetComRegistryRoot                                                                                 0xec3531fb                                         
+WcGetContainerIdentifier                                                                             0x8a608c45                                         
+WcGetContainerObjectRootPath                                                                         0xdaec358a                                         
+WcGetContainerRegistryRootPath                                                                       0x03a0fc0c                                         
+WcIsContainerQuiescent                                                                               0x509a48ef                                         
+WcLaunchApplicationContainer                                                                         0x12a81071                                         
+WcLaunchContainer                                                                                    0xa0d5e73d                                         
+WcRegisterForContainerTerminationNotification                                                        0xdc8c5a3f                                         
+WcReleaseContainerTerminationNotification                                                            0x8b1eb5d4                                         
+WcSetRegistryFlushState                                                                              0xcf3bea47                                         
+WcShutdownAppContainer                                                                               0xdb9fa5df                                         
+WcWaitForContainerTerminationNotification                                                            0x81086bef                                         

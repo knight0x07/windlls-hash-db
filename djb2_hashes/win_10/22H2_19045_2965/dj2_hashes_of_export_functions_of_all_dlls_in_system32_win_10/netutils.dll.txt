@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\netutils.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetApiBufferAllocate                                                                                 0x3d8ffee5                                         
+NetApiBufferFree                                                                                     0x083e6be2                                         
+NetApiBufferReallocate                                                                               0xff076cfc                                         
+NetApiBufferSize                                                                                     0x0845693b                                         
+NetRemoteComputerSupports                                                                            0xbc9e78b7                                         
+NetapipBufferAllocate                                                                                0xc9609835                                         
+NetpIsComputerNameValid                                                                              0xa2bc7458                                         
+NetpIsDomainNameValid                                                                                0xd7e98c41                                         
+NetpIsGroupNameValid                                                                                 0x0972b0f6                                         
+NetpIsRemote                                                                                         0x656f4844                                         
+NetpIsRemoteNameValid                                                                                0xb93b1775                                         
+NetpIsShareNameValid                                                                                 0x4ce58dfc                                         
+NetpIsUncComputerNameValid                                                                           0xa6ee5a3e                                         
+NetpIsUserNameValid                                                                                  0x91812668                                         
+NetpwListCanonicalize                                                                                0xf515f51f                                         
+NetpwListTraverse                                                                                    0x6080effb                                         
+NetpwNameCanonicalize                                                                                0xe931ea84                                         
+NetpwNameCompare                                                                                     0x5e8d5f1b                                         
+NetpwNameValidate                                                                                    0x809a479e                                         
+NetpwPathCanonicalize                                                                                0x8e7ae630                                         
+NetpwPathCompare                                                                                     0x5d735f47                                         
+NetpwPathType                                                                                        0x59f24342                                         

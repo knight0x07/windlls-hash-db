@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\mssrch.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CSearchServiceObj@@QEAA@XZ                                                                        0x8ca0a422                                         
+??1CSearchServiceObj@@QEAA@XZ                                                                        0xa019bb63                                         
+??_7CSearchServiceObj@@6B@                                                                           0x7b68ddf6                                         
+?Cleanup@CSearchServiceObj@@SAXXZ                                                                    0xb6cbe94f                                         
+?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ 0x9e5c2117                                         
+?GetFilterHostProcessPoolManager@CSearchServiceObj@@SAJPEAPEAUIFilterHostProcessPoolManager@@@Z      0xdf1c227b                                         
+?GetSessionSingleUserContext@CSearchServiceObj@@UEAA_KK@Z                                            0x82dedb1e                                         
+?HandleDplKeyChange@CSearchServiceObj@@UEAAJXZ                                                       0x9d74b65c                                         
+?Initialize@CSearchServiceObj@@UEAAJ_NW4INDEXER_SETUP_ACTIONS@@KPEBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z 0x4e5b191e                                         
+?LogoffNotification@CSearchServiceObj@@UEAAJAEBUSessionUser@@@Z                                      0xebb6c9cd                                         
+?LogonNotification@CSearchServiceObj@@UEAAJAEBUSessionUser@@@Z                                       0x7d0b040f                                         
+?PostServiceStartup@CSearchServiceObj@@UEAAJXZ                                                       0xad4dd6eb                                         
+?PostServiceStartupNonBlocking@CSearchServiceObj@@AEAAXXZ                                            0x83954499                                         
+?SetRebuildReason@CSearchServiceObj@@UEAAJW4INDEXER_REBUILD_REASON@@@Z                               0xe6195b6b                                         
+?SetServiceStatusObj@CSearchServiceObj@@UEAAJPEAUIDCOMServiceStatus@@@Z                              0x223abd91                                         
+?Shutdown@CSearchServiceObj@@UEAAJXZ                                                                 0xce1f6c1d                                         
+?Start@CSearchServiceObj@@UEAAJXZ                                                                    0x3ab9efaf                                         
+?Stop@CSearchServiceObj@@UEAAJH@Z                                                                    0x90e23c17                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+MSSrch_SysPrep_Cleanup                                                                               0xf536b571                                         

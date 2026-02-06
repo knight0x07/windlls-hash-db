@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\syssetup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AsrAddSifEntryA                                                                                      0x1e9f9729                                         
+AsrAddSifEntryW                                                                                      0x1e9f973f                                         
+AsrCreateStateFileA                                                                                  0x09d559a1                                         
+AsrCreateStateFileW                                                                                  0x09d559b7                                         
+AsrFreeContext                                                                                       0x2b579db2                                         
+AsrRestorePlugPlayRegistryData                                                                       0xfdb06d90                                         
+GetAnswerFileSetting                                                                                 0xd92c37d3                                         
+SetupChangeFontSize                                                                                  0x3aabd5ae                                         
+SetupInfObjectInstallActionW                                                                         0xde1755d6                                         
+SetupSetDisplay                                                                                      0x5a9df7d8                                         
+WaitForSamService                                                                                    0x15431d93                                         

@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\sysdm.cpl
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DisplaySYSDMCPL                                                                                      0x547c2dca                                         
+EditEnvironmentVariables                                                                             0xef32b4d9                                         
+EditUserProfiles                                                                                     0xdbd5e98e                                         
+EnableExecuteProtectionSupportW                                                                      0x94d0c29a                                         
+ModifyExecuteProtectionSupportW                                                                      0xe307cd7b                                         
+NoExecuteAddFileOptOutList                                                                           0xd8dd5305                                         
+NoExecuteAddFileOptOutListW                                                                          0xf487b3fc                                         
+NoExecuteProcessExceptionW                                                                           0x9a215a1a                                         
+NoExecuteRemoveFileOptOutList                                                                        0x8b43456a                                         
+NoExecuteRemoveFileOptOutListW                                                                       0xf3abf301                                         

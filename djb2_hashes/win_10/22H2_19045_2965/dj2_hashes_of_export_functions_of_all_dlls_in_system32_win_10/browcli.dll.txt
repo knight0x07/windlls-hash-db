@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\browcli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+I_BrowserDebugCall                                                                                   0x52222874                                         
+I_BrowserDebugTrace                                                                                  0x97a3fa67                                         
+I_BrowserQueryEmulatedDomains                                                                        0xf7c7e1a3                                         
+I_BrowserQueryOtherDomains                                                                           0x37adef14                                         
+I_BrowserQueryStatistics                                                                             0xbd22e892                                         
+I_BrowserResetNetlogonState                                                                          0x45d3927b                                         
+I_BrowserResetStatistics                                                                             0xec6df91f                                         
+I_BrowserServerEnum                                                                                  0xe2b6209d                                         
+I_BrowserSetNetlogonState                                                                            0xf1cfd524                                         
+NetBrowserStatisticsGet                                                                              0x6294341b                                         
+NetServerEnum                                                                                        0x42f44df8                                         
+NetServerEnumEx                                                                                      0xd13fb555                                         

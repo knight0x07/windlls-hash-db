@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\prnms002.inf_amd64_5d462f21d19efdf9\Amd64\FXSDRV.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+DrvDisableDriver                                                                                     0xe4159091                                         
+DrvEnableDriver                                                                                      0x4101c444                                         
+DrvQueryDriverInfo                                                                                   0xce159b3f                                         

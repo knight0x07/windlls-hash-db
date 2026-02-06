@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-service-winsvc-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ChangeServiceConfig2A                                                                                0x6ba99725                                         
+ChangeServiceConfigA                                                                                 0x77a04a73                                         
+ControlService                                                                                       0x527a0217                                         
+ControlServiceExA                                                                                    0xf96093f5                                         
+CreateServiceA                                                                                       0x931ece0b                                         
+I_QueryTagInformation                                                                                0xb13eac85                                         
+I_ScBroadcastServiceControlMessage                                                                   0xb86831ed                                         
+I_ScIsSecurityProcess                                                                                0x04e29616                                         
+I_ScPnPGetServiceName                                                                                0xdacb1cc3                                         
+I_ScQueryServiceConfig                                                                               0x197a6740                                         
+I_ScRpcBindA                                                                                         0x6d61aa46                                         
+I_ScRpcBindW                                                                                         0x6d61aa5c                                         
+I_ScSendPnPMessage                                                                                   0xc35e7c40                                         
+I_ScSendTSMessage                                                                                    0x944b60d9                                         
+I_ScValidatePnPService                                                                               0x7c3b5c2c                                         
+NotifyServiceStatusChangeA                                                                           0x2381d27a                                         
+OpenSCManagerA                                                                                       0xbaef4789                                         
+OpenServiceA                                                                                         0x7c8058c9                                         
+QueryServiceConfig2A                                                                                 0xd9dc2195                                         
+QueryServiceConfigA                                                                                  0x6b7346e3                                         
+QueryServiceStatus                                                                                   0xf29a1b30                                         
+RegisterServiceCtrlHandlerA                                                                          0x65925c2f                                         
+RegisterServiceCtrlHandlerExA                                                                        0x139a44ac                                         
+RegisterServiceCtrlHandlerW                                                                          0x65925c45                                         
+StartServiceA                                                                                        0x7edae325                                         
+StartServiceCtrlDispatcherA                                                                          0x88f0d661                                         

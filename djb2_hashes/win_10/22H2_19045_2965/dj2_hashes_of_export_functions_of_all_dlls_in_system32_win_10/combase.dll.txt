@@ -1,0 +1,595 @@
+DLL Path: C:\Windows\System32\combase.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CLIPFORMAT_UserFree                                                                                  0x544cca36                                         
+CLIPFORMAT_UserFree64                                                                                0x9aa836e0                                         
+CLIPFORMAT_UserMarshal                                                                               0xe3d2d03c                                         
+CLIPFORMAT_UserMarshal64                                                                             0x23c7d666                                         
+CLIPFORMAT_UserSize                                                                                  0x5453c78f                                         
+CLIPFORMAT_UserSize64                                                                                0xb863ee79                                         
+CLIPFORMAT_UserUnmarshal                                                                             0x1ce1eb5f                                         
+CLIPFORMAT_UserUnmarshal64                                                                           0xdd0a4649                                         
+CLSIDFromOle1Class                                                                                   0x09058a6f                                         
+CLSIDFromProgID                                                                                      0xfe0d494d                                         
+CLSIDFromProgIDEx                                                                                    0xb684d9ea                                         
+CLSIDFromString                                                                                      0x0532a6bf                                         
+CStdAsyncStubBuffer2_Connect                                                                         0x5884d584                                         
+CStdAsyncStubBuffer2_Disconnect                                                                      0xdedaa2a4                                         
+CStdAsyncStubBuffer2_Release                                                                         0xc3b19f1b                                         
+CStdAsyncStubBuffer_AddRef                                                                           0xe07ce44e                                         
+CStdAsyncStubBuffer_Connect                                                                          0xa47af632                                         
+CStdAsyncStubBuffer_Disconnect                                                                       0x40fc2c92                                         
+CStdAsyncStubBuffer_Invoke                                                                           0xf3e57954                                         
+CStdAsyncStubBuffer_QueryInterface                                                                   0x3d31a66f                                         
+CStdAsyncStubBuffer_Release                                                                          0x0fa7bfc9                                         
+CStdStubBuffer2_Connect                                                                              0x96347cc6                                         
+CStdStubBuffer2_CountRefs                                                                            0x11245a75                                         
+CStdStubBuffer2_Disconnect                                                                           0x4de11aa6                                         
+CStdStubBuffer2_QueryInterface                                                                       0xf0477e83                                         
+CStdStubBuffer_AddRef                                                                                0x4c35d310                                         
+CStdStubBuffer_Connect                                                                               0x8751bd34                                         
+CStdStubBuffer_CountRefs                                                                             0xbe936e63                                         
+CStdStubBuffer_DebugServerQueryInterface                                                             0x159ac94f                                         
+CStdStubBuffer_DebugServerRelease                                                                    0x0e945ea9                                         
+CStdStubBuffer_Disconnect                                                                            0xa932ac54                                         
+CStdStubBuffer_Invoke                                                                                0x5f9e6816                                         
+CStdStubBuffer_IsIIDSupported                                                                        0xbb18b182                                         
+CStdStubBuffer_QueryInterface                                                                        0xd8463731                                         
+CleanupComl2StateInAllTls                                                                            0xfc29baae                                         
+CleanupOleStateInAllTls                                                                              0xaf0ae911                                         
+CleanupTlsComl2State                                                                                 0xc5a3d8fe                                         
+CleanupTlsOleState                                                                                   0x964923a1                                         
+ClearCleanupFlag                                                                                     0x53d72a4e                                         
+CoAddRefServerProcess                                                                                0xe674f353                                         
+CoAllowUnmarshalerCLSID                                                                              0x395fe1e7                                         
+CoCancelCall                                                                                         0x69e256b9                                         
+CoCopyProxy                                                                                          0x4e01e234                                         
+CoCreateErrorInfo                                                                                    0x1fea9aa1                                         
+CoCreateFreeThreadedMarshaler                                                                        0xe876bacd                                         
+CoCreateGuid                                                                                         0x60621e74                                         
+CoCreateInstance                                                                                     0xbecc6920                                         
+CoCreateInstanceEx                                                                                   0xa38b3a7d                                         
+CoCreateInstanceFromApp                                                                              0x48452235                                         
+CoCreateObjectInContext                                                                              0x5aff2e3e                                         
+CoDeactivateObject                                                                                   0x369fb388                                         
+CoDecodeProxy                                                                                        0xf1178dbd                                         
+CoDecrementMTAUsage                                                                                  0x4cce3ba5                                         
+CoDisableCallCancellation                                                                            0xf3af84f4                                         
+CoDisconnectContext                                                                                  0xa21b85e6                                         
+CoDisconnectObject                                                                                   0x1837d698                                         
+CoEnableCallCancellation                                                                             0xdba123a7                                         
+CoFileTimeNow                                                                                        0x257ed39a                                         
+CoFreeUnusedLibraries                                                                                0x63ec1b4a                                         
+CoFreeUnusedLibrariesEx                                                                              0x0f601f27                                         
+CoGetActivationState                                                                                 0xc42195ea                                         
+CoGetApartmentID                                                                                     0x89eaf450                                         
+CoGetApartmentType                                                                                   0xb08040c5                                         
+CoGetCallContext                                                                                     0x193e5938                                         
+CoGetCallState                                                                                       0x7b6794f4                                         
+CoGetCallerTID                                                                                       0x7cabf84b                                         
+CoGetCancelObject                                                                                    0x60faffd4                                         
+CoGetClassObject                                                                                     0xdd8e3844                                         
+CoGetClassVersion                                                                                    0xb1c4ee93                                         
+CoGetContextToken                                                                                    0x595fa35d                                         
+CoGetCurrentLogicalThreadId                                                                          0x890c23fa                                         
+CoGetCurrentProcess                                                                                  0x0ba581b9                                         
+CoGetDefaultContext                                                                                  0x92579461                                         
+CoGetErrorInfo                                                                                       0xebb6192d                                         
+CoGetInstanceFromFile                                                                                0x251e31e0                                         
+CoGetInstanceFromIStorage                                                                            0x4586cf7e                                         
+CoGetInterfaceAndReleaseStream                                                                       0x449a4128                                         
+CoGetMalloc                                                                                          0xb3d7950f                                         
+CoGetMarshalSizeMax                                                                                  0x408f0f00                                         
+CoGetModuleArchitecture                                                                              0xe5277d20                                         
+CoGetModuleType                                                                                      0xfb8a06df                                         
+CoGetObjectContext                                                                                   0x5863b853                                         
+CoGetPSClsid                                                                                         0xf22ad9e9                                         
+CoGetProcessIdentifier                                                                               0x053c0c99                                         
+CoGetStandardMarshal                                                                                 0x02f8db50                                         
+CoGetStdMarshalEx                                                                                    0x9c2e7587                                         
+CoGetSystemSecurityPermissions                                                                       0xfc41c410                                         
+CoGetTreatAsClass                                                                                    0xaa914e01                                         
+CoImpersonateClient                                                                                  0xb3eb69bd                                         
+CoIncrementMTAUsage                                                                                  0x98edfa93                                         
+CoInitializeEx                                                                                       0xc1cd8ee6                                         
+CoInitializeSecurity                                                                                 0x428dffe1                                         
+CoInitializeWOW                                                                                      0xfb7fb346                                         
+CoInvalidateRemoteMachineBindings                                                                    0xab455207                                         
+CoIsHandlerConnected                                                                                 0x7c36d464                                         
+CoLockObjectExternal                                                                                 0xd43ed91a                                         
+CoMarshalHresult                                                                                     0x80ef6e86                                         
+CoMarshalInterThreadInterfaceInStream                                                                0x7c6753cd                                         
+CoMarshalInterface                                                                                   0x9fc1c490                                         
+CoPopServiceDomain                                                                                   0x5982ec2f                                         
+CoPushServiceDomain                                                                                  0x11cc1ae0                                         
+CoQueryAuthenticationServices                                                                        0x6130bc51                                         
+CoQueryClientBlanket                                                                                 0x6c0bd56d                                         
+CoQueryProxyBlanket                                                                                  0xa6295970                                         
+CoReactivateObject                                                                                   0xe187c5d6                                         
+CoRegisterActivationFilter                                                                           0x9f261754                                         
+CoRegisterClassObject                                                                                0x4a60f269                                         
+CoRegisterConsoleHandles                                                                             0x42a993ae                                         
+CoRegisterDeviceCatalog                                                                              0xc6f39547                                         
+CoRegisterInitializeSpy                                                                              0xe42ac22a                                         
+CoRegisterMallocSpy                                                                                  0xde590b90                                         
+CoRegisterMessageFilter                                                                              0x12a92227                                         
+CoRegisterPSClsid                                                                                    0x9e34498e                                         
+CoRegisterRacActivationToken                                                                         0x21479b45                                         
+CoRegisterSurrogate                                                                                  0xea4720f8                                         
+CoRegisterSurrogateEx                                                                                0x98934855                                         
+CoReleaseMarshalData                                                                                 0xc80a1b7a                                         
+CoReleaseServerProcess                                                                               0xf2f2e08e                                         
+CoResumeClassObjects                                                                                 0x59fc5608                                         
+CoRetireServer                                                                                       0x3cd0d7f9                                         
+CoRevertToSelf                                                                                       0xf8969bfc                                         
+CoRevokeClassObject                                                                                  0x37e45370                                         
+CoRevokeConsoleHandles                                                                               0x1a812b55                                         
+CoRevokeDeviceCatalog                                                                                0x22d3540e                                         
+CoRevokeInitializeSpy                                                                                0x400a80f1                                         
+CoRevokeMallocSpy                                                                                    0x0fb27ed7                                         
+CoRevokeRacActivationToken                                                                           0xc4e0ae6c                                         
+CoSetCancelObject                                                                                    0x085424e0                                         
+CoSetErrorInfo                                                                                       0x371e79b9                                         
+CoSetProxyBlanket                                                                                    0x09c43946                                         
+CoSuspendClassObjects                                                                                0x30a5c8f9                                         
+CoSwitchCallContext                                                                                  0xd7ad59aa                                         
+CoTaskMemAlloc                                                                                       0x82c684b4                                         
+CoTaskMemFree                                                                                        0xe4f194ab                                         
+CoTaskMemRealloc                                                                                     0x59fbf06b                                         
+CoTestCancel                                                                                         0xea70181d                                         
+CoUninitialize                                                                                       0x0145f84c                                         
+CoUnloadingWOW                                                                                       0x5117d815                                         
+CoUnmarshalHresult                                                                                   0xbe8ba109                                         
+CoUnmarshalInterface                                                                                 0xb534a3d3                                         
+CoVrfCheckThreadState                                                                                0xb1f3bbdc                                         
+CoVrfGetThreadState                                                                                  0x0f88d8de                                         
+CoVrfReleaseThreadState                                                                              0xb0e06b1f                                         
+CoWaitForMultipleHandles                                                                             0x534c57de                                         
+CoWaitForMultipleObjects                                                                             0x70312fc9                                         
+CreateErrorInfo                                                                                      0x87c2da8f                                         
+CreateStreamOnHGlobal                                                                                0x545e549b                                         
+DcomChannelSetHResult                                                                                0x0dd936b4                                         
+DllDebugObjectRPCHook                                                                                0x81f01755                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+EnableHookObject                                                                                     0x4c478794                                         
+FreePropVariantArray                                                                                 0x42d70f3c                                         
+FreePropVariantArrayWorker                                                                           0x4f5652b6                                         
+GetCatalogHelper                                                                                     0xe9f80ea0                                         
+GetErrorInfo                                                                                         0x4beeafdb                                         
+GetFuncDescs                                                                                         0x3218cd43                                         
+GetHGlobalFromStream                                                                                 0x5d06af1e                                         
+GetHookInterface                                                                                     0x05b996a7                                         
+GetRestrictedErrorInfo                                                                               0xafb1d5b4                                         
+HACCEL_UserFree                                                                                      0x7f7ebea5                                         
+HACCEL_UserFree64                                                                                    0x5a29030f                                         
+HACCEL_UserMarshal                                                                                   0x936d224b                                         
+HACCEL_UserMarshal64                                                                                 0x233ee835                                         
+HACCEL_UserSize                                                                                      0x7f85bbfe                                         
+HACCEL_UserSize64                                                                                    0x77e4baa8                                         
+HACCEL_UserUnmarshal                                                                                 0x1c58fd2e                                         
+HACCEL_UserUnmarshal64                                                                               0x968d07d8                                         
+HBITMAP_UserFree                                                                                     0x42f5a3ea                                         
+HBITMAP_UserFree64                                                                                   0xd6ee4d94                                         
+HBITMAP_UserMarshal                                                                                  0xa8dbbd70                                         
+HBITMAP_UserMarshal64                                                                                0x4ec0e09a                                         
+HBITMAP_UserSize                                                                                     0x42fca143                                         
+HBITMAP_UserSize64                                                                                   0xf4aa052d                                         
+HBITMAP_UserUnmarshal                                                                                0x47daf593                                         
+HBITMAP_UserUnmarshal64                                                                              0xaa6ead7d                                         
+HBRUSH_UserFree                                                                                      0x0d54bcb1                                         
+HBRUSH_UserFree64                                                                                    0xb576b41b                                         
+HBRUSH_UserMarshal                                                                                   0x5870f4d7                                         
+HBRUSH_UserMarshal64                                                                                 0x38818dc1                                         
+HBRUSH_UserSize                                                                                      0x0d5bba0a                                         
+HBRUSH_UserSize64                                                                                    0xd3326bb4                                         
+HBRUSH_UserUnmarshal                                                                                 0x319ba2ba                                         
+HBRUSH_UserUnmarshal64                                                                               0x070f4064                                         
+HDC_UserFree                                                                                         0xccbc5754                                         
+HDC_UserFree64                                                                                       0xed2f837e                                         
+HDC_UserMarshal                                                                                      0x8743b09a                                         
+HDC_UserMarshal64                                                                                    0x66f24644                                         
+HDC_UserSize                                                                                         0xccc354ad                                         
+HDC_UserSize64                                                                                       0x0aeb3b17                                         
+HDC_UserUnmarshal                                                                                    0x600c5b3d                                         
+HDC_UserUnmarshal64                                                                                  0x949025a7                                         
+HGLOBAL_UserFree                                                                                     0x6da0fe5e                                         
+HGLOBAL_UserFree64                                                                                   0x59da1508                                         
+HGLOBAL_UserMarshal                                                                                  0x89407364                                         
+HGLOBAL_UserMarshal64                                                                                0xdb2ae38e                                         
+HGLOBAL_UserSize                                                                                     0x6da7fbb7                                         
+HGLOBAL_UserSize64                                                                                   0x7795cca1                                         
+HGLOBAL_UserUnmarshal                                                                                0xd444f887                                         
+HGLOBAL_UserUnmarshal64                                                                              0xf9653d71                                         
+HICON_UserFree                                                                                       0xbf58aaf6                                         
+HICON_UserFree64                                                                                     0xf82f47a0                                         
+HICON_UserMarshal                                                                                    0xf23bf8fc                                         
+HICON_UserMarshal64                                                                                  0x711e2f26                                         
+HICON_UserSize                                                                                       0xbf5fa84f                                         
+HICON_UserSize64                                                                                     0x15eaff39                                         
+HICON_UserUnmarshal                                                                                  0x6a38441f                                         
+HICON_UserUnmarshal64                                                                                0xd959cf09                                         
+HMENU_UserFree                                                                                       0xf5a8ce62                                         
+HMENU_UserFree64                                                                                     0x0315f60c                                         
+HMENU_UserMarshal                                                                                    0x59f874e8                                         
+HMENU_UserMarshal64                                                                                  0xb9e95612                                         
+HMENU_UserSize                                                                                       0xf5afcbbb                                         
+HMENU_UserSize64                                                                                     0x20d1ada5                                         
+HMENU_UserUnmarshal                                                                                  0xb3036b0b                                         
+HMENU_UserUnmarshal64                                                                                0x818a60f5                                         
+HMONITOR_UserFree                                                                                    0x3a51b615                                         
+HMONITOR_UserFree64                                                                                  0x1597967f                                         
+HMONITOR_UserMarshal                                                                                 0xbcae23bb                                         
+HMONITOR_UserMarshal64                                                                               0xa0c605a5                                         
+HMONITOR_UserSize                                                                                    0x3a58b36e                                         
+HMONITOR_UserSize64                                                                                  0x33534e18                                         
+HMONITOR_UserUnmarshal                                                                               0x99e01a9e                                         
+HMONITOR_UserUnmarshal64                                                                             0x92514148                                         
+HPALETTE_UserFree                                                                                    0x2352b97c                                         
+HPALETTE_UserFree64                                                                                  0x42e70fa6                                         
+HPALETTE_UserMarshal                                                                                 0x93ecc1c2                                         
+HPALETTE_UserMarshal64                                                                               0x4224416c                                         
+HPALETTE_UserSize                                                                                    0x2359b6d5                                         
+HPALETTE_UserSize64                                                                                  0x60a2c73f                                         
+HPALETTE_UserUnmarshal                                                                               0x3b3e5665                                         
+HPALETTE_UserUnmarshal64                                                                             0x042d8acf                                         
+HRGN_UserFree                                                                                        0xd9db9634                                         
+HRGN_UserFree64                                                                                      0xbf19fa5e                                         
+HRGN_UserMarshal                                                                                     0x967d037a                                         
+HRGN_UserMarshal64                                                                                   0x29cbd124                                         
+HRGN_UserSize                                                                                        0xd9e2938d                                         
+HRGN_UserSize64                                                                                      0xdcd5b1f7                                         
+HRGN_UserUnmarshal                                                                                   0x22e5e61d                                         
+HRGN_UserUnmarshal64                                                                                 0x73f7e887                                         
+HSTRING_UserFree                                                                                     0xe540f944                                         
+HSTRING_UserFree64                                                                                   0x3964616e                                         
+HSTRING_UserMarshal                                                                                  0x5a144c8a                                         
+HSTRING_UserMarshal64                                                                                0x30599e34                                         
+HSTRING_UserSize                                                                                     0xe547f69d                                         
+HSTRING_UserSize64                                                                                   0x57201907                                         
+HSTRING_UserUnmarshal                                                                                0x2973b32d                                         
+HSTRING_UserUnmarshal64                                                                              0x552d3997                                         
+HWND_UserFree                                                                                        0x4bbbb296                                         
+HWND_UserFree64                                                                                      0x2972b740                                         
+HWND_UserMarshal                                                                                     0x4bed5c9c                                         
+HWND_UserMarshal64                                                                                   0xfcb6fac6                                         
+HWND_UserSize                                                                                        0x4bc2afef                                         
+HWND_UserSize64                                                                                      0x472e6ed9                                         
+HWND_UserUnmarshal                                                                                   0xf5d10fbf                                         
+HWND_UserUnmarshal64                                                                                 0xae5402a9                                         
+HkOleRegisterObject                                                                                  0xdd133f94                                         
+IIDFromString                                                                                        0x6c8f9526                                         
+InternalAppInvokeExceptionFilter                                                                     0xdfa87ea4                                         
+InternalCAggIdRelease                                                                                0x60c46b22                                         
+InternalCAggIdSetHandler                                                                             0xc26a582b                                         
+InternalCCFreeUnused                                                                                 0x48de1e9e                                         
+InternalCCGetClassInformationForDde                                                                  0xc439ded8                                         
+InternalCCGetClassInformationFromKey                                                                 0x5254fbe1                                         
+InternalCCSetDdeServerWindow                                                                         0xa6352bf0                                         
+InternalCMLSendReceive                                                                               0x7079ba6b                                         
+InternalCMLSendReceive2                                                                              0x7fb107fd                                         
+InternalCStdIdentityGetIProxyManager                                                                 0xd1d24de0                                         
+InternalCStdIdentityGetInternalUnk                                                                   0xedd20365                                         
+InternalCStdIdentityUpdateFlags                                                                      0x10bd1c4a                                         
+InternalCallAsProxyExceptionFilter                                                                   0x4334e5c9                                         
+InternalCallFrameExceptionFilter                                                                     0x8361423e                                         
+InternalCallerIsAppContainer                                                                         0xb1cbcf35                                         
+InternalCanMakeOutCall                                                                               0xc2338966                                         
+InternalCanMakeOutCall2                                                                              0x08a4b658                                         
+InternalCoIsSurrogateProcess                                                                         0xf7c56b0b                                         
+InternalCoRegisterDisconnectCallback                                                                 0x7ee9a230                                         
+InternalCoRegisterSurrogatedObject                                                                   0x6e0b11b0                                         
+InternalCoStdMarshalObject                                                                           0x1122305e                                         
+InternalCoUnregisterDisconnectCallback                                                               0xe0d70473                                         
+InternalCompleteObjRef                                                                               0xb1312233                                         
+InternalCreateCAggId                                                                                 0x308fe2b5                                         
+InternalCreateIdentityHandler                                                                        0x9551785e                                         
+InternalDoATClassCreate                                                                              0x0df2ef54                                         
+InternalFillLocalOXIDInfo                                                                            0x1be28eb4                                         
+InternalFreeObjRef                                                                                   0xeb0da75c                                         
+InternalGetWindowPropInterface                                                                       0x9f29886c                                         
+InternalGetWindowPropInterface2                                                                      0x845a961e                                         
+InternalIrotEnumRunning                                                                              0x7cb14f16                                         
+InternalIrotEnumRunning2                                                                             0x12db3208                                         
+InternalIrotGetObject                                                                                0x0383eaf7                                         
+InternalIrotGetObject2                                                                               0x74014a09                                         
+InternalIrotGetObject3                                                                               0x74014a0a                                         
+InternalIrotGetTimeOfLastChange                                                                      0x322739be                                         
+InternalIrotGetTimeOfLastChange2                                                                     0x770e71b0                                         
+InternalIrotIsRunning                                                                                0xf859d17d                                         
+InternalIrotIsRunning2                                                                               0x0394014f                                         
+InternalIrotNoteChangeTime                                                                           0x13992ecb                                         
+InternalIrotRegister                                                                                 0x1a0035c5                                         
+InternalIrotRevoke                                                                                   0xbba60eec                                         
+InternalIsApartmentInitialized                                                                       0x557ea540                                         
+InternalIsProcessInitialized                                                                         0x265379b3                                         
+InternalMarshalObjRef                                                                                0x78137322                                         
+InternalNotifyDDStartOrStop                                                                          0xe5851e78                                         
+InternalOleModalLoopBlockFn                                                                          0x67b64f68                                         
+InternalRegisterWindowPropInterface                                                                  0x5d674271                                         
+InternalRegisterWindowPropInterface2                                                                 0x0a4f90c3                                         
+InternalReleaseMarshalObjRef                                                                         0xbc5ffc63                                         
+InternalRevokeWindowPropInterface                                                                    0x8c798bb8                                         
+InternalSTAInvoke                                                                                    0x182f75d6                                         
+InternalServerExceptionFilter                                                                        0x947ee1ce                                         
+InternalSetAptCallCtrlOnTlsIfRequired                                                                0xddffee24                                         
+InternalSetOleThunkWowPtr                                                                            0xa104902b                                         
+InternalStubInvoke                                                                                   0xd89fc2cc                                         
+InternalTlsAllocData                                                                                 0x1b52a01a                                         
+InternalUnmarshalObjRef                                                                              0xf63ef005                                         
+IsErrorPropagationEnabled                                                                            0x881b1dba                                         
+NdrCStdStubBuffer2_Release                                                                           0xda6138e1                                         
+NdrCStdStubBuffer_Release                                                                            0xd24838cf                                         
+NdrExtStubInitialize                                                                                 0xd169f76a                                         
+NdrOleDllGetClassObject                                                                              0xcc004e32                                         
+NdrOleInitializeExtension                                                                            0xe98150b8                                         
+NdrProxyForwardingFunction10                                                                         0xe35e60a5                                         
+NdrProxyForwardingFunction11                                                                         0xe35e60a6                                         
+NdrProxyForwardingFunction12                                                                         0xe35e60a7                                         
+NdrProxyForwardingFunction13                                                                         0xe35e60a8                                         
+NdrProxyForwardingFunction14                                                                         0xe35e60a9                                         
+NdrProxyForwardingFunction15                                                                         0xe35e60aa                                         
+NdrProxyForwardingFunction16                                                                         0xe35e60ab                                         
+NdrProxyForwardingFunction17                                                                         0xe35e60ac                                         
+NdrProxyForwardingFunction18                                                                         0xe35e60ad                                         
+NdrProxyForwardingFunction19                                                                         0xe35e60ae                                         
+NdrProxyForwardingFunction20                                                                         0xe35e60c6                                         
+NdrProxyForwardingFunction21                                                                         0xe35e60c7                                         
+NdrProxyForwardingFunction22                                                                         0xe35e60c8                                         
+NdrProxyForwardingFunction23                                                                         0xe35e60c9                                         
+NdrProxyForwardingFunction24                                                                         0xe35e60ca                                         
+NdrProxyForwardingFunction25                                                                         0xe35e60cb                                         
+NdrProxyForwardingFunction26                                                                         0xe35e60cc                                         
+NdrProxyForwardingFunction27                                                                         0xe35e60cd                                         
+NdrProxyForwardingFunction28                                                                         0xe35e60ce                                         
+NdrProxyForwardingFunction29                                                                         0xe35e60cf                                         
+NdrProxyForwardingFunction3                                                                          0x1e29a5d7                                         
+NdrProxyForwardingFunction30                                                                         0xe35e60e7                                         
+NdrProxyForwardingFunction31                                                                         0xe35e60e8                                         
+NdrProxyForwardingFunction32                                                                         0xe35e60e9                                         
+NdrProxyForwardingFunction4                                                                          0x1e29a5d8                                         
+NdrProxyForwardingFunction5                                                                          0x1e29a5d9                                         
+NdrProxyForwardingFunction6                                                                          0x1e29a5da                                         
+NdrProxyForwardingFunction7                                                                          0x1e29a5db                                         
+NdrProxyForwardingFunction8                                                                          0x1e29a5dc                                         
+NdrProxyForwardingFunction9                                                                          0x1e29a5dd                                         
+NdrpFindInterface                                                                                    0xd71859eb                                         
+ObjectStublessClient10                                                                               0xc137cff1                                         
+ObjectStublessClient11                                                                               0xc137cff2                                         
+ObjectStublessClient12                                                                               0xc137cff3                                         
+ObjectStublessClient13                                                                               0xc137cff4                                         
+ObjectStublessClient14                                                                               0xc137cff5                                         
+ObjectStublessClient15                                                                               0xc137cff6                                         
+ObjectStublessClient16                                                                               0xc137cff7                                         
+ObjectStublessClient17                                                                               0xc137cff8                                         
+ObjectStublessClient18                                                                               0xc137cff9                                         
+ObjectStublessClient19                                                                               0xc137cffa                                         
+ObjectStublessClient20                                                                               0xc137d012                                         
+ObjectStublessClient21                                                                               0xc137d013                                         
+ObjectStublessClient22                                                                               0xc137d014                                         
+ObjectStublessClient23                                                                               0xc137d015                                         
+ObjectStublessClient24                                                                               0xc137d016                                         
+ObjectStublessClient25                                                                               0xc137d017                                         
+ObjectStublessClient26                                                                               0xc137d018                                         
+ObjectStublessClient27                                                                               0xc137d019                                         
+ObjectStublessClient28                                                                               0xc137d01a                                         
+ObjectStublessClient29                                                                               0xc137d01b                                         
+ObjectStublessClient3                                                                                0x4bac5ba3                                         
+ObjectStublessClient30                                                                               0xc137d033                                         
+ObjectStublessClient31                                                                               0xc137d034                                         
+ObjectStublessClient32                                                                               0xc137d035                                         
+ObjectStublessClient4                                                                                0x4bac5ba4                                         
+ObjectStublessClient5                                                                                0x4bac5ba5                                         
+ObjectStublessClient6                                                                                0x4bac5ba6                                         
+ObjectStublessClient7                                                                                0x4bac5ba7                                         
+ObjectStublessClient8                                                                                0x4bac5ba8                                         
+ObjectStublessClient9                                                                                0x4bac5ba9                                         
+ProgIDFromCLSID                                                                                      0xab70edad                                         
+PropVariantClear                                                                                     0xe84beb42                                         
+PropVariantCopy                                                                                      0x2611df16                                         
+ReleaseFuncDescs                                                                                     0x4237eb44                                         
+RoActivateInstance                                                                                   0x5c91a04c                                         
+RoCaptureErrorContext                                                                                0xbda105e9                                         
+RoClearError                                                                                         0x7ce41817                                         
+RoFailFastWithErrorContext                                                                           0x85bdd57b                                         
+RoFailFastWithErrorContextInternal                                                                   0xfcd36778                                         
+RoFailFastWithErrorContextInternal2                                                                  0x974056aa                                         
+RoFreeParameterizedTypeExtra                                                                         0x98f54e7b                                         
+RoGetActivatableClassRegistration                                                                    0xac0609d7                                         
+RoGetActivationFactory                                                                               0xf61468d0                                         
+RoGetAgileReference                                                                                  0xabf1d8d7                                         
+RoGetApartmentIdentifier                                                                             0xe579a3f5                                         
+RoGetErrorReportingFlags                                                                             0xdf60b337                                         
+RoGetMatchingRestrictedErrorInfo                                                                     0x8fbb4520                                         
+RoGetParameterizedTypeInstanceIID                                                                    0xef4ca1a0                                         
+RoGetServerActivatableClasses                                                                        0x77fa926b                                         
+RoInitialize                                                                                         0xd2af07f8                                         
+RoInspectCapturedStackBackTrace                                                                      0x689abdaa                                         
+RoInspectThreadErrorInfo                                                                             0xa5cdc04a                                         
+RoOriginateError                                                                                     0xdce9d4b2                                         
+RoOriginateErrorW                                                                                    0x7a246b49                                         
+RoOriginateLanguageException                                                                         0xcb6729db                                         
+RoParameterizedTypeExtraGetTypeSignature                                                             0xeff5ee4d                                         
+RoRegisterActivationFactories                                                                        0x97af8abd                                         
+RoRegisterForApartmentShutdown                                                                       0x92c2745a                                         
+RoReportCapabilityCheckFailure                                                                       0x0cd8b34a                                         
+RoReportFailedDelegate                                                                               0x75932dc2                                         
+RoReportUnhandledError                                                                               0x03fd3a9f                                         
+RoResolveRestrictedErrorInfoReference                                                                0x40de1884                                         
+RoRevokeActivationFactories                                                                          0x46e09304                                         
+RoSetErrorReportingFlags                                                                             0x3f7432c3                                         
+RoTransformError                                                                                     0x0bed91ac                                         
+RoTransformErrorW                                                                                    0x899fc783                                         
+RoUninitialize                                                                                       0x7a0958bb                                         
+RoUnregisterForApartmentShutdown                                                                     0xe2eca7dd                                         
+SetCleanupFlag                                                                                       0x03454133                                         
+SetErrorInfo                                                                                         0x97571067                                         
+SetRestrictedErrorInfo                                                                               0x0fc55540                                         
+StringFromCLSID                                                                                      0x2fa38b5f                                         
+StringFromGUID2                                                                                      0x2ff0b18b                                         
+StringFromIID                                                                                        0x9d138646                                         
+UpdateDCOMSettings                                                                                   0xb76fc2bc                                         
+UpdateProcessTracing                                                                                 0x7057eaaf                                         
+WdtpInterfacePointer_UserFree                                                                        0x06c0bdf6                                         
+WdtpInterfacePointer_UserFree64                                                                      0xb9e81aa0                                         
+WdtpInterfacePointer_UserMarshal                                                                     0xeb0f2bfc                                         
+WdtpInterfacePointer_UserMarshal64                                                                   0xeb8a2226                                         
+WdtpInterfacePointer_UserSize                                                                        0x06c7bb4f                                         
+WdtpInterfacePointer_UserSize64                                                                      0xd7a3d239                                         
+WdtpInterfacePointer_UserUnmarshal                                                                   0xe4a4371f                                         
+WdtpInterfacePointer_UserUnmarshal64                                                                 0x9e8e8209                                         
+WindowsCompareStringOrdinal                                                                          0xee4a0897                                         
+WindowsConcatString                                                                                  0x6db8093f                                         
+WindowsCreateString                                                                                  0xf6af6a3b                                         
+WindowsCreateStringReference                                                                         0x5f80b4ea                                         
+WindowsDeleteString                                                                                  0x50294f3a                                         
+WindowsDeleteStringBuffer                                                                            0x56cdad34                                         
+WindowsDuplicateString                                                                               0xbf4d2182                                         
+WindowsGetStringLen                                                                                  0xee2b7a46                                         
+WindowsGetStringRawBuffer                                                                            0x50ee668b                                         
+WindowsInspectString                                                                                 0x605c3b5d                                         
+WindowsInspectString2                                                                                0x6be3a72f                                         
+WindowsIsStringEmpty                                                                                 0x8b020612                                         
+WindowsPreallocateStringBuffer                                                                       0xb6b39f8d                                         
+WindowsPromoteStringBuffer                                                                           0x427ed0e7                                         
+WindowsReplaceString                                                                                 0x7d4990e3                                         
+WindowsStringHasEmbeddedNull                                                                         0xa3709a68                                         
+WindowsSubstring                                                                                     0xa62ba791                                         
+WindowsSubstringWithSpecifiedLength                                                                  0x54e2ce1b                                         
+WindowsTrimStringEnd                                                                                 0x6409525a                                         
+WindowsTrimStringStart                                                                               0x8ca7f491                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\SSTtoAPO64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IntelSstPreProcApiVersion                                                                            0x8803e316                                         
+IntelSstPreProcBurstProcess                                                                          0x5773f5e5                                         
+IntelSstPreProcGetConfig                                                                             0x3775d28c                                         
+IntelSstPreProcGetLatency                                                                            0xbac029e6                                         
+IntelSstPreProcGetSize                                                                               0x76cc9bb1                                         
+IntelSstPreProcGetVersion                                                                            0xc5be947c                                         
+IntelSstPreProcGetVersionString                                                                      0x5aa29893                                         
+IntelSstPreProcInitialize                                                                            0xcccfd568                                         
+IntelSstPreProcProcess                                                                               0x499a0855                                         
+IntelSstPreProcRelease                                                                               0xc5062fd7                                         
+IntelSstPreProcSetConfig                                                                             0xad4b1e98                                         

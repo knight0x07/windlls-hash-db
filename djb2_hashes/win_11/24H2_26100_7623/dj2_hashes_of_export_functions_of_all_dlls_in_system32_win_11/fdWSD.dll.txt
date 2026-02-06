@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\fdWSD.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+FdphostSessionChange                                                                                 0x9171a467                                         
+FdphostSetComContext                                                                                 0xb04bc12d                                         
+FdphostSetSharedService                                                                              0xa31fc051                                         

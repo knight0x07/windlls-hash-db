@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\pcwutl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetAppInformationFromCloud                                                                           0xb55f42d7                                         
+GetLayerFromGenome                                                                                   0xe0fdec51                                         
+GetMatchingInfo                                                                                      0xf10388dc                                         
+GetTempFile                                                                                          0x335789db                                         
+LaunchApplicationW                                                                                   0xdd27acab                                         
+LogAeEvent                                                                                           0x75881b4f                                         
+LogPCWDebugEvent                                                                                     0x8d274f1a                                         
+RetrieveFileAndProgramId                                                                             0xc0e28443                                         
+SanitizeFullPath                                                                                     0x24346b4c                                         
+SendPcwWerReport                                                                                     0x2f1abcc3                                         

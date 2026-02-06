@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\newdev.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckDriverSoftwareDependenciesSatisfied                                                             0x8bc6309d                                         
+DeviceInternetSettingUiW                                                                             0x7ed62171                                         
+DiInstallDevice                                                                                      0x9c143939                                         
+DiInstallDriverA                                                                                     0x3c0a5d56                                         
+DiInstallDriverW                                                                                     0x3c0a5d6c                                         
+DiRollbackDriver                                                                                     0x22ed66e8                                         
+DiShowUpdateDevice                                                                                   0x1b6491c6                                         
+DiShowUpdateDriver                                                                                   0x1c48e702                                         
+DiUninstallDevice                                                                                    0x69b7921c                                         
+DiUninstallDriverA                                                                                   0xbe18d299                                         
+DiUninstallDriverW                                                                                   0xbe18d2af                                         
+GetInternetPolicies                                                                                  0x3a73fd66                                         
+InstallLegacyDeviceDriver                                                                            0x9154c22d                                         
+InstallNewDevice                                                                                     0x9c9158f6                                         
+InstallSelectedDriver                                                                                0x47f205f1                                         
+InstallWindowsUpdateDriver                                                                           0x26643bd6                                         
+InstallWindowsUpdateDriverEx                                                                         0x506292b3                                         
+InstallWindowsUpdateDrivers                                                                          0xf2ebb709                                         
+QueryWindowsUpdateDriverStatus                                                                       0xdb80d139                                         
+SetDriverPackageRestorePoint                                                                         0x85fd7b37                                         
+SetInternetPolicies                                                                                  0x84b0c872                                         
+UpdateDriverForPlugAndPlayDevicesA                                                                   0x9489a1e0                                         
+UpdateDriverForPlugAndPlayDevicesW                                                                   0x9489a1f6                                         
+pDiDoDeviceInstallAsAdmin                                                                            0x3ba75bb9                                         
+pDiDoNullDriverInstall                                                                               0xbfbcaf53                                         
+pDiRunFinishInstallOperations                                                                        0x05361e93                                         

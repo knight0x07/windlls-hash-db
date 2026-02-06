@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\msdtcuiu.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DtcPerfClose                                                                                         0x2e92e8c3                                         
+DtcPerfCollect                                                                                       0x25b58c73                                         
+DtcPerfOpen                                                                                          0x7d8ef8df                                         
+PerfDllRegisterServer                                                                                0x770e9f4a                                         

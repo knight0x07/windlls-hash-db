@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\utcapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+UtcClearTimerConfiguration                                                                           0x2c730b91                                         
+UtcCloseSessionHandle                                                                                0x36922f77                                         
+UtcCreateSessionHandle                                                                               0x0a822615                                         
+UtcDownloadLatestSettingsForNamespaceEx                                                              0xb27ceb38                                         
+UtcEscalateScenarioEx                                                                                0x5707b484                                         
+UtcForceUpload                                                                                       0x3fdcf5c5                                         
+UtcGetTimerConfiguration                                                                             0xa2274dca                                         
+UtcIsScenarioActive                                                                                  0x3fd70add                                         
+UtcSetTelemetryOptIn                                                                                 0x3710f5c2                                         
+UtcTenantRegister                                                                                    0xc13aa4a0                                         
+UtcTenantUnregister                                                                                  0xf523f9e3                                         
+UtcTenantUpdateDailyUploadQuota                                                                      0xa6acff20                                         
+UtcUpdateTimerConfiguration                                                                          0x26da832d                                         

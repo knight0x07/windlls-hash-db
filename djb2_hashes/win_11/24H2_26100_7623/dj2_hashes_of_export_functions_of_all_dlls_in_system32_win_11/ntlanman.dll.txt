@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\ntlanman.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+I_SystemFocusDialog                                                                                  0x30f072c2                                         
+NPAddConnection                                                                                      0x56c5cffc                                         
+NPAddConnection3                                                                                     0x2f7fcfaf                                         
+NPAddConnection4                                                                                     0x2f7fcfb0                                         
+NPCancelConnection                                                                                   0xb35212d9                                         
+NPCancelConnection2                                                                                  0x1d946e2b                                         
+NPCloseEnum                                                                                          0x6d5abaae                                         
+NPEnumResource                                                                                       0xf91522a0                                         
+NPFormatNetworkName                                                                                  0x68a7fdf7                                         
+NPGetCaps                                                                                            0x91f2e3aa                                         
+NPGetConnection                                                                                      0xb9beba73                                         
+NPGetConnection3                                                                                     0xf1960906                                         
+NPGetConnectionPerformance                                                                           0xef4a6725                                         
+NPGetPersistentUseOptionsForConnection                                                               0x699563e4                                         
+NPGetPersistentUseOptionsForConnection2                                                              0x9c41e096                                         
+NPGetReconnectFlags                                                                                  0xe9b35931                                         
+NPGetResourceInformation                                                                             0x075d02b1                                         
+NPGetResourceParent                                                                                  0x5687f615                                         
+NPGetUniversalName                                                                                   0x106da2dd                                         
+NPGetUser                                                                                            0x91fd0da2                                         
+NPOpenEnum                                                                                           0x611bf60a                                         
+QueryAppInstanceVersion                                                                              0xa9aea0f7                                         
+RegisterAppInstance                                                                                  0x4d597c40                                         
+RegisterAppInstanceVersion                                                                           0x72c46b06                                         
+ResetAllAppInstanceVersions                                                                          0xff2258b0                                         
+SetAppInstanceCsvFlags                                                                               0x63563240                                         

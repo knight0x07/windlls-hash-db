@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\wscui.cpl
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DoesActionRequireElevation                                                                           0x383668d2                                         
+ExecuteSecurityActionHandler                                                                         0xa9008bcc                                         
+ExecuteSecurityActionHandlerById                                                                     0x0adfcf54                                         
+GetSecondaryListViewHwnd                                                                             0x80477635                                         

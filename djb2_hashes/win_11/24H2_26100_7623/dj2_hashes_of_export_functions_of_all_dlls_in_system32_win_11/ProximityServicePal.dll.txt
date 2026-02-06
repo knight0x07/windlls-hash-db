@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\ProximityServicePal.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PAL_AllowNetworkInterface                                                                            0xa2dd503b                                         
+PAL_BluetoothEnableDiscovery                                                                         0xb3893356                                         
+PAL_BluetoothFindDeviceClose                                                                         0xb400751e                                         
+PAL_BluetoothFindFirstDevice                                                                         0x09951e50                                         
+PAL_BluetoothFindFirstRadio                                                                          0x661e658f                                         
+PAL_BluetoothFindRadioClose                                                                          0xf8a6a4bd                                         
+PAL_BluetoothOpenFirewall                                                                            0xec3ea23f                                         
+PAL_CoCreateInstanceInSession                                                                        0xc8539317                                         
+PAL_ConvertAppIdToPackageName                                                                        0xbd9dd360                                         
+PAL_CreateForegroundNotifier                                                                         0x4ed98990                                         
+PAL_CreateUnicastIpAddressEntry                                                                      0xee9f709d                                         
+PAL_DeleteUnicastIpAddressEntry                                                                      0x8da58fbc                                         
+PAL_FWIndicateTupleInUse                                                                             0xc127ea2d                                         
+PAL_FWResetIndicatedTupleInUse                                                                       0x8ec4bf94                                         
+PAL_GetCallingApplicationInfo                                                                        0xf4a8861b                                         
+PAL_GetConsoleSessionInfo                                                                            0x3578fec4                                         
+PAL_HasWFDHardwareSupport                                                                            0x7b70d889                                         
+PAL_IsCallerAssignedAccessUser                                                                       0x4167352f                                         
+PAL_IsInteractiveApplicationId                                                                       0x6c83701c                                         
+PAL_IsMachineDomainJoined                                                                            0x2a6facc3                                         
+PAL_OpenProcessForQuery                                                                              0x2bf5ccaf                                         
+PAL_RegisterConnectedStandbyNotification                                                             0x32b588b5                                         
+PAL_RegisterConsoleDisplayStateNotifications                                                         0x4752f3ca                                         
+PAL_ServiceFreeTransientObjectSecurityAttribute                                                      0xe6f1e82f                                         
+PAL_ServiceQueryTransientObjectSecurityAttribute                                                     0x2f995783                                         
+PAL_UnregisterConnectedStandbyNotification                                                           0x81ada9f8                                         
+PAL_UnregisterConsoleDisplayStateNotifications                                                       0xac2ffe8d                                         
+PAL_VerifyCallerIsElevated                                                                           0x842bfccf                                         

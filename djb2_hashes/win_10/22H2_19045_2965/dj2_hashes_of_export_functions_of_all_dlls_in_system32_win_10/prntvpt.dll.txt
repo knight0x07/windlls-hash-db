@@ -1,0 +1,37 @@
+DLL Path: C:\Windows\System32\prntvpt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BindPTProviderThunk                                                                                  0x927203bb                                         
+ConvertDevModeToPrintTicketThunk                                                                     0xd5f437a8                                         
+ConvertDevModeToPrintTicketThunk2                                                                    0x947b2cda                                         
+ConvertPrintTicketToDevModeThunk                                                                     0x1efeeec8                                         
+ConvertPrintTicketToDevModeThunk2                                                                    0xfedcc7fa                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetDeviceDefaultPrintTicketThunk                                                                     0xf7fabcd5                                         
+GetDeviceNamespacesThunk                                                                             0x78bef33f                                         
+GetPrintCapabilitiesThunk                                                                            0xd70474e6                                         
+GetPrintCapabilitiesThunk2                                                                           0xb79311d8                                         
+GetPrintDeviceCapabilitiesThunk                                                                      0xfb863696                                         
+GetPrintDeviceCapabilitiesThunk2                                                                     0x6c4d0988                                         
+GetPrintDeviceResourcesThunk                                                                         0x8669f8c7                                         
+GetPrintDeviceResourcesThunk2                                                                        0x53a911d9                                         
+GetSchemaVersionThunk                                                                                0xb0458546                                         
+MergeAndValidatePrintTicketThunk                                                                     0x081a494d                                         
+MergeAndValidatePrintTicketThunk2                                                                    0x0b63731f                                         
+PTCloseProvider                                                                                      0x3da06fca                                         
+PTConvertDevModeToPrintTicket                                                                        0x0f431c42                                         
+PTConvertPrintTicketToDevMode                                                                        0x5bd6df62                                         
+PTGetPrintCapabilities                                                                               0x03fb2340                                         
+PTGetPrintDeviceCapabilities                                                                         0x6af5f1f0                                         
+PTGetPrintDeviceResources                                                                            0x7f3bdc01                                         
+PTMergeAndValidatePrintTicket                                                                        0xe6d952c7                                         
+PTOpenProvider                                                                                       0xdc74d066                                         
+PTOpenProviderEx                                                                                     0xccea8b43                                         
+PTQuerySchemaVersionSupport                                                                          0x405397b3                                         
+PTReleaseMemory                                                                                      0x06b8fe23                                         
+UnbindPTProviderThunk                                                                                0x7bceb39e                                         

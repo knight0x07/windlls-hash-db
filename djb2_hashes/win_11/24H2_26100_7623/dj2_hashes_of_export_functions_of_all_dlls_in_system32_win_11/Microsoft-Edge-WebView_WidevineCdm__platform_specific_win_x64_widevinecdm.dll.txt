@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\WidevineCdm\_platform_specific\win_x64\widevinecdm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateCdmInstance                                                                                    0x16dc2702                                         
+DeinitializeCdmModule                                                                                0x77560bda                                         
+GetCdmVersion                                                                                        0x25bdeb3f                                         
+GetHandleVerifier                                                                                    0x54d1a1cd                                         
+InitializeCdmModule_4                                                                                0x455e6ca4                                         
+VerifyCdmHost_0                                                                                      0x886ed67b                                         

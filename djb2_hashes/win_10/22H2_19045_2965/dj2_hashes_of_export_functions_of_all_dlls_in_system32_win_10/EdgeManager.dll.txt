@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\EdgeManager.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateCoreWebViewComponentAndUninitializedCoreWebViewComponentCallbackForWebInstance                 0x648074d6                                         
+CreateCoreWebViewControl                                                                             0x5b4bf7bc                                         
+CreateCoreWebViewHostProcess                                                                         0x3b28ed38                                         
+CreateCoreWebViewOOP                                                                                 0x501cc169                                         
+CreateEdgeIsoSession                                                                                 0x795d163d                                         
+CreateWebRuntimeDebugTargetClient                                                                    0x6a7b72a8                                         
+CreateWebRuntimeDebugTargetManager                                                                   0xa25f9204                                         
+CreateWebRuntimeDiagnosticsTarget                                                                    0x62c4099a                                         
+CreateWebViewControlAcceleratorKeyPressedEventArgs                                                   0x2633ab26                                         
+CreateWebViewControlAndInitializeCoreWebViewComponentCallback                                        0xc17dd75a                                         
+CreateWebViewControlMoveFocusRequestedEventArgs                                                      0x5e9c638b                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EnsureServiceWorkerEnvironmentForWebView                                                             0x957d0c37                                         
+EnsureWebDriverForWebViewHost                                                                        0xf2c1559f                                         
+GetProxyDllInfo                                                                                      0x64ea9e0f                                         
+GetWebDriverHostInstance                                                                             0xd3c3fc62                                         

@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\mssecuser.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SecClearKseRegistryOperations                                                                        0xe5a5e5c7                                         
+SecClearRegistryOperations                                                                           0x7bfe9a24                                         
+SecCreateSessionFilter                                                                               0x614c807e                                         
+SecDeleteSessionFilter                                                                               0x2fd0f09d                                         
+SecGetCiInformation                                                                                  0xaefe02d2                                         
+SecGetDriverVersion                                                                                  0x564abd92                                         
+SecGetFileHashes                                                                                     0x64ea55fc                                         
+SecGetProcessInfo                                                                                    0xc369cfeb                                         
+SecGetUserLibVersion                                                                                 0x79a9829c                                         
+SecIsKernelIntegrityEnabled                                                                          0xe225ba27                                         
+SecRegisterConsumer                                                                                  0x1e0599f1                                         
+SecRequestOplock                                                                                     0x33beb411                                         
+SecSetCiInformation                                                                                  0x417bc95e                                         
+SecSetConfiguration                                                                                  0x7b40d064                                         
+SecSetDlpConfiguration                                                                               0x4530bc84                                         
+SecSetFileMonitorOperations                                                                          0x670d5298                                         
+SecSetKseConfiguration                                                                               0x85d64c07                                         
+SecSetKseFileMonitorOperations                                                                       0x2c29c13b                                         
+SecSetKseRegistryOperations                                                                          0x2f7cdc2c                                         
+SecSetLmfConfiguration                                                                               0xf99f1903                                         
+SecSetProcessInfo                                                                                    0x8a6c8377                                         
+SecSetRegistryOperations                                                                             0xd909a2a9                                         
+SecUninitializeDriver                                                                                0xe0ef1301                                         
+SecUnregisterConsumer                                                                                0x1ee09f74                                         
+SecWriteFileDlpEA                                                                                    0xc9d90b11                                         
+SecWriteFileHashEA                                                                                   0x0d8a3cf5                                         

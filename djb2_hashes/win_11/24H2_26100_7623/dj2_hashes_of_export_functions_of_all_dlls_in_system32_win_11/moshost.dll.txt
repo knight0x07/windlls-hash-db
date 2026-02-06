@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\moshost.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MosHostCacheStateGetSizes                                                                            0x04aec8b5                                         
+MosHostCacheStateGetSlotToCleanup                                                                    0xf9aee4f4                                         
+MosHostCacheStateSetMaxSize                                                                          0x3b4dbbb4                                         
+MosHostCacheStateSetSlotSize                                                                         0x6a9b3130                                         
+MosHostCacheStateSnapshot                                                                            0xa250d937                                         
+MosHostCacheStateUnuseSlot                                                                           0xdee83319                                         
+MosHostCacheStateUseSlot                                                                             0x9b3def36                                         
+MosHostRequestResourceLock                                                                           0xcabf4ecc                                         
+MosHostRequestResourceUnlock                                                                         0x8cbf948f                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

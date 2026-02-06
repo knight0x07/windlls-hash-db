@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\srpapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AiEvaluatePlugin                                                                                     0x58116d15                                         
+AppIDDecodeAttributeString                                                                           0x4b328702                                         
+AppIDEncodeAttributeString                                                                           0xc9a022ec                                         
+AppIDFreeAttributeString                                                                             0xe53f72c0                                         
+SrpCloseThreadNetworkContext                                                                         0x0c009d97                                         
+SrpCloseTrackInstall                                                                                 0xd4526c3c                                         
+SrpCreateThreadNetworkContext                                                                        0x635ea395                                         
+SrpDisablePermissiveModeFileEncryption                                                               0x96d7e7c5                                         
+SrpDoesPolicyAllowAppExecution                                                                       0xec5ca749                                         
+SrpEnablePermissiveModeFileEncryption                                                                0x7d3b1a98                                         
+SrpGetAllowedEnterprises                                                                             0x4377fb16                                         
+SrpGetAppxFqbnFromPackageFullName                                                                    0x600faf4e                                         
+SrpGetEnterpriseIds                                                                                  0x6adfea7b                                         
+SrpGetEnterprisePolicy                                                                               0x042c3bcb                                         
+SrpInheritEnterpriseContext                                                                          0x97220513                                         
+SrpInheritOriginClaim                                                                                0xcf4beadb                                         
+SrpIsAllowed                                                                                         0x47d8e7be                                         
+SrpIsTokenService                                                                                    0x75b25268                                         
+SrpOpenTrackInstall                                                                                  0x417fb4b8                                         
+SrpRestoreEnterpriseContext                                                                          0x608a8de4                                         
+SrpSetTokenEnterpriseId                                                                              0xec44e455                                         

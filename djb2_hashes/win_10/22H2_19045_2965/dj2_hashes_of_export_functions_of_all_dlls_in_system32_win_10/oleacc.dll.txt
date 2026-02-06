@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\oleacc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AccGetRunningUtilityState                                                                            0xc14c2382                                         
+AccNotifyTouchInteraction                                                                            0xb77feb48                                         
+AccSetRunningUtilityState                                                                            0x215fa30e                                         
+AccessibleChildren                                                                                   0xe8582d7c                                         
+AccessibleObjectFromEvent                                                                            0xd0c9b280                                         
+AccessibleObjectFromPoint                                                                            0xd18cfa68                                         
+AccessibleObjectFromWindow                                                                           0x131663f6                                         
+AccessibleObjectFromWindowTimeout                                                                    0xb9e2e57d                                         
+CreateStdAccessibleObject                                                                            0xa6c24a29                                         
+CreateStdAccessibleProxyA                                                                            0xaa3c0c35                                         
+CreateStdAccessibleProxyW                                                                            0xaa3c0c4b                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetOleaccVersionInfo                                                                                 0xe6b4ddbe                                         
+GetProcessHandleFromHwnd                                                                             0xe89473f5                                         
+GetRoleTextA                                                                                         0x8a3a931d                                         
+GetRoleTextW                                                                                         0x8a3a9333                                         
+GetStateTextA                                                                                        0x9e44e54c                                         
+GetStateTextW                                                                                        0x9e44e562                                         
+IID_IAccessible                                                                                      0x386d2751                                         
+IID_IAccessibleHandler                                                                               0x34b453af                                         
+LIBID_Accessibility                                                                                  0x807d60b0                                         
+LresultFromObject                                                                                    0xd490583b                                         
+ObjectFromLresult                                                                                    0x9a67789b                                         
+PropMgrClient_LookupProp                                                                             0x0fdb3865                                         
+WindowFromAccessibleObject                                                                           0x2cb5a6b6                                         

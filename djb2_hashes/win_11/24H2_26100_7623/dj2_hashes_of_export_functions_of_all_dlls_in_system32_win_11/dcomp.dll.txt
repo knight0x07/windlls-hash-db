@@ -1,0 +1,46 @@
+DLL Path: C:\Windows\System32\dcomp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreatePresentationFactory                                                                            0xd501cb0d                                         
+DCompositionAttachMouseDragToHwnd                                                                    0xc30a624d                                         
+DCompositionAttachMouseWheelToHwnd                                                                   0xd65f15a4                                         
+DCompositionBoostCompositorClock                                                                     0x8ca9a29f                                         
+DCompositionCreateDevice                                                                             0x6ea56041                                         
+DCompositionCreateDevice2                                                                            0x43516893                                         
+DCompositionCreateDevice3                                                                            0x43516894                                         
+DCompositionCreateSurfaceHandle                                                                      0x700f7546                                         
+DCompositionGetFrameId                                                                               0x45471395                                         
+DCompositionGetStatistics                                                                            0x63550b08                                         
+DCompositionGetTargetStatistics                                                                      0x7c2d960f                                         
+DCompositionWaitForCompositorClock                                                                   0x22253274                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DwmEnableMMCSS                                                                                       0x33ea64f7                                         
+DwmFlush                                                                                             0x08f44d2f                                         
+DwmpEnableDDASupport                                                                                 0x5040680a                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

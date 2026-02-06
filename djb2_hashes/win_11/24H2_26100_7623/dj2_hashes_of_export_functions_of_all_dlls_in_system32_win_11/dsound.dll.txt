@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\dsound.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DirectSoundCaptureCreate                                                                             0x44e2b6d1                                         
+DirectSoundCaptureCreate8                                                                            0xe1399129                                         
+DirectSoundCaptureEnumerateA                                                                         0x46344544                                         
+DirectSoundCaptureEnumerateW                                                                         0x4634455a                                         
+DirectSoundCreate                                                                                    0xe632af3d                                         
+DirectSoundCreate8                                                                                   0xac889715                                         
+DirectSoundEnumerateA                                                                                0x866293b0                                         
+DirectSoundEnumerateW                                                                                0x866293c6                                         
+DirectSoundFullDuplexCreate                                                                          0x0b1d6422                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetDeviceID                                                                                          0x83c9cf42                                         

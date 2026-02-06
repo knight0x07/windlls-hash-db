@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\MrmCoreR.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetInternalReferenceBlobForManifestValue                                                             0xebc7ac4b                                         
+GetMergedSystemPri                                                                                   0xb170a949                                         
+GetMergedSystemPriEx                                                                                 0xd04028e6                                         
+GetStringValueForManifestField                                                                       0xdd47377b                                         
+MergeResourcePackPri                                                                                 0x488b9047                                         
+MergeSystemPriFiles                                                                                  0x79ed4378                                         
+ResourceManagerQueueGetCurrentDepth                                                                  0x9477ed85                                         
+ResourceManagerQueueGetGlobalFlags                                                                   0x5a3388cb                                         
+ResourceManagerQueueGetMrtCachePathForPackage                                                        0x53006e14                                         
+ResourceManagerQueueGetString                                                                        0xf3e683a4                                         
+ResourceManagerQueueGetStringDirect                                                                  0xcc16c45f                                         
+ResourceManagerQueueIsResourceReference                                                              0xfc9e82e0                                         
+ResourceManagerQueueReset                                                                            0x5b0bc4d0                                         
+ResourceManagerQueueSetGlobalFlags                                                                   0x21363c57                                         
+ShouldMergeInproc                                                                                    0x38efa60f                                         

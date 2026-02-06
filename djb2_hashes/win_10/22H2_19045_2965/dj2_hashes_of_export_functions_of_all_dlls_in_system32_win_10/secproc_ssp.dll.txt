@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\secproc_ssp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SPAttest                                                                                             0xc3520f7d                                         
+SPBindLicense                                                                                        0xacb50288                                         
+SPCheckEnvironmentSecurity                                                                           0xd5200b53                                         
+SPCloseHandle                                                                                        0xc1df9a6a                                         
+SPCommit                                                                                             0xc79e3051                                         
+SPCreateDecryptor                                                                                    0xe42ef798                                         
+SPCreateEnablingPrincipal                                                                            0x2b82209e                                         
+SPCreateEncryptor                                                                                    0xa6fbe482                                         
+SPCreatePCE                                                                                          0x67127cd4                                         
+SPCreateSecurityProcessor                                                                            0x6b646014                                         
+SPDecrypt                                                                                            0xf058edc3                                         
+SPDecryptFinal                                                                                       0x8a01278d                                         
+SPDecryptUpdate                                                                                      0xed9cabc6                                         
+SPEnableAndEncrypt                                                                                   0x260e3867                                         
+SPEnablePublishingLicense                                                                            0x2a0052e7                                         
+SPEncrypt                                                                                            0x5251982d                                         
+SPEncryptFinal                                                                                       0x6b36e437                                         
+SPEncryptUpdate                                                                                      0xf589fdb0                                         
+SPGetBoundRightKey                                                                                   0x33138947                                         
+SPGetCurrentTime                                                                                     0xe375663a                                         
+SPGetInfo                                                                                            0xd86498f4                                         
+SPGetLicenseAttribute                                                                                0xe924473f                                         
+SPGetLicenseAttributeCount                                                                           0x75d8eec8                                         
+SPGetLicenseObject                                                                                   0x373457c2                                         
+SPGetLicenseObjectCount                                                                              0x9206c92b                                         
+SPGetProcAddress                                                                                     0x7c24d4a2                                         
+SPIsActivated                                                                                        0x1cf52679                                         
+SPLoadLibrary                                                                                        0x103691dd                                         
+SPRegisterRevocationList                                                                             0x76d88a03                                         
+SPSign                                                                                               0xcf522919                                         

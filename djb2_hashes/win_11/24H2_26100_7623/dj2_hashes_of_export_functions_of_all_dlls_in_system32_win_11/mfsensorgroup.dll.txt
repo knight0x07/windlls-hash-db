@@ -1,0 +1,56 @@
+DLL Path: C:\Windows\System32\mfsensorgroup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+MFCheckProcessCapabilities                                                                           0x9a825c9f                                         
+MFCleanupVirtualCameraEntries                                                                        0xdec3e52a                                         
+MFCloneSensorProfile                                                                                 0x82f83694                                         
+MFCreateCameraControlMonitor                                                                         0x19c7ce9e                                         
+MFCreateCameraOcclusionStateMonitor                                                                  0xbb0daaad                                         
+MFCreateConfigurationEntry                                                                           0xfd68e456                                         
+MFCreatePackageFamilyNameTag                                                                         0x50533017                                         
+MFCreatePassthroughTranslatedMediaType                                                               0x98acd238                                         
+MFCreateRelativePanelWatcher                                                                         0x22d47266                                         
+MFCreateSensorActivityMonitor                                                                        0x1b40f85b                                         
+MFCreateSensorDeviceBlobByObject                                                                     0x677e6f27                                         
+MFCreateSensorGroup                                                                                  0xf7901c73                                         
+MFCreateSensorGroupById                                                                              0x42855b7b                                         
+MFCreateSensorGroupCollection                                                                        0x60f2de5f                                         
+MFCreateSensorGroupIdManager                                                                         0x04e855db                                         
+MFCreateSensorGroupWithOptions                                                                       0x45fb791b                                         
+MFCreateSensorProfile                                                                                0xd0ccded7                                         
+MFCreateSensorProfileCollection                                                                      0x4ec0edc3                                         
+MFCreateSensorProfileWithFlags                                                                       0x5b7cd7c0                                         
+MFCreateSensorStream                                                                                 0x05b722f2                                         
+MFCreateTranslatedMediaType                                                                          0x05387aa0                                         
+MFCreateTranslatedMediaType2                                                                         0xac47ced2                                         
+MFCreateTranslatedMediaType3                                                                         0xac47ced3                                         
+MFCreateVirtualCamera                                                                                0xa382f8fc                                         
+MFDeleteSensorGroupById                                                                              0xc3e64f5a                                         
+MFGenerateAndPublishCameraTelemetry                                                                  0x9a97d731                                         
+MFGetCameraKLibInformation                                                                           0x57823ea9                                         
+MFGetDeviceFromFSUniqueId                                                                            0xa7cbd119                                         
+MFGetDeviceFromSGHash                                                                                0x23e4ab7a                                         
+MFGetSGCH                                                                                            0xe2ec735d                                         
+MFGetSensorDeviceProperty                                                                            0xd45eee87                                         
+MFGetSensorDeviceRegistryProperty                                                                    0x1040d3a0                                         
+MFGetSensorGroupAttributesFromId                                                                     0xf5f11a47                                         
+MFGetSensorGroupIdFromDeviceName                                                                     0xb6397e31                                         
+MFGetSensorGroupPropertyName                                                                         0xf312f065                                         
+MFGetSensorOrientation                                                                               0xc2c9a07e                                         
+MFInitializeSensorGroupStore                                                                         0xa0a3f2be                                         
+MFIsCameraDShowBridged                                                                               0xc8202ef3                                         
+MFIsSensorGroupName                                                                                  0xe138319c                                         
+MFIsStreamAvailableToAppPackage                                                                      0xa4dfa111                                         
+MFIsVirtualCameraTypeSupported                                                                       0x013f972c                                         
+MFIsWindowsStudioEffectAvailable                                                                     0x402380e5                                         
+MFLoadSensorGroupFromRegistry                                                                        0x3e3591cc                                         
+MFLoadSensorProfiles                                                                                 0x6a4b5936                                         
+MFPublishSensorProfiles                                                                              0xd59edead                                         
+MFSensorProfileParseFilterSetString                                                                  0x5b202407                                         
+MFValidateSensorProfile                                                                              0xf8cd222d                                         
+MFWriteSensorGroupDataToRegistry                                                                     0x162ea060                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\WindowsProtectedPrintConfiguration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DisableWindowsProtectedPrint                                                                         0xeeead1db                                         
+EnableWindowsProtectedPrint                                                                          0x74e7faae                                         
+ProcessWindowsProtectedPrintCsp                                                                      0x8bd7706c                                         
+ProcessWindowsProtectedPrintPolicy                                                                   0xec26f176                                         

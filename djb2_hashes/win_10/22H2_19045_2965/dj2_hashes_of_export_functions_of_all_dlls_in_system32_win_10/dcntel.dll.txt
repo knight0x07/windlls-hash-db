@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\dcntel.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetCensusPropertyAlloc                                                                               0x0063ed66                                         
+GetCensusRegistryLocation                                                                            0x3ba4ffa8                                         
+RunSystemContextCensus                                                                               0x2dd02d35                                         
+RunUserContextCensus                                                                                 0x92b5dc2f                                         
+SetCustomTrigger                                                                                     0x47828020                                         
+SetCustomTriggerEx                                                                                   0x3223117d                                         
+SysprepCleanupEnableCustomTrigger                                                                    0x0eb2c859                                         

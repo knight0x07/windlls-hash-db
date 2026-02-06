@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\wudriver.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CancelCDMOperation                                                                                   0xc55b5cf0                                         
+CloseCDMContext                                                                                      0x991c3cd4                                         
+DetFilesDownloaded                                                                                   0x3b14ec36                                         
+DownloadIsInternetAvailable                                                                          0xd40fd823                                         
+DownloadUpdatedFiles                                                                                 0x67507617                                         
+FindMatchingDriver                                                                                   0xf07a5dbd                                         
+LogDriverNotFound                                                                                    0x968e3360                                         
+OpenCDMContext                                                                                       0xecb710f0                                         
+OpenCDMContextEx                                                                                     0xf6bf164d                                         
+QueryDetectionFiles                                                                                  0x04552bed                                         

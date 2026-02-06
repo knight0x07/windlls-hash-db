@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DscCoreConfProv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetProviderClassID                                                                                   0xdc3bff53                                         
+MI_Main                                                                                              0xdc2f74ff                                         
+NITS_PRESENCE_STUB                                                                                   0xa3f793f4                                         
+NITS_STUB                                                                                            0xd96ad480                                         
+NativeProviderTraps                                                                                  0x46060c81                                         

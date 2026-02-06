@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\rasppp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitializeProtocolEngine                                                                             0xb12d55bf                                         
+InitializeServerProtocolEngine                                                                       0x0141d4f6                                         
+PppStop                                                                                              0x1f4e983b                                         
+RasCpEnumProtocolIds                                                                                 0xb6357845                                         
+RasCpGetInfo                                                                                         0x8632276a                                         
+SendMessageToProtocolEngine                                                                          0x0adaa93f                                         
+UninitializeProtocolEngine                                                                           0x1c526b82                                         
+UninitializeServerProtocolEngine                                                                     0x9dbef0f9                                         

@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\Magnification.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MagGetColorEffect                                                                                    0x0eefade6                                         
+MagGetFullscreenColorEffect                                                                          0x759c49d9                                         
+MagGetFullscreenTransform                                                                            0xf2d83fc9                                         
+MagGetImageScalingCallback                                                                           0xf7e625cb                                         
+MagGetInputTransform                                                                                 0x37b36d46                                         
+MagGetWindowFilterList                                                                               0x5c381694                                         
+MagGetWindowSource                                                                                   0xbeecf9a3                                         
+MagGetWindowTransform                                                                                0x1dd4448e                                         
+MagInitialize                                                                                        0x79fa430c                                         
+MagSetColorEffect                                                                                    0xd5f26172                                         
+MagSetFullscreenColorEffect                                                                          0x288ddc65                                         
+MagSetFullscreenTransform                                                                            0x52ebbf55                                         
+MagSetFullscreenUseBitmapSmoothing                                                                   0x448eed3b                                         
+MagSetImageScalingCallback                                                                           0x5a6996d7                                         
+MagSetInputTransform                                                                                 0x19ea0552                                         
+MagSetLensUseBitmapSmoothing                                                                         0x8fc09e3a                                         
+MagSetWindowFilterList                                                                               0xa674e1a0                                         
+MagSetWindowSource                                                                                   0x66461eaf                                         
+MagSetWindowTransform                                                                                0x46ddde1a                                         
+MagShowSystemCursor                                                                                  0xb3c5451e                                         
+MagUninitialize                                                                                      0x210fa8cf                                         

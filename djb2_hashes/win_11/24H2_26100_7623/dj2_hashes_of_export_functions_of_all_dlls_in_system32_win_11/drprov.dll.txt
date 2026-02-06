@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\drprov.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NPAddConnection                                                                                      0x56c5cffc                                         
+NPAddConnection3                                                                                     0x2f7fcfaf                                         
+NPCancelConnection                                                                                   0xb35212d9                                         
+NPCloseEnum                                                                                          0x6d5abaae                                         
+NPEnumResource                                                                                       0xf91522a0                                         
+NPGetCaps                                                                                            0x91f2e3aa                                         
+NPGetConnection                                                                                      0xb9beba73                                         
+NPGetConnectionPerformance                                                                           0xef4a6725                                         
+NPGetResourceInformation                                                                             0x075d02b1                                         
+NPGetResourceParent                                                                                  0x5687f615                                         
+NPGetUniversalName                                                                                   0x106da2dd                                         
+NPOpenEnum                                                                                           0x611bf60a                                         

@@ -1,0 +1,37 @@
+DLL Path: C:\Windows\System32\migwiz\AppExtAgent.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEAA@AEBV01@@Z     0x38103460                                         
+??0?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEAA@PEAV?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@1@@Z 0xd52d643c                                         
+??0?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEAA@XZ            0x020bb899                                         
+??0CAppExtAgent@Mig@@QEAA@$$QEAV01@@Z                                                                0x0033badc                                         
+??0CAppExtAgent@Mig@@QEAA@AEBV01@@Z                                                                  0x6209f6c5                                         
+??0CAppExtAgent@Mig@@QEAA@PEAVString@UnBCL@@@Z                                                       0xd33a97dd                                         
+??1?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@UEAA@XZ            0x2c3fd25e                                         
+??1CAppExtAgent@Mig@@UEAA@XZ                                                                         0x16a138c3                                         
+??4?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEAAAEAV01@AEBV01@@Z 0xead58922                                         
+??4CAppExtAgent@Mig@@QEAAAEAV01@$$QEAV01@@Z                                                          0xf252b15e                                         
+??4CAppExtAgent@Mig@@QEAAAEAV01@AEBV01@@Z                                                            0xc39564c7                                         
+??7?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEBA_NXZ           0x83b8c1ce                                         
+??B?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEBAPEAVNullTest@01@XZ 0xaae52014                                         
+??C?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEBAPEAV?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@1@XZ 0xb368d588                                         
+??D?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEBAAEAV?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@1@XZ 0x8ec018ba                                         
+??_7?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@6B@               0x4ca7dbed                                         
+??_7CAppExtAgent@Mig@@6B@                                                                            0xfbf7e1b2                                         
+??_8CAppExtAgent@Mig@@7B@                                                                            0x6ea43094                                         
+??_DCAppExtAgent@Mig@@QEAAXXZ                                                                        0x9df3a4c9                                         
+?AddApplyInfo@CAppExtAgent@Mig@@UEAAXPEAVCMigUnit@2@@Z                                               0x1dd2a30c                                         
+?AdjustRules@CAppExtAgent@Mig@@UEAAXPEAVCMigUnit@2@0@Z                                               0xde9e9e77                                         
+?Assign@?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@AEAAXAEBV12@@Z 0x892a2fe0                                         
+?Assign@?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@AEAAXPEAV?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@2@@Z 0x96881e7b                                         
+?DeAssign@?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@AEAAXXZ     0xeb182bc0                                         
+?Detect@CAppExtAgent@Mig@@UEAAPEAVCMigUnitList@2@PEAVCUserContext@2@PEAUICancelable@@@Z              0xc5d8dfe1                                         
+?Done@CAppExtAgent@Mig@@UEAAXH@Z                                                                     0x05f6b961                                         
+?EnhanceGatherInfo@CAppExtAgent@Mig@@UEAAXPEAVCMigUnit@2@PEAVCMigUnitList@2@PEAUICancelable@@@Z      0x09c60e12                                         
+?Init@CAppExtAgent@Mig@@UEAAXPEAVCPlatform@2@PEAVString@UnBCL@@@Z                                    0xb63ca644                                         
+?InitApply@CAppExtAgent@Mig@@UEAAXPEAVCPlatform@2@0PEAVString@UnBCL@@@Z                              0xf4d03f9a                                         
+?Nullify@?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEAAAEAV12@XZ 0xa0d503cd                                         
+?Steal@?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEAAPEAV?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@2@XZ 0xa7b18ebf                                         
+?get_P@?$SmartPtr@V?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@UnBCL@@@UnBCL@@QEBAPEAV?$Hashtable@PEAVString@UnBCL@@PEAVCAppExtData@Mig@@@2@XZ 0x08f36a36                                         
+LoadAgent                                                                                            0x1080b894                                         

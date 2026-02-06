@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\HealthAttestationClient\AzureAttestManager.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AttestationAttest                                                                                    0xc368ef6a                                         
+AttestationCloseSession                                                                              0xcd772d4f                                         
+AttestationCreateSession                                                                             0x096439ed                                         
+AttestationGetReport                                                                                 0x237036d1                                         
+InitializeAttestationLibrary                                                                         0xd5462b7c                                         
+__AllocateMemory                                                                                     0xb914d7c1                                         
+__AllocateParams                                                                                     0xbfce714c                                         
+__FreeMemory                                                                                         0x4a5934fe                                         
+__GetHostMetadata                                                                                    0xd2fe3c42                                         
+__GetKeyInfo                                                                                         0xa3d54c58                                         
+__GetTcgLog                                                                                          0x19c75d83                                         
+__SignHash                                                                                           0x13f5a158                                         
+__TraceLog                                                                                           0xa64d24d4                                         

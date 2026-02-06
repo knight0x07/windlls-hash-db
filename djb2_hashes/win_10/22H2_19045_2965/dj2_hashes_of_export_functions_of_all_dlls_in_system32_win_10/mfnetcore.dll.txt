@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\mfnetcore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+IsLicensedComponentAC3_ENC                                                                           0xbd33ed27                                         
+IsLicensedComponentDOLBY                                                                             0x744e7a15                                         
+IsLicensedComponentMPEG2                                                                             0x74f1c5b6                                         
+IsLicensedComponentMPEG2_ENC                                                                         0x7f5ef88b                                         
+MFCreateByteCacheFile                                                                                0x2eceb454                                         
+MFCreateCredentialCache                                                                              0xffb23ddb                                         
+MFCreateFileBlockMap                                                                                 0x2293a5f5                                         
+MFCreatePartialSeekableByteStream                                                                    0x701add55                                         
+MFCreateProxyLocator                                                                                 0x908c11a2                                         
+MFGetSupportedDLNAProfileInfo                                                                        0x06a1667a                                         

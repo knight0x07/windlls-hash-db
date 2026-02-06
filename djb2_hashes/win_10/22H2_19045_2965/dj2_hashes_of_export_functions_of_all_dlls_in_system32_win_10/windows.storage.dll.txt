@@ -1,0 +1,294 @@
+DLL Path: C:\Windows\System32\windows.storage.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AssocCreateForClasses                                                                                0x42f50367                                         
+AssocGetDetailsOfPropKey                                                                             0xe7c9a8c3                                         
+AssocShouldProcessUseAppToAppLaunching                                                               0x62d5d097                                         
+CCachedShellItem_CreateInstance                                                                      0xf32b094f                                         
+CCollectionFactory_CreateInstance                                                                    0xe89a8934                                         
+CDesktopFolder_CreateInstanceWithBindContext                                                         0x62f3d5a4                                         
+CFSFolder_AdjustForSlowColumn                                                                        0xdd408061                                         
+CFSFolder_CreateFolder                                                                               0x44aeb84c                                         
+CFSFolder_IsCommonItem                                                                               0x16aa1570                                         
+CFileOperationRecorder_CreateInstance                                                                0x205dfbf7                                         
+CFreeThreadedItemContainer_CreateInstance                                                            0x6fde69c5                                         
+CMruLongList_CreateInstance                                                                          0x35202d10                                         
+CPrivateProfileCache_Save                                                                            0xc5d62f36                                         
+CRegFolder_CreateAndInit                                                                             0x9ac5ef1c                                         
+CRegFolder_CreateInstance                                                                            0x7b92eb4a                                         
+CShellItemArrayAsCollection_CreateInstance                                                           0x35200956                                         
+CShellItemArrayAsVirtualizedObjectArray_CreateInstance                                               0x90b44b93                                         
+CShellItemArrayWithCommonParent_CreateInstance                                                       0xd5a2dca5                                         
+CShellItemArray_CreateInstance                                                                       0x18dcdc56                                         
+CShellItem_CreateInstance                                                                            0xd7b8b6f7                                         
+CStorageItem_GetValidatedStorageItemObject                                                           0xbd1e7214                                         
+CTaskAddDoc_Create                                                                                   0x2111df2d                                         
+CViewSettings_CreateInstance                                                                         0x01f9713c                                         
+CheckSmartScreenWithAltFile                                                                          0xf0cb60e7                                         
+CopyDefaultLibrariesFromGroupPolicy                                                                  0x2e586bf3                                         
+CreateExtrinsicPropertyStore                                                                         0x86c5b8e4                                         
+CreateItemArrayFromItemStore                                                                         0x02239997                                         
+CreateItemArrayFromObjectArray                                                                       0xa1a19db1                                         
+CreateLocalizationDesktopIni                                                                         0xbd6d711c                                         
+CreateSortColumnArray                                                                                0x9198f50e                                         
+CreateStorageItemFromPath_FullTrustCaller                                                            0x34808285                                         
+CreateStorageItemFromPath_FullTrustCaller_ForPackage                                                 0xaf9eb537                                         
+CreateStorageItemFromPath_PartialTrustCaller                                                         0x784f84df                                         
+CreateStorageItemFromShellItem                                                                       0x25776298                                         
+CreateStorageItemFromShellItem_FullTrustCaller_ForPackage                                            0x34037511                                         
+CreateVolatilePropertyStore                                                                          0x70687e8b                                         
+CustomStatePropertyDescription_CreateWithItemPropertyStore                                           0x85652e5a                                         
+CustomStatePropertyDescription_CreateWithStateIdentifier                                             0xe15619fd                                         
+DataAccessCaches_InvalidateForLibrary                                                                0xa1bb27b4                                         
+DeserializeTextToLink                                                                                0x4b85d76c                                         
+DetermineFolderDestinationParentAppID                                                                0x07750298                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DragQueryFileW                                                                                       0x7758c270                                         
+EnumShellItemsFromEnumFullIdList                                                                     0x73c0e499                                         
+GetCachedFileUpdateInformation                                                                       0xb6fa1666                                         
+GetCommandProviderForFolderType                                                                      0x72915774                                         
+GetFileUndoText                                                                                      0x6f297340                                         
+GetFindDataForPath                                                                                   0x652803b4                                         
+GetFindDataFromFileInformationByHandle                                                               0x21d94bc1                                         
+GetInfoForFileInUse                                                                                  0x914a8abc                                         
+GetRegDataDrivenCommand                                                                              0xd2a16f04                                         
+GetRegDataDrivenCommandWithAssociation                                                               0x77d9773d                                         
+GetSelectionStateFromItemArray                                                                       0x1b5a8eee                                         
+GetSystemPersistedStorageItemList                                                                    0x3007d8dd                                         
+GetSystemPersistedStorageItemListForUser                                                             0x9a325523                                         
+GetThreadFlags                                                                                       0x8f593dca                                         
+GetUserChoiceForUrl                                                                                  0xc58a4e49                                         
+Global_WindowsStorage_MaxIcons                                                                       0xb96a5776                                         
+Global_WindowsStorage_Untyped_FileClassSRWLock                                                       0x2c69cc77                                         
+Global_WindowsStorage_Untyped_MountPoint                                                             0xc198b2b9                                         
+Global_WindowsStorage_Untyped_pFileClassCacheTable                                                   0xc4f7e13e                                         
+Global_WindowsStorage_Untyped_pFileHanderMap                                                         0x19c74bdc                                         
+Global_WindowsStorage_Untyped_rgshil                                                                 0xc1541785                                         
+Global_WindowsStorage_afNotRedirected                                                                0x45ddafa7                                         
+Global_WindowsStorage_ccIcon                                                                         0x828468c3                                         
+Global_WindowsStorage_csIconCache                                                                    0x59ffba27                                         
+Global_WindowsStorage_csSCN                                                                          0x2ac71e0e                                         
+Global_WindowsStorage_dwThreadBindCtx                                                                0x462cfa53                                         
+Global_WindowsStorage_dwThreadInitializing                                                           0x58e4a872                                         
+Global_WindowsStorage_esServerMode                                                                   0x8a4ebf68                                         
+Global_WindowsStorage_fEndInitialized                                                                0x1de67007                                         
+Global_WindowsStorage_fIconCacheHasBeenSuccessfullyCreated                                           0xc768ebea                                         
+Global_WindowsStorage_fIconCacheIsValid                                                              0x852501c3                                         
+Global_WindowsStorage_fNeedsInitBroadcast                                                            0x43764370                                         
+Global_WindowsStorage_hwndSCN                                                                        0x85397829                                         
+Global_WindowsStorage_iLastSysIcon                                                                   0x1562f339                                         
+Global_WindowsStorage_iLastSystemColorDepth                                                          0xcd4b39ca                                         
+Global_WindowsStorage_iUseLinkPrefix                                                                 0xce119ba6                                         
+Global_WindowsStorage_lProcessClassCount                                                             0x40b5c29e                                         
+Global_WindowsStorage_lrFlags                                                                        0xaaa96f3f                                         
+Global_WindowsStorage_nImageManagerVersion                                                           0x13ea54a6                                         
+Global_WindowsStorage_tlsChangeClientProxy                                                           0x4db5710e                                         
+Global_WindowsStorage_tlsIconCache                                                                   0xa5c19be4                                         
+Global_WindowsStorage_tlsThreadFlags                                                                 0x05359b8c                                         
+Global_WindowsStorage_ulNextID                                                                       0x9281cee1                                         
+GrantPathAccess_FullTrustCaller_ForPackage                                                           0x2fa96e59                                         
+GrantWorkingDirectoryAccess_FullTrustCaller_ForPackage                                               0xbaaf79a2                                         
+HideExtension                                                                                        0x7d538fbc                                         
+ILAppendID                                                                                           0xa877e59f                                         
+ILClone                                                                                              0xad5c89ab                                         
+ILCloneFirst                                                                                         0x8daa87d3                                         
+ILCombine                                                                                            0x7d7a7457                                         
+ILFindChild                                                                                          0xe8c4fbbf                                         
+ILFindLastID                                                                                         0x15e9d05c                                         
+ILFree                                                                                               0xb7af35dc                                         
+ILGetNext                                                                                            0x9a837559                                         
+ILGetSize                                                                                            0x9a864475                                         
+ILIsEqual                                                                                            0x51e11a4e                                         
+ILIsParent                                                                                           0xa68a0780                                         
+ILLoadFromStreamEx                                                                                   0x67432cd7                                         
+ILRemoveLastID                                                                                       0x055fe869                                         
+ILSaveToStream                                                                                       0x6b165f98                                         
+IsLFNDriveW                                                                                          0x0db23932                                         
+IsLibraryCreatedByPolicy                                                                             0x6df092f9                                         
+IsLibraryPolicyEnabled                                                                               0xe20f1991                                         
+IsNameListedUnderKey                                                                                 0x3b63b80e                                         
+IsUserAnAdmin                                                                                        0xe04a8df8                                         
+NeverProvidedByJunction                                                                              0xc3b5ae67                                         
+PathCleanupSpec                                                                                      0x2f0a4d65                                         
+PathContainedByManifestedKnownFolder_FullTrustCaller_ForPackage                                      0xf632d5e4                                         
+PathIsExe                                                                                            0xb756ced0                                         
+PathMakeUniqueName                                                                                   0x9e8567c8                                         
+PathYetAnotherMakeUniqueName                                                                         0x36ee754b                                         
+QueryStorageAccess_FullTrustCaller_ForPackage                                                        0xfe9b1c1b                                         
+QueryStorageAccess_FullTrustCaller_ForToken                                                          0x0ea6d750                                         
+RebaseOnDriveLetter                                                                                  0xde3f94de                                         
+RebaseOnVolumeID                                                                                     0x7e481359                                         
+RegistryVerbs_GetHandlerMultiSelectModel                                                             0xb2888439                                         
+SHBindToFolderIDListParent                                                                           0x9e97300f                                         
+SHBindToFolderIDListParentEx                                                                         0xa123792c                                         
+SHBindToObject                                                                                       0xc9693817                                         
+SHBindToParent                                                                                       0xcbb0acaa                                         
+SHCLSIDFromString                                                                                    0xeedfc19a                                         
+SHChangeNotification_Lock                                                                            0x7c59adb5                                         
+SHChangeNotification_Unlock                                                                          0x0e6d51b8                                         
+SHChangeNotify                                                                                       0x530afbdf                                         
+SHChangeNotifyDeregister                                                                             0xcce4f54d                                         
+SHChangeNotifyRegister                                                                               0x3bfd0344                                         
+SHCoCreateInstanceWorker                                                                             0x2e057e15                                         
+SHCreateAssociationRegistration                                                                      0xbcd26b2c                                         
+SHCreateDataObject                                                                                   0x32128765                                         
+SHCreateDefaultExtractIcon                                                                           0x20b6c1fd                                         
+SHCreateDirectory                                                                                    0x96579cc9                                         
+SHCreateDirectoryExA                                                                                 0xe0f18967                                         
+SHCreateDirectoryExW                                                                                 0xe0f1897d                                         
+SHCreateItemFromIDList                                                                               0xd42a5380                                         
+SHCreateItemFromParsingName                                                                          0x5c9ff92c                                         
+SHCreateItemInKnownFolder                                                                            0x39e702e3                                         
+SHCreateItemWithParent                                                                               0x2f599e09                                         
+SHCreateItemWithParentAndChildId                                                                     0x58576ded                                         
+SHCreateShellItemArray                                                                               0x61ce881a                                         
+SHCreateShellItemArrayFromDataObject                                                                 0xb5c9f41f                                         
+SHCreateShellItemArrayFromIDLists                                                                    0x1d00c80a                                         
+SHCreateShellItemArrayFromShellItem                                                                  0xb14a86d5                                         
+SHCreateShellItemArrayWithFolderParent                                                               0xc8011c7c                                         
+SHCreateStdEnumFmtEtc                                                                                0xe00842d7                                         
+SHFileOperationWithAdditionalFlags                                                                   0x360c7433                                         
+SHFindFiles                                                                                          0x0e70ad94                                         
+SHFlushSFCache                                                                                       0xff73042f                                         
+SHGetDesktopFolder                                                                                   0x143c1576                                         
+SHGetFileInfoW                                                                                       0xc6686f43                                         
+SHGetFolderLocation                                                                                  0x4eb19375                                         
+SHGetFolderPathA                                                                                     0xa15ce62a                                         
+SHGetFolderPathAndSubDirA                                                                            0x754ce8a6                                         
+SHGetFolderPathAndSubDirW                                                                            0x754ce8bc                                         
+SHGetFolderPathEx                                                                                    0xccf9ac66                                         
+SHGetFolderPathW                                                                                     0xa15ce640                                         
+SHGetIDListFromObject                                                                                0xf3172634                                         
+SHGetInstanceExplorer                                                                                0xffeb11e6                                         
+SHGetItemFromObject                                                                                  0xee11ad5a                                         
+SHGetKnownFolderIDList                                                                               0xdd734f52                                         
+SHGetKnownFolderIDList_Internal                                                                      0xff72e1ee                                         
+SHGetKnownFolderItem                                                                                 0x26fe90b8                                         
+SHGetKnownFolderPath                                                                                 0x27021876                                         
+SHGetNameFromIDList                                                                                  0x7ecc26be                                         
+SHGetPathFromIDListEx                                                                                0x07b9d347                                         
+SHGetPathFromIDListW                                                                                 0x5d533501                                         
+SHGetSetSettings                                                                                     0x3966e13d                                         
+SHGetSpecialFolderLocation                                                                           0xca60a236                                         
+SHGetSpecialFolderPathA                                                                              0x05f3848b                                         
+SHGetSpecialFolderPathW                                                                              0x05f384a1                                         
+SHGetStockIconInfo                                                                                   0xafec7919                                         
+SHGetTemporaryPropertyForItem                                                                        0xba44171e                                         
+SHILCreateFromPath                                                                                   0x39de600a                                         
+SHKnownFolderFromCSIDL                                                                               0xa2755fcc                                         
+SHKnownFolderToCSIDL                                                                                 0x4dfdeffb                                         
+SHParseDisplayName                                                                                   0x1050c552                                         
+SHPrepareKnownFoldersCommon                                                                          0x0d8a1154                                         
+SHPrepareKnownFoldersUser                                                                            0x19345faa                                         
+SHResolveLibrary                                                                                     0x2ce3f555                                         
+SHRestricted                                                                                         0x0e9ea8b9                                         
+SHSetFolderPathA                                                                                     0x685f99b6                                         
+SHSetFolderPathW                                                                                     0x685f99cc                                         
+SHSetKnownFolderPath                                                                                 0x500bb202                                         
+SHSetLocalizedName                                                                                   0xa8cf0784                                         
+SHSetTemporaryPropertyForItem                                                                        0xa3f12e2a                                         
+SHSysErrorMessageBox                                                                                 0xcff8cd77                                         
+SHTestTokenMembership                                                                                0xc6ef3f2d                                         
+STORAGE_AddItemToRecentDocs                                                                          0x928fec5e                                         
+STORAGE_AddNewFolderToFrequentPlaces                                                                 0x1f9ea3cd                                         
+STORAGE_CEnumFiles_CreateInstance                                                                    0x3422166c                                         
+STORAGE_CStatusProvider_CreateInstance                                                               0x270226f3                                         
+STORAGE_CStorageItem_GetValidatedStorageItem                                                         0x9b6be471                                         
+STORAGE_CStorageItem_GetValidatedStorageItemObject                                                   0xd7ac7b48                                         
+STORAGE_ClearDestinationsForAllApps                                                                  0x1984a249                                         
+STORAGE_CreateSortColumnArrayFromListDesc                                                            0xedcc0251                                         
+STORAGE_CreateStorageItemFromPath_FullTrustCaller                                                    0x5c183539                                         
+STORAGE_CreateStorageItemFromPath_FullTrustCaller_ForPackage                                         0x2ce0cf6b                                         
+STORAGE_CreateStorageItemFromPath_PartialTrustCaller                                                 0x6e84ab13                                         
+STORAGE_CreateStorageItemFromShellItem_FullTrustCaller                                               0xfc27c9d3                                         
+STORAGE_CreateStorageItemFromShellItem_FullTrustCaller_ForPackage                                    0x69f20fc5                                         
+STORAGE_CreateStorageItemFromShellItem_FullTrustCaller_ForPackage_WithProcessHandle                  0xe0812aeb                                         
+STORAGE_CreateStorageItemFromShellItem_FullTrustCaller_ForPackage_WithProcessHandleAndSecondaryStreamName 0x4bfa5c13                                         
+STORAGE_CreateStorageItemFromShellItem_FullTrustCaller_UseImplicitFlagsAndPackage                    0xdf91d286                                         
+STORAGE_FillResultWithNullForKeys                                                                    0xa976b659                                         
+STORAGE_GetShellItemFromStorageItem                                                                  0x988985b8                                         
+STORAGE_GetSystemPersistedStorageItemList                                                            0x32c21791                                         
+STORAGE_MakeDestinationItem                                                                          0x2ece4fa8                                         
+STORAGE_PathIsEqualOrSubFolderOfKnownFolders                                                         0xbc241272                                         
+STORAGE_SHAddToRecentDocs                                                                            0xc070122a                                         
+STORAGE_SHAddToRecentDocsEx                                                                          0x9cbd4e07                                         
+STORAGE_SHConfirmOperation                                                                           0xcc0ac233                                         
+STORAGE_SHCreateDirectory                                                                            0x4ff2f37d                                         
+STORAGE_SHCreateDirectoryExA                                                                         0x2837d39b                                         
+STORAGE_SHCreateDirectoryExWWorker                                                                   0x8197daeb                                         
+STORAGE_SHCreateShellItemArray                                                                       0x93d02f4e                                         
+STORAGE_SHCreateShellItemArrayFromDataObject                                                         0x98a62653                                         
+STORAGE_SHCreateShellItemArrayFromIDLists                                                            0x1fbb06be                                         
+STORAGE_SHCreateShellItemArrayFromShellItem                                                          0x4b8f4289                                         
+STORAGE_SHFileOperation                                                                              0x2b187a45                                         
+STORAGE_SHFileOperationA                                                                             0x8e27c326                                         
+STORAGE_SHFreeNameMappings                                                                           0xef345d16                                         
+STORAGE_SHGetDesktopFolderWorker                                                                     0xdfa1e0a4                                         
+STORAGE_SHGetPathFromMsUri                                                                           0x512abca5                                         
+STORAGE_SHPathPrepareForWriteA                                                                       0x615d3f23                                         
+STORAGE_SHPathPrepareForWriteW                                                                       0x615d3f39                                         
+STORAGE_SHValidateMSUri                                                                              0xc2cc5f8e                                         
+SendNotificationsForLibraryItem                                                                      0x3ef4b7f4                                         
+SerializeLinkToText                                                                                  0xb3a98643                                         
+SetThreadFlags                                                                                       0x565bf156                                         
+ShellExecuteExW                                                                                      0x9aefa304                                         
+StateRepoVerbsCache_Destroy                                                                          0xb9c09bbb                                         
+StateRepoVerbsCache_GetContextMenuVerbs                                                              0x8ea0f56d                                         
+StateRepoVerbsCache_RebuildCacheAsync                                                                0x5951f0ea                                         
+StorageItemHelpers_IsSupportedRemovablePath                                                          0x46457907                                         
+Storage_Internal_GetAccessListForPackage                                                             0x52642016                                         
+_CleanRecentDocs                                                                                     0x3075b671                                         
+_PredictReasonableImpact                                                                             0x78a83169                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\softpub.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddPersonalTrustDBPages                                                                              0x2e99366a                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DriverCleanupPolicy                                                                                  0xe6f07e69                                         
+DriverFinalPolicy                                                                                    0x3be8760b                                         
+DriverInitializePolicy                                                                               0x299ac9f3                                         
+FindCertsByIssuer                                                                                    0x8e2a323d                                         
+GenericChainCertificateTrust                                                                         0x45d9c68a                                         
+GenericChainFinalProv                                                                                0x58655c96                                         
+HTTPSCertificateTrust                                                                                0x6d4d88bd                                         
+HTTPSFinalProv                                                                                       0x8c878229                                         
+OfficeCleanupPolicy                                                                                  0xb736ee89                                         
+OfficeInitializePolicy                                                                               0x999cc613                                         
+OpenPersonalTrustDBDialog                                                                            0xaab52dd3                                         
+SoftpubAuthenticode                                                                                  0x9f15f945                                         
+SoftpubCheckCert                                                                                     0xc0395734                                         
+SoftpubCleanup                                                                                       0x36df8990                                         
+SoftpubDefCertInit                                                                                   0xba28bc79                                         
+SoftpubDumpStructure                                                                                 0xc595542f                                         
+SoftpubFreeDefUsageCallData                                                                          0xa49da6c4                                         
+SoftpubInitialize                                                                                    0x65abe63a                                         
+SoftpubLoadDefUsageCallData                                                                          0x0fc71fc2                                         
+SoftpubLoadMessage                                                                                   0xe5c2434d                                         
+SoftpubLoadSignature                                                                                 0x23f513fa                                         

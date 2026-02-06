@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\Storprop.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AtaPropPageProvider                                                                                  0x237b6604                                         
+CdromDisableDigitalPlayback                                                                          0xccfed9b3                                         
+CdromEnableDigitalPlayback                                                                           0x26ef6da6                                         
+CdromIsDigitalPlaybackEnabled                                                                        0x67e152c6                                         
+CdromKnownGoodDigitalPlayback                                                                        0x858db875                                         
+CdromSetDefaultDvdRegion                                                                             0x28731ead                                         
+DiskClassInstaller                                                                                   0x3c00d2d4                                         
+DiskPropPageProvider                                                                                 0x40ac0079                                         
+DvdClassInstaller                                                                                    0x8ae194a7                                         
+DvdLauncher                                                                                          0x1ccb5915                                         
+DvdPropPageProvider                                                                                  0xcac4830c                                         
+HdcCoInstaller                                                                                       0xb3691f94                                         

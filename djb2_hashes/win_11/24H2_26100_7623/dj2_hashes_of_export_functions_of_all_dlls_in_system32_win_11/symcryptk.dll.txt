@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\symcryptk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SymCryptDeprecatedServiceIndicator                                                                   0x65cfdc4f                                         
+SymCryptDeprecatedStatusIndicator                                                                    0x051161e2                                         
+SymCryptEntropyAccumulatorAccumulateSample                                                           0x02ee87c7                                         
+SymCryptEntropyAccumulatorGlobalInitFromRegistry                                                     0x2f4200d3                                         
+SymCryptEntropyAccumulatorGlobalSetCallbackProvideEntropyFn                                          0x5f7077e9                                         
+SymCryptEntropyAccumulatorInit0                                                                      0xc6d5ca25                                         
+SymCryptEntropyAccumulatorInit1                                                                      0xc6d5ca26                                         
+SymCryptFipsGetSelftestsPerformed                                                                    0xab839523                                         
+SymCryptModuleInit                                                                                   0xda95802a                                         

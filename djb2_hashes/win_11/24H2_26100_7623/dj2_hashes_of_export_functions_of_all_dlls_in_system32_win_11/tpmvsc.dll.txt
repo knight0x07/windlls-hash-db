@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\tpmvsc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+TpmVCardCreate                                                                                       0xf95d9f9a                                         
+TpmVCardCreateInProc                                                                                 0x379e5a65                                         
+TpmVCardDestroy                                                                                      0x54c07af0                                         
+TpmVCardDestroyInProc                                                                                0x0289de3b                                         
+VCardAuthenticatePin                                                                                 0x00aec89b                                         
+VCardChangePin                                                                                       0xe7b1c5a2                                         
+VCardClose                                                                                           0xc86a53cb                                         
+VCardCloseChannel                                                                                    0xbc92a544                                         
+VCardCreateClaim                                                                                     0x7e08a90f                                         
+VCardCreateKey                                                                                       0x38c52212                                         
+VCardDeauthenticate                                                                                  0xdd0ffadd                                         
+VCardDecrypt                                                                                         0xc81b4470                                         
+VCardDeinitialize                                                                                    0x589063d0                                         
+VCardDeleteKey                                                                                       0xd2160f71                                         
+VCardEncrypt                                                                                         0x2a13eeda                                         
+VCardExportRsaPubKey                                                                                 0x372caf4d                                         
+VCardGetAikCertificate                                                                               0xb3bf842d                                         
+VCardGetAikContainerName                                                                             0x1d4e536e                                         
+VCardGetChallenge                                                                                    0xebe62998                                         
+VCardGetKeyType                                                                                      0x900df8c0                                         
+VCardGetPinLength                                                                                    0x600fe4fe                                         
+VCardGetRemainingRetryCount                                                                          0x2edc2e8e                                         
+VCardGetTransportKeyAlg                                                                              0xb92da65f                                         
+VCardImportRsaKey                                                                                    0x22e64dbf                                         
+VCardImportSymKey                                                                                    0x25ae9df2                                         
+VCardInitialize                                                                                      0xe571e607                                         
+VCardInvalidateChallenge                                                                             0x035fb9f9                                         
+VCardOpen                                                                                            0x252122e7                                         
+VCardOpenChannel                                                                                     0x02dddce0                                         
+VCardResetPin                                                                                        0xdb817b3f                                         
+VCardSetResponse                                                                                     0x3be89a30                                         
+VCardSignHash                                                                                        0xe039610a                                         
+VCardUnblockPin                                                                                      0x4674274a                                         

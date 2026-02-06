@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\WINSRPC.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WinsABind                                                                                            0x93ecd484                                         
+WinsAllocMem                                                                                         0x391508b0                                         
+WinsBackup                                                                                           0x160a30dc                                         
+WinsCheckAccess                                                                                      0x2576adb6                                         
+WinsDelDbRecs                                                                                        0xdf01710e                                         
+WinsDeleteWins                                                                                       0xd6be809a                                         
+WinsDoScavenging                                                                                     0x1cb9123e                                         
+WinsDoScavengingNew                                                                                  0x181b2ac8                                         
+WinsDoStaticInit                                                                                     0x47855015                                         
+WinsFreeMem                                                                                          0x33012da7                                         
+WinsGetBrowserNames                                                                                  0xa2fbad5e                                         
+WinsGetDbRecs                                                                                        0xa448aa19                                         
+WinsGetDbRecsByName                                                                                  0x0dbe97f5                                         
+WinsGetNameAndAdd                                                                                    0xddbed463                                         
+WinsPullRange                                                                                        0x75293cb0                                         
+WinsRecordAction                                                                                     0x3cf4b163                                         
+WinsResetCounters                                                                                    0x7bf6091c                                         
+WinsRestore                                                                                          0xb16f198a                                         
+WinsRestoreEx                                                                                        0xc99bad67                                         
+WinsSetFlags                                                                                         0xcaa6f45f                                         
+WinsSetPriorityClass                                                                                 0xe44e8f2a                                         
+WinsStatus                                                                                           0x3f08c2aa                                         
+WinsStatusNew                                                                                        0xacc813b4                                         
+WinsStatusWHdl                                                                                       0x45cefc39                                         
+WinsSyncUp                                                                                           0x3f6a11a8                                         
+WinsTerm                                                                                             0x619dd15e                                         
+WinsTombstoneDbRecs                                                                                  0x1f6a05b4                                         
+WinsTrigger                                                                                          0x68fa699a                                         
+WinsUBind                                                                                            0x9556be98                                         
+WinsUnbind                                                                                           0x4346dd86                                         
+WinsWorkerThdUpd                                                                                     0x34fc3c49                                         

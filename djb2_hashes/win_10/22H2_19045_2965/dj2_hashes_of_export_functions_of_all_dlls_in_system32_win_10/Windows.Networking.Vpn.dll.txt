@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\Windows.Networking.Vpn.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+LaunchStoreForPluginW                                                                                0x2d90ca3a                                         
+VpnClientGetCostedNetworkSettings                                                                    0x826c2fd5                                         
+VpnClientGetProxyForUrlAndSingleSessionDeviceUser                                                    0xd0538abc                                         
+VpnClientPluginGetSecurity                                                                           0x2599c2df                                         
+VpnClientPluginInstall                                                                               0x1bbd155e                                         
+VpnClientPluginManifestFind                                                                          0x5522965f                                         
+VpnClientPluginUninstall                                                                             0x66b1d941                                         
+VpnClientSetCostedNetworkSettings                                                                    0x355dc261                                         
+VpnPluginEnumerate                                                                                   0x636d054e                                         
+VpnPluginListFree                                                                                    0xd4a88926                                         

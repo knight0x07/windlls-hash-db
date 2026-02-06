@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\d2d1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+D2D1ComputeMaximumScaleFactor                                                                        0x96d6b792                                         
+D2D1ConvertColorSpace                                                                                0xbd1bf6dc                                         
+D2D1CreateDevice                                                                                     0xcefcbdf4                                         
+D2D1CreateDeviceContext                                                                              0x94d768b9                                         
+D2D1CreateFactory                                                                                    0x3de2bf3c                                         
+D2D1GetGradientMeshInteriorPointsFromCoonsPatch                                                      0x6c3ab83a                                         
+D2D1InvertMatrix                                                                                     0xb4be7ffd                                         
+D2D1IsMatrixInvertible                                                                               0x686ce915                                         
+D2D1MakeRotateMatrix                                                                                 0x03367ad2                                         
+D2D1MakeSkewMatrix                                                                                   0x7af5a83d                                         
+D2D1SinCos                                                                                           0x4f72617f                                         
+D2D1Tan                                                                                              0xefc48333                                         
+D2D1Vec3Length                                                                                       0x8e0738c3                                         

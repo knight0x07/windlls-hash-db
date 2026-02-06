@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\NtlmShared.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MsvpCachePasswordsToCredential                                                                       0x953ad8e3                                         
+MsvpCalculateNtlm2Challenge                                                                          0xf906f349                                         
+MsvpCalculateNtlm2SessionKeys                                                                        0x771ee3e6                                         
+MsvpCalculateNtlm3Owf                                                                                0x1fc910f3                                         
+MsvpCompareCredentials                                                                               0xc3ad95e0                                         
+MsvpComputeSaltedHashedPassword                                                                      0xd0a6c225                                         
+MsvpCredentialToCachePasswords                                                                       0x01eca163                                         
+MsvpDecryptDpapiMasterKey                                                                            0x64fc9be9                                         
+MsvpDeriveSecureCredKey                                                                              0x50766438                                         
+MsvpGMSACred                                                                                         0x41ad01b1                                         
+MsvpLm20GetNtlm3ChallengeResponse                                                                    0xd9507246                                         
+MsvpLm3Response                                                                                      0xf8cd5466                                         
+MsvpLm3ValidateResponse                                                                              0xd1eda0d0                                         
+MsvpMakeSecretPasswordNT5                                                                            0x75ffe179                                         
+MsvpNtlm3Response                                                                                    0xfb870888                                         
+MsvpNtlm3ValidateResponse                                                                            0x75a256f2                                         
+MsvpPasswordValidate                                                                                 0xdf948c08                                         
+MsvpPutClearOwfsInPrimaryCredential                                                                  0x06faeac0                                         
+MsvpUpdateSharedConfiguration                                                                        0x8a6de0dd                                         
+MsvpValidateSupplementalCreds                                                                        0x0b934f60                                         
+MsvpValidateSupplementalCredsBuffer                                                                  0xe6dcb1da                                         
+NtLmAlterRtlEqualUnicodeString                                                                       0x87357dc0                                         
+NtlmSharedAllocate                                                                                   0x16f14b7c                                         
+NtlmSharedAllocatePrivateHeap                                                                        0xa851b2f5                                         
+NtlmSharedCleanup                                                                                    0x3547163f                                         
+NtlmSharedFree                                                                                       0xe15b04f9                                         
+NtlmSharedFreePrivateHeap                                                                            0x446a6452                                         
+NtlmSharedInit                                                                                       0xe15c99ab                                         

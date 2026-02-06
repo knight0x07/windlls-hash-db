@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\UnionFSApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateFileSystemUnion                                                                                0x81951da7                                         
+EnumerateFileSystemUnions                                                                            0x057ffbcc                                         
+GetFileSystemUnionInformation                                                                        0xbe35ea79                                         
+MigrateFileSystemUnion                                                                               0x2c5236fc                                         
+RemoveFileSystemUnion                                                                                0x95174421                                         
+RestoreFileSystemUnion                                                                               0xf888d4f7                                         

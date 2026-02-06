@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_f21a18a53fedc854\WoV\Service\MultichannelWoVCfg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0IMultiChannelWoVConfigsPack@IntelMultichannelWovCfgAPI@@QEAA@AEBV01@@Z                            0x757620fb                                         
+??0IMultiChannelWoVConfigsPack@IntelMultichannelWovCfgAPI@@QEAA@XZ                                   0x4ab86d94                                         
+??1IMultiChannelWoVConfigsPack@IntelMultichannelWovCfgAPI@@UEAA@XZ                                   0x575f6c79                                         
+??4IMultiChannelWoVConfigsPack@IntelMultichannelWovCfgAPI@@QEAAAEAV01@AEBV01@@Z                      0xc898227d                                         
+??4MultiChannelWoVConfigsPackDeserializer@IntelMultichannelWovCfgAPI@@QEAAAEAV01@$$QEAV01@@Z         0x53dd170e                                         
+??4MultiChannelWoVConfigsPackDeserializer@IntelMultichannelWovCfgAPI@@QEAAAEAV01@AEBV01@@Z           0xfaea9e77                                         
+??_7IMultiChannelWoVConfigsPack@IntelMultichannelWovCfgAPI@@6B@                                      0xf5a1fe28                                         
+?DeserializePack@MultiChannelWoVConfigsPackDeserializer@IntelMultichannelWovCfgAPI@@SA?AW4EMCWCfgSerializerStatusCode@2@QEAEIAEAV?$unique_ptr@VIMultiChannelWoVConfigsPack@IntelMultichannelWovCfgAPI@@U?$default_delete@VIMultiChannelWoVConfigsPack@IntelMultichannelWovCfgAPI@@@std@@@std@@@Z 0xf84dc775                                         
+?GetApiVersion@IntelMultichannelWovCfgAPI@@YAPEBDXZ                                                  0x38e28631                                         
+?GetBuildVersion@IntelMultichannelWovCfgAPI@@YAPEBDXZ                                                0x1f9bab67                                         
+?GetConfig@IMultiChannelWoVConfigsPack@IntelMultichannelWovCfgAPI@@UEAA?AW4EMCWCfgSerializerStatusCode@2@W4ConfigType@2@AEAV?$unique_ptr@VIMultiChannelWoVConfig@@UMultiChannelWoVConfigDeleter@IntelMultichannelWovCfgAPI@@@std@@@Z 0xb416a950                                         
+?ReleaseInstance@IntelMultichannelWovCfgAPI@@YAXPEAVIMultiChannelWoVConfig@@@Z                       0x040530f7                                         
+?Serialize@IntelMultichannelWovCfgAPI@@YA?AW4EMCWCfgSerializerStatusCode@1@PEAPEAVIMultiChannelWoVConfig@@PEAW4ConfigType@1@IPEAEAEAI@Z 0x7f3af276                                         
+?doDeserializePack@MultiChannelWoVConfigsPackDeserializer@IntelMultichannelWovCfgAPI@@CAPEAVIMultiChannelWoVConfigsPack@2@QEAEIAEAW4EMCWCfgSerializerStatusCode@2@@Z 0x5de7be63                                         

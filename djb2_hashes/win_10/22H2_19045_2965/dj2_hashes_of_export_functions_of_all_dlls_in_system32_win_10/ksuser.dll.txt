@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\ksuser.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+KsCreateAllocator                                                                                    0xbd31e898                                         
+KsCreateAllocator2                                                                                   0x636efbca                                         
+KsCreateClock                                                                                        0xab1e76e3                                         
+KsCreateClock2                                                                                       0x0eed5375                                         
+KsCreatePin                                                                                          0xc99eaf5e                                         
+KsCreatePin2                                                                                         0xfd749b50                                         
+KsCreateTopologyNode                                                                                 0xa3bc6f3a                                         
+KsCreateTopologyNode2                                                                                0x1b4a56ac                                         

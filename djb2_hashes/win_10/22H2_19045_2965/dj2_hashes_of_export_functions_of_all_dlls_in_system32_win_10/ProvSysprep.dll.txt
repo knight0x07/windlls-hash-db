@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\ProvSysprep.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ProvPackageSysprepGeneralize                                                                         0x987910b4                                         
+ProvPackageSysprepSpecialize                                                                         0xcd0d5637                                         
+ProvPackageSysprepSpecializeOffline                                                                  0x92af0b9a                                         

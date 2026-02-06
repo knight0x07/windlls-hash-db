@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\lz32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CopyLZFile                                                                                           0x3d4790a6                                         
+GetExpandedNameA                                                                                     0x40fb1c10                                         
+GetExpandedNameW                                                                                     0x40fb1c26                                         
+LZClose                                                                                              0xb4f37961                                         
+LZCloseFile                                                                                          0x8b0b7161                                         
+LZCopy                                                                                               0xbfaa5666                                         
+LZCreateFileW                                                                                        0x32edf9b6                                         
+LZDone                                                                                               0xbfaae271                                         
+LZInit                                                                                               0xbfad9b7f                                         
+LZOpenFileA                                                                                          0xa25a2b9e                                         
+LZOpenFileW                                                                                          0xa25a2bb4                                         
+LZRead                                                                                               0xbfb26387                                         
+LZSeek                                                                                               0xbfb2f073                                         
+LZStart                                                                                              0xb61928d9                                         

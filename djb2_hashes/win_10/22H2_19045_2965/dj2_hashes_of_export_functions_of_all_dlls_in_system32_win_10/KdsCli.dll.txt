@@ -1,0 +1,53 @@
+DLL Path: C:\Windows\System32\KdsCli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateRootKey                                                                                        0xd658b486                                         
+DeleteAllCachedKeys                                                                                  0x16afcbe5                                         
+FindAndReadSIDKeyInCache                                                                             0x949b61a9                                         
+FindKeyForOfflineUsage                                                                               0xc60d190e                                         
+FreeRootKey                                                                                          0x0db72694                                         
+FreeRootKeyConfig                                                                                    0x8507192a                                         
+FreeRootKeyMetaDataList                                                                              0xa7338f31                                         
+FreeServerConfig                                                                                     0x974c1574                                         
+GenerateDerivedKey                                                                                   0x2cb300dc                                         
+GenerateEphemeralKeyPair                                                                             0x68291718                                         
+GenerateKDFContext                                                                                   0x2cd4c38a                                         
+GenerateSIDPublicKeyBlob                                                                             0x902c8197                                         
+GenerateSecretAgreementPrivateKey                                                                    0xd6991b12                                         
+GetAllRootKeys                                                                                       0xc85b0f3e                                         
+GetAllRootKeysMetaData                                                                               0xf83d149f                                         
+GetAndLockCachedRPCBinding                                                                           0x8a8b5ff9                                         
+GetCachedMachineDomainInfo                                                                           0x7d5653b6                                         
+GetCurrentIntervalID                                                                                 0x832dedba                                         
+GetCurrentL0ID                                                                                       0x367cf271                                         
+GetCurrentTimeInULL                                                                                  0x9018993b                                         
+GetDCInfo                                                                                            0xfb8183d8                                         
+GetDCInfoBySamAccountName                                                                            0xd788ce22                                         
+GetDefaultServerConfig                                                                               0x568e2757                                         
+GetFullDCName                                                                                        0x4eff5aa0                                         
+GetIntervalStartTime                                                                                 0x9cebb127                                         
+GetKDSSrvConfigPath                                                                                  0x9ffcf6a5                                         
+GetKdsKeyCycleDuration                                                                               0x87898ec6                                         
+GetKey                                                                                               0xb4e1dcce                                         
+GetLdapBinding                                                                                       0x7b05f7a1                                         
+GetMRKPath                                                                                           0x438f2c7c                                         
+GetRootKey                                                                                           0x0ab6c6d2                                         
+GetSIDKeyCacheFolder                                                                                 0xb33464de                                         
+GetSIDKeyFileName                                                                                    0xc096138f                                         
+GetServerConfig                                                                                      0x55af8c72                                         
+GetUserSidStr                                                                                        0x206e6e3d                                         
+KdsCreateClientBinding                                                                               0x2a836c55                                         
+KdsGetEpochLength                                                                                    0x1cd7e6b8                                         
+KdsGetGmsaPasswordBasedOnKeyId                                                                       0xddf95bd4                                         
+KdsGetGmsaPasswordBasedOnTimestamp                                                                   0x2078c192                                         
+KdsGetKeyStartTime                                                                                   0x8581c00d                                         
+SIDKeyProtect                                                                                        0x7a58f30f                                         
+SIDKeyProvAlloc                                                                                      0x7685ae00                                         
+SIDKeyProvFree                                                                                       0xc58ac477                                         
+SIDKeyUnprotect                                                                                      0x52d6d4b2                                         
+SetServerConfig                                                                                      0xfd08b17e                                         
+TestServerConfig                                                                                     0xdba84a52                                         
+UnlockRpcCache                                                                                       0xd3f9512a                                         
+ValidateSrvConfig                                                                                    0x48efd660                                         
+WriteSIDKeyInCache                                                                                   0xf1bf3c04                                         

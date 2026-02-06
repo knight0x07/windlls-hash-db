@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\bootsvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BfsCheckSystemPartition                                                                              0x69e2f57d                                         
+BfsCleanupBcdStore                                                                                   0x10c8b75e                                         
+BfsCreateOfflineBootstat                                                                             0x730240c7                                         
+BfsGetVolumeName                                                                                     0x0e683879                                         
+BfsInitializeBcdStore                                                                                0x43f63308                                         
+BfsInitializeSystemVolume                                                                            0x2f0419ef                                         
+BfsIsBitLockerDisabled                                                                               0xa8fe1b93                                         
+BfsIsBitLockerResealNeeded                                                                           0x33286d9c                                         
+BfsMigrateLoaderSettings                                                                             0x0b21e471                                         
+BfsRedirectLogging                                                                                   0x7b560659                                         
+BfsReflectCurrentHypervisorLaunchType                                                                0x5592be20                                         
+BfsRegisterLogCallback                                                                               0x157711d4                                         
+BfsRepairSystemPartition                                                                             0x25e88262                                         
+BfsResealAndResumeBitLocker                                                                          0x1e0100bf                                         
+BfsResealBitLockerWithRetry                                                                          0x65a96c4d                                         
+BfsServiceBootFiles                                                                                  0x251ff0d8                                         
+BfsServiceBootFilesEx                                                                                0xecdf9035                                         
+BfsUnregisterLogCallback                                                                             0xeee24477                                         
+BfsValidateBcdStore                                                                                  0x33c61340                                         
+BsdSummarize                                                                                         0xfe7fa85b                                         

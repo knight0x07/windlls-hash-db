@@ -1,0 +1,52 @@
+DLL Path: C:\Windows\System32\cldapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CfAbortOperation                                                                                     0x9c6923d7                                         
+CfCloseAppPolicy                                                                                     0x16fa25d5                                         
+CfCloseHandle                                                                                        0x00d908b0                                         
+CfConnectSyncRoot                                                                                    0x4cd2e919                                         
+CfConvertToPlaceholder                                                                               0x98412c75                                         
+CfCreatePlaceholders                                                                                 0xc239db58                                         
+CfDehydratePlaceholder                                                                               0x304f530b                                         
+CfDehydratePlaceholderEx                                                                             0x81704b28                                         
+CfDisconnectSyncRoot                                                                                 0x728425b9                                         
+CfEnumAppPolicy                                                                                      0x6a0ef274                                         
+CfExecute                                                                                            0x6fa25081                                         
+CfGetCorrelationVector                                                                               0x2606fc43                                         
+CfGetLastSyncStatus                                                                                  0x680c4123                                         
+CfGetPlaceholderInfo                                                                                 0x86f754dd                                         
+CfGetPlaceholderRangeInfo                                                                            0xe3ae45aa                                         
+CfGetPlaceholderStateFromAttributeTag                                                                0xa67e42f6                                         
+CfGetPlaceholderStateFromFileInfo                                                                    0xb7112972                                         
+CfGetPlaceholderStateFromFindData                                                                    0xbba66ec1                                         
+CfGetPlatformInfo                                                                                    0xd7b889df                                         
+CfGetSyncRootInfoByHandle                                                                            0x56ca67c2                                         
+CfGetSyncRootInfoByPath                                                                              0xd4d7ad03                                         
+CfGetTransferKey                                                                                     0xac0a88dc                                         
+CfGetWin32HandleFromProtectedHandle                                                                  0xcfcdbd77                                         
+CfHydratePlaceholder                                                                                 0x5ab67a02                                         
+CfLockProperties                                                                                     0xdff42504                                         
+CfOpenAppPolicy                                                                                      0x93eb4951                                         
+CfOpenFileWithOplock                                                                                 0x7d3b9e04                                         
+CfOpenProgressEvent                                                                                  0xab870917                                         
+CfQueryProgress                                                                                      0x0c496c19                                         
+CfQuerySyncProviderStatus                                                                            0x78e77f50                                         
+CfReferenceProtectedHandle                                                                           0xad53b933                                         
+CfRegisterSyncRoot                                                                                   0xd09805f4                                         
+CfReleaseProtectedHandle                                                                             0xd135d105                                         
+CfReleaseTransferKey                                                                                 0x7b11079d                                         
+CfReportProviderProgress                                                                             0x24a11b4a                                         
+CfReportProviderProgress2                                                                            0xb8c484bc                                         
+CfReportSyncStatus                                                                                   0x877aad6b                                         
+CfRetrieveProperties                                                                                 0xfc4255c1                                         
+CfRevertPlaceholder                                                                                  0x999c79e9                                         
+CfSetAppPolicy                                                                                       0xdfea238b                                         
+CfSetCorrelationVector                                                                               0xb7dd28cf                                         
+CfSetInSyncState                                                                                     0xe6c63b2f                                         
+CfSetPinState                                                                                        0xbf5b6182                                         
+CfStoreProperties                                                                                    0x95806ea8                                         
+CfUnlockProperties                                                                                   0xb16a4147                                         
+CfUnregisterSyncRoot                                                                                 0xd8063ef7                                         
+CfUpdatePlaceholder                                                                                  0x30e7bcd4                                         
+CfUpdateSyncProviderStatus                                                                           0x48cd241d                                         

@@ -1,0 +1,57 @@
+DLL Path: C:\Windows\System32\wdi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ServiceMain                                                                                          0x0747703b                                         
+WdiAddFileToInstance                                                                                 0xfbaba46a                                         
+WdiAddParameter                                                                                      0x01155453                                         
+WdiCancel                                                                                            0x0823f44f                                         
+WdiCloseInstance                                                                                     0x85a65cb4                                         
+WdiCreateInstance                                                                                    0x1f756792                                         
+WdiDeleteQueuedResolution                                                                            0xacded219                                         
+WdiDiagnose                                                                                          0xd7005c33                                         
+WdiGetClientActivityId                                                                               0x2975a002                                         
+WdiGetClientLCID                                                                                     0x3c6ed004                                         
+WdiGetDiagnosticModuleId                                                                             0x400cad21                                         
+WdiGetEvent                                                                                          0x91cbe28b                                         
+WdiGetInstanceFilePath                                                                               0xfaab01ab                                         
+WdiGetInstanceId                                                                                     0xdc30832b                                         
+WdiGetLoggerSnapshotPath                                                                             0xdfcd7c26                                         
+WdiGetParameterByIndex                                                                               0xc3a463dd                                         
+WdiGetParameterByName                                                                                0x5b459286                                         
+WdiGetParameterCount                                                                                 0x5fe89653                                         
+WdiGetParameterData                                                                                  0x1a2e26a4                                         
+WdiGetParameterDataLength                                                                            0xb2ab6386                                         
+WdiGetParameterDiagnosticModuleId                                                                    0x6af05a22                                         
+WdiGetParameterFlags                                                                                 0x601ce4b7                                         
+WdiGetParameterName                                                                                  0x1a33a18b                                         
+WdiGetProgress                                                                                       0xc7e59c3e                                         
+WdiGetQueuedResolutionAudience                                                                       0xf5035724                                         
+WdiGetQueuedResolutionExpirationDate                                                                 0xa8f95847                                         
+WdiGetQueuedResolutionId                                                                             0xe68adbf3                                         
+WdiGetQueuedResolutionName                                                                           0xb4b46447                                         
+WdiGetQueuedResolutionPriority                                                                       0xf20d8628                                         
+WdiGetResult                                                                                         0xe86f6e08                                         
+WdiGetScenarioIcon                                                                                   0x28022666                                         
+WdiGetScenarioInfo                                                                                   0x28025409                                         
+WdiGetScenarioInstanceCreatedDate                                                                    0x5bcda448                                         
+WdiGetScenarioInstanceFilePath                                                                       0x52b238df                                         
+WdiGetScenarioInstanceId                                                                             0xdcbb635f                                         
+WdiGetScenarioInstances                                                                              0x7b0d6fc5                                         
+WdiGetScenarioSourceName                                                                             0xbc2c944f                                         
+WdiGetScenarioTypeName                                                                               0xd60f0460                                         
+WdiImpersonateClient                                                                                 0xbf1a2aef                                         
+WdiIsQueuedResolutionAdmin                                                                           0x04b2af6b                                         
+WdiLaunchQueuedResolution                                                                            0x4c30d8a1                                         
+WdiOpenInstance                                                                                      0x69c11150                                         
+WdiQueueCurrentResolution                                                                            0x7d155ba5                                         
+WdiResolve                                                                                           0x9901de89                                         
+WdiRevertToSelf                                                                                      0xc9a955ee                                         
+WdiSetFeedback                                                                                       0xcd63fbba                                         
+WdiSetProblemDetectionResult                                                                         0x2ca87c64                                         
+WdiSetProgress                                                                                       0x083e1b4a                                         
+WdiSetResolution                                                                                     0x39f1b969                                         
+WdipLaunchLocalHost                                                                                  0x08119ddd                                         
+WdipLaunchRunDLLUserHost                                                                             0x6dfac962                                         

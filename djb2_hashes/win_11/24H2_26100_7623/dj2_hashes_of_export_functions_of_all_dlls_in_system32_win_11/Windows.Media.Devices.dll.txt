@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\Windows.Media.Devices.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Create_SpatialAudioConfigureDevice                                                                   0x0aef820a                                         
+Create_SpatialAudioDevicePropertyReader                                                              0x1de921e0                                         
+Create_SpatialAudioDeviceStateReader                                                                 0xa361c87c                                         
+Create_SpatialAudioEncoderProperties                                                                 0x686d7f85                                         
+Create_SpatialAudioPositionCalc                                                                      0xc7a6c020                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetSpatialSettingsMonitoringPKey                                                                     0x174add83                                         

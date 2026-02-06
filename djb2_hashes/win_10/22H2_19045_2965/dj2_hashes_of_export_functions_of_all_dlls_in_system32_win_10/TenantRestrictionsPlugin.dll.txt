@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\TenantRestrictionsPlugin.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetTenantRestrictionsHostnames                                                                       0xb77c7bca                                         
+HttpPolicyExtensionInit                                                                              0x46713ec6                                         
+HttpPolicyExtensionShutdown                                                                          0x0fcabb6e                                         

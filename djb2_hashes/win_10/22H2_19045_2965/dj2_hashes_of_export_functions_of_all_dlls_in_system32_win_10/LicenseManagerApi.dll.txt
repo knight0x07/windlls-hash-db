@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\LicenseManagerApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BeginAcquireStoreLicenseForPackageActivation                                                         0x2292cca9                                         
+BeginAcquireStoreLicenseForPackageActivation2                                                        0x74ec61fb                                         
+DllMain                                                                                              0x79f31ec6                                         
+EnsureStoreLicenseForPackageActivation                                                               0x71e1adcc                                         
+EnsureStoreLicenseForPackageActivation2                                                              0xae17677e                                         
+PackageRundownNotificationForStoreLicense                                                            0x07f9afdc                                         
+PackageRundownNotificationForStoreLicense2                                                           0x072fab8e                                         
+PackageSuspendedNotificationForStoreLicense                                                          0xbed7075a                                         
+PackageSuspendedNotificationForStoreLicense2                                                         0x99b7f2cc                                         
+PrecacheStoreLicenseForPackageResume                                                                 0x292f2f94                                         
+PrecacheStoreLicenseForPackageResume2                                                                0x4f152246                                         
+Reset                                                                                                0x0e043268                                         

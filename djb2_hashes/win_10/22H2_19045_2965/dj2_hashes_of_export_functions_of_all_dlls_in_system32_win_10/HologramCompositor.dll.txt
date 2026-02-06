@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\HologramCompositor.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateHolographicCompositor                                                                          0xf021b5d8                                         
+DwmInitializeEngine                                                                                  0xff64c1b5                                         
+DwmInitializePort                                                                                    0x5aff9084                                         
+DwmRenderDesktopForDDA                                                                               0x2f83fc37                                         
+DwmShutdownEngine                                                                                    0x920e9bff                                         
+DwmVersionCheck                                                                                      0xcb6fbdf1                                         
+GetMPCInputPostProcessor                                                                             0xa52eeb7b                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

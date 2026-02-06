@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\TextInputFramework.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+InputFocusChanged                                                                                    0x54540e1f                                         
+NavigateFocusInfoCreate                                                                              0x22b9d154                                         
+TextInputClientCreate                                                                                0x9fb88e4d                                         
+TextInputClientCreate2                                                                               0x96ca581f                                         
+TextInputHostCreate                                                                                  0x606a952c                                         
+TextInputHostCreateEx                                                                                0x25649989                                         
+TextInputHostGetCurrent                                                                              0x0caad3db                                         
+TextInputHostGetForHwnd                                                                              0xe583daf0                                         
+TextInputHostSiteCreate                                                                              0xd3ae5661                                         
+TextInputServerCreate                                                                                0x01c31565                                         
+TsfOneCreate                                                                                         0x675491a8                                         
+tsfGetAsyncKeyState                                                                                  0x20a25a9a                                         
+tsfGetKeyState                                                                                       0x21d00fbc                                         
+tsfGetKeyboardState                                                                                  0xd7c128c4                                         

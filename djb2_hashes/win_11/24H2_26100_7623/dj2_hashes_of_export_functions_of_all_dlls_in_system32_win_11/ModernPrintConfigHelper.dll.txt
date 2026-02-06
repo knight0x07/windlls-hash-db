@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\ModernPrintConfigHelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+FreePScriptDevMode                                                                                   0xbe597910                                         
+FreePsRedirectedDriverInfo                                                                           0x879eca3d                                         
+GetPScriptDevModeFromIppDevMode                                                                      0x12e4f96f                                         
+GetPrinterDataForGpdDriver                                                                           0x885ba7f1                                         
+GetPsRedirectedDriverInfo                                                                            0xeb4996bb                                         
+LoadRawPScriptPpdConfigForGpdDriver                                                                  0x2760df7c                                         
+SavePScriptConfigData                                                                                0xf9051769                                         
+UnloadRawPScriptPpdConfig                                                                            0x52d7c2f1                                         

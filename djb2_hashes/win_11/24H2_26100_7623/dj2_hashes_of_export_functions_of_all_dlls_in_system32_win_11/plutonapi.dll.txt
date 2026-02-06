@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\plutonapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PlutonKsp_ActivateRsaAik                                                                             0x99fec4c0                                         
+PlutonKsp_AesDecrypt                                                                                 0x4ad14048                                         
+PlutonKsp_AesEncrypt                                                                                 0xacc9eab2                                         
+PlutonKsp_CertifyRsaKey                                                                              0xfa903579                                         
+PlutonKsp_CreateAesKey                                                                               0x635d84aa                                         
+PlutonKsp_CreateHmacKey                                                                              0xfb56078a                                         
+PlutonKsp_CreateRsaKeyPair                                                                           0x31922c03                                         
+PlutonKsp_DeriveAesKey                                                                               0x7f8c3e35                                         
+PlutonKsp_DeriveHmacKey                                                                              0x9d5bf275                                         
+PlutonKsp_GetAesPublicContext                                                                        0xafad67b1                                         
+PlutonKsp_GetEccEkCert                                                                               0x9fcba1dd                                         
+PlutonKsp_GetEccEkPub                                                                                0x88b8d196                                         
+PlutonKsp_GetHmacPublicContext                                                                       0xff9ec811                                         
+PlutonKsp_GetKspFirmwareVersion                                                                      0x919dd2c5                                         
+PlutonKsp_GetRsaEkCert                                                                               0xb4463378                                         
+PlutonKsp_GetRsaEkPub                                                                                0x530a1bd1                                         
+PlutonKsp_GetRsaPublicContext                                                                        0x4298dede                                         
+PlutonKsp_HmacSignData                                                                               0xaeb76ad8                                         
+PlutonKsp_ImportHmacKey                                                                              0xc541be71                                         
+PlutonKsp_RsaAttestKey                                                                               0xfee57758                                         
+PlutonKsp_RsaDecrypt                                                                                 0x51b219b5                                         
+PlutonKsp_RsaSignHash                                                                                0x9caadeef                                         
+PlutonKsp_SetOsSecret                                                                                0xb0341f28                                         
+PlutonQuery_ColdLoadDeviceInfo                                                                       0xcc5b27fa                                         
+PlutonQuery_DevicePresent                                                                            0x60e220cd                                         
+PlutonQuery_EnumeratePcbiVersions                                                                    0x72830219                                         
+PlutonQuery_EnumerateServices                                                                        0x1db1e946                                         
+PlutonQuery_FirmwareLoaded                                                                           0x3f173e82                                         
+PlutonQuery_GetEKICACertificate                                                                      0x1f683cfc                                         
+PlutonQuery_GetPackageInfo                                                                           0xa7d57e14                                         
+PlutonQuery_HotLoadDeviceInfo                                                                        0xa0349d63                                         

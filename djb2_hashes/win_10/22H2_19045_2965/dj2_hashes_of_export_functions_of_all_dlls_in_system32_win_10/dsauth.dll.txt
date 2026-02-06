@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\dsauth.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DhcpAddServerDS                                                                                      0x2244d5bb                                         
+DhcpDeleteServerDS                                                                                   0x9317df05                                         
+DhcpDsAddServer                                                                                      0x1bde93bb                                         
+DhcpDsCleanupDS                                                                                      0xd52cf61a                                         
+DhcpDsDelServer                                                                                      0xcd67a1a7                                         
+DhcpDsEnumServers                                                                                    0xfe77813a                                         
+DhcpDsGetAttribs                                                                                     0xa2115bb4                                         
+DhcpDsGetLists                                                                                       0xaea01c4a                                         
+DhcpDsGetRoot                                                                                        0x1c93e03f                                         
+DhcpDsInitDS                                                                                         0x15a94306                                         
+DhcpDsSetLists                                                                                       0xc1b616d6                                         
+DhcpDsValidateService                                                                                0x479cb5f6                                         
+DhcpEnumServersDS                                                                                    0xf4df4d3a                                         
+StoreBeginSearch                                                                                     0xa4346b4d                                         
+StoreCleanupHandle                                                                                   0x71f56586                                         
+StoreCollectAttributes                                                                               0xd426addf                                         
+StoreCreateObjectVA                                                                                  0xce9d85b4                                         
+StoreDeleteObject                                                                                    0x8ecb241c                                         
+StoreEndSearch                                                                                       0x32cd10bf                                         
+StoreGetHandle                                                                                       0x832f087e                                         
+StoreInitHandle                                                                                      0xe27ca3d2                                         
+StoreSearchGetNext                                                                                   0x30a6be47                                         
+StoreSetSearchOneLevel                                                                               0x1b40c2ce                                         
+StoreSetSearchSubTree                                                                                0x7b2c5c2e                                         

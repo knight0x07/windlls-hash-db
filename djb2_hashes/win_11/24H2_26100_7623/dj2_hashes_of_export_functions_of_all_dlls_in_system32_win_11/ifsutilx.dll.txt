@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\ifsutilx.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckSnapshotPresence                                                                                0xce581948                                         
+CreateVolumeSnapshot                                                                                 0x8c96e381                                         
+GetSnapshotErrorMessage                                                                              0x0133c8c4                                         
+InitializeCOM                                                                                        0x62caca96                                         
+ReleaseVolumeSnapshot                                                                                0x284eeeee                                         
+UninitializeCOM                                                                                      0x27260c39                                         

@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\autopilot.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AutoPilotClearNetworkRequiredFlag                                                                    0x92efbe12                                         
+AutoPilotDisable                                                                                     0x6d4e66ba                                         
+AutoPilotGetOobeSettingsOverride                                                                     0xdc11299c                                         
+AutoPilotGetPolicyDwordByName                                                                        0xa8115b92                                         
+AutoPilotGetPolicyStringByName                                                                       0xc999c009                                         
+AutoPilotGetProfileState                                                                             0x477b64f8                                         
+AutoPilotGetSetting                                                                                  0x433d5b04                                         
+AutoPilotIsDisabled                                                                                  0x1a908dba                                         
+AutoPilotIsLocalProfileAvailable                                                                     0xe239547f                                         
+AutoPilotIsNetworkRequired                                                                           0xe5c6f4ed                                         
+AutoPilotPerformDeviceEnrollment                                                                     0x061f1b11                                         
+AutoPilotRenameDevice                                                                                0xd82d86ae                                         
+AutoPilotRetrieveSettings                                                                            0x02ea95dd                                         
+AutoPilotStoreSetting                                                                                0x1c3f3d71                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+RunDllEntryPointW                                                                                    0xef06aaa9                                         

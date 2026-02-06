@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\BOOTVID.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+VidBitBlt                                                                                            0xae4bd629                                         
+VidBitBltEx                                                                                          0x709a0dc6                                         
+VidBufferToScreenBlt                                                                                 0xdbc98407                                         
+VidCleanUp                                                                                           0xcac1e710                                         
+VidDisplayString                                                                                     0xa1252155                                         
+VidDisplayStringXY                                                                                   0x7ef2d646                                         
+VidInitialize                                                                                        0x3bd663da                                         
+VidResetDisplay                                                                                      0x509525a1                                         
+VidScreenToBufferBlt                                                                                 0xafca4a07                                         
+VidSetScrollRegion                                                                                   0x4e2e5027                                         
+VidSetTextColor                                                                                      0xaa8c0d38                                         
+VidSolidColorFill                                                                                    0x95cd2949                                         

@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\efswrt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CdplGetFileProtectionLevel                                                                           0x331ae307                                         
+CdplIsAppAllowedToRun                                                                                0xa4fcb425                                         
+CdplIsAppDataProtectionSupported                                                                     0x5904472c                                         
+CdplIsSupported                                                                                      0x2ba0448a                                         
+CdplProtectFileToLevel                                                                               0x0103e7e4                                         
+CdplProtectFileToLevelWithResult                                                                     0x0faca2ff                                         
+CdplProtectKnownUserFolders                                                                          0xd0b193e4                                         
+CdplProtectSecretToLevel                                                                             0xefa4ceea                                         
+CdplUnprotectSecret                                                                                  0xba489f12                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DpmBufferFree                                                                                        0xbe843ee2                                         
+DpmProtectSecretToIdentity                                                                           0x7f04d25a                                         
+DpmStreamClose                                                                                       0xaff0e548                                         
+DpmStreamOpenToProtectToIdentity                                                                     0xc8e10ab5                                         
+DpmStreamOpenToUnprotect                                                                             0x28917dcb                                         
+DpmStreamUpdate                                                                                      0xd84c7935                                         
+DpmUnprotectSecret                                                                                   0xe5a63530                                         
+EnterpriseDataCopyProtection                                                                         0xe1e41262                                         
+EnterpriseDataGetStatus                                                                              0x85b17784                                         
+EnterpriseDataProtect                                                                                0x1bd5ca61                                         
+EnterpriseDataRevoke                                                                                 0x1be0952c                                         
+FreeIdentityProtectorList                                                                            0x2d33bd0f                                         
+GetEnterpriseActionForCopy                                                                           0xe0aedce6                                         
+GetEnterpriseIdForNetworkPath                                                                        0x8884f771                                         
+ProtectFileToEnterpriseIdentity                                                                      0xc4a92cd4                                         
+ProtectFileToIdentity                                                                                0x11f588f3                                         
+ProtectOrReprotectFileToIdentity                                                                     0x426346ac                                         
+QueryIdentityProtectors                                                                              0xae93925a                                         
+UnprotectFile                                                                                        0xd32cf789                                         

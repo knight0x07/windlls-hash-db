@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\timesync.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DisableNTPSync                                                                                       0x016f1b28                                         
+FreeTimeStatusInfo                                                                                   0x257d8fe6                                         
+GetLastGoodSampleInfo                                                                                0x39f27db0                                         
+GetTimeStatusInfo                                                                                    0x0a9abe64                                         
+GetW32timeParameterSz                                                                                0xcee7fcbe                                         
+IsNTPSyncEnabled                                                                                     0x4eef67bb                                         
+ReadLastKnownGoodTimeFromRegistry                                                                    0x2222f367                                         
+SetNTPSync                                                                                           0xc60f0d00                                         
+StartTimeService                                                                                     0xcc1521f3                                         
+StopTimeService                                                                                      0x59d81c6b                                         
+SyncW32Time                                                                                          0x201f69cd                                         

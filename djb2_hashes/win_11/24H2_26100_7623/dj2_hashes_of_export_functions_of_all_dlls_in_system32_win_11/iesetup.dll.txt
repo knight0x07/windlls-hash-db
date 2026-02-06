@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\iesetup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IEApplyCurrentHardening                                                                              0xcf7ca06c                                         
+IEHardenAdmin                                                                                        0xd80501ce                                         
+IEHardenAdminNow                                                                                     0x96e3b1a2                                         
+IEHardenLMSettings                                                                                   0x71ef59af                                         
+IEHardenMachineNow                                                                                   0x20a6b8ae                                         
+IEHardenUser                                                                                         0xc0c58bc4                                         
+IEShowHardeningDialog                                                                                0x06eba654                                         

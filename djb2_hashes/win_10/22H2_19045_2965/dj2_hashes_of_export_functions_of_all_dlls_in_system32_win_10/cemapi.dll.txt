@@ -1,0 +1,38 @@
+DLL Path: C:\Windows\System32\cemapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateMAPITableWalker                                                                                0x811064ce                                         
+CreateMAPITableWalkerEx                                                                              0x06bcd9ab                                         
+FlushMailStore                                                                                       0xcb46f7d7                                         
+FreeProws                                                                                            0x51af5042                                         
+GetEntryIDType                                                                                       0xb7c42d66                                         
+GetMAPIStorePropTags                                                                                 0xc3a64f69                                         
+GetMsgClassEnum                                                                                      0xe326f7b7                                         
+GetMsgClassEnumFromMsg                                                                               0xa248b452                                         
+GetMsgStoreFromMessage                                                                               0x98186f12                                         
+GetNamedPropTag                                                                                      0xc328e807                                         
+HrGetOneProp                                                                                         0x6b5abbe2                                         
+HrSetOneProp                                                                                         0x9bd9896e                                         
+InitializeServiceProps                                                                               0x4416763c                                         
+IsMessageClassDeviceGenerated                                                                        0xd29774fb                                         
+IsMessageClassReadRequest                                                                            0xa1763ce1                                         
+IsMessageClassSPlusV2                                                                                0x9348595b                                         
+MAPIAllocateBuffer                                                                                   0x681f76eb                                         
+MAPIAllocateBuffer_dbg                                                                               0xc7bcc2d7                                         
+MAPIAllocateMore                                                                                     0x8a946ca4                                         
+MAPIAllocateMore_dbg                                                                                 0x62b7ed10                                         
+MAPIDeleteMessageById                                                                                0x6831146c                                         
+MAPIDupString                                                                                        0xf10667ec                                         
+MAPIFreeBuffer                                                                                       0x8ac9e7a8                                         
+MAPIGetContext                                                                                       0xaba34791                                         
+MAPIInitialize                                                                                       0x523b59fe                                         
+MAPILogonEx                                                                                          0xb96168a8                                         
+MAPIUninitialize                                                                                     0x0df24441                                         
+MAPI_CompareEntryIDs                                                                                 0x88657644                                         
+MAPI_GetStoreByName                                                                                  0x87bd4654                                         
+ReadMailVolumeNameEx                                                                                 0xa1961aba                                         
+SetConversationId                                                                                    0x28c19f39                                         
+TranslateSPlusV1MessageClassToV2                                                                     0x446f32f7                                         
+USOIDfromCEENTRYID                                                                                   0xb73c3644                                         
+USOIDtoCEENTRYID                                                                                     0x7b943df3                                         

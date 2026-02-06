@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\LanguageOverlayUtil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddLanguageToMachineLanguageList                                                                     0xa98efd6a                                         
+DeleteLanguageInstallationRequest                                                                    0xf4378b77                                         
+DeleteLanguageInstallationState                                                                      0x16e4be2f                                         
+EnumerateInstalledLanguageFeatures                                                                   0xabe5698e                                         
+EnumerateInstalledLanguages                                                                          0x09eab902                                         
+EnumerateInstalledLocalExperiencePacks                                                               0xa087d0f0                                         
+EnumerateInstalledSystemLanguagePacks                                                                0xc6404886                                         
+EnumerateLocalExperiencePacksForExpeditedUpdate                                                      0x45742e76                                         
+EnumerateOverlayPaths                                                                                0x8d7aa9cd                                         
+EnumerateQueuedLanguageInstallations                                                                 0x93e1bdfd                                         
+EnumerateSupportedUILanguages                                                                        0x833f2fc6                                         
+FetchLanguageOverlayPackageForFirstLogon                                                             0x1b18ecaf                                         
+GetBcp47TagFromPackageFamilyName                                                                     0x72495104                                         
+GetInstalledLanguagePackType                                                                         0xa9e9faea                                         
+GetLanguageDataForLogging                                                                            0x81e426f1                                         
+GetLanguageInstallationState                                                                         0xcd9b14dc                                         
+GetLanguageOverlayPackageFamilyName                                                                  0x2e24807a                                         
+GetLanguagesInUse                                                                                    0xd4cb4960                                         
+GetOverlayFilePath                                                                                   0xb82a3bd4                                         
+GetOverlayPriMergeChecksum                                                                           0xd70821f5                                         
+GetSystemPreferredUILanguage                                                                         0xace12e6b                                         
+GetUnusedLanguagesToCleanup                                                                          0xdda5d41b                                         
+GetWindowsUpdateServer                                                                               0xbd21636a                                         
+GroupUserLanguages                                                                                   0x8aed4a68                                         
+HandleUnusedLanguagesCleanupResult                                                                   0x87eb7e43                                         
+InvalidateLanguageResourceCaches                                                                     0xcd9d7019                                         
+IsGroupingUserLanguagesNeeded                                                                        0x1fd0e247                                         
+IsLocalExperiencePackReadyForRemoval                                                                 0x83bed085                                         
+LogonTaskTelemetryInfoInit                                                                           0x3afb6392                                         
+OnMachineUILanguageInit                                                                              0x145abfed                                         
+OnMachineUILanguageSwitch                                                                            0xae00ef2b                                         
+OverlaySetPreferredUILanguages                                                                       0x21ee17c7                                         
+RemoveLanguageFromMachineLanguageList                                                                0x997e5c40                                         
+ResetOverlayPriMergeChecksum                                                                         0x9e544a98                                         
+SetLanguageInstallationState                                                                         0xeceb0d68                                         
+SetSystemPreferredUILanguage                                                                         0xcc3126f7                                         
+ShouldInstallOverlayPackageDuringLogonForLanguage                                                    0xf754d54c                                         
+StartLanguageInstallation                                                                            0x7222dc89                                         
+StartLanguageUninstallation                                                                          0x44f7d24c                                         

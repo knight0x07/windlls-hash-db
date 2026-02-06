@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\davhlpr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DavAddConnection                                                                                     0xa35fdf99                                         
+DavCheckAndConvertHttpUrlToUncName                                                                   0xe04ab76f                                         
+DavDeleteConnection                                                                                  0xf485d9e3                                         
+DavFlushFile                                                                                         0x863502c2                                         
+DavGetExtendedError                                                                                  0xbc99645b                                         
+DavGetHTTPFromUNCPath                                                                                0xa3051d47                                         
+DavGetUNCFromHTTPPath                                                                                0xee95d1c7                                         
+DavParseUncServerName                                                                                0xda014fb9                                         
+DavRemoveDummyShareFromFileName                                                                      0x50d48942                                         
+DavRemoveDummyShareFromFileNameEx                                                                    0xd81beb1f                                         
+DavUrlDecodeToNtPath                                                                                 0xb1d3bb09                                         
+DavUrlDecodeUtf8                                                                                     0x4a13d73e                                         
+DavUrlEncodeNtPath                                                                                   0xef3cec70                                         

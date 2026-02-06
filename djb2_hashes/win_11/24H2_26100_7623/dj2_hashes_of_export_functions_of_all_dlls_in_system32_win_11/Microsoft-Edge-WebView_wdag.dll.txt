@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\wdag.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?WdagCreateContainerProxy@@YAPEAVContainer@internals@wdag@@PEAUErrorHandler@23@PEB_W1_N111@Z         0x6a7ebc0c                                         
+?WdagDestroyContainerProxy@@YAXPEAVContainer@internals@wdag@@@Z                                      0xe6e7c164                                         
+?WdagFileHasMarkOfTheContainer@@YA_NPEB_W@Z                                                          0xc0ae1c75                                         
+?WdagGetHvSocketCapability@@YAPEB_WXZ                                                                0x25a9a229                                         
+?WdagGetHvSocketGuid@@YA?AU_GUID@@W4Channel@internals@wdag@@@Z                                       0x2808dbff                                         
+?WdagSuppressHvsiSplashDialog@@YAXXZ                                                                 0x2aa6bae5                                         
+WdagCreateContainerProxy                                                                             0x4b9ed3e1                                         
+WdagDestroyContainerProxy                                                                            0xfbd49df7                                         
+WdagFileHasMarkOfTheContainer                                                                        0xb2cf62c8                                         
+WdagGetHvSocketCapability                                                                            0x1eba98b1                                         
+WdagGetHvSocketGuid                                                                                  0x0928f1d8                                         
+WdagSuppressHvsiSplashDialog                                                                         0x5e115ca2                                         

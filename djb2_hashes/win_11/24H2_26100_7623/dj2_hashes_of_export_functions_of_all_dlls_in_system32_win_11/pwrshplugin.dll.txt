@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\pwrshplugin.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetCLRVersionForPSVersion                                                                            0x20a7addc                                         
+PerformWSManPluginReportCompletion                                                                   0x960d8acb                                         
+WSManPluginCommand                                                                                   0x6824bfd9                                         
+WSManPluginConnect                                                                                   0x68377464                                         
+WSManPluginReceive                                                                                   0xd2c183dd                                         
+WSManPluginReleaseCommandContext                                                                     0xaa52d55f                                         
+WSManPluginReleaseShellContext                                                                       0x264a19f8                                         
+WSManPluginSend                                                                                      0x5d558204                                         
+WSManPluginShell                                                                                     0x080742d2                                         
+WSManPluginShutdown                                                                                  0x292bfc96                                         
+WSManPluginSignal                                                                                    0x0902d5d8                                         
+WSManPluginStartup                                                                                   0x429c40ad                                         

@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\SCardBi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0SmartCardBiManager@@IEAA@XZ                                                                       0xdf92b97c                                         
+??1SmartCardBiManager@@UEAA@XZ                                                                       0xfde991e9                                         
+??_7SmartCardBiManager@@6B@                                                                          0x2ade1d18                                         
+?Initialize@SmartCardBiManager@@SAJXZ                                                                0x2564b76d                                         
+?Instance@SmartCardBiManager@@SAPEAV1@XZ                                                             0x2c66f3c3                                         
+DllMain                                                                                              0x79f31ec6                                         

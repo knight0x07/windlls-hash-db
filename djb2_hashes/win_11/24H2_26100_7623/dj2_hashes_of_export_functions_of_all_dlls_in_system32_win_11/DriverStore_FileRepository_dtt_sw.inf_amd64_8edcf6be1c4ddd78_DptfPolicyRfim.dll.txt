@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\dtt_sw.inf_amd64_8edcf6be1c4ddd78\DptfPolicyRfim.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreatePolicyInstance                                                                                 0xc9b5591e                                         
+DestroyPolicyInstance                                                                                0x11347ad4                                         
+GetAppVersion                                                                                        0x584393ac                                         

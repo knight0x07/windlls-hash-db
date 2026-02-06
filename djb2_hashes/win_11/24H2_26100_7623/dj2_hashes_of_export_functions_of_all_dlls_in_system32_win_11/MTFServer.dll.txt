@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\MTFServer.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+MTF_Close                                                                                            0x70249c61                                         
+MTF_Deinit                                                                                           0x768b4708                                         
+MTF_GetServer                                                                                        0x82917902                                         
+MTF_IOControl                                                                                        0xa3f0c5e4                                         
+MTF_Init                                                                                             0x77c65e7f                                         
+MTF_Open                                                                                             0x77c9b0bd                                         
+MTF_SetPrivateMode                                                                                   0x35368b77                                         

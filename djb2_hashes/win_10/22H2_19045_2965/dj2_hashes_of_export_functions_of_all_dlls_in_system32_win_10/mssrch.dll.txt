@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\mssrch.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CSearchServiceObj@@QEAA@AEBV0@@Z                                                                  0x227ab978                                         
+??0CSearchServiceObj@@QEAA@XZ                                                                        0x8ca0a422                                         
+??1CSearchServiceObj@@QEAA@XZ                                                                        0xa019bb63                                         
+??4CSearchServiceObj@@QEAAAEAV0@AEBV0@@Z                                                             0xeeda8b49                                         
+??_7CSearchServiceObj@@6B@                                                                           0x7b68ddf6                                         
+?Cleanup@CSearchServiceObj@@SAXXZ                                                                    0xb6cbe94f                                         
+?GetFileChangeClientManagerInstance@@YA?AV?$shared_ptr@UIFileChangeClientManager@ChangeTracking@Windows@@@std@@XZ 0x9e5c2117                                         
+?HandleDplKeyChange@CSearchServiceObj@@UEAAJXZ                                                       0x9d74b65c                                         
+?Initialize@CSearchServiceObj@@UEAAJ_NKPEBV?$vector@VReIndexPatternInfo@@V?$allocator@VReIndexPatternInfo@@@std@@@std@@@Z 0x13690aa4                                         
+?LogoffNotification@CSearchServiceObj@@UEAAJK@Z                                                      0x8c8f1198                                         
+?LogonNotification@CSearchServiceObj@@UEAAJK@Z                                                       0x4c8b07da                                         
+?PostServiceStartup@CSearchServiceObj@@UEAAJXZ                                                       0xad4dd6eb                                         
+?SetServiceStatusObj@CSearchServiceObj@@UEAAJPEAUIDCOMServiceStatus@@@Z                              0x223abd91                                         
+?Shutdown@CSearchServiceObj@@UEAAJXZ                                                                 0xce1f6c1d                                         
+?Start@CSearchServiceObj@@UEAAJXZ                                                                    0x3ab9efaf                                         
+?Stop@CSearchServiceObj@@UEAAJH@Z                                                                    0x90e23c17                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetCatalogManager                                                                                    0xa0a46e7b                                         
+MSSrch_SysPrep_Cleanup                                                                               0xf536b571                                         

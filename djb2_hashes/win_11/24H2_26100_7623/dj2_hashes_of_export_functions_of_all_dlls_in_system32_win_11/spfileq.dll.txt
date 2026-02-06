@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\spfileq.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SpFileQueueClose                                                                                     0x01313e63                                         
+SpFileQueueCommit                                                                                    0x278e22f6                                         
+SpFileQueueCopy                                                                                      0x64e28328                                         
+SpFileQueueDelete                                                                                    0x292da980                                         
+SpFileQueueFileInUse                                                                                 0x29fbb991                                         
+SpFileQueueGetFlags                                                                                  0x00776f3a                                         
+SpFileQueueGetQueueCount                                                                             0x669dee5b                                         
+SpFileQueueNodeGetSecurityDescriptor                                                                 0xb22ed5ca                                         
+SpFileQueueNodeGetSourceFilename                                                                     0xc313b565                                         
+SpFileQueueNodeGetSourcePath                                                                         0xad306171                                         
+SpFileQueueNodeGetSourceRootPath                                                                     0xac059375                                         
+SpFileQueueNodeGetStyleFlags                                                                         0xd9513011                                         
+SpFileQueueNodeGetTargetDirectory                                                                    0xae3c678f                                         
+SpFileQueueNodeGetTargetFilename                                                                     0x34ab495b                                         
+SpFileQueueNodeRemove                                                                                0xf70c1f81                                         
+SpFileQueueOpen                                                                                      0x64e91a7f                                         
+SpFileQueueRename                                                                                    0x49d6e925                                         
+SpFileQueueSetFlags                                                                                  0x138d69c6                                         

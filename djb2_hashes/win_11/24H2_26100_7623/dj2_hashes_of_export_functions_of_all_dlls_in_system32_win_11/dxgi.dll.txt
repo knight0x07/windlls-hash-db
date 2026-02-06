@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\dxgi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ApplyCompatResolutionQuirking                                                                        0xee5b648d                                         
+CompatString                                                                                         0xdadccf60                                         
+CompatValue                                                                                          0xc8be1a26                                         
+CreateDXGIFactory                                                                                    0xef01bffd                                         
+CreateDXGIFactory1                                                                                   0xcf39bfce                                         
+CreateDXGIFactory2                                                                                   0xcf39bfcf                                         
+DXGID3D10CreateDevice                                                                                0x0eb56791                                         
+DXGID3D10CreateLayeredDevice                                                                         0xe12b1cd7                                         
+DXGID3D10GetLayeredDeviceSize                                                                        0xb05480de                                         
+DXGID3D10RegisterLayers                                                                              0x595e1f42                                         
+DXGIDeclareAdapterRemovalSupport                                                                     0x24227a95                                         
+DXGIDisableVBlankVirtualization                                                                      0x97aa46c8                                         
+DXGIDumpJournal                                                                                      0xd5f8ea42                                         
+DXGIGetDebugInterface1                                                                               0x0a3aed9a                                         
+DXGIReportAdapterConfiguration                                                                       0x25ec3f46                                         
+PIXBeginCapture                                                                                      0x05479eaf                                         
+PIXEndCapture                                                                                        0x85e9b161                                         
+PIXGetCaptureState                                                                                   0x90415cab                                         
+SetAppCompatStringPointer                                                                            0x13a0a40e                                         
+UpdateHMDEmulationStatus                                                                             0x6b073433                                         

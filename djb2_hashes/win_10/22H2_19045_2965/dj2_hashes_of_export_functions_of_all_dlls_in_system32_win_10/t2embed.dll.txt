@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\t2embed.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TTCharToUnicode                                                                                      0xdbed1815                                         
+TTDeleteEmbeddedFont                                                                                 0x5cdbe121                                         
+TTEmbedFont                                                                                          0x697d1e41                                         
+TTEmbedFontEx                                                                                        0xbd3dbbde                                         
+TTEmbedFontFromFileA                                                                                 0x1d162dd6                                         
+TTEnableEmbeddingForFacename                                                                         0x9d9a52aa                                         
+TTGetEmbeddedFontInfo                                                                                0x9cf7c3da                                         
+TTGetEmbeddingType                                                                                   0x9b593bce                                         
+TTGetNewFontName                                                                                     0xa3fb8c6f                                         
+TTIsEmbeddingEnabled                                                                                 0x1802f7b3                                         
+TTIsEmbeddingEnabledForFacename                                                                      0xa67f49ea                                         
+TTLoadEmbeddedFont                                                                                   0x571d53ae                                         
+TTRunValidationTests                                                                                 0xddee4420                                         
+TTRunValidationTestsEx                                                                               0x128fd57d                                         

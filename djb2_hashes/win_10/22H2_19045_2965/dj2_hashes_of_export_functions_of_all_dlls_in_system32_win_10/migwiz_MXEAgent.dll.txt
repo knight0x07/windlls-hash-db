@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\migwiz\MXEAgent.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CMXEAgent@Mig@@QEAA@$$QEAV01@@Z                                                                   0xa6aa0194                                         
+??0CMXEAgent@Mig@@QEAA@AEBV01@@Z                                                                     0xe24f2f7d                                         
+??0CMXEAgent@Mig@@QEAA@PEAVString@UnBCL@@@Z                                                          0xe9b7ed95                                         
+??1CMXEAgent@Mig@@UEAA@XZ                                                                            0x3d083c1b                                         
+??4CMXEAgent@Mig@@QEAAAEAV01@$$QEAV01@@Z                                                             0x10fe0096                                         
+??4CMXEAgent@Mig@@QEAAAEAV01@AEBV01@@Z                                                               0xc23385ff                                         
+??_7CMXEAgent@Mig@@6B01@@                                                                            0x4a6001cb                                         
+??_7CMXEAgent@Mig@@6BCAgent@1@@                                                                      0x52bb7a8d                                         
+??_8CMXEAgent@Mig@@7B@                                                                               0xbf7cb1ac                                         
+??_DCMXEAgent@Mig@@QEAAXXZ                                                                           0xe7b9fd61                                         
+?AddApplyInfo@CMXEAgent@Mig@@UEAAXPEAVCMigUnit@2@@Z                                                  0x45739b44                                         
+?AddGatherInfo@CMXEAgent@Mig@@UEAAXPEAVCMigUnit@2@PEAUICancelable@@@Z                                0x7fae2d47                                         
+?AddXmlFile@CMXEAgent@Mig@@IEAAXPEAVString@UnBCL@@@Z                                                 0x8235dad0                                         
+?AdjustRules@CMXEAgent@Mig@@UEAAXPEAVCMigUnit@2@0@Z                                                  0x22eac78f                                         
+?Detect@CMXEAgent@Mig@@UEAAPEAVCMigUnitList@2@PEAVCUserContext@2@PEAUICancelable@@@Z                 0x0c6755d9                                         
+?Done@CMXEAgent@Mig@@UEAAXH@Z                                                                        0x48d2e379                                         
+?Init@CMXEAgent@Mig@@UEAAXPEAVCPlatform@2@PEAVString@UnBCL@@@Z                                       0x85a8fe1c                                         
+?Init@CMXEAgent@Mig@@UEAAXPEAVCPlatform@2@PEAVString@UnBCL@@PEAV?$ArrayList@PEAVString@UnBCL@@@5@@Z  0x4f8d38f2                                         
+?InitApply@CMXEAgent@Mig@@UEAAXPEAVCPlatform@2@0PEAVString@UnBCL@@@Z                                 0xde139832                                         
+LoadAgent                                                                                            0x1080b894                                         

@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\dtt_sw.inf_amd64_8edcf6be1c4ddd78\dptftcs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0DptfTcsEsifServicesInterface@@QEAA@AEBV0@@Z                                                       0x0cee5ae7                                         
+??0DptfTcsEsifServicesInterface@@QEAA@XZ                                                             0x2b4f9e51                                         
+??1DptfTcsEsifServicesInterface@@UEAA@XZ                                                             0x003ffdf6                                         
+??4DptfTcsEsifServicesInterface@@QEAAAEAV0@AEBV0@@Z                                                  0x72f04f98                                         
+??_7DptfTcsEsifServicesInterface@@6B@                                                                0xeca7d4e5                                         
+GetApplicationInterfaceV2                                                                            0x26f72cf2                                         

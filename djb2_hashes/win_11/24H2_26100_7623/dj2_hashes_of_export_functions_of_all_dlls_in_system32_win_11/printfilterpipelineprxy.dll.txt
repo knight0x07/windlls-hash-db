@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\printfilterpipelineprxy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClosePrintProcessor                                                                                  0x7f7561c8                                         
+ControlPrintProcessor                                                                                0x8ad02793                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EnumPrintProcessorDatatypesW                                                                         0x8da4c60d                                         
+GetPrintProcessorCapabilities                                                                        0x9d19f27c                                         
+OpenPrintProcessor                                                                                   0x0e54e3e4                                         
+PrintDocumentOnPrintProcessor                                                                        0x7e2b40db                                         

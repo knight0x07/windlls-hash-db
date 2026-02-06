@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\reguwpapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RegCopyTreeFromApp                                                                                   0x9cdc95a3                                         
+RegCreateKeyFromApp                                                                                  0xf293eb75                                         
+RegDeleteKeyFromApp                                                                                  0x906637f4                                         
+RegDeleteTreeFromApp                                                                                 0xd0717a7b                                         
+RegDeleteValueFromApp                                                                                0x31a1dd68                                         
+RegEnumKeyFromApp                                                                                    0x2c504bb6                                         
+RegEnumValueFromApp                                                                                  0x705fe9aa                                         
+RegGetValueFromApp                                                                                   0x5aeb4bb5                                         
+RegLoadAppKeyFromApp                                                                                 0x5a348b82                                         
+RegOpenKeyFromApp                                                                                    0x91b77e33                                         
+RegQueryInfoKeyFromApp                                                                               0xbbcd7663                                         
+RegQueryMultipleValuesFromApp                                                                        0x9e7c4d0a                                         
+RegQueryValueFromApp                                                                                 0x37f8d3eb                                         
+RegSetValueFromApp                                                                                   0x024470c1                                         

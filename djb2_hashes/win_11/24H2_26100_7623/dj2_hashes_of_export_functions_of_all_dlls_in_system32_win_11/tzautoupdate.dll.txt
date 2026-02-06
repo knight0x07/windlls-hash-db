@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\tzautoupdate.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AttemptToUpdateTimeZone                                                                              0x05f66335                                         
+AttemptToUpdateTimeZoneAndEnableChangeDetection                                                      0xcf4429f4                                         
+DisableTimeZoneAutoUpdate                                                                            0x074bc420                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+EnableTimeZoneAutoUpdate                                                                             0xe5de65d3                                         
+IsTimeZoneAutoUpdateEnabled                                                                          0x8b53c4b3                                         
+ReadOneSettingsData                                                                                  0x676f60ce                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

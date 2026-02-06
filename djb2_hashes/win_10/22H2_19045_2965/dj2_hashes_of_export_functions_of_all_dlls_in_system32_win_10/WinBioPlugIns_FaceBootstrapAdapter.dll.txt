@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\WinBioPlugIns\FaceBootstrapAdapter.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WbioQueryEngineInterface                                                                             0xf57ce433                                         
+WbioQuerySensorInterface                                                                             0x9d23da57                                         
+WbioQueryStorageInterface                                                                            0xcd37c672                                         

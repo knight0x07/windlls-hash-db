@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\dmprocessxmlfiltered.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DMProcessConfigXML                                                                                   0xb0b568fc                                         
+DMProcessConfigXMLFiltered                                                                           0xff1958ab                                         
+MdmProcessConfigXmlWithAttributes                                                                    0xbcb51dcc                                         

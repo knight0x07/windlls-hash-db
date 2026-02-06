@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\ncobjapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WmiAddObjectProp                                                                                     0x0d373953                                         
+WmiCommitObject                                                                                      0x5af37c52                                         
+WmiCreateObject                                                                                      0xf90a5d5d                                         
+WmiCreateObjectWithFormat                                                                            0x93916162                                         
+WmiCreateObjectWithProps                                                                             0x6a08890d                                         
+WmiDestroyObject                                                                                     0x4afb66b3                                         
+WmiEventSourceConnect                                                                                0x3841e4af                                         
+WmiEventSourceDisconnect                                                                             0x09c8e5ef                                         
+WmiIsObjectActive                                                                                    0xbefef721                                         
+WmiSetAndCommitObject                                                                                0x7270c671                                         

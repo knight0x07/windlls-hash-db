@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\NarratorMCAT\NarratorMCAT.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DoNavigateCommand                                                                                    0xffe64926                                         
+DoNavigateKeyPress                                                                                   0x76f204dd                                         
+FreeMathCATString                                                                                    0xdd8c8f00                                         
+FreeMathCATStringArray                                                                               0xcb969cdf                                         
+GetBraille                                                                                           0x410fa2a0                                         
+GetError                                                                                             0x7466c72f                                         
+GetMathCATVersion                                                                                    0x38325a4d                                         
+GetNavigationBraille                                                                                 0x5d376230                                         
+GetNavigationLocation                                                                                0x5be527ee                                         
+GetNavigationLocationFromBraillePosition                                                             0xd473e452                                         
+GetNavigationMathML                                                                                  0x421c5598                                         
+GetNavigationMathMLId                                                                                0x3a882565                                         
+GetNavigationMathMLOffset                                                                            0xf19359ff                                         
+GetPreference                                                                                        0x26a30364                                         
+GetSpokenText                                                                                        0x04ed7d5a                                         
+GetSupportedBrailleCodes                                                                             0xb090d6f4                                         
+GetSupportedLanguages                                                                                0x2d124402                                         
+GetSupportedSpeechStyles                                                                             0x7b7f24a7                                         
+SetMathML                                                                                            0x888b9414                                         
+SetNavigationLocation                                                                                0x2880e5fa                                         
+SetPreference                                                                                        0xdf177570                                         
+SetRulesDir                                                                                          0x67cc045b                                         

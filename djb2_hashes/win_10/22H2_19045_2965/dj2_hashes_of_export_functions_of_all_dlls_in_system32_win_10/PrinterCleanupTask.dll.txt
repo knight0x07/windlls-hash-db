@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\PrinterCleanupTask.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EnablePrinterCleanUpTask                                                                             0x6c4372ab                                         
+SetLastUserInteractionDate                                                                           0x088dd862                                         

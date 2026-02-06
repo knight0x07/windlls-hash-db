@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_e54441f6cc56b0cb\RtkApi64U.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ParseAddWriteDS1PCDAT                                                                                0x2b55a2a8                                         
+ParseAddWritePCEE4DAT                                                                                0x9c9fb67e                                         

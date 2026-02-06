@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\hotplug.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CPlApplet                                                                                            0x5c9b924a                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+HotPlugChildWithInvalidIdW                                                                           0x944d3f73                                         
+HotPlugDriverBlockedW                                                                                0xfa2b051f                                         
+HotPlugEjectDevice                                                                                   0xff86f463                                         
+HotPlugEjectDeviceEx                                                                                 0xfd15a280                                         
+HotPlugEjectVetoedW                                                                                  0x59dce851                                         
+HotPlugHibernateVetoedW                                                                              0x1824b9b8                                         
+HotPlugRemovalVetoedW                                                                                0xe5bd435c                                         
+HotPlugSafeRemovalDriveNotificationW                                                                 0x74b9aef5                                         
+HotPlugSafeRemovalNotificationW                                                                      0x97264edb                                         
+HotPlugStandbyVetoedW                                                                                0x21e001db                                         
+HotPlugWarmEjectVetoedW                                                                              0x5f8a6788                                         

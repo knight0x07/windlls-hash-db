@@ -1,0 +1,50 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\netbridge.inf_amd64_795340d0273da4f7\vmnet.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+Log_Error                                                                                            0xd302fb90                                         
+Log_Event                                                                                            0xd304f5a8                                         
+Log_EventMsg                                                                                         0xab3a4b6f                                         
+VNetEvent_DestroyListener                                                                            0x3e6863b3                                         
+VNetEvent_DestroySender                                                                              0x0eae4fae                                         
+VNetEvent_GetSenderId                                                                                0x0a943891                                         
+VNetEvent_Send                                                                                       0x0825406d                                         
+VNet_ActiveConnections                                                                               0x48a2e780                                         
+VNet_AllocateMemoryWithTag                                                                           0x3aedbe37                                         
+VNet_CallBridge                                                                                      0x7662de6a                                         
+VNet_CheckMACAddress                                                                                 0x04f612d6                                         
+VNet_Cleanup                                                                                         0xa2659c69                                         
+VNet_ConnectHostAdapters                                                                             0xeb6c831d                                         
+VNet_ConnectToPvn                                                                                    0xb995ea62                                         
+VNet_ConnectToVnet                                                                                   0xec565e2b                                         
+VNet_ConnectVNets                                                                                    0xb9a85bfb                                         
+VNet_CreateListener                                                                                  0x7e3f95fb                                         
+VNet_CreateSender                                                                                    0x61044ff6                                         
+VNet_DeRegisterReader                                                                                0x2b502322                                         
+VNet_DeRegisterWriter                                                                                0x37e9d3ec                                         
+VNet_Disconnect                                                                                      0x48042aeb                                         
+VNet_DisconnectHostAdapters                                                                          0x0b7f62dd                                         
+VNet_DisconnectVNets                                                                                 0x0d9b73bb                                         
+VNet_FreeMemory                                                                                      0xc6e1799c                                         
+VNet_GetBridge                                                                                       0x68fe986e                                         
+VNet_GetBridgeStatus                                                                                 0x211d2752                                         
+VNet_GetStats                                                                                        0xa74bd450                                         
+VNet_HasFilterFlags                                                                                  0xb17a4c90                                         
+VNet_HasHOAdapter                                                                                    0x81b65e15                                         
+VNet_Init                                                                                            0x842ac015                                         
+VNet_InitReaderWriter                                                                                0x81de66c5                                         
+VNet_PacketAllocate                                                                                  0x550204fe                                         
+VNet_PacketAttach                                                                                    0x08e333ee                                         
+VNet_PacketRelease                                                                                   0x1e5bbfda                                         
+VNet_RegisterReader                                                                                  0xc469d1f9                                         
+VNet_RegisterWriter                                                                                  0xd10382c3                                         
+VNet_Send                                                                                            0x8430162b                                         
+VNet_SetFilterFlags                                                                                  0xabac49e0                                         
+VNet_SetIFFlags                                                                                      0x6b1011e9                                         
+VNet_SetMacAddr                                                                                      0xdfe98c99                                         
+VNet_SetStats                                                                                        0xba61cedc                                         
+VNet_SpinRegisterReader                                                                              0xa8e96dd3                                         
+VNet_SpinRegisterWriter                                                                              0xb5831e9d                                         
+VNet_Version                                                                                         0x499909a7                                         

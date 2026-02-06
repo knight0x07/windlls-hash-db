@@ -1,0 +1,49 @@
+DLL Path: C:\Windows\System32\wmi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseTrace                                                                                           0x5faf5e6a                                         
+ControlTraceA                                                                                        0x24be56b6                                         
+ControlTraceW                                                                                        0x24be56cc                                         
+CreateTraceInstanceId                                                                                0x8e066e4a                                         
+EnableTrace                                                                                          0x99a62e5b                                         
+GetTraceEnableFlags                                                                                  0x932f8608                                         
+GetTraceEnableLevel                                                                                  0x93989b73                                         
+GetTraceLoggerHandle                                                                                 0xaaa4c0c0                                         
+OpenTraceA                                                                                           0x81185207                                         
+OpenTraceW                                                                                           0x8118521d                                         
+ProcessTrace                                                                                         0xb1810993                                         
+QueryAllTracesA                                                                                      0xa6d8eeb7                                         
+QueryAllTracesW                                                                                      0xa6d8eecd                                         
+RegisterTraceGuidsA                                                                                  0x4b5c4696                                         
+RegisterTraceGuidsW                                                                                  0x4b5c46ac                                         
+RemoveTraceCallback                                                                                  0x2606c2cf                                         
+SetTraceCallback                                                                                     0xdfffe4ad                                         
+StartTraceA                                                                                          0x03549563                                         
+StartTraceW                                                                                          0x03549579                                         
+TraceEvent                                                                                           0xa3030bb6                                         
+TraceEventInstance                                                                                   0xa64d9d6b                                         
+UnregisterTraceGuids                                                                                 0xf9d70f38                                         
+WmiCloseBlock                                                                                        0x19a56153                                         
+WmiDevInstToInstanceNameA                                                                            0x47a80a69                                         
+WmiDevInstToInstanceNameW                                                                            0x47a80a7f                                         
+WmiEnumerateGuids                                                                                    0x93d75794                                         
+WmiExecuteMethodA                                                                                    0x8c6a1947                                         
+WmiExecuteMethodW                                                                                    0x8c6a195d                                         
+WmiFileHandleToInstanceNameA                                                                         0x10792738                                         
+WmiFileHandleToInstanceNameW                                                                         0x1079274e                                         
+WmiFreeBuffer                                                                                        0x2260face                                         
+WmiMofEnumerateResourcesA                                                                            0x43134436                                         
+WmiMofEnumerateResourcesW                                                                            0x4313444c                                         
+WmiNotificationRegistrationA                                                                         0x7468eaf5                                         
+WmiNotificationRegistrationW                                                                         0x7468eb0b                                         
+WmiOpenBlock                                                                                         0x1f93124f                                         
+WmiQueryAllDataA                                                                                     0x233d785c                                         
+WmiQueryAllDataW                                                                                     0x233d7872                                         
+WmiQueryGuidInformation                                                                              0xc76c3ef7                                         
+WmiQuerySingleInstanceA                                                                              0x1db5f7c0                                         
+WmiQuerySingleInstanceW                                                                              0x1db5f7d6                                         
+WmiSetSingleInstanceA                                                                                0x55c82d16                                         
+WmiSetSingleInstanceW                                                                                0x55c82d2c                                         
+WmiSetSingleItemA                                                                                    0xaaba8f30                                         
+WmiSetSingleItemW                                                                                    0xaaba8f46                                         

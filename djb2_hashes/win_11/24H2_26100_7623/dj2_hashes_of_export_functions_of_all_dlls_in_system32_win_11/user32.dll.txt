@@ -1,0 +1,1208 @@
+DLL Path: C:\Windows\System32\user32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ActivateKeyboardLayout                                                                               0xe6389325                                         
+AddClipboardFormatListener                                                                           0xc429150d                                         
+AddVisualIdentifier                                                                                  0x45e51205                                         
+AdjustWindowRect                                                                                     0xa1bcd896                                         
+AdjustWindowRectEx                                                                                   0x04555f73                                         
+AdjustWindowRectExForDpi                                                                             0x4c6b58f7                                         
+AlignRects                                                                                           0x47278c51                                         
+AllowForegroundActivation                                                                            0x99865171                                         
+AllowSetForegroundWindow                                                                             0xe7dfdd23                                         
+AnimateWindow                                                                                        0x6a85263c                                         
+AnyPopup                                                                                             0xac171881                                         
+AppendMenuA                                                                                          0xbb725733                                         
+AppendMenuW                                                                                          0xbb725749                                         
+ApplyWindowAction                                                                                    0x74b17a41                                         
+AreDpiAwarenessContextsEqual                                                                         0xc190c553                                         
+ArrangeIconicWindows                                                                                 0xa2c0d105                                         
+AttachThreadInput                                                                                    0xe28af602                                         
+BeginDeferWindowPos                                                                                  0x75c0ad7a                                         
+BeginPaint                                                                                           0xdd158c66                                         
+BlockInput                                                                                           0x9936f820                                         
+BringWindowToTop                                                                                     0x81b1da65                                         
+BroadcastSystemMessage                                                                               0x60e3be02                                         
+BroadcastSystemMessageA                                                                              0x7d5b7e83                                         
+BroadcastSystemMessageExA                                                                            0x42354c00                                         
+BroadcastSystemMessageExW                                                                            0x42354c16                                         
+BroadcastSystemMessageW                                                                              0x7d5b7e99                                         
+BuildReasonArray                                                                                     0x662bc99c                                         
+CalcMenuBar                                                                                          0xf78857e2                                         
+CalculatePopupWindowPosition                                                                         0xfc4c4b34                                         
+CallMsgFilter                                                                                        0x854451ce                                         
+CallMsgFilterA                                                                                       0x2dce8bcf                                         
+CallMsgFilterW                                                                                       0x2dce8be5                                         
+CallNextHookEx                                                                                       0x0b9a5f4e                                         
+CallWindowProcA                                                                                      0xb8f54a6e                                         
+CallWindowProcW                                                                                      0xb8f54a84                                         
+CancelShutdown                                                                                       0xf1a6ec47                                         
+CascadeChildWindows                                                                                  0xf1109658                                         
+CascadeWindows                                                                                       0x95f26714                                         
+ChangeClipboardChain                                                                                 0xc43ead9e                                         
+ChangeDisplaySettingsA                                                                               0xea9622d3                                         
+ChangeDisplaySettingsExA                                                                             0xe8aa4450                                         
+ChangeDisplaySettingsExW                                                                             0xe8aa4466                                         
+ChangeDisplaySettingsW                                                                               0xea9622e9                                         
+ChangeMenuA                                                                                          0x085a94e1                                         
+ChangeMenuW                                                                                          0x085a94f7                                         
+ChangeWindowMessageFilter                                                                            0x426cae2e                                         
+ChangeWindowMessageFilterEx                                                                          0x9050fb0b                                         
+CharLowerA                                                                                           0x1cc427ed                                         
+CharLowerBuffA                                                                                       0xb1945690                                         
+CharLowerBuffW                                                                                       0xb19456a6                                         
+CharLowerW                                                                                           0x1cc42803                                         
+CharNextA                                                                                            0xa3e69d63                                         
+CharNextExA                                                                                          0x3803a2e0                                         
+CharNextW                                                                                            0xa3e69d79                                         
+CharPrevA                                                                                            0xa4119ec1                                         
+CharPrevExA                                                                                          0xeef473be                                         
+CharPrevW                                                                                            0xa4119ed7                                         
+CharToOemA                                                                                           0x2f577d28                                         
+CharToOemBuffA                                                                                       0xdbf5d14b                                         
+CharToOemBuffW                                                                                       0xdbf5d161                                         
+CharToOemW                                                                                           0x2f577d3e                                         
+CharUpperA                                                                                           0x31d0d770                                         
+CharUpperBuffA                                                                                       0xd4a30f93                                         
+CharUpperBuffW                                                                                       0xd4a30fa9                                         
+CharUpperW                                                                                           0x31d0d786                                         
+CheckBannedOneCoreTransformApi                                                                       0x446d4f4c                                         
+CheckDBCSEnabledExt                                                                                  0x81be957b                                         
+CheckDlgButton                                                                                       0x98170cf6                                         
+CheckMenuItem                                                                                        0x6af349a7                                         
+CheckMenuRadioItem                                                                                   0x4a275996                                         
+CheckProcessForClipboardAccess                                                                       0x0c13cb6b                                         
+CheckProcessSession                                                                                  0xbc9c3fe6                                         
+CheckRadioButton                                                                                     0x76d38d8e                                         
+CheckWindowThreadDesktop                                                                             0x75d9e12d                                         
+ChildWindowFromPoint                                                                                 0x792b81ff                                         
+ChildWindowFromPointEx                                                                               0x7214071c                                         
+CliImmSetHotKey                                                                                      0xe40ad760                                         
+ClientThreadSetup                                                                                    0x44b299ed                                         
+ClientToScreen                                                                                       0xef958747                                         
+ClipCursor                                                                                           0xa23bbc4b                                         
+CloseClipboard                                                                                       0x8c0b3b8b                                         
+CloseDesktop                                                                                         0x1c542f55                                         
+CloseGestureInfoHandle                                                                               0x3db3fbd2                                         
+CloseTouchInputHandle                                                                                0x0457a59a                                         
+CloseWindow                                                                                          0x5bfeeff3                                         
+CloseWindowStation                                                                                   0xf54dee55                                         
+ConsoleControl                                                                                       0x3521eb99                                         
+ControlMagnification                                                                                 0x1050d01f                                         
+ConvertToInterceptWindow                                                                             0xe23c40af                                         
+CopyAcceleratorTableA                                                                                0x8c7fbc0e                                         
+CopyAcceleratorTableW                                                                                0x8c7fbc24                                         
+CopyIcon                                                                                             0xbf676f89                                         
+CopyImage                                                                                            0xac5aa063                                         
+CopyRect                                                                                             0xbf6c65ee                                         
+CountClipboardFormats                                                                                0x3b088a9a                                         
+CreateAcceleratorTableA                                                                              0x98584bc7                                         
+CreateAcceleratorTableW                                                                              0x98584bdd                                         
+CreateCaret                                                                                          0xeb5c3328                                         
+CreateCursor                                                                                         0x584cbd97                                         
+CreateDCompositionHwndTarget                                                                         0x4146cfe9                                         
+CreateDesktopA                                                                                       0xbcd7ac94                                         
+CreateDesktopExA                                                                                     0x51754251                                         
+CreateDesktopExW                                                                                     0x51754267                                         
+CreateDesktopW                                                                                       0xbcd7acaa                                         
+CreateDialogIndirectParamA                                                                           0x377c036d                                         
+CreateDialogIndirectParamAorW                                                                        0xd7decf85                                         
+CreateDialogIndirectParamW                                                                           0x377c0383                                         
+CreateDialogParamA                                                                                   0x773803fb                                         
+CreateDialogParamW                                                                                   0x77380411                                         
+CreateIcon                                                                                           0x9a89fea2                                         
+CreateIconFromResource                                                                               0x752c6ebe                                         
+CreateIconFromResourceEx                                                                             0x72031f9b                                         
+CreateIconIndirect                                                                                   0xa5a37994                                         
+CreateMDIWindowA                                                                                     0x91af65ec                                         
+CreateMDIWindowW                                                                                     0x91af6602                                         
+CreateMenu                                                                                           0x9a8c388e                                         
+CreatePopupMenu                                                                                      0x383e8c82                                         
+CreateSyntheticPointerDevice                                                                         0xaf06b965                                         
+CreateSyntheticPointerDevice2                                                                        0x8fdde637                                         
+CreateSystemThreads                                                                                  0xd5c6d5a9                                         
+CreateWindowExA                                                                                      0x1c82e26f                                         
+CreateWindowExW                                                                                      0x1c82e285                                         
+CreateWindowInBand                                                                                   0x6a0e651d                                         
+CreateWindowInBandEx                                                                                 0x273c29ba                                         
+CreateWindowIndirect                                                                                 0x771e8cc3                                         
+CreateWindowStationA                                                                                 0x79511a14                                         
+CreateWindowStationW                                                                                 0x79511a2a                                         
+CsrBroadcastSystemMessageExW                                                                         0xe260533e                                         
+CtxInitUser32                                                                                        0xb016ae4c                                         
+DdeAbandonTransaction                                                                                0x2ca0146b                                         
+DdeAccessData                                                                                        0x2264e7de                                         
+DdeAddData                                                                                           0x7b176135                                         
+DdeClientTransaction                                                                                 0xcff171f7                                         
+DdeCmpStringHandles                                                                                  0x63eae9a8                                         
+DdeConnect                                                                                           0x2f80a57c                                         
+DdeConnectList                                                                                       0xa23a7e38                                         
+DdeCreateDataHandle                                                                                  0x62c3110c                                         
+DdeCreateStringHandleA                                                                               0xd77d630a                                         
+DdeCreateStringHandleW                                                                               0xd77d6320                                         
+DdeDisconnect                                                                                        0x0a000f9c                                         
+DdeDisconnectList                                                                                    0x24a1f858                                         
+DdeEnableCallback                                                                                    0x03465006                                         
+DdeFreeDataHandle                                                                                    0x402d711a                                         
+DdeFreeStringHandle                                                                                  0xe80a4937                                         
+DdeGetData                                                                                           0x4c6b7e6c                                         
+DdeGetLastError                                                                                      0x3593c2d0                                         
+DdeGetQualityOfService                                                                               0x53c8fd61                                         
+DdeImpersonateClient                                                                                 0xdfd93138                                         
+DdeInitializeA                                                                                       0x3036ffe5                                         
+DdeInitializeW                                                                                       0x3036fffb                                         
+DdeKeepStringHandle                                                                                  0x4388dc5a                                         
+DdeNameService                                                                                       0xfcda4bc4                                         
+DdePostAdvise                                                                                        0xa609c014                                         
+DdeQueryConvInfo                                                                                     0x58601f0a                                         
+DdeQueryNextServer                                                                                   0x47d12cbe                                         
+DdeQueryStringA                                                                                      0x0cc8abe0                                         
+DdeQueryStringW                                                                                      0x0cc8abf6                                         
+DdeReconnect                                                                                         0x5f358133                                         
+DdeSetQualityOfService                                                                               0x9e05c86d                                         
+DdeSetUserHandle                                                                                     0x75daf5e9                                         
+DdeUnaccessData                                                                                      0x6130b3a1                                         
+DdeUninitialize                                                                                      0x768f66e7                                         
+DefDlgProcA                                                                                          0x8b03cc40                                         
+DefDlgProcW                                                                                          0x8b03cc56                                         
+DefFrameProcA                                                                                        0x2c7a8bb4                                         
+DefFrameProcW                                                                                        0x2c7a8bca                                         
+DefMDIChildProcA                                                                                     0x9b68f087                                         
+DefMDIChildProcW                                                                                     0x9b68f09d                                         
+DefRawInputProc                                                                                      0x91ddb102                                         
+DefWindowProcA                                                                                       0x68f05e41                                         
+DefWindowProcW                                                                                       0x68f05e57                                         
+DeferWindowPos                                                                                       0x876355f5                                         
+DeferWindowPosAndBand                                                                                0x840ac11d                                         
+DelegateInput                                                                                        0xe2ec5630                                         
+DeleteMenu                                                                                           0x5dfad1cd                                         
+DeregisterShellHookWindow                                                                            0xe00c8d34                                         
+DestroyAcceleratorTable                                                                              0x18e859fc                                         
+DestroyCaret                                                                                         0x4502601e                                         
+DestroyCursor                                                                                        0xe6b8894d                                         
+DestroyDCompositionHwndTarget                                                                        0x72cf479f                                         
+DestroyIcon                                                                                          0xa50364d8                                         
+DestroyMenu                                                                                          0xa5059ec4                                         
+DestroyReasons                                                                                       0x19ed178a                                         
+DestroySyntheticPointerDevice                                                                        0xe08f311b                                         
+DestroyWindow                                                                                        0x14841e87                                         
+DialogBoxIndirectParamA                                                                              0xfd93cf02                                         
+DialogBoxIndirectParamAorW                                                                           0xea386efa                                         
+DialogBoxIndirectParamW                                                                              0xfd93cf18                                         
+DialogBoxParamA                                                                                      0xc23c0a90                                         
+DialogBoxParamW                                                                                      0xc23c0aa6                                         
+DisableProcessWindowsGhosting                                                                        0xe7b8c786                                         
+DispatchMessageA                                                                                     0xaba0605b                                         
+DispatchMessageW                                                                                     0xaba06071                                         
+DisplayConfigGetDeviceInfo                                                                           0x061da1cd                                         
+DisplayConfigSetDeviceInfo                                                                           0xbe9213d9                                         
+DisplayExitWindowsWarnings                                                                           0x2742c509                                         
+DlgDirListA                                                                                          0x4e36ff98                                         
+DlgDirListComboBoxA                                                                                  0x4f516bd1                                         
+DlgDirListComboBoxW                                                                                  0x4f516be7                                         
+DlgDirListW                                                                                          0x4e36ffae                                         
+DlgDirSelectComboBoxExA                                                                              0x6b025932                                         
+DlgDirSelectComboBoxExW                                                                              0x6b025948                                         
+DlgDirSelectExA                                                                                      0xcd8fd6b9                                         
+DlgDirSelectExW                                                                                      0xcd8fd6cf                                         
+DoSoundConnect                                                                                       0x463767cb                                         
+DoSoundDisconnect                                                                                    0x9782e38b                                         
+DragDetect                                                                                           0x4b8aa5dc                                         
+DragObject                                                                                           0x64f79f7a                                         
+DrawAnimatedRects                                                                                    0x6be960b7                                         
+DrawCaption                                                                                          0x2a6dc121                                         
+DrawCaptionTempA                                                                                     0x3d51e8b8                                         
+DrawCaptionTempW                                                                                     0x3d51e8ce                                         
+DrawEdge                                                                                             0x6f7439e8                                         
+DrawFocusRect                                                                                        0xe0368c81                                         
+DrawFrame                                                                                            0x5e15249e                                         
+DrawFrameControl                                                                                     0x5778a23f                                         
+DrawIcon                                                                                             0x6f76683c                                         
+DrawIconEx                                                                                           0x26b17099                                         
+DrawMenuBar                                                                                          0x356476dd                                         
+DrawMenuBarTemp                                                                                      0xae7e6953                                         
+DrawStateA                                                                                           0x3f311795                                         
+DrawStateW                                                                                           0x3f3117ab                                         
+DrawTextA                                                                                            0x5f0bbd59                                         
+DrawTextExA                                                                                          0x50f09856                                         
+DrawTextExW                                                                                          0x50f0986c                                         
+DrawTextW                                                                                            0x5f0bbd6f                                         
+DwmGetDxRgn                                                                                          0xca93a6b0                                         
+DwmGetDxSharedSurface                                                                                0x000f1949                                         
+DwmGetRemoteSessionOcclusionEvent                                                                    0x885940ee                                         
+DwmGetRemoteSessionOcclusionState                                                                    0x89556eed                                         
+DwmKernelShutdown                                                                                    0x26c1e38a                                         
+DwmKernelStartup                                                                                     0x78d71921                                         
+DwmLockScreenUpdates                                                                                 0xfbbdd14c                                         
+DwmValidateWindow                                                                                    0xf5f2470f                                         
+DwmWindowNotificationsEnabled                                                                        0xfd28142a                                         
+EditWndProc                                                                                          0x7747a1c8                                         
+EmptyClipboard                                                                                       0x590e2184                                         
+EnableMenuItem                                                                                       0xda5ad610                                         
+EnableMouseInPointer                                                                                 0x9abb1a0d                                         
+EnableNonClientDpiScaling                                                                            0xc2154d54                                         
+EnableOneCoreTransformMode                                                                           0x1e691318                                         
+EnableScrollBar                                                                                      0x307af430                                         
+EnableSessionForMMCSS                                                                                0x5d8ff7fa                                         
+EnableWindow                                                                                         0xd4cfbe04                                         
+EnableWindowShellWindowManagementBehavior                                                            0x239e8c21                                         
+EndDeferWindowPos                                                                                    0x8dafcc2c                                         
+EndDeferWindowPosEx                                                                                  0xb8d39089                                         
+EndDialog                                                                                            0x93f2168c                                         
+EndMenu                                                                                              0xcb06fa71                                         
+EndPaint                                                                                             0x2c1a4ad8                                         
+EndTask                                                                                              0xcb0ac0af                                         
+EnterMoveSizeLoop                                                                                    0xae0ef76f                                         
+EnterReaderModeHelper                                                                                0xf46918bb                                         
+EnumChildWindows                                                                                     0x4a8042a9                                         
+EnumClipboardFormats                                                                                 0x75332366                                         
+EnumDesktopWindows                                                                                   0x6015ebbf                                         
+EnumDesktopsA                                                                                        0x4383d168                                         
+EnumDesktopsW                                                                                        0x4383d17e                                         
+EnumDisplayDevicesA                                                                                  0x4fac9b34                                         
+EnumDisplayDevicesW                                                                                  0x4fac9b4a                                         
+EnumDisplayMonitors                                                                                  0x8d23aeab                                         
+EnumDisplaySettingsA                                                                                 0x98b03c42                                         
+EnumDisplaySettingsExA                                                                               0x85b0757f                                         
+EnumDisplaySettingsExW                                                                               0x85b07595                                         
+EnumDisplaySettingsW                                                                                 0x98b03c58                                         
+EnumPropsA                                                                                           0xdd8c19ef                                         
+EnumPropsExA                                                                                         0x70fa726c                                         
+EnumPropsExW                                                                                         0x70fa7282                                         
+EnumPropsW                                                                                           0xdd8c1a05                                         
+EnumThreadWindows                                                                                    0xa11fd83d                                         
+EnumWindowStationsA                                                                                  0x480763a8                                         
+EnumWindowStationsW                                                                                  0x480763be                                         
+EnumWindows                                                                                          0x94cfdcc5                                         
+EqualRect                                                                                            0xb92928cb                                         
+EvaluateProximityToPolygon                                                                           0x81ff0f1c                                         
+EvaluateProximityToRect                                                                              0x735fa242                                         
+ExcludeUpdateRgn                                                                                     0x0db2def9                                         
+ExitWindowsEx                                                                                        0xcdad4a07                                         
+FillRect                                                                                             0xac1496fa                                         
+FindWindowA                                                                                          0x8840293f                                         
+FindWindowExA                                                                                        0x98ef95bc                                         
+FindWindowExW                                                                                        0x98ef95d2                                         
+FindWindowW                                                                                          0x88402955                                         
+FlashWindow                                                                                          0x743597eb                                         
+FlashWindowEx                                                                                        0x57fb4808                                         
+FrameRect                                                                                            0x31d9eb9e                                         
+FreeDDElParam                                                                                        0x96df2731                                         
+FrostCrashedWindow                                                                                   0xb2f79c65                                         
+GetActiveWindow                                                                                      0xed819559                                         
+GetAltTabInfo                                                                                        0x92d78b49                                         
+GetAltTabInfoA                                                                                       0xedc8f4aa                                         
+GetAltTabInfoW                                                                                       0xedc8f4c0                                         
+GetAncestor                                                                                          0x473f1864                                         
+GetAppCompatFlags                                                                                    0x0a9301b7                                         
+GetAppCompatFlags2                                                                                   0x5cf338c9                                         
+GetAsyncKeyState                                                                                     0x1124460d                                         
+GetAutoRotationState                                                                                 0x2a44c20f                                         
+GetAwarenessFromDpiAwarenessContext                                                                  0x29f78d8d                                         
+GetCIMSSM                                                                                            0xf99aaa51                                         
+GetCapture                                                                                           0x6777cb79                                         
+GetCaretBlinkTime                                                                                    0x2162b153                                         
+GetCaretPos                                                                                          0x5a0b0106                                         
+GetClassInfoA                                                                                        0x8ca3dbe8                                         
+GetClassInfoExA                                                                                      0x450a96a5                                         
+GetClassInfoExW                                                                                      0x450a96bb                                         
+GetClassInfoW                                                                                        0x8ca3dbfe                                         
+GetClassLongA                                                                                        0x8cdad2cc                                         
+GetClassLongPtrA                                                                                     0x0a3ba562                                         
+GetClassLongPtrW                                                                                     0x0a3ba578                                         
+GetClassLongW                                                                                        0x8cdad2e2                                         
+GetClassNameA                                                                                        0x8cf751fd                                         
+GetClassNameW                                                                                        0x8cf75213                                         
+GetClassWord                                                                                         0xc63b35d7                                         
+GetClientRect                                                                                        0xb05422b2                                         
+GetClipCursor                                                                                        0x9aeacdab                                         
+GetClipboardAccessToken                                                                              0x5970a948                                         
+GetClipboardData                                                                                     0x8d26572f                                         
+GetClipboardFormatNameA                                                                              0xf260f240                                         
+GetClipboardFormatNameW                                                                              0xf260f256                                         
+GetClipboardMetadata                                                                                 0x5c3e4776                                         
+GetClipboardOwner                                                                                    0x32c44260                                         
+GetClipboardSequenceNumber                                                                           0x61301897                                         
+GetClipboardViewer                                                                                   0x9a9eafa7                                         
+GetComboBoxInfo                                                                                      0x8103bdaa                                         
+GetCurrentInputMessageSource                                                                         0x7737c5ee                                         
+GetCurrentMonitorTopologyId                                                                          0xa5f1edda                                         
+GetCursor                                                                                            0xfccbb663                                         
+GetCursorFrameInfo                                                                                   0xe4272dfa                                         
+GetCursorInfo                                                                                        0x4ee0190f                                         
+GetCursorPos                                                                                         0x30efa295                                         
+GetDC                                                                                                0x0d3d24ac                                         
+GetDCEx                                                                                              0x51190909                                         
+GetDCompositionHwndBitmap                                                                            0x10eafb2b                                         
+GetDesktopID                                                                                         0x1bf915ac                                         
+GetDesktopWindow                                                                                     0x1c27d8f7                                         
+GetDialogBaseUnits                                                                                   0xcb9144a3                                         
+GetDialogControlDpiChangeBehavior                                                                    0x5f2dd589                                         
+GetDialogDpiChangeBehavior                                                                           0x53e35da8                                         
+GetDisplayAutoRotationPreferences                                                                    0x972ecf96                                         
+GetDisplayConfigBufferSizes                                                                          0xffa7a8d9                                         
+GetDlgCtrlID                                                                                         0x98be49be                                         
+GetDlgItem                                                                                           0xcd60506b                                         
+GetDlgItemInt                                                                                        0x7d7a41b6                                         
+GetDlgItemTextA                                                                                      0xc5d3c591                                         
+GetDlgItemTextW                                                                                      0xc5d3c5a7                                         
+GetDoubleClickTime                                                                                   0x773232d5                                         
+GetDpiAwarenessContextForProcess                                                                     0x513bceb6                                         
+GetDpiForMonitorInternal                                                                             0xdbe220ce                                         
+GetDpiForSystem                                                                                      0x97515c0e                                         
+GetDpiForWindow                                                                                      0x9f8175e1                                         
+GetDpiFromDpiAwarenessContext                                                                        0xe5568741                                         
+GetExtendedPointerDeviceProperty                                                                     0x108dbd4c                                         
+GetFocus                                                                                             0x7476fb85                                         
+GetForegroundWindow                                                                                  0x0a7f6978                                         
+GetGUIThreadInfo                                                                                     0xd3faea2e                                         
+GetGestureConfig                                                                                     0xeaead11a                                         
+GetGestureExtraArgs                                                                                  0x8dd47d15                                         
+GetGestureInfo                                                                                       0x302f35b0                                         
+GetGuiResources                                                                                      0x8e3f7165                                         
+GetIconInfo                                                                                          0x7716c49a                                         
+GetIconInfoExA                                                                                       0x9325eb98                                         
+GetIconInfoExW                                                                                       0x9325ebae                                         
+GetInputDesktop                                                                                      0xf2599fcf                                         
+GetInputLocaleInfo                                                                                   0xab364b91                                         
+GetInputState                                                                                        0x02b96ad6                                         
+GetInternalWindowPos                                                                                 0x88338e2c                                         
+GetKBCodePage                                                                                        0x8bdab88a                                         
+GetKeyNameTextA                                                                                      0xd2649c15                                         
+GetKeyNameTextW                                                                                      0xd2649c2b                                         
+GetKeyState                                                                                          0xff11474f                                         
+GetKeyboardLayout                                                                                    0xbf06c374                                         
+GetKeyboardLayoutList                                                                                0xa30ed830                                         
+GetKeyboardLayoutNameA                                                                               0x050990f6                                         
+GetKeyboardLayoutNameW                                                                               0x0509910c                                         
+GetKeyboardState                                                                                     0xc8431437                                         
+GetKeyboardType                                                                                      0x5b678518                                         
+GetLastActivePopup                                                                                   0x2a3344c9                                         
+GetLastInputInfo                                                                                     0xc136a955                                         
+GetLayeredWindowAttributes                                                                           0xc251548a                                         
+GetListBoxInfo                                                                                       0x7fa741b6                                         
+GetMagnificationDesktopColorEffect                                                                   0xf2cc6664                                         
+GetMagnificationDesktopMagnification                                                                 0xe0d93c71                                         
+GetMagnificationDesktopSamplingMode                                                                  0xe5581538                                         
+GetMagnificationLensCtxInformation                                                                   0xbc0ce1a5                                         
+GetMenu                                                                                              0x511e8e5a                                         
+GetMenuBarInfo                                                                                       0x7998867b                                         
+GetMenuCheckMarkDimensions                                                                           0xd465271c                                         
+GetMenuContextHelpId                                                                                 0x8d1a4cf5                                         
+GetMenuDefaultItem                                                                                   0xfbb2be2e                                         
+GetMenuInfo                                                                                          0xc03c1486                                         
+GetMenuItemCount                                                                                     0x625d8fb2                                         
+GetMenuItemID                                                                                        0xbfff55d6                                         
+GetMenuItemInfoA                                                                                     0x62c95676                                         
+GetMenuItemInfoW                                                                                     0x62c9568c                                         
+GetMenuItemRect                                                                                      0xbd31ac57                                         
+GetMenuState                                                                                         0xc876d05b                                         
+GetMenuStringA                                                                                       0xc29a1f52                                         
+GetMenuStringW                                                                                       0xc29a1f68                                         
+GetMessageA                                                                                          0xcbceb9ab                                         
+GetMessageExtraInfo                                                                                  0xf9b9935a                                         
+GetMessagePos                                                                                        0xfa641efc                                         
+GetMessageTime                                                                                       0x46ea1619                                         
+GetMessageW                                                                                          0xcbceb9c1                                         
+GetMonitorInfoA                                                                                      0xc6fe051a                                         
+GetMonitorInfoW                                                                                      0xc6fe0530                                         
+GetMouseMovePointsEx                                                                                 0x81d51e3f                                         
+GetNextDlgGroupItem                                                                                  0x7b7bb337                                         
+GetNextDlgTabItem                                                                                    0x2e678901                                         
+GetOpenClipboardWindow                                                                               0x42bdc03f                                         
+GetParent                                                                                            0x19b4a0cf                                         
+GetPhysicalCursorPos                                                                                 0x1c4688d2                                         
+GetPointerCursorId                                                                                   0x280a85f1                                         
+GetPointerDevice                                                                                     0xc76ac916                                         
+GetPointerDeviceCursors                                                                              0x48b04cc7                                         
+GetPointerDeviceInputSpace                                                                           0xa88be312                                         
+GetPointerDeviceOrientation                                                                          0x74f24b62                                         
+GetPointerDeviceProperties                                                                           0x08d88463                                         
+GetPointerDeviceRects                                                                                0x0fe6d6f7                                         
+GetPointerDevices                                                                                    0xb4c3ec49                                         
+GetPointerFrameArrivalTimes                                                                          0x6dbf2be4                                         
+GetPointerFrameInfo                                                                                  0x96a3495d                                         
+GetPointerFrameInfoHistory                                                                           0x9e92c44f                                         
+GetPointerFramePenInfo                                                                               0x6654b300                                         
+GetPointerFramePenInfoHistory                                                                        0x2b5e9892                                         
+GetPointerFrameTimes                                                                                 0x6bd0e193                                         
+GetPointerFrameTouchInfo                                                                             0xb1d2e0c0                                         
+GetPointerFrameTouchInfoHistory                                                                      0xa0e7ce52                                         
+GetPointerFrameTouchpadInfo                                                                          0x4f653415                                         
+GetPointerFrameTouchpadInfoHistory                                                                   0xd01a7007                                         
+GetPointerInfo                                                                                       0x8811ca92                                         
+GetPointerInfoHistory                                                                                0xfe2737e4                                         
+GetPointerInputTransform                                                                             0x47968412                                         
+GetPointerPenInfo                                                                                    0x4fdca415                                         
+GetPointerPenInfoHistory                                                                             0x91d3e007                                         
+GetPointerTouchInfo                                                                                  0x1d1b6b15                                         
+GetPointerTouchInfoHistory                                                                           0x79ccc707                                         
+GetPointerTouchpadInfo                                                                               0xa1881a4a                                         
+GetPointerTouchpadInfoHistory                                                                        0x36dfa89c                                         
+GetPointerType                                                                                       0x881802c8                                         
+GetPriorityClipboardFormat                                                                           0xbe2b2ec0                                         
+GetProcessDefaultLayout                                                                              0x9df148a7                                         
+GetProcessDpiAwarenessInternal                                                                       0x20eb8907                                         
+GetProcessUIContextInformation                                                                       0x22740a6d                                         
+GetProcessWindowStation                                                                              0x59c4fbde                                         
+GetProgmanWindow                                                                                     0x7665ba91                                         
+GetPropA                                                                                             0x752dc7e7                                         
+GetPropW                                                                                             0x752dc7fd                                         
+GetQueueStatus                                                                                       0x1d13ffae                                         
+GetRawInputBuffer                                                                                    0x060cdb99                                         
+GetRawInputData                                                                                      0xd2dfa319                                         
+GetRawInputDeviceInfoA                                                                               0x0fef6f9c                                         
+GetRawInputDeviceInfoW                                                                               0x0fef6fb2                                         
+GetRawInputDeviceList                                                                                0x17c3018b                                         
+GetRawPointerDeviceData                                                                              0x7a206eba                                         
+GetReasonTitleFromReasonCode                                                                         0x7956c2c6                                         
+GetRegisteredRawInputDevices                                                                         0xdeafa130                                         
+GetScrollBarInfo                                                                                     0xc5e29cd5                                         
+GetScrollInfo                                                                                        0x23743920                                         
+GetScrollPos                                                                                         0xd2878486                                         
+GetScrollRange                                                                                       0x92973a21                                         
+GetSendMessageReceiver                                                                               0xf615bfa9                                         
+GetShellChangeNotifyWindow                                                                           0xd9352f54                                         
+GetShellWindow                                                                                       0xc85fa9f5                                         
+GetSubMenu                                                                                           0x64afc5c4                                         
+GetSysColor                                                                                          0x5589a1e3                                         
+GetSysColorBrush                                                                                     0xd8241d27                                         
+GetSystemDpiForProcess                                                                               0xc293376d                                         
+GetSystemMenu                                                                                        0x830afc3f                                         
+GetSystemMetrics                                                                                     0xa988c1a1                                         
+GetSystemMetricsForDpi                                                                               0x6c1725a5                                         
+GetTabbedTextExtentA                                                                                 0x3e85ea05                                         
+GetTabbedTextExtentW                                                                                 0x3e85ea1b                                         
+GetTaskmanWindow                                                                                     0x9955c6ac                                         
+GetThreadDesktop                                                                                     0x219f3ff7                                         
+GetThreadDpiAwarenessContext                                                                         0x24e25168                                         
+GetThreadDpiHostingBehavior                                                                          0x89a1fea6                                         
+GetTitleBarInfo                                                                                      0xee7ff6e8                                         
+GetTopLevelWindow                                                                                    0xa7f248c8                                         
+GetTopWindow                                                                                         0x87f4cbd0                                         
+GetTouchInputInfo                                                                                    0xf32e5964                                         
+GetUnpredictedMessagePos                                                                             0x7afc8e53                                         
+GetUpdateRect                                                                                        0x06c183d6                                         
+GetUpdateRgn                                                                                         0x650d9f6f                                         
+GetUpdatedClipboardFormats                                                                           0x964a5998                                         
+GetUserObjectInformationA                                                                            0xf48fcec2                                         
+GetUserObjectInformationW                                                                            0xf48fced8                                         
+GetUserObjectSecurity                                                                                0xe20d9773                                         
+GetWinStationInfo                                                                                    0x98b31e61                                         
+GetWindow                                                                                            0x2a974b9d                                         
+GetWindowBand                                                                                        0xf683ae52                                         
+GetWindowCompositionAttribute                                                                        0x4a9bcb85                                         
+GetWindowCompositionInfo                                                                             0x0933549d                                         
+GetWindowContextHelpId                                                                               0xf5ed3f18                                         
+GetWindowDC                                                                                          0x2d98afe4                                         
+GetWindowDisplayAffinity                                                                             0x86d58ced                                         
+GetWindowDpiAwarenessContext                                                                         0xfa301fe8                                         
+GetWindowDpiHostingBehavior                                                                          0xed2ffd26                                         
+GetWindowFeedbackSetting                                                                             0x10276aa0                                         
+GetWindowInfo                                                                                        0xf687bb49                                         
+GetWindowLongA                                                                                       0xc7b61b8e                                         
+GetWindowLongPtrA                                                                                    0x431c4ee4                                         
+GetWindowLongPtrW                                                                                    0x431c4efa                                         
+GetWindowLongW                                                                                       0xc7b61ba4                                         
+GetWindowMinimizeRect                                                                                0x88890b0d                                         
+GetWindowModuleFileName                                                                              0x9f30cec4                                         
+GetWindowModuleFileNameA                                                                             0x854aa785                                         
+GetWindowModuleFileNameW                                                                             0x854aa79b                                         
+GetWindowPlacement                                                                                   0xc340b356                                         
+GetWindowProcessHandle                                                                               0xe6b907e8                                         
+GetWindowRect                                                                                        0xf68c840b                                         
+GetWindowRgn                                                                                         0xe0aeed04                                         
+GetWindowRgnBox                                                                                      0xcbe7260d                                         
+GetWindowRgnEx                                                                                       0xc81e4761                                         
+GetWindowTextA                                                                                       0xc8419003                                         
+GetWindowTextLengthA                                                                                 0x2076e7a5                                         
+GetWindowTextLengthW                                                                                 0x2076e7bb                                         
+GetWindowTextW                                                                                       0xc8419019                                         
+GetWindowThreadProcessId                                                                             0xa58edbe1                                         
+GetWindowWord                                                                                        0xf68f6e59                                         
+GhostWindowFromHungWindow                                                                            0x9e8c6900                                         
+GrayStringA                                                                                          0x8f1b9790                                         
+GrayStringW                                                                                          0x8f1b97a6                                         
+HandleDelegatedInput                                                                                 0xc03a3160                                         
+HideCaret                                                                                            0x9e68f30e                                         
+HiliteMenuItem                                                                                       0xdf92d468                                         
+HungWindowFromGhostWindow                                                                            0xc7e8fb80                                         
+IMPGetIMEA                                                                                           0x880e1927                                         
+IMPGetIMEW                                                                                           0x880e193d                                         
+IMPQueryIMEA                                                                                         0xf50b4d5d                                         
+IMPQueryIMEW                                                                                         0xf50b4d73                                         
+IMPSetIMEA                                                                                           0x23c8f233                                         
+IMPSetIMEW                                                                                           0x23c8f249                                         
+ImpersonateDdeClientWindow                                                                           0xd65c4570                                         
+InSendMessage                                                                                        0x5f4ff06b                                         
+InSendMessageEx                                                                                      0x730dc088                                         
+InflateRect                                                                                          0x057873d6                                         
+InheritWindowMonitor                                                                                 0x3aacb3f8                                         
+InitDManipHook                                                                                       0x4015ff43                                         
+InitializeGenericHidInjection                                                                        0xf5e512ac                                         
+InitializeInputDeviceInjection                                                                       0x102f513a                                         
+InitializeLpkHooks                                                                                   0xc6e194c2                                         
+InitializePointerDeviceInjection                                                                     0xee72040b                                         
+InitializePointerDeviceInjectionEx                                                                   0x53033c28                                         
+InitializeTouchInjection                                                                             0xcd5eadfd                                         
+InjectDeviceInput                                                                                    0xc511d282                                         
+InjectGenericHidInput                                                                                0xd0175344                                         
+InjectKeyboardInput                                                                                  0xeefe6ec3                                         
+InjectMouseInput                                                                                     0xcf7ccd7b                                         
+InjectPointerInput                                                                                   0x079c5ad3                                         
+InjectSyntheticPointerInput                                                                          0xd9e6f92e                                         
+InjectTouchInput                                                                                     0x23227335                                         
+InputSpaceRegionFromPoint                                                                            0x8f96b563                                         
+InsertMenuA                                                                                          0x94f3af10                                         
+InsertMenuItemA                                                                                      0x3726d2ff                                         
+InsertMenuItemW                                                                                      0x3726d315                                         
+InsertMenuW                                                                                          0x94f3af26                                         
+InternalGetWindowIcon                                                                                0x5149dcc3                                         
+InternalGetWindowText                                                                                0x514fee9f                                         
+IntersectRect                                                                                        0x6cdbfc64                                         
+InvalidateRect                                                                                       0x2acabc94                                         
+InvalidateRgn                                                                                        0x2053b86d                                         
+InvertRect                                                                                           0xc189cc0b                                         
+IsCharAlphaA                                                                                         0x03e14586                                         
+IsCharAlphaNumericA                                                                                  0x58f2ecb9                                         
+IsCharAlphaNumericW                                                                                  0x58f2eccf                                         
+IsCharAlphaW                                                                                         0x03e1459c                                         
+IsCharLowerA                                                                                         0x1dc41a09                                         
+IsCharLowerW                                                                                         0x1dc41a1f                                         
+IsCharUpperA                                                                                         0x32d0c98c                                         
+IsCharUpperW                                                                                         0x32d0c9a2                                         
+IsChild                                                                                              0x08536ee5                                         
+IsClipboardFormatAvailable                                                                           0xe6cd0c7b                                         
+IsDialogMessage                                                                                      0xd7b3cbb6                                         
+IsDialogMessageA                                                                                     0xce2d42b7                                         
+IsDialogMessageW                                                                                     0xce2d42cd                                         
+IsDlgButtonChecked                                                                                   0x7025d11b                                         
+IsGUIThread                                                                                          0x42de893e                                         
+IsHungAppWindow                                                                                      0xd6e34f2c                                         
+IsIconic                                                                                             0x20691896                                         
+IsImmersiveProcess                                                                                   0x2b1fbd71                                         
+IsInDesktopWindowBand                                                                                0x2ea5f4df                                         
+IsInterceptWindow                                                                                    0x188b0667                                         
+IsMenu                                                                                               0xba749216                                         
+IsMouseInPointerEnabled                                                                              0x23b3612d                                         
+IsOneCoreTransformMode                                                                               0x2c91f42d                                         
+IsProcessDPIAware                                                                                    0xd587c2ed                                         
+IsRectEmpty                                                                                          0x21e80bde                                         
+IsSETEnabled                                                                                         0x385be238                                         
+IsServerSideWindow                                                                                   0xd8793135                                         
+IsThreadDesktopComposited                                                                            0x12d874aa                                         
+IsThreadMessageQueueAttached                                                                         0xbd087ee1                                         
+IsThreadTSFEventAware                                                                                0xb22cd798                                         
+IsTopLevelWindow                                                                                     0x3afd2784                                         
+IsTouchWindow                                                                                        0x4200f07c                                         
+IsValidDpiAwarenessContext                                                                           0xd382d9fc                                         
+IsWinEventHookInstalled                                                                              0x36366ae2                                         
+IsWindow                                                                                             0x417d2e59                                         
+IsWindowArranged                                                                                     0x9f3a083d                                         
+IsWindowDisplayChangeSuppressed                                                                      0x4843f383                                         
+IsWindowEnabled                                                                                      0xd11d2444                                         
+IsWindowInDestroy                                                                                    0xae16d0da                                         
+IsWindowRedirectedForPrint                                                                           0x4b79cf48                                         
+IsWindowUnicode                                                                                      0xa1524d60                                         
+IsWindowVisible                                                                                      0xe35ac807                                         
+IsWow64Message                                                                                       0x9b16946d                                         
+IsZoomed                                                                                             0x48e9ec8f                                         
+KillTimer                                                                                            0x753c36d2                                         
+LoadAcceleratorsA                                                                                    0x2afee69e                                         
+LoadAcceleratorsW                                                                                    0x2afee6b4                                         
+LoadBitmapA                                                                                          0x86445ca3                                         
+LoadBitmapW                                                                                          0x86445cb9                                         
+LoadCursorA                                                                                          0xef1bd604                                         
+LoadCursorFromFileA                                                                                  0x92335f38                                         
+LoadCursorFromFileW                                                                                  0x92335f4e                                         
+LoadCursorW                                                                                          0xef1bd61a                                         
+LoadIconA                                                                                            0x110f756f                                         
+LoadIconW                                                                                            0x110f7585                                         
+LoadImageA                                                                                           0x33ab5229                                         
+LoadImageW                                                                                           0x33ab523f                                         
+LoadKeyboardLayoutA                                                                                  0x1a5b8535                                         
+LoadKeyboardLayoutEx                                                                                 0x65cc2cd1                                         
+LoadKeyboardLayoutW                                                                                  0x1a5b854b                                         
+LoadLocalFonts                                                                                       0xf096699a                                         
+LoadMenuA                                                                                            0x1158ecdb                                         
+LoadMenuIndirectA                                                                                    0x7f1bfe0d                                         
+LoadMenuIndirectW                                                                                    0x7f1bfe23                                         
+LoadMenuW                                                                                            0x1158ecf1                                         
+LoadRemoteFonts                                                                                      0x20d897bb                                         
+LoadStringA                                                                                          0xbc64f7fd                                         
+LoadStringW                                                                                          0xbc64f813                                         
+LockSetForegroundWindow                                                                              0x277ede8d                                         
+LockWindowStation                                                                                    0x91e548a8                                         
+LockWindowUpdate                                                                                     0xda436de9                                         
+LockWorkStation                                                                                      0xa7851993                                         
+LogicalToPhysicalPoint                                                                               0x29490cca                                         
+LogicalToPhysicalPointForPerMonitorDPI                                                               0x9ea5455d                                         
+LookupIconIdFromDirectory                                                                            0xeb289a1e                                         
+LookupIconIdFromDirectoryEx                                                                          0x57b7a2fb                                         
+MBToWCSEx                                                                                            0x2fd872c1                                         
+MBToWCSExt                                                                                           0x2ae6cb55                                         
+MB_GetString                                                                                         0x2397e34a                                         
+MITGetCursorUpdateHandle                                                                             0x23e4eddc                                         
+MITSetLastInputRecipient                                                                             0x8ac9ed82                                         
+MITSynthesizeTouchInput                                                                              0x5f7012b8                                         
+MakeThreadTSFEventAware                                                                              0xc8fdb7ba                                         
+MapDialogRect                                                                                        0x14163ba1                                         
+MapPointsByVisualIdentifier                                                                          0x3b538f52                                         
+MapVirtualKeyA                                                                                       0xd75b53d4                                         
+MapVirtualKeyExA                                                                                     0x1b7fb991                                         
+MapVirtualKeyExW                                                                                     0x1b7fb9a7                                         
+MapVirtualKeyW                                                                                       0xd75b53ea                                         
+MapVisualRelativePoints                                                                              0x226378b0                                         
+MapWindowPoints                                                                                      0x70fb1cb8                                         
+MenuItemFromPoint                                                                                    0x4b3bc907                                         
+MenuWindowProcA                                                                                      0x5e0cd5e7                                         
+MenuWindowProcW                                                                                      0x5e0cd5fd                                         
+MessageBeep                                                                                          0x384ee7e6                                         
+MessageBoxA                                                                                          0x384f14b4                                         
+MessageBoxExA                                                                                        0x88673271                                         
+MessageBoxExW                                                                                        0x88673287                                         
+MessageBoxIndirectA                                                                                  0xeec4eee6                                         
+MessageBoxIndirectW                                                                                  0xeec4eefc                                         
+MessageBoxTimeoutA                                                                                   0x4d84d07b                                         
+MessageBoxTimeoutW                                                                                   0x4d84d091                                         
+MessageBoxW                                                                                          0x384f14ca                                         
+ModifyMenuA                                                                                          0xfc1cbbc3                                         
+ModifyMenuW                                                                                          0xfc1cbbd9                                         
+MonitorFromPoint                                                                                     0x7b8255ab                                         
+MonitorFromRect                                                                                      0x8f61f7cf                                         
+MonitorFromWindow                                                                                    0xfbb72799                                         
+MoveWindow                                                                                           0x067d82f4                                         
+MsgWaitForMultipleObjects                                                                            0x26b1fbde                                         
+MsgWaitForMultipleObjectsEx                                                                          0x9b2074bb                                         
+NotifyOverlayWindow                                                                                  0x4529c9f8                                         
+NotifyWinEvent                                                                                       0xf33d508e                                         
+OemKeyScan                                                                                           0x83b68034                                         
+OemToCharA                                                                                           0x4c108b88                                         
+OemToCharBuffA                                                                                       0xb14f0fab                                         
+OemToCharBuffW                                                                                       0xb14f0fc1                                         
+OemToCharW                                                                                           0x4c108b9e                                         
+OffsetRect                                                                                           0x89249f1a                                         
+OpenClipboard                                                                                        0x774dfc27                                         
+OpenDesktopA                                                                                         0xa6393752                                         
+OpenDesktopW                                                                                         0xa6393768                                         
+OpenIcon                                                                                             0x0507da60                                         
+OpenInputDesktop                                                                                     0x259cf7c1                                         
+OpenThreadDesktop                                                                                    0xbd4d9629                                         
+OpenWindowStationA                                                                                   0x2deb3b52                                         
+OpenWindowStationW                                                                                   0x2deb3b68                                         
+PackDDElParam                                                                                        0x7df24f0e                                         
+PackTouchHitTestingProximityEvaluation                                                               0xc61c4597                                         
+PaintDesktop                                                                                         0x56e200db                                         
+PaintMenuBar                                                                                         0x0b584e6b                                         
+PaintMonitor                                                                                         0x22a626a9                                         
+PeekMessageA                                                                                         0x0d922930                                         
+PeekMessageW                                                                                         0x0d922946                                         
+PhysicalToLogicalPoint                                                                               0x1e8ad34a                                         
+PhysicalToLogicalPointForPerMonitorDPI                                                               0xe7a40bdd                                         
+PostMessageA                                                                                         0x94252691                                         
+PostMessageW                                                                                         0x942526a7                                         
+PostQuitMessage                                                                                      0x218f96d3                                         
+PostThreadMessageA                                                                                   0x8fa7f1c9                                         
+PostThreadMessageW                                                                                   0x8fa7f1df                                         
+PrintWindow                                                                                          0x64694bea                                         
+PrivateExtractIconExA                                                                                0xbf57b9c2                                         
+PrivateExtractIconExW                                                                                0xbf57b9d8                                         
+PrivateExtractIconsA                                                                                 0x2c961318                                         
+PrivateExtractIconsW                                                                                 0x2c96132e                                         
+PrivateRegisterICSProc                                                                               0x3d528cb8                                         
+PtInRect                                                                                             0xe3e7270e                                         
+QueryBSDRWindow                                                                                      0x881a38be                                         
+QueryDisplayConfig                                                                                   0xdfcb9827                                         
+QuerySendMessage                                                                                     0x5d9a850a                                         
+RIMAddInputObserver                                                                                  0x080f636e                                         
+RIMAreSiblingDevices                                                                                 0x28779270                                         
+RIMDeviceIoControl                                                                                   0x9a4b2836                                         
+RIMEnableMonitorMappingForDevice                                                                     0x2396ef5f                                         
+RIMFreeInputBuffer                                                                                   0x0ed90659                                         
+RIMGetDevicePreparsedData                                                                            0x626d875d                                         
+RIMGetDevicePreparsedDataLockfree                                                                    0xe2fdf408                                         
+RIMGetDeviceProperties                                                                               0x5bffcdca                                         
+RIMGetDevicePropertiesLockfree                                                                       0xee725775                                         
+RIMGetPhysicalDeviceRect                                                                             0xcb64b408                                         
+RIMGetSourceProcessId                                                                                0x088e5fca                                         
+RIMObserveNextInput                                                                                  0xd7ea9712                                         
+RIMOnAsyncPnpWorkNotification                                                                        0x83936e40                                         
+RIMOnPnpNotification                                                                                 0xd6f24a5f                                         
+RIMOnTimerNotification                                                                               0xdb1a21b2                                         
+RIMQueryDevicePath                                                                                   0x80a243c0                                         
+RIMReadInput                                                                                         0xe4855199                                         
+RIMRegisterForInput                                                                                  0x8f246029                                         
+RIMRegisterForInputEx                                                                                0xe9bd17c6                                         
+RIMRemoveInputObserver                                                                               0xb0b67a33                                         
+RIMSetExtendedDeviceProperty                                                                         0x9f084e1f                                         
+RIMSetTestModeStatus                                                                                 0xd7c4ac22                                         
+RIMUnregisterForInput                                                                                0x11e41cec                                         
+RIMUpdateInputObserverRegistration                                                                   0x806d6c63                                         
+RaiseLowerShellWindow                                                                                0xffd68332                                         
+RealChildWindowFromPoint                                                                             0x17586823                                         
+RealGetWindowClass                                                                                   0xcea57f77                                         
+RealGetWindowClassA                                                                                  0xa3556e98                                         
+RealGetWindowClassW                                                                                  0xa3556eae                                         
+ReasonCodeNeedsBugID                                                                                 0xa463e6a2                                         
+ReasonCodeNeedsComment                                                                               0x8c744bca                                         
+RecordShutdownReason                                                                                 0xcba08c68                                         
+RedrawWindow                                                                                         0x37940002                                         
+RegisterBSDRWindow                                                                                   0xc6ea63cd                                         
+RegisterClassA                                                                                       0x7715ab81                                         
+RegisterClassExA                                                                                     0x932eb07e                                         
+RegisterClassExW                                                                                     0x932eb094                                         
+RegisterClassW                                                                                       0x7715ab97                                         
+RegisterClipboardFormatA                                                                             0xa14adc84                                         
+RegisterClipboardFormatW                                                                             0xa14adc9a                                         
+RegisterCloakedNotification                                                                          0xb740f6c4                                         
+RegisterDManipHook                                                                                   0x6d4f81d4                                         
+RegisterDeviceNotificationA                                                                          0xb28d33e2                                         
+RegisterDeviceNotificationW                                                                          0xb28d33f8                                         
+RegisterErrorReportingDialog                                                                         0x37f0ddde                                         
+RegisterForCustomDockTargets                                                                         0xaf93caa7                                         
+RegisterForTooltipDismissNotification                                                                0xacc0fa5f                                         
+RegisterFrostWindow                                                                                  0xca5b8a10                                         
+RegisterGhostWindow                                                                                  0x274e9407                                         
+RegisterHotKey                                                                                       0x82ff7f9e                                         
+RegisterLogonProcess                                                                                 0x29d1b828                                         
+RegisterMessagePumpHook                                                                              0xe51ca142                                         
+RegisterPointerDeviceNotifications                                                                   0x5e809ed5                                         
+RegisterPointerInputTarget                                                                           0xcbb2b8e2                                         
+RegisterPointerInputTargetEx                                                                         0x834482bf                                         
+RegisterPowerSettingNotification                                                                     0xdf3b807c                                         
+RegisterRawInputDevices                                                                              0xfb1c9307                                         
+RegisterServicesProcess                                                                              0x4f7b51ad                                         
+RegisterSessionPort                                                                                  0x16fe8cd3                                         
+RegisterShellHookWindow                                                                              0xedb754cb                                         
+RegisterSuspendResumeNotification                                                                    0x13261304                                         
+RegisterSystemThread                                                                                 0x509c8bc7                                         
+RegisterTasklist                                                                                     0x1e361079                                         
+RegisterTouchHitTestingWindow                                                                        0x16472c48                                         
+RegisterTouchWindow                                                                                  0x64603f25                                         
+RegisterTouchpadCapableThread                                                                        0xa16b7a42                                         
+RegisterTouchpadCapableWindow                                                                        0xa87ad8c2                                         
+RegisterUserApiHook                                                                                  0x0a18b0b4                                         
+RegisterWindowMessageA                                                                               0xf24fe7a8                                         
+RegisterWindowMessageW                                                                               0xf24fe7be                                         
+ReleaseCapture                                                                                       0xbd85753a                                         
+ReleaseDC                                                                                            0xe43871cd                                         
+ReleaseDwmHitTestWaiters                                                                             0x1f54e332                                         
+RemoveClipboardFormatListener                                                                        0xd04ddf12                                         
+RemoveInjectionDevice                                                                                0x76301106                                         
+RemoveMenu                                                                                           0x89414748                                         
+RemovePropA                                                                                          0xb1a79e95                                         
+RemovePropW                                                                                          0xb1a79eab                                         
+RemoveThreadTSFEventAwareness                                                                        0xbc7a9623                                         
+RemoveVisualIdentifier                                                                               0x1b0947aa                                         
+ReplyMessage                                                                                         0x53a602d6                                         
+ReportInertia                                                                                        0x2b2a2b8d                                         
+ResolveDesktopForWOW                                                                                 0xcabb92a3                                         
+ReuseDDElParam                                                                                       0xab4a69b3                                         
+ScreenToClient                                                                                       0x8dd1b847                                         
+ScrollChildren                                                                                       0x842c969d                                         
+ScrollDC                                                                                             0xebd2929b                                         
+ScrollWindow                                                                                         0x1100190c                                         
+ScrollWindowEx                                                                                       0x516a9569                                         
+SendDlgItemMessageA                                                                                  0xbc7c053b                                         
+SendDlgItemMessageW                                                                                  0xbc7c0551                                         
+SendIMEMessageExA                                                                                    0x4befea8d                                         
+SendIMEMessageExW                                                                                    0x4befeaa3                                         
+SendInput                                                                                            0xee9f5eff                                         
+SendMessageA                                                                                         0x95644475                                         
+SendMessageCallbackA                                                                                 0xeed57f62                                         
+SendMessageCallbackW                                                                                 0xeed57f78                                         
+SendMessageTimeoutA                                                                                  0xb4b09d1c                                         
+SendMessageTimeoutW                                                                                  0xb4b09d32                                         
+SendMessageW                                                                                         0x9564448b                                         
+SendNotifyMessageA                                                                                   0x0dc27dee                                         
+SendNotifyMessageW                                                                                   0x0dc27e04                                         
+SetActiveWindow                                                                                      0x94daba65                                         
+SetAdditionalForegroundBoostProcesses                                                                0xb0d5ff23                                         
+SetCapture                                                                                           0x97f69905                                         
+SetCaretBlinkTime                                                                                    0x0399495f                                         
+SetCaretPos                                                                                          0x9a638012                                         
+SetClassLongA                                                                                        0x454f44d8                                         
+SetClassLongPtrA                                                                                     0x9cb96bee                                         
+SetClassLongPtrW                                                                                     0x9cb96c04                                         
+SetClassLongW                                                                                        0x454f44ee                                         
+SetClassWord                                                                                         0x11a39663                                         
+SetClipboardData                                                                                     0x1fa41dbb                                         
+SetClipboardViewer                                                                                   0xc3a84933                                         
+SetCoalescableTimer                                                                                  0xb9961360                                         
+SetCoreWindow                                                                                        0xde300792                                         
+SetCoveredWindowStates                                                                               0xac008c05                                         
+SetCursor                                                                                            0x72a1026f                                         
+SetCursorContents                                                                                    0x3d36e53d                                         
+SetCursorPos                                                                                         0x7c580321                                         
+SetDebugErrorLevel                                                                                   0xccb132da                                         
+SetDeskWallpaper                                                                                     0x8e7e4ca0                                         
+SetDesktopColorTransform                                                                             0x85fd98a6                                         
+SetDialogControlDpiChangeBehavior                                                                    0x2dcb0595                                         
+SetDialogDpiChangeBehavior                                                                           0x8983c334                                         
+SetDisplayAutoRotationPreferences                                                                    0x65cbffa2                                         
+SetDisplayConfig                                                                                     0x7dbc4f3d                                         
+SetDlgItemInt                                                                                        0x35eeb3c2                                         
+SetDlgItemTextA                                                                                      0x6d2cea9d                                         
+SetDlgItemTextW                                                                                      0x6d2ceab3                                         
+SetDoubleClickTime                                                                                   0xa03bcc61                                         
+SetFeatureReportResponse                                                                             0x347a8768                                         
+SetFocus                                                                                             0x878cf611                                         
+SetForegroundRedirectionForActivationObject                                                          0x9490d2b4                                         
+SetForegroundWindow                                                                                  0x54bc3484                                         
+SetFullscreenMagnifierOffsetsDWMUpdated                                                              0xaab274df                                         
+SetGestureConfig                                                                                     0x7d6897a6                                         
+SetInternalWindowPos                                                                                 0x1a09bab8                                         
+SetKeyboardState                                                                                     0x5ac0dac3                                         
+SetLastErrorEx                                                                                       0x13ebec8c                                         
+SetLayeredWindowAttributes                                                                           0xf7f1ba16                                         
+SetMagnificationDesktopColorEffect                                                                   0x950f97f0                                         
+SetMagnificationDesktopMagnification                                                                 0x20af00fd                                         
+SetMagnificationDesktopMagnifierOffsetsDWMUpdated                                                    0x0d4755bf                                         
+SetMagnificationDesktopSamplingMode                                                                  0xd0017844                                         
+SetMagnificationLensCtxInformation                                                                   0x5e501331                                         
+SetMaxTouchpadSensitivity                                                                            0x0a87531a                                         
+SetMenu                                                                                              0xecd96766                                         
+SetMenuContextHelpId                                                                                 0x1ef07981                                         
+SetMenuDefaultItem                                                                                   0x24bc57ba                                         
+SetMenuInfo                                                                                          0x00949392                                         
+SetMenuItemBitmaps                                                                                   0x3dfdc665                                         
+SetMenuItemInfoA                                                                                     0xf5471d02                                         
+SetMenuItemInfoW                                                                                     0xf5471d18                                         
+SetMessageExtraInfo                                                                                  0x43f65e66                                         
+SetMessageQueue                                                                                      0xcb5629bb                                         
+SetMirrorRendering                                                                                   0xc04f8c2a                                         
+SetParent                                                                                            0x8f89ecdb                                         
+SetPhysicalCursorPos                                                                                 0xae1cb55e                                         
+SetPointerDeviceInputSpace                                                                           0xde2c489e                                         
+SetProcessDPIAware                                                                                   0x0a2aa63d                                         
+SetProcessDefaultLayout                                                                              0x0074b9b3                                         
+SetProcessDpiAwarenessContext                                                                        0x3e61981b                                         
+SetProcessDpiAwarenessInternal                                                                       0x541bd493                                         
+SetProcessLaunchForegroundPolicy                                                                     0xb9975176                                         
+SetProcessRestrictionExemption                                                                       0x582e3a1f                                         
+SetProcessWindowStation                                                                              0xbc486cea                                         
+SetProgmanWindow                                                                                     0x08e3811d                                         
+SetPropA                                                                                             0x8843c273                                         
+SetPropW                                                                                             0x8843c289                                         
+SetRect                                                                                              0xecdc23df                                         
+SetRectEmpty                                                                                         0x0836b32e                                         
+SetScrollInfo                                                                                        0xdbe8ab2c                                         
+SetScrollPos                                                                                         0x1defe512                                         
+SetScrollRange                                                                                       0x5999edad                                         
+SetShellChangeNotifyWindow                                                                           0x0ed594e0                                         
+SetShellWindow                                                                                       0x8f625d81                                         
+SetShellWindowEx                                                                                     0xf16fcb1e                                         
+SetSysColors                                                                                         0x52263f42                                         
+SetSysColorsTemp                                                                                     0x6e07dc38                                         
+SetSystemCursor                                                                                      0x02e45694                                         
+SetSystemMenu                                                                                        0x3b7f6e4b                                         
+SetTaskmanWindow                                                                                     0x2bd38d38                                         
+SetThreadCursorCreationScaling                                                                       0x6016a61d                                         
+SetThreadDesktop                                                                                     0xb41d0683                                         
+SetThreadDpiAwarenessContext                                                                         0x443249f4                                         
+SetThreadDpiHostingBehavior                                                                          0x734f15b2                                         
+SetThreadInputBlocked                                                                                0x9b43e6cd                                         
+SetTimer                                                                                             0x88872b52                                         
+SetUserObjectCapability                                                                              0xc22dc9c9                                         
+SetUserObjectInformationA                                                                            0x05b3b2ce                                         
+SetUserObjectInformationW                                                                            0x05b3b2e4                                         
+SetUserObjectSecurity                                                                                0xaea9557f                                         
+SetWinEventHook                                                                                      0xa68ac1b2                                         
+SetWindowBand                                                                                        0xaef8205e                                         
+SetWindowCompositionAttribute                                                                        0x53ead591                                         
+SetWindowCompositionTransition                                                                       0x901b33c8                                         
+SetWindowContextHelpId                                                                               0x5600bea4                                         
+SetWindowDisplayAffinity                                                                             0x39c71f79                                         
+SetWindowFeedbackSetting                                                                             0xc318fd2c                                         
+SetWindowLongA                                                                                       0x8eb8cf1a                                         
+SetWindowLongPtrA                                                                                    0x2552e6f0                                         
+SetWindowLongPtrW                                                                                    0x2552e706                                         
+SetWindowLongW                                                                                       0x8eb8cf30                                         
+SetWindowMessageCapability                                                                           0x3c676090                                         
+SetWindowPlacement                                                                                   0xec4a4ce2                                         
+SetWindowPos                                                                                         0x2c17461b                                         
+SetWindowRgn                                                                                         0x2c174d90                                         
+SetWindowRgnEx                                                                                       0x8f20faed                                         
+SetWindowStationUser                                                                                 0xc2034daa                                         
+SetWindowTextA                                                                                       0x8f44438f                                         
+SetWindowTextW                                                                                       0x8f4443a5                                         
+SetWindowWord                                                                                        0xaf03e065                                         
+SetWindowsHookA                                                                                      0xbe0adb4e                                         
+SetWindowsHookExA                                                                                    0x6c2f078b                                         
+SetWindowsHookExAW                                                                                   0xf20ff942                                         
+SetWindowsHookExW                                                                                    0x6c2f07a1                                         
+SetWindowsHookW                                                                                      0xbe0adb64                                         
+ShellForegroundBoostProcess                                                                          0xeb32203e                                         
+ShellHandwritingDelegateInput                                                                        0x883dc167                                         
+ShellHandwritingHandleDelegatedInput                                                                 0x6689f8b7                                         
+ShellHandwritingUndelegateInput                                                                      0xe6a0acca                                         
+ShellMigrateWindow                                                                                   0xb5439fde                                         
+ShellRegisterHotKey                                                                                  0xb27cd9f6                                         
+ShellSetWindowPos                                                                                    0xc34a2a73                                         
+ShowCaret                                                                                            0x2c3d70d5                                         
+ShowCursor                                                                                           0xb555b0e4                                         
+ShowOwnedPopups                                                                                      0xe72621aa                                         
+ShowScrollBar                                                                                        0x33cdbe0a                                         
+ShowStartGlass                                                                                       0xb07b568e                                         
+ShowSystemCursor                                                                                     0xc04148c9                                         
+ShowWindow                                                                                           0xe321461e                                         
+ShowWindowAsync                                                                                      0x93b1227c                                         
+ShutdownBlockReasonCreate                                                                            0xfbf73868                                         
+ShutdownBlockReasonDestroy                                                                           0xaa8d2d7e                                         
+ShutdownBlockReasonQuery                                                                             0xf91dc20a                                         
+SignalRedirectionStartComplete                                                                       0x458bdd02                                         
+SkipPointerFrameMessages                                                                             0x68725260                                         
+SoftModalMessageBox                                                                                  0x3aad88dc                                         
+SoundSentry                                                                                          0x84f47833                                         
+SubtractRect                                                                                         0xcec9f8bb                                         
+SuppressWindowDisplayChange                                                                          0x0597a9de                                         
+SwapMouseButton                                                                                      0xcec2fb45                                         
+SwitchDesktop                                                                                        0xdf08f0f1                                         
+SwitchDesktopWithFade                                                                                0xad39ff5d                                         
+SwitchToThisWindow                                                                                   0xd0d0208a                                         
+SystemParametersInfoA                                                                                0xb23a3bcb                                         
+SystemParametersInfoForDpi                                                                           0xb420710e                                         
+SystemParametersInfoW                                                                                0xb23a3be1                                         
+TabbedTextOutA                                                                                       0x78894fa5                                         
+TabbedTextOutW                                                                                       0x78894fbb                                         
+TileChildWindows                                                                                     0x40fe0362                                         
+TileWindows                                                                                          0xd69b05de                                         
+ToAscii                                                                                              0x4da125f1                                         
+ToAsciiEx                                                                                            0x3a826f8e                                         
+ToUnicode                                                                                            0x32cec9af                                         
+ToUnicodeEx                                                                                          0x21a7facc                                         
+TrackMouseEvent                                                                                      0x866ca725                                         
+TrackPopupMenu                                                                                       0x4331b283                                         
+TrackPopupMenuEx                                                                                     0xd66868a0                                         
+TranslateAccelerator                                                                                 0xe8822738                                         
+TranslateAcceleratorA                                                                                0xf8c70e79                                         
+TranslateAcceleratorW                                                                                0xf8c70e8f                                         
+TranslateMDISysAccel                                                                                 0x40360e64                                         
+TranslateMessage                                                                                     0xe5425a58                                         
+TranslateMessageEx                                                                                   0x3f4259b5                                         
+UndelegateInput                                                                                      0xa74797d3                                         
+UnhookWinEvent                                                                                       0xdcf4a589                                         
+UnhookWindowsHook                                                                                    0x2e9bdef5                                         
+UnhookWindowsHookEx                                                                                  0x450f7992                                         
+UnionRect                                                                                            0xc13c4afc                                         
+UnloadKeyboardLayout                                                                                 0xb28975f7                                         
+UnlockWindowStation                                                                                  0xaf7ea3cb                                         
+UnpackDDElParam                                                                                      0x424d90b1                                         
+UnregisterClassA                                                                                     0xc6d92184                                         
+UnregisterClassW                                                                                     0xc6d9219a                                         
+UnregisterDeviceNotification                                                                         0xfcb65604                                         
+UnregisterHotKey                                                                                     0xd2c2f5a1                                         
+UnregisterMessagePumpHook                                                                            0x8b448aa5                                         
+UnregisterPointerInputTarget                                                                         0x94744b65                                         
+UnregisterPointerInputTargetEx                                                                       0x82b4c202                                         
+UnregisterPowerSettingNotification                                                                   0x8f6fa93f                                         
+UnregisterSessionPort                                                                                0x005b3cb6                                         
+UnregisterSuspendResumeNotification                                                                  0xc9df5427                                         
+UnregisterTouchWindow                                                                                0x4dbcef08                                         
+UnregisterUserApiHook                                                                                0xf3756097                                         
+UpdateDefaultDesktopThumbnail                                                                        0x6810896b                                         
+UpdateLayeredWindow                                                                                  0x26e0eb66                                         
+UpdateLayeredWindowIndirect                                                                          0x0f6cea58                                         
+UpdatePerUserSystemParameters                                                                        0xf5a21ac7                                         
+UpdateWindow                                                                                         0xe870e800                                         
+UpdateWindowInputSinkHints                                                                           0x987845ab                                         
+User32InitializeImmEntryTable                                                                        0x962b73d8                                         
+UserClientDllInitialize                                                                              0xd2a0b8b1                                         
+UserHandleGrantAccess                                                                                0xc2cf2f5e                                         
+UserLpkPSMTextOut                                                                                    0x898f47f8                                         
+UserLpkTabbedTextOut                                                                                 0xadbce1aa                                         
+UserRealizePalette                                                                                   0x5efb849f                                         
+UserRegisterWowHandlers                                                                              0xeb73deb7                                         
+VRipOutput                                                                                           0x365ffbf7                                         
+VTagOutput                                                                                           0x087e1428                                         
+ValidateRect                                                                                         0x587556dd                                         
+ValidateRgn                                                                                          0x487fad96                                         
+VkKeyScanA                                                                                           0xf7974c55                                         
+VkKeyScanExA                                                                                         0x3a9bd652                                         
+VkKeyScanExW                                                                                         0x3a9bd668                                         
+VkKeyScanW                                                                                           0xf7974c6b                                         
+WCSToMBEx                                                                                            0x1eb8ab81                                         
+WINNLSEnableIME                                                                                      0xfce39de2                                         
+WINNLSGetEnableStatus                                                                                0x3114f7ab                                         
+WINNLSGetIMEHotkey                                                                                   0xafc9d60f                                         
+WaitForInputIdle                                                                                     0x8b4f584f                                         
+WaitForRedirectionStartComplete                                                                      0x12a606a0                                         
+WaitMessage                                                                                          0xb60a373f                                         
+WinHelpA                                                                                             0x5e9d237d                                         
+WinHelpW                                                                                             0x5e9d2393                                         
+WindowFromDC                                                                                         0xcff8a038                                         
+WindowFromPhysicalPoint                                                                              0xaae704f8                                         
+WindowFromPoint                                                                                      0xc5c6693b                                         
+_UserTestTokenForInteractive                                                                         0x73aedd29                                         
+gSharedInfo                                                                                          0xf4e6e56f                                         
+gapfnScSendMessage                                                                                   0x9b02b996                                         
+keybd_event                                                                                          0xb8199eb5                                         
+mouse_event                                                                                          0x16a4502f                                         
+wsprintfA                                                                                            0xf898b8c3                                         
+wsprintfW                                                                                            0xf898b8d9                                         
+wvsprintfA                                                                                           0xa89712b9                                         
+wvsprintfW                                                                                           0xa89712cf                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

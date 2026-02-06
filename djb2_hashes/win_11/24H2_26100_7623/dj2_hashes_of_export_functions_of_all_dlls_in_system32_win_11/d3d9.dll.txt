@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\d3d9.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+D3DPERF_BeginEvent                                                                                   0x0dc03933                                         
+D3DPERF_EndEvent                                                                                     0xfbedf1e5                                         
+D3DPERF_GetStatus                                                                                    0x047a5110                                         
+D3DPERF_QueryRepeatFrame                                                                             0x5641c58e                                         
+D3DPERF_SetMarker                                                                                    0x6b0201da                                         
+D3DPERF_SetOptions                                                                                   0x88575ac4                                         
+D3DPERF_SetRegion                                                                                    0x76ee1f9c                                         
+DebugSetLevel                                                                                        0xa2e1f310                                         
+DebugSetMute                                                                                         0xb75cfe53                                         
+Direct3D9EnableMaximizedWindowedModeShim                                                             0x8567a016                                         
+Direct3DCreate9                                                                                      0x827bce04                                         
+Direct3DCreate9Ex                                                                                    0x10a76861                                         
+Direct3DCreate9On12                                                                                  0xd8285c64                                         
+Direct3DCreate9On12Ex                                                                                0x83b10ec1                                         
+Direct3DShaderValidatorCreate9                                                                       0x05931b01                                         
+PSGPError                                                                                            0x0b7c7d69                                         
+PSGPSampleTexture                                                                                    0x837895b2                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\hid.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HidD_FlushQueue                                                                                      0x183693a4                                         
+HidD_FreePreparsedData                                                                               0x201d56ff                                         
+HidD_GetAttributes                                                                                   0x92a451c4                                         
+HidD_GetConfiguration                                                                                0x5ea52d35                                         
+HidD_GetFeature                                                                                      0x72bd5069                                         
+HidD_GetHidGuid                                                                                      0x162407bb                                         
+HidD_GetIndexedString                                                                                0x67721cd5                                         
+HidD_GetInputReport                                                                                  0x14f30ba9                                         
+HidD_GetManufacturerString                                                                           0x0a890ae1                                         
+HidD_GetMsGenreDescriptor                                                                            0xe3bdec8d                                         
+HidD_GetNumInputBuffers                                                                              0x70c68d6a                                         
+HidD_GetPhysicalDescriptor                                                                           0xdc4d4459                                         
+HidD_GetPreparsedData                                                                                0x3c3ef6bd                                         
+HidD_GetProductString                                                                                0xa774dcd5                                         
+HidD_GetSerialNumberString                                                                           0xce0f8dbd                                         
+HidD_Hello                                                                                           0xbeca8931                                         
+HidD_SetConfiguration                                                                                0xf122f3c1                                         
+HidD_SetFeature                                                                                      0xa33c1df5                                         
+HidD_SetNumInputBuffers                                                                              0x99d026f6                                         
+HidD_SetOutputReport                                                                                 0xe80c2f36                                         
+HidP_GetButtonCaps                                                                                   0x5b3551ec                                         
+HidP_GetCaps                                                                                         0xc4e6c490                                         
+HidP_GetData                                                                                         0xc4e75163                                         
+HidP_GetExtendedAttributes                                                                           0x37ad8881                                         
+HidP_GetLinkCollectionNodes                                                                          0xcf4266bc                                         
+HidP_GetScaledUsageValue                                                                             0x9f4eb4a7                                         
+HidP_GetSpecificButtonCaps                                                                           0x7e8dd0d2                                         
+HidP_GetSpecificValueCaps                                                                            0x42212dd3                                         
+HidP_GetUsageValue                                                                                   0x3478133b                                         
+HidP_GetUsageValueArray                                                                              0x9ff4fdfa                                         
+HidP_GetUsages                                                                                       0xc4e45db1                                         
+HidP_GetUsagesEx                                                                                     0x8f72974e                                         
+HidP_GetValueCaps                                                                                    0xc4eff3ad                                         
+HidP_InitializeReportForID                                                                           0x9b65198b                                         
+HidP_MaxDataListLength                                                                               0xbd0c7e47                                         
+HidP_MaxUsageListLength                                                                              0x866b68e2                                         
+HidP_SetData                                                                                         0x60a22a6f                                         
+HidP_SetScaledUsageValue                                                                             0xe98b7fb3                                         
+HidP_SetUsageValue                                                                                   0xecec8547                                         
+HidP_SetUsageValueArray                                                                              0xc8fe9786                                         
+HidP_SetUsages                                                                                       0x3ab9a9bd                                         
+HidP_TranslateUsagesToI8042ScanCodes                                                                 0x9fd839ec                                         
+HidP_UnsetUsages                                                                                     0x805792e0                                         
+HidP_UsageListDifference                                                                             0x5e7491e5                                         

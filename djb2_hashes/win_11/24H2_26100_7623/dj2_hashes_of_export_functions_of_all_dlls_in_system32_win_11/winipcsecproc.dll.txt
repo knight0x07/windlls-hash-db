@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\winipcsecproc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IpcSPAttest                                                                                          0x0b376eb9                                         
+IpcSPBindLicense                                                                                     0xd1c34744                                         
+IpcSPCheckEnvironmentSecurity                                                                        0xd367218f                                         
+IpcSPCloseHandle                                                                                     0xe6eddf26                                         
+IpcSPCommit                                                                                          0x0f838f8d                                         
+IpcSPCreateDecryptor                                                                                 0xbc093a54                                         
+IpcSPCreateEnablingPrincipal                                                                         0xdde15f5a                                         
+IpcSPCreateEncryptor                                                                                 0x7ed6273e                                         
+IpcSPCreateMachineCerts                                                                              0xdd73876e                                         
+IpcSPCreatePCE                                                                                       0x15106290                                         
+IpcSPCreateSecurityProcessor                                                                         0x1dc39ed0                                         
+IpcSPDecrypt                                                                                         0x34ea347f                                         
+IpcSPDecryptFinal                                                                                    0x50d803c9                                         
+IpcSPDecryptUpdate                                                                                   0x8f4f0f82                                         
+IpcSPDecryptWithRac                                                                                  0x03f62ad1                                         
+IpcSPEnableAndEncrypt                                                                                0xf930d2a3                                         
+IpcSPEnablePublishingLicense                                                                         0xdc5f91a3                                         
+IpcSPEncrypt                                                                                         0x96e2dee9                                         
+IpcSPEncryptFinal                                                                                    0x320dc073                                         
+IpcSPEncryptUpdate                                                                                   0x973c616c                                         
+IpcSPGetBoundRightKey                                                                                0x06362383                                         
+IpcSPGetCurrentTime                                                                                  0xbb744176                                         
+IpcSPGetInfo                                                                                         0x1cf5dfb0                                         
+IpcSPGetProcAddress                                                                                  0x5423afde                                         
+IpcSPInitialize                                                                                      0x4b230fb6                                         
+IpcSPIsActivated                                                                                     0x42036b35                                         
+IpcSPLoadLibrary                                                                                     0x3544d699                                         
+IpcSPSign                                                                                            0x129e8955                                         

@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\ddraw.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AcquireDDThreadLock                                                                                  0xd0474e58                                         
+CompleteCreateSysmemSurface                                                                          0xff6ea739                                         
+D3DParseUnknownCommand                                                                               0x1156460a                                         
+DDGetAttachedSurfaceLcl                                                                              0x4a50c40f                                         
+DDInternalLock                                                                                       0x1ebade73                                         
+DDInternalUnlock                                                                                     0xcddda9f6                                         
+DSoundHelp                                                                                           0xb3905ffb                                         
+DirectDrawCreate                                                                                     0xe77b9a82                                         
+DirectDrawCreateClipper                                                                              0x0baedff1                                         
+DirectDrawCreateEx                                                                                   0xb4cc4c5f                                         
+DirectDrawEnumerateA                                                                                 0x8d099975                                         
+DirectDrawEnumerateExA                                                                               0xf5d5eb72                                         
+DirectDrawEnumerateExW                                                                               0xf5d5eb88                                         
+DirectDrawEnumerateW                                                                                 0x8d09998b                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetDDSurfaceLocal                                                                                    0x14ca5a41                                         
+GetOLEThunkData                                                                                      0x6d1468c9                                         
+GetSurfaceFromDC                                                                                     0x0a468f89                                         
+RegisterSpecialCase                                                                                  0xffb386e7                                         
+ReleaseDDThreadLock                                                                                  0xea65606f                                         
+SetAppCompatData                                                                                     0xa2526a30                                         

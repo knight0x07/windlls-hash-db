@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\profext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateAppContainerProfileWorker                                                                      0x20741d48                                         
+CreateDirectoryJunctionsForSystemWorker                                                              0xd4af9e91                                         
+CreateDirectoryJunctionsForUserProfileWorker                                                         0xdeb147fc                                         
+CreateGroupExWorker                                                                                  0x77ac047d                                         
+CreateLinkFileExWorker                                                                               0x59be00be                                         
+DeleteAppContainerProfileWorker                                                                      0x05a2b3e7                                         
+DeleteGroupWorker                                                                                    0x999b143f                                         
+DeleteLinkFileWorker                                                                                 0xa5c5a3e0                                         
+DeriveAppContainerSidFromAppContainerNameWorker                                                      0x67680e7b                                         
+DeriveRestrictedAppContainerSidFromAppContainerSidAndRestrictedNameWorker                            0x67f1c560                                         
+GetAppContainerFolderPathWorker                                                                      0x5d0d206c                                         
+GetAppContainerRegistryLocationWorker                                                                0x9c699ff5                                         
+IsAppContainerProfilePresentWorker                                                                   0xc2787691                                         
+LookupAppContainerDisplayNameWorker                                                                  0x997c3ad4                                         
+ProcessGroupPolicyCompletedExWorker                                                                  0xa5d1d275                                         
+ProcessGroupPolicyCompletedWorker                                                                    0xcd6927d8                                         
+RsopAccessCheckByTypeWorker                                                                          0xdd9938f0                                         
+RsopFileAccessCheckWorker                                                                            0x4bbfb493                                         
+RsopResetPolicySettingStatusWorker                                                                   0x10f09d98                                         
+RsopSetPolicySettingStatusWorker                                                                     0x8fb3c7c1                                         
+UpdateAppContainerProfileWorker                                                                      0x7cfc1617                                         

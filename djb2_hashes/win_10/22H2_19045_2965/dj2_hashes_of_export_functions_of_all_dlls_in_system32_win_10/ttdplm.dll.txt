@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\ttdplm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateModernAppToDelete                                                                              0x3225b315                                         
+CreateModernAppToTrace                                                                               0x770a9691                                         
+GetMaxPackageNameLength                                                                              0x91f01c7a                                         
+GetPackageFromPid                                                                                    0xfc6a23a2                                         
+SetPermisionsForFolder                                                                               0x7d0c761d                                         

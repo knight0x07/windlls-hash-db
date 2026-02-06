@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\InkObjCore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddStroke                                                                                            0xab3bcf66                                         
+AddStrokeWithId                                                                                      0xc0ed7faf                                         
+AddWordsToWordList                                                                                   0x13c1f118                                         
+AdviseInkChange                                                                                      0xea06af49                                         
+CreateContext                                                                                        0x539d7dbe                                         
+CreateRecognizer                                                                                     0xdb6cb6f1                                         
+DestroyContext                                                                                       0xaf82c034                                         
+DestroyRecognizer                                                                                    0x0da36da7                                         
+DestroyWordList                                                                                      0x1d248dc7                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EndInkInput                                                                                          0x8bd827ce                                         
+GetAllRecognizers                                                                                    0xfa8face9                                         
+GetBestResultString                                                                                  0x8fc58bc9                                         
+GetLatticePtr                                                                                        0x7004bf21                                         
+GetLeftSeparator                                                                                     0xcf1cbee1                                         
+GetRecoAttributes                                                                                    0x2bd264b5                                         
+GetResultPropertyList                                                                                0xc85070a5                                         
+GetRightSeparator                                                                                    0xce40bdf4                                         
+GetUnicodeRanges                                                                                     0xfbd4aaac                                         
+InvokeIDispatch                                                                                      0x6359f8aa                                         
+IsStringSupported                                                                                    0x6ffdbdfe                                         
+LoadCachedAttributes                                                                                 0x44b9d624                                         
+MakeWordList                                                                                         0xfb829b7b                                         
+Process                                                                                              0x23ef57c4                                         
+SetConstraint                                                                                        0xa7197196                                         
+SetEnabledUnicodeRanges                                                                              0xd2742203                                         
+SetFactoid                                                                                           0x7df9f60b                                         
+SetFlags                                                                                             0x878b469e                                         
+SetGuide                                                                                             0x87a2701f                                         
+SetStrokeGroupId                                                                                     0x56ad1203                                         
+SetTextContext                                                                                       0xf43047db                                         
+SetWordList                                                                                          0x450fd769                                         

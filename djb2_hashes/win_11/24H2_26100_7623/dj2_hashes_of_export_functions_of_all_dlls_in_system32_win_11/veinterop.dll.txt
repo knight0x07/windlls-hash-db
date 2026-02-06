@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\veinterop.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseUserBoundKeyAuthContext                                                                         0x91223592                                         
+CloseUserBoundKeySession                                                                             0x9afd2a5f                                         
+CreateUserBoundKeyRequestForDeriveSharedSecret                                                       0x8e73dba5                                         
+CreateUserBoundKeyRequestForRetrieveAuthorizationContext                                             0xecb72bc5                                         
+GetUserBoundKeyAuthContext                                                                           0x5b8e9a7c                                         
+InitializeUserBoundKeySession                                                                        0xb640211b                                         
+ProtectUserBoundKey                                                                                  0x01bc8826                                         
+UnprotectUserBoundKey                                                                                0xeb193809                                         
+ValidateUserBoundKeyAuthContext                                                                      0x0a16f646                                         

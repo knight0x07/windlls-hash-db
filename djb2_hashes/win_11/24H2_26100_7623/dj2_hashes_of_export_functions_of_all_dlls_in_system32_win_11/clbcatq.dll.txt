@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\clbcatq.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ActivatorUpdateForIsRouterChanges                                                                    0xad655412                                         
+CLSIDFromStringByBitness                                                                             0x6484eb12                                         
+CheckMemoryGates                                                                                     0xf208db50                                         
+CoRegCleanup                                                                                         0x73444e1d                                         
+ComPlusEnablePartitions                                                                              0x0a7297dc                                         
+ComPlusEnableRemoteAccess                                                                            0xd42b66ad                                         
+ComPlusMigrate                                                                                       0xb3a31011                                         
+ComPlusPartitionsEnabled                                                                             0x9a7dacc0                                         
+ComPlusRemoteAccessEnabled                                                                           0x505700b1                                         
+CreateComponentLibraryEx                                                                             0xc74fe9de                                         
+DeleteAllActivatorsForClsid                                                                          0xedce5967                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DowngradeAPL                                                                                         0x5a565b7d                                         
+GetCatalogObject                                                                                     0xfa1499b7                                         
+GetCatalogObject2                                                                                    0x3ca7d0c9                                         
+GetComputerObject                                                                                    0xf941574b                                         
+GetGlobalBabyJITEnabled                                                                              0xaf1f5686                                         
+GetSimpleTableDispenser                                                                              0x304dc1c4                                         
+InprocServer32FromString                                                                             0xe3f019b7                                         
+OpenComponentLibraryEx                                                                               0x92747a1c                                         
+OpenComponentLibraryOnMemEx                                                                          0x01be8ef8                                         
+OpenComponentLibraryOnStreamEx                                                                       0xf97a7025                                         
+ServerGetApplicationType                                                                             0x7ad5c752                                         
+SetSetupOpen                                                                                         0x9e9ffdf4                                         
+SetSetupSave                                                                                         0x9ea1f1d1                                         
+SetupOpen                                                                                            0xe6d53808                                         
+SetupSave                                                                                            0xe6d72be5                                         
+UpdateFromAppChange                                                                                  0xbd827b43                                         
+UpdateFromComponentChange                                                                            0xcdacf5b5                                         

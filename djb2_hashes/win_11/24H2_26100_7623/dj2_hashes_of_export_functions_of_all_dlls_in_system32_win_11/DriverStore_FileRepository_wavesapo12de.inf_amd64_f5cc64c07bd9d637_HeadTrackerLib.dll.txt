@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\HeadTrackerLib.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HeadTrackerDisplaySingleFrame                                                                        0x219860a6                                         
+HeadTrackerGetFPS                                                                                    0x62d581ac                                         
+HeadTrackerGetImagePtr                                                                               0x8feca85c                                         
+HeadTrackerGetImagePtr2                                                                              0x8d81b40e                                         
+HeadTrackerGetNumberOfVideoCaptureDevices                                                            0xa4caaf0f                                         
+HeadTrackerGetTrackingStatus                                                                         0x20049c7a                                         
+HeadTrackerInit                                                                                      0x47cb5e97                                         
+HeadTrackerIsLowLightModeSupported                                                                   0x07e84274                                         
+HeadTrackerProcessFrame                                                                              0xed9cb74d                                         
+HeadTrackerProcessFrame2                                                                             0xa133a11f                                         
+HeadTrackerRelease                                                                                   0x0bc6dc04                                         
+HeadTrackerResetModel                                                                                0xd621f317                                         
+HeadTrackerSetActiveVideoCaptureDevice                                                               0x47227566                                         
+HeadTrackerSetLowLightMode                                                                           0x610bdcbe                                         
+HeadTrackerSetOutputImageParams                                                                      0xe417af27                                         
+HeadTrackerSetPauseTracking                                                                          0x21c2fc00                                         
+HeadTrackerSetSearchTimeConsts                                                                       0x7631d32e                                         
+HeadTrackerSetVerboseDisplay                                                                         0x277c091b                                         
+HeadTrackerStart                                                                                     0x41ef4ef1                                         
+HeadTrackerStop                                                                                      0x47d0f4a9                                         

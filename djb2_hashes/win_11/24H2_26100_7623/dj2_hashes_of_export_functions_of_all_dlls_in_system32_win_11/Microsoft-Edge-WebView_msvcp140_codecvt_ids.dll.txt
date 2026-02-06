@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\msvcp140_codecvt_ids.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?id@?$codecvt@_SDU_Mbstatet@@@std@@2V0locale@2@A                                                     0xbf8e26b0                                         
+?id@?$codecvt@_S_QU_Mbstatet@@@std@@2V0locale@2@A                                                    0xab7c573c                                         
+?id@?$codecvt@_UDU_Mbstatet@@@std@@2V0locale@2@A                                                     0xe1fdaeb2                                         
+?id@?$codecvt@_U_QU_Mbstatet@@@std@@2V0locale@2@A                                                    0x1bdcdf7e                                         

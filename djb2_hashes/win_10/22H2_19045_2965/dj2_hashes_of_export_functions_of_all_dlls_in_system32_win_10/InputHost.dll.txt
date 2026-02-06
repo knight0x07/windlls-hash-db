@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\InputHost.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateComboButtonProxy                                                                               0x163874e7                                         
+CreateCursorClient                                                                                   0x2be79b76                                         
+CreateCursorManager                                                                                  0x9150d492                                         
+CreateDragOperationPrivate                                                                           0xb46dbd03                                         
+CreateGenericInputHost                                                                               0xf02c6404                                         
+CreateHeatGripServiceClient                                                                          0x6f362add                                         
+CreateInputDeviceWatcher                                                                             0x902841e7                                         
+CreateInputHost                                                                                      0x1cdb6fe7                                         
+CreateInputHostForProcess                                                                            0xa632f1ad                                         
+CreateInputSystemClientConnection                                                                    0xae4577dd                                         
+CreateMPCManagerClient                                                                               0x3f865e73                                         
+CreatePointerInputHost                                                                               0xe9fd9e88                                         
+CreateTouchInputHost                                                                                 0x500cce2a                                         
+CreateViewHitTestRequestClient                                                                       0x7e546061                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+SetInputButtonEnabledOnIdle                                                                          0x673e0bc3                                         
+SetInputDeviceIndicatorState                                                                         0xb300954f                                         
+SetInputDeviceRepeatParameters                                                                       0x68b0f566                                         
+SetInputFocus                                                                                        0xba3fe921                                         
+TouchInputHostCreate                                                                                 0xb98f03ea                                         
+ViewHitTestClientCreate                                                                              0x0791d0f8                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\hidphone.tsp
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TSPI_lineNegotiateTSPIVersion                                                                        0x8e678132                                         
+TSPI_phoneClose                                                                                      0x2eb921f4                                         
+TSPI_phoneDevSpecific                                                                                0x87a37283                                         
+TSPI_phoneGetButtonInfo                                                                              0xe6604d26                                         
+TSPI_phoneGetDevCaps                                                                                 0xe2595d44                                         
+TSPI_phoneGetDisplay                                                                                 0xeb909034                                         
+TSPI_phoneGetExtensionID                                                                             0x37b79428                                         
+TSPI_phoneGetHookSwitch                                                                              0xb103d2e1                                         
+TSPI_phoneGetID                                                                                      0x2efdbd0b                                         
+TSPI_phoneGetLamp                                                                                    0xe5635ac8                                         
+TSPI_phoneGetRing                                                                                    0xe566c72e                                         
+TSPI_phoneGetStatus                                                                                  0xdd4aa6c2                                         
+TSPI_phoneNegotiateTSPIVersion                                                                       0x8f0eaf24                                         
+TSPI_phoneOpen                                                                                       0x664a4ff0                                         
+TSPI_phoneSelectExtVersion                                                                           0xce99d715                                         
+TSPI_phoneSetDisplay                                                                                 0x1c0f5dc0                                         
+TSPI_phoneSetHookSwitch                                                                              0x697844ed                                         
+TSPI_phoneSetLamp                                                                                    0x811e33d4                                         
+TSPI_phoneSetRing                                                                                    0x8121a03a                                         
+TSPI_phoneSetStatusMessages                                                                          0xe4351746                                         
+TSPI_providerCreatePhoneDevice                                                                       0x15e069ad                                         
+TSPI_providerEnumDevices                                                                             0xb50ea187                                         
+TSPI_providerInit                                                                                    0x28208d63                                         
+TSPI_providerInstall                                                                                 0x025e5686                                         
+TSPI_providerRemove                                                                                  0xc6d72f1d                                         
+TSPI_providerShutdown                                                                                0xbf8a108b                                         
+TSPI_providerUIIdentify                                                                              0x4ea0d309                                         
+TUISPI_providerInstall                                                                               0x6fcb7744                                         
+TUISPI_providerRemove                                                                                0xbaa4301b                                         

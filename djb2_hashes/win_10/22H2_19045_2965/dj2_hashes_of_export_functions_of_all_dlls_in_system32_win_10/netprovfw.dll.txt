@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\netprovfw.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetCaptureProvisioningPackage                                                                        0xffb3fc73                                         
+NetCreateProvisioningPackage                                                                         0x318d6c13                                         
+NetRequestProvisioningPackageInstall                                                                 0x26db993f                                         
+NetpAnalyzeProvisioningPackage                                                                       0x43447083                                         
+NetpCreateProvisioningPackage                                                                        0xad468003                                         
+NetpProvCheckOfflineLsaPolicyUpdate                                                                  0xe3605af7                                         
+NetpProvContinueProvisioningPackageInstall                                                           0xc21a6752                                         
+NetpProvDomainJoinLicensingCheck                                                                     0x7e13ba65                                         
+NetpProvFreeLdapLsaDomainInfo                                                                        0xba7dee2a                                         
+NetpRequestProvisioningPackageInstall                                                                0xbca19d2f                                         
+NetpRequestProvisioningPackageInstallForIMC                                                          0x35f6044f                                         
+NetpRequestProvisioningPackageInstallForOfflineServicing                                             0x26fec7e3                                         

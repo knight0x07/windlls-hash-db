@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\Windows.UI.Xaml.Controls.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+GetDependencyLocatorStorage                                                                          0x372ad3cd                                         
+SendTelemetryOnSuspend                                                                               0x708927e9                                         
+XamlTestHookFreeControlsResourceLibrary                                                              0xe9dd7a9b                                         

@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\CoreUIComponents.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CoreUIClientCreate                                                                                   0x3eabe29f                                         
+CoreUIClientTestCreate                                                                               0x2c6facdf                                         
+CoreUIConfigureTestHost                                                                              0xfc79fe8c                                         
+CoreUICreateDuplicateWindowFactory                                                                   0x846c70eb                                         
+CoreUICreateICoreWindowFactory                                                                       0x38ba85e2                                         
+CoreUIFactoryCreate                                                                                  0x704ed538                                         
+CoreUIServerCreate                                                                                   0xa0b669b7                                         
+CoreUIServerTestCreate                                                                               0x1017fff7                                         
+CreateNavigationClientWindowAdapter                                                                  0x89267a21                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+MinUserGetInputHost                                                                                  0xcdbf1476                                         
+MinUserGetInputRoutingInfo                                                                           0xc51ccfac                                         
+MinUserInputInitialize                                                                               0x54d0286a                                         
+MinUserNotifyOneCoreTransformMode                                                                    0xcae6770d                                         
+MinUserRegisterPointerInputTarget                                                                    0xaa1a8165                                         
+MinUserRequestViewHitTest                                                                            0x82913191                                         
+MinUserReregisterPointerInputTargets                                                                 0x1028992f                                         
+MinUserUnregisterPointerInputTarget                                                                  0xabf040a8                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

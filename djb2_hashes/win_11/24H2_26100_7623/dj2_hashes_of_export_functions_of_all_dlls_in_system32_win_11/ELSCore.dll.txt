@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\ELSCore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MappingDoAction                                                                                      0x5b835122                                         
+MappingFreePropertyBag                                                                               0x4fc600c2                                         
+MappingFreeServices                                                                                  0xed035797                                         
+MappingGetServices                                                                                   0xe84c7e15                                         
+MappingRecognizeText                                                                                 0xa378747c                                         

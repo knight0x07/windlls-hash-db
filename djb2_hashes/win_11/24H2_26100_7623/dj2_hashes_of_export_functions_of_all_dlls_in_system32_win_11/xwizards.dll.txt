@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\xwizards.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ProcessXMLFileA                                                                                      0x30f87eb6                                         
+ProcessXMLFileW                                                                                      0x30f87ecc                                         
+ResetRegistrationA                                                                                   0xf2d172e4                                         
+ResetRegistrationW                                                                                   0xf2d172fa                                         
+RunPropertySheetA                                                                                    0x5d5a4559                                         
+RunPropertySheetW                                                                                    0x5d5a456f                                         
+RunWizardA                                                                                           0x690899ec                                         
+RunWizardW                                                                                           0x69089a02                                         
+XWProcessXMLFile                                                                                     0x52e8db04                                         
+XWRegisterHost                                                                                       0x0d5fa997                                         
+XWRegisterPageWithPage                                                                               0x043f0f0f                                         
+XWRegisterPageWithTask                                                                               0x04414225                                         
+XWRegisterTaskWithHost                                                                               0xb371d246                                         
+XWUnregisterHost                                                                                     0xfc855a9a                                         
+XWUnregisterHostTaskLink                                                                             0x48832bdb                                         
+XWUnregisterPage                                                                                     0xfc898079                                         
+XWUnregisterPagesLink                                                                                0xf106301a                                         
+XWUnregisterTask                                                                                     0xfc8bb38f                                         
+XWUnregisterTaskPageLink                                                                             0x6307dbba                                         

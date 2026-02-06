@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\vaultcli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+VaultAddItem                                                                                         0xd9b62809                                         
+VaultCloseVault                                                                                      0x6bb37993                                         
+VaultCreateItemType                                                                                  0xc3802756                                         
+VaultDeleteItemType                                                                                  0x63074815                                         
+VaultEnumerateItemTypes                                                                              0x87e0201b                                         
+VaultEnumerateItems                                                                                  0x1d77bf79                                         
+VaultEnumerateVaults                                                                                 0xe973af96                                         
+VaultFindItems                                                                                       0x41575cb4                                         
+VaultFree                                                                                            0xcb8281b3                                         
+VaultGetInformation                                                                                  0xec2e9df7                                         
+VaultGetItem                                                                                         0xab0a4540                                         
+VaultGetItemType                                                                                     0x055b06a2                                         
+VaultOpenVault                                                                                       0x32ecb2af                                         
+VaultRemoveItem                                                                                      0x95283aae                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

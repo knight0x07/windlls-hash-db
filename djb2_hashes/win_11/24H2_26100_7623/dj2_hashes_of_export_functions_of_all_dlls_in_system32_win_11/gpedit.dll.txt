@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\gpedit.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BrowseForGPO                                                                                         0x6cc51444                                         
+CreateGPOLink                                                                                        0x3cefae2d                                         
+DeleteAllGPOLinks                                                                                    0xdb76c1d8                                         
+DeleteGPOLink                                                                                        0xc5a6330c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ExportRSoPData                                                                                       0xb6f85be5                                         
+ImportRSoPData                                                                                       0x3ae3d9de                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

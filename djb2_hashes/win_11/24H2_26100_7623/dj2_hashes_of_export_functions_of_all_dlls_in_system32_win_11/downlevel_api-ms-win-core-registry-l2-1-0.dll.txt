@@ -1,0 +1,37 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-registry-l2-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RegConnectRegistryA                                                                                  0x9fb7ec27                                         
+RegConnectRegistryW                                                                                  0x9fb7ec3d                                         
+RegCopyTreeA                                                                                         0xff72864f                                         
+RegCreateKeyA                                                                                        0x369a66a1                                         
+RegCreateKeyTransactedA                                                                              0x6694c2ca                                         
+RegCreateKeyTransactedW                                                                              0x6694c2e0                                         
+RegCreateKeyW                                                                                        0x369a66b7                                         
+RegDeleteKeyA                                                                                        0xfa08ffe0                                         
+RegDeleteKeyTransactedA                                                                              0x05a736c9                                         
+RegDeleteKeyTransactedW                                                                              0x05a736df                                         
+RegDeleteKeyValueA                                                                                   0x9518c1dd                                         
+RegDeleteKeyValueW                                                                                   0x9518c1f3                                         
+RegDeleteKeyW                                                                                        0xfa08fff6                                         
+RegDisablePredefinedCache                                                                            0x142f8e41                                         
+RegEnumKeyA                                                                                          0xf367ea22                                         
+RegEnumKeyW                                                                                          0xf367ea38                                         
+RegOpenKeyA                                                                                          0xa2ae42df                                         
+RegOpenKeyTransactedA                                                                                0x3e9f8488                                         
+RegOpenKeyTransactedW                                                                                0x3e9f849e                                         
+RegOpenKeyW                                                                                          0xa2ae42f5                                         
+RegOverridePredefKey                                                                                 0x630503a2                                         
+RegQueryMultipleValuesA                                                                              0x25527c76                                         
+RegQueryMultipleValuesW                                                                              0x25527c8c                                         
+RegQueryValueA                                                                                       0x70efae97                                         
+RegQueryValueW                                                                                       0x70efaead                                         
+RegReplaceKeyA                                                                                       0x148495a9                                         
+RegReplaceKeyW                                                                                       0x148495bf                                         
+RegSaveKeyA                                                                                          0xf810dd3c                                         
+RegSaveKeyW                                                                                          0xf810dd52                                         
+RegSetKeyValueA                                                                                      0x0f476bd6                                         
+RegSetKeyValueW                                                                                      0x0f476bec                                         
+RegSetValueA                                                                                         0xefd3e2ed                                         
+RegSetValueW                                                                                         0xefd3e303                                         

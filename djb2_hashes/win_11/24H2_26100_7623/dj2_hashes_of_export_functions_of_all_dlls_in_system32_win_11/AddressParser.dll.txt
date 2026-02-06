@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\AddressParser.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DestroyAddressParser                                                                                 0xf9f4da22                                         
+GetCity                                                                                              0x5119245e                                         
+GetCountryName                                                                                       0x5706257a                                         
+GetCountryStringFromIndex                                                                            0xf029383c                                         
+GetFullAddress                                                                                       0x968d82de                                         
+GetNewAddressParser                                                                                  0xffbf01e2                                         
+GetPostalCode                                                                                        0xe0a2d133                                         
+GetState                                                                                             0x7564ef46                                         
+GetStreet                                                                                            0x220beb1c                                         
+ParseAddress                                                                                         0xff841fc6                                         
+RebuildAddress                                                                                       0x9aab3e52                                         
+SetCity                                                                                              0xecd3fd6a                                         
+SetCountryName                                                                                       0x1e08d906                                         
+SetFullAddress                                                                                       0x5d90366a                                         
+SetPostalCode                                                                                        0x9917433f                                         
+SetState                                                                                             0x887ae9d2                                         
+SetStreet                                                                                            0x97e13728                                         
+UpdateDefCountry                                                                                     0x99b3ffeb                                         

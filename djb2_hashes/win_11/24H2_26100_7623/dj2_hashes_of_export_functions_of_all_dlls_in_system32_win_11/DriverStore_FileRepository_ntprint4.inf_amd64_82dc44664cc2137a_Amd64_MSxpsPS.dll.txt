@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\ntprint4.inf_amd64_82dc44664cc2137a\Amd64\MSxpsPS.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+XpsProcess                                                                                           0xd1838e7f                                         
+XpsTestProcess                                                                                       0xfde2933f                                         

@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\werui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WerUICreate                                                                                          0xbf499105                                         
+WerUIDelete                                                                                          0xc0b762c4                                         
+WerUIGetUserSelection                                                                                0xf503bdf6                                         
+WerUIPromptForSecondLevel                                                                            0x9c70b7ce                                         
+WerUIPromptUser                                                                                      0x7ec673f2                                         
+WerUIReportSilentProcessExit                                                                         0xa03d5275                                         
+WerUIShowUpsell                                                                                      0xc09caa87                                         
+WerUIStart                                                                                           0xff2c8e9f                                         
+WerUITerminate                                                                                       0x770cebba                                         
+WerUIUpdateStateProgress                                                                             0x79b3144a                                         
+WerUIUpdateUIForState                                                                                0x3f7a37da                                         
+WerUIWaitForUserAction                                                                               0x3a15bfca                                         
+WerUIpCheckWindow                                                                                    0x7c424a57                                         
+WerUIpDefSubclassProc                                                                                0x311def84                                         
+WerUIpHeadlessOrImersive                                                                             0xf63a03ef                                         
+WerUIpRemoveWindowSubclass                                                                           0xaf17fe87                                         
+WerUIpSetWindowSubclass                                                                              0xc7ccbda5                                         
+WerUIpTaskDialogIndirect                                                                             0xd5553fb6                                         
+WerUIpUIHandleWERWindowMsg                                                                           0x8be6ec18                                         

@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\mfasfsrcsnk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+MFCreateASFContentInfo                                                                               0x00ff2f2d                                         
+MFCreateASFIndexer                                                                                   0xaa13d255                                         
+MFCreateASFIndexerByteStream                                                                         0x42734715                                         
+MFCreateASFMediaSink                                                                                 0x099d7c1b                                         
+MFCreateASFMediaSinkActivate                                                                         0xbe3ac96c                                         
+MFCreateASFMediaSinkActivateFromByteStream                                                           0xf1124420                                         
+MFCreateASFMediaSinkActivateNoInit                                                                   0xb2f414fd                                         
+MFCreateASFMultiplexer                                                                               0x9df6cdc1                                         
+MFCreateASFMutex                                                                                     0x264d7219                                         
+MFCreateASFProfile                                                                                   0xcf077917                                         
+MFCreateASFProfileFromPresentationDescriptor                                                         0xf1fe82c6                                         
+MFCreateASFSplitter                                                                                  0xd4049b5d                                         
+MFCreateASFStreamConfig                                                                              0x9a2b6648                                         
+MFCreateASFStreamPrioritization                                                                      0x6a943099                                         
+MFCreateASFStreamSelector                                                                            0x903598d3                                         
+MFCreateASFStreamingMediaSink                                                                        0x4f555c45                                         
+MFCreateASFStreamingMediaSinkActivate                                                                0xca3d3396                                         
+MFCreateASFStreamingMediaSinkActivateNoInit                                                          0x76abf6a7                                         
+MFCreatePresentationDescriptorFromASFProfile                                                         0xc0f55046                                         

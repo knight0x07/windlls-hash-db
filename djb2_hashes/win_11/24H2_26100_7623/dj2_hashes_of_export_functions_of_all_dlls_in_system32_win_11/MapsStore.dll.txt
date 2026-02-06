@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\MapsStore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MapsStore_CancelGetData                                                                              0xe3389cc2                                         
+MapsStore_CancelInstallation                                                                         0xedea2a3a                                         
+MapsStore_CheckUpdateAsync                                                                           0xb7427441                                         
+MapsStore_DeleteData                                                                                 0x225de90f                                         
+MapsStore_FindNearbyPackages                                                                         0x0e6f1983                                         
+MapsStore_GetCopyright                                                                               0x9a6aa4db                                         
+MapsStore_GetData                                                                                    0xc8dfbebc                                         
+MapsStore_GetGSCode                                                                                  0x85b1ead7                                         
+MapsStore_Initialize                                                                                 0xf2fbb974                                         
+MapsStore_InstallAsync                                                                               0xb3143fd7                                         
+MapsStore_IsMapFullyInstalled                                                                        0xa3ac4608                                         
+MapsStore_LoadCatalogAsync                                                                           0xf6150cfb                                         
+MapsStore_SetServiceCallbacks                                                                        0x39f7b59f                                         
+MapsStore_SuspendInstallation                                                                        0x89c3c9f6                                         
+MapsStore_UnInitialize                                                                               0x5ef63517                                         
+MapsStore_UpdateAsync                                                                                0x20a021c3                                         
+MapsStore_WaitInstallation                                                                           0xeb2d9089                                         

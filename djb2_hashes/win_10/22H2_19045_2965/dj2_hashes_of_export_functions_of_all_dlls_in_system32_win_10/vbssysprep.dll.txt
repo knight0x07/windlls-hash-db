@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\vbssysprep.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SysprepGeneralizeEntry                                                                               0xd90bb8f3                                         
+SysprepSpecializeOfflineEntry                                                                        0x6b2d8ef9                                         
+SysprepSpecializeOnlineEntry                                                                         0x5ca7b5bb                                         

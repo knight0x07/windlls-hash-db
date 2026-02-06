@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\vfprint.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateFilterTestHook                                                                                 0xa29d0810                                         
+GetAccessViolationsCount                                                                             0xf11ff728                                         
+GetInvalidHandleExceptionCount                                                                       0x5338ff50                                         
+GetPrinterHandleCount                                                                                0x4052d7de                                         
+PrintVerifierCreatePluginInterfaceWrapper                                                            0x3cb8f343                                         
+PrintVerifierIsLayerEnabled                                                                          0xacc46f12                                         

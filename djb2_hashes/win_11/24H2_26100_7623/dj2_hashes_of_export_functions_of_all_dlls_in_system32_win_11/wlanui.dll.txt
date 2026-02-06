@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\wlanui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+WLFreeProfile                                                                                        0x7dd87afb                                         
+WLFreeProfileXml                                                                                     0x124961ec                                         
+WLInvokeProfileUI                                                                                    0x1b9001c3                                         
+WLInvokeProfileUIFromXMLFile                                                                         0x8b81e628                                         
+WlanUIEditProfile                                                                                    0xa47e150c                                         

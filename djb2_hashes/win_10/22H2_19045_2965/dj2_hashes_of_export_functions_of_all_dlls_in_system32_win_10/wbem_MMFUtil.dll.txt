@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\wbem\MMFUtil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DisplayAVIBox                                                                                        0xece4db24                                         
+DisplayUserMessage                                                                                   0x5657f7ff                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ErrorStringEx                                                                                        0x2d923303                                         

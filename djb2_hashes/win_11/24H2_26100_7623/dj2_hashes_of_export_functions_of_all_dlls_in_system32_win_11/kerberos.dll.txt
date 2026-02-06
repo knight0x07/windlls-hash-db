@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\kerberos.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+KerbCreateTokenFromTicketForKdc                                                                      0x684b52ef                                         
+KerbDomainChangeCallback                                                                             0x59bd9bf4                                         
+KerbIsInitialized                                                                                    0x6778497b                                         
+KerbKdcCallBack                                                                                      0x9b0fa088                                         
+KerbMakeKdcCall                                                                                      0xed7e58f5                                         
+Kerberos                                                                                             0x22c96f22                                         
+SpInitialize                                                                                         0x88ff1a9a                                         
+SpInstanceInit                                                                                       0x5edec931                                         
+SpLsaModeInitialize                                                                                  0x98bfd8ff                                         
+SpUserModeInitialize                                                                                 0xb41f209e                                         

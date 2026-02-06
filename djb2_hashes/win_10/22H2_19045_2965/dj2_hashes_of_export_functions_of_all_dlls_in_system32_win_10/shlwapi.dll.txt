@@ -1,0 +1,934 @@
+DLL Path: C:\Windows\System32\shlwapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AssocCreate                                                                                          0xc67c28b2                                         
+AssocGetPerceivedType                                                                                0x23c07017                                         
+AssocIsDangerous                                                                                     0x7fe8a202                                         
+AssocQueryKeyA                                                                                       0x66d618fe                                         
+AssocQueryKeyW                                                                                       0x66d61914                                         
+AssocQueryStringA                                                                                    0x9732cccc                                         
+AssocQueryStringByKeyA                                                                               0xa9bc47d0                                         
+AssocQueryStringByKeyW                                                                               0xa9bc47e6                                         
+AssocQueryStringW                                                                                    0x9732cce2                                         
+ChrCmpIA                                                                                             0xa57cdc2c                                         
+ChrCmpIW                                                                                             0xa57cdc42                                         
+ColorAdjustLuma                                                                                      0xbc210dfe                                         
+ColorHLSToRGB                                                                                        0x64146989                                         
+ColorRGBToHLS                                                                                        0xf61bae09                                         
+ConnectToConnectionPoint                                                                             0x8bb8718c                                         
+DelayLoadFailureHook                                                                                 0x8f46570d                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllGetVersion                                                                                        0x5dd63a07                                         
+GUIDFromStringW                                                                                      0x9b1396f0                                         
+GetAcceptLanguagesA                                                                                  0xf5cb10ed                                         
+GetAcceptLanguagesW                                                                                  0xf5cb1103                                         
+GetMenuPosFromID                                                                                     0xd283f90d                                         
+HashData                                                                                             0x2cca58e3                                         
+IStream_Copy                                                                                         0xa5354974                                         
+IStream_Read                                                                                         0xa53d5695                                         
+IStream_ReadPidl                                                                                     0x1aae435e                                         
+IStream_ReadStr                                                                                      0x2798baee                                         
+IStream_Reset                                                                                        0x4ce8765c                                         
+IStream_Size                                                                                         0xa53df734                                         
+IStream_Write                                                                                        0x4d49e924                                         
+IStream_WritePidl                                                                                    0x44cf856d                                         
+IStream_WriteStr                                                                                     0xb482771d                                         
+IUnknown_AtomicRelease                                                                               0xfd0d887b                                         
+IUnknown_Exec                                                                                        0x9bf01fa2                                         
+IUnknown_GetSite                                                                                     0xd5f38172                                         
+IUnknown_GetWindow                                                                                   0x2a2b08b5                                         
+IUnknown_QueryService                                                                                0x772543e4                                         
+IUnknown_QueryStatus                                                                                 0x80c165d7                                         
+IUnknown_Set                                                                                         0x04b9ec89                                         
+IUnknown_SetSite                                                                                     0x71ae5a7e                                         
+IntlStrEqWorkerA                                                                                     0xb3509fa6                                         
+IntlStrEqWorkerW                                                                                     0xb3509fbc                                         
+IsCharSpaceA                                                                                         0x2e1e346c                                         
+IsCharSpaceW                                                                                         0x2e1e3482                                         
+IsInternetESCEnabled                                                                                 0xf346d550                                         
+IsOS                                                                                                 0x7c870ae3                                         
+MLLoadLibraryA                                                                                       0x760b4df4                                         
+MLLoadLibraryW                                                                                       0x760b4e0a                                         
+ParseURLA                                                                                            0x38f58074                                         
+ParseURLW                                                                                            0x38f5808a                                         
+PathAddBackslashA                                                                                    0x345ae208                                         
+PathAddBackslashW                                                                                    0x345ae21e                                         
+PathAddExtensionA                                                                                    0x8f03a619                                         
+PathAddExtensionW                                                                                    0x8f03a62f                                         
+PathAppendA                                                                                          0x7c7448cb                                         
+PathAppendW                                                                                          0x7c7448e1                                         
+PathBuildRootA                                                                                       0x96e407a7                                         
+PathBuildRootW                                                                                       0x96e407bd                                         
+PathCanonicalizeA                                                                                    0x0dcbeda3                                         
+PathCanonicalizeW                                                                                    0x0dcbedb9                                         
+PathCombineA                                                                                         0x8f4e7d50                                         
+PathCombineW                                                                                         0x8f4e7d66                                         
+PathCommonPrefixA                                                                                    0xb00364aa                                         
+PathCommonPrefixW                                                                                    0xb00364c0                                         
+PathCompactPathA                                                                                     0x342f8ce7                                         
+PathCompactPathExA                                                                                   0xfe468364                                         
+PathCompactPathExW                                                                                   0xfe46837a                                         
+PathCompactPathW                                                                                     0x342f8cfd                                         
+PathCreateFromUrlA                                                                                   0xafa36eae                                         
+PathCreateFromUrlAlloc                                                                               0x9c3428b8                                         
+PathCreateFromUrlW                                                                                   0xafa36ec4                                         
+PathFileExistsA                                                                                      0x45edd693                                         
+PathFileExistsAndAttributesW                                                                         0xddcc0a63                                         
+PathFileExistsW                                                                                      0x45edd6a9                                         
+PathFindExtensionA                                                                                   0x503e6c51                                         
+PathFindExtensionW                                                                                   0x503e6c67                                         
+PathFindFileNameA                                                                                    0xdf9b5c75                                         
+PathFindFileNameW                                                                                    0xdf9b5c8b                                         
+PathFindNextComponentA                                                                               0x30c4bba6                                         
+PathFindNextComponentW                                                                               0x30c4bbbc                                         
+PathFindOnPathA                                                                                      0x2b49681e                                         
+PathFindOnPathW                                                                                      0x2b496834                                         
+PathFindSuffixArrayA                                                                                 0x39310288                                         
+PathFindSuffixArrayW                                                                                 0x3931029e                                         
+PathGetArgsA                                                                                         0x4c933880                                         
+PathGetArgsW                                                                                         0x4c933896                                         
+PathGetCharTypeA                                                                                     0x3c4b89b3                                         
+PathGetCharTypeW                                                                                     0x3c4b89c9                                         
+PathGetDriveNumberA                                                                                  0x4f6b2296                                         
+PathGetDriveNumberW                                                                                  0x4f6b22ac                                         
+PathIsContentTypeA                                                                                   0x5a577bec                                         
+PathIsContentTypeW                                                                                   0x5a577c02                                         
+PathIsDirectoryA                                                                                     0xbf7d3fc4                                         
+PathIsDirectoryEmptyA                                                                                0xc5183373                                         
+PathIsDirectoryEmptyW                                                                                0xc5183389                                         
+PathIsDirectoryW                                                                                     0xbf7d3fda                                         
+PathIsFileSpecA                                                                                      0xf1396a5a                                         
+PathIsFileSpecW                                                                                      0xf1396a70                                         
+PathIsLFNFileSpecA                                                                                   0x3b5c8c3a                                         
+PathIsLFNFileSpecW                                                                                   0x3b5c8c50                                         
+PathIsNetworkPathA                                                                                   0x0e0980c6                                         
+PathIsNetworkPathW                                                                                   0x0e0980dc                                         
+PathIsPrefixA                                                                                        0x51bd1c5d                                         
+PathIsPrefixW                                                                                        0x51bd1c73                                         
+PathIsRelativeA                                                                                      0xaf045aeb                                         
+PathIsRelativeW                                                                                      0xaf045b01                                         
+PathIsRootA                                                                                          0xe92c4bb3                                         
+PathIsRootW                                                                                          0xe92c4bc9                                         
+PathIsSameRootA                                                                                      0xc66444f9                                         
+PathIsSameRootW                                                                                      0xc664450f                                         
+PathIsSystemFolderA                                                                                  0x9c597e70                                         
+PathIsSystemFolderW                                                                                  0x9c597e86                                         
+PathIsUNCA                                                                                           0xa238b815                                         
+PathIsUNCServerA                                                                                     0xf5ec5bac                                         
+PathIsUNCServerShareA                                                                                0x91a279df                                         
+PathIsUNCServerShareW                                                                                0x91a279f5                                         
+PathIsUNCServerW                                                                                     0xf5ec5bc2                                         
+PathIsUNCW                                                                                           0xa238b82b                                         
+PathIsURLA                                                                                           0xa238ca42                                         
+PathIsURLW                                                                                           0xa238ca58                                         
+PathMakePrettyA                                                                                      0x971fa4f9                                         
+PathMakePrettyW                                                                                      0x971fa50f                                         
+PathMakeSystemFolderA                                                                                0x95d06c52                                         
+PathMakeSystemFolderW                                                                                0x95d06c68                                         
+PathMatchSpecA                                                                                       0x250e8d8b                                         
+PathMatchSpecExA                                                                                     0xa2e83d08                                         
+PathMatchSpecExW                                                                                     0xa2e83d1e                                         
+PathMatchSpecW                                                                                       0x250e8da1                                         
+PathParseIconLocationA                                                                               0x3ec90770                                         
+PathParseIconLocationW                                                                               0x3ec90786                                         
+PathQuoteSpacesA                                                                                     0xb4f52de0                                         
+PathQuoteSpacesW                                                                                     0xb4f52df6                                         
+PathRelativePathToA                                                                                  0xda9e865f                                         
+PathRelativePathToW                                                                                  0xda9e8675                                         
+PathRemoveArgsA                                                                                      0xb1e9d80e                                         
+PathRemoveArgsW                                                                                      0xb1e9d824                                         
+PathRemoveBackslashA                                                                                 0xf1e254cd                                         
+PathRemoveBackslashW                                                                                 0xf1e254e3                                         
+PathRemoveBlanksA                                                                                    0x124ccd5c                                         
+PathRemoveBlanksW                                                                                    0x124ccd72                                         
+PathRemoveExtensionA                                                                                 0x4c8b18de                                         
+PathRemoveExtensionW                                                                                 0x4c8b18f4                                         
+PathRemoveFileSpecA                                                                                  0x1df0bd4c                                         
+PathRemoveFileSpecW                                                                                  0x1df0bd62                                         
+PathRenameExtensionA                                                                                 0x780a8508                                         
+PathRenameExtensionW                                                                                 0x780a851e                                         
+PathSearchAndQualifyA                                                                                0x204182b7                                         
+PathSearchAndQualifyW                                                                                0x204182cd                                         
+PathSetDlgItemPathA                                                                                  0x02439db2                                         
+PathSetDlgItemPathW                                                                                  0x02439dc8                                         
+PathSkipRootA                                                                                        0xfafdb3ce                                         
+PathSkipRootW                                                                                        0xfafdb3e4                                         
+PathStripPathA                                                                                       0xea4f1c72                                         
+PathStripPathW                                                                                       0xea4f1c88                                         
+PathStripToRootA                                                                                     0x0cb6952c                                         
+PathStripToRootW                                                                                     0x0cb69542                                         
+PathUnExpandEnvStringsA                                                                              0x3b81cce9                                         
+PathUnExpandEnvStringsW                                                                              0x3b81ccff                                         
+PathUndecorateA                                                                                      0x779b6fdd                                         
+PathUndecorateW                                                                                      0x779b6ff3                                         
+PathUnmakeSystemFolderA                                                                              0xebe196b5                                         
+PathUnmakeSystemFolderW                                                                              0xebe196cb                                         
+PathUnquoteSpacesA                                                                                   0x5d968e63                                         
+PathUnquoteSpacesW                                                                                   0x5d968e79                                         
+QISearch                                                                                             0xf8d9f235                                         
+SHAllocShared                                                                                        0xa13aa902                                         
+SHAnsiToAnsi                                                                                         0x4de975d9                                         
+SHAnsiToUnicode                                                                                      0x34beb875                                         
+SHAutoComplete                                                                                       0x8900ad72                                         
+SHCopyKeyA                                                                                           0x8bcffd25                                         
+SHCopyKeyW                                                                                           0x8bcffd3b                                         
+SHCreateMemStream                                                                                    0x5402923f                                         
+SHCreateShellPalette                                                                                 0x8eb5fa1b                                         
+SHCreateStreamOnFileA                                                                                0xb54006fe                                         
+SHCreateStreamOnFileEx                                                                               0x5d40e7ba                                         
+SHCreateStreamOnFileW                                                                                0xb5400714                                         
+SHCreateStreamWrapper                                                                                0x28530d01                                         
+SHCreateThread                                                                                       0xbb59850c                                         
+SHCreateThreadRef                                                                                    0xf1af63c9                                         
+SHCreateThreadWithHandle                                                                             0x1247d394                                         
+SHCreateWorkerWindowW                                                                                0xe46eed9d                                         
+SHDeleteEmptyKeyA                                                                                    0xd6c6f78c                                         
+SHDeleteEmptyKeyW                                                                                    0xd6c6f7a2                                         
+SHDeleteKeyA                                                                                         0xe1e8e03d                                         
+SHDeleteKeyW                                                                                         0xe1e8e053                                         
+SHDeleteOrphanKeyA                                                                                   0x4d31eb65                                         
+SHDeleteOrphanKeyW                                                                                   0x4d31eb7b                                         
+SHDeleteValueA                                                                                       0x18fc09f1                                         
+SHDeleteValueW                                                                                       0x18fc0a07                                         
+SHEnumKeyExA                                                                                         0x54eafbbc                                         
+SHEnumKeyExW                                                                                         0x54eafbd2                                         
+SHEnumValueA                                                                                         0x6e450173                                         
+SHEnumValueW                                                                                         0x6e450189                                         
+SHFormatDateTimeA                                                                                    0xaf3672b7                                         
+SHFormatDateTimeW                                                                                    0xaf3672cd                                         
+SHFreeShared                                                                                         0x11cb3f59                                         
+SHGetInverseCMAP                                                                                     0x92fbd67d                                         
+SHGetThreadRef                                                                                       0x087eaef5                                         
+SHGetValueA                                                                                          0x81055f9e                                         
+SHGetValueW                                                                                          0x81055fb4                                         
+SHGetViewStatePropertyBag                                                                            0x06f5a34b                                         
+SHIsChildOrSelf                                                                                      0xa36ea14b                                         
+SHIsLowMemoryMachine                                                                                 0xbaabdddc                                         
+SHLoadIndirectString                                                                                 0xf3f69ca9                                         
+SHLockShared                                                                                         0xc1ef15e0                                         
+SHMessageBoxCheckA                                                                                   0x3849f68d                                         
+SHMessageBoxCheckW                                                                                   0x3849f6a3                                         
+SHOpenRegStream2A                                                                                    0xe4f8602f                                         
+SHOpenRegStream2W                                                                                    0xe4f86045                                         
+SHOpenRegStreamA                                                                                     0x9a551a3d                                         
+SHOpenRegStreamW                                                                                     0x9a551a53                                         
+SHPackDispParamsV                                                                                    0xe25a1009                                         
+SHPinDllOfCLSID                                                                                      0xf9da9d67                                         
+SHPropertyBag_ReadStrAlloc                                                                           0xc2d0aeae                                         
+SHPropertyBag_WriteBSTR                                                                              0x6d70dfb4                                         
+SHQueryInfoKeyA                                                                                      0x9100b64c                                         
+SHQueryInfoKeyW                                                                                      0x9100b662                                         
+SHQueryValueExA                                                                                      0xb61cb051                                         
+SHQueryValueExW                                                                                      0xb61cb067                                         
+SHRegCloseUSKey                                                                                      0xc22207a5                                         
+SHRegCreateUSKeyA                                                                                    0x4670fa84                                         
+SHRegCreateUSKeyW                                                                                    0x4670fa9a                                         
+SHRegDeleteEmptyUSKeyA                                                                               0x77f13d52                                         
+SHRegDeleteEmptyUSKeyW                                                                               0x77f13d68                                         
+SHRegDeleteUSValueA                                                                                  0x5f7af2b7                                         
+SHRegDeleteUSValueW                                                                                  0x5f7af2cd                                         
+SHRegDuplicateHKey                                                                                   0xeed7db6a                                         
+SHRegEnumUSKeyA                                                                                      0x4962ef85                                         
+SHRegEnumUSKeyW                                                                                      0x4962ef9b                                         
+SHRegEnumUSValueA                                                                                    0x47370b39                                         
+SHRegEnumUSValueW                                                                                    0x47370b4f                                         
+SHRegGetBoolUSValueA                                                                                 0xde4ae350                                         
+SHRegGetBoolUSValueW                                                                                 0xde4ae366                                         
+SHRegGetBoolValueFromHKCUHKLM                                                                        0xad09b452                                         
+SHRegGetIntW                                                                                         0x55f1a420                                         
+SHRegGetPathA                                                                                        0x149db52c                                         
+SHRegGetPathW                                                                                        0x149db542                                         
+SHRegGetUSValueA                                                                                     0x300fb064                                         
+SHRegGetUSValueW                                                                                     0x300fb07a                                         
+SHRegGetValueA                                                                                       0xb64f279c                                         
+SHRegGetValueFromHKCUHKLM                                                                            0x025877e6                                         
+SHRegGetValueW                                                                                       0xb64f27b2                                         
+SHRegOpenUSKeyA                                                                                      0xe3a26b82                                         
+SHRegOpenUSKeyW                                                                                      0xe3a26b98                                         
+SHRegQueryInfoUSKeyA                                                                                 0x17881492                                         
+SHRegQueryInfoUSKeyW                                                                                 0x178814a8                                         
+SHRegQueryUSValueA                                                                                   0x343e585a                                         
+SHRegQueryUSValueW                                                                                   0x343e5870                                         
+SHRegSetPathA                                                                                        0x27b3afb8                                         
+SHRegSetPathW                                                                                        0x27b3afce                                         
+SHRegSetUSValueA                                                                                     0x70682f70                                         
+SHRegSetUSValueW                                                                                     0x70682f86                                         
+SHRegWriteUSValueA                                                                                   0x816d9c6f                                         
+SHRegWriteUSValueW                                                                                   0x816d9c85                                         
+SHRegisterValidateTemplate                                                                           0xb213b8eb                                         
+SHReleaseThreadRef                                                                                   0xfb9db276                                         
+SHRunIndirectRegClientCommand                                                                        0x021e4803                                         
+SHSendMessageBroadcastA                                                                              0xf83b6363                                         
+SHSendMessageBroadcastW                                                                              0xf83b6379                                         
+SHSetThreadRef                                                                                       0x53e70f81                                         
+SHSetValueA                                                                                          0xf6daabaa                                         
+SHSetValueW                                                                                          0xf6daabc0                                         
+SHSkipJunction                                                                                       0x519efa81                                         
+SHStrDupA                                                                                            0x34e75c63                                         
+SHStrDupW                                                                                            0x34e75c79                                         
+SHStripMneumonicA                                                                                    0xc01dd49e                                         
+SHStripMneumonicW                                                                                    0xc01dd4b4                                         
+SHUnicodeToAnsi                                                                                      0xcff05835                                         
+SHUnicodeToAnsiCP                                                                                    0x8d674268                                         
+SHUnicodeToUnicode                                                                                   0x3d24cd51                                         
+SHUnlockShared                                                                                       0xad3b6d23                                         
+ShellMessageBoxA                                                                                     0xd80ace0c                                         
+ShellMessageBoxW                                                                                     0xd80ace22                                         
+StrCSpnA                                                                                             0x0546c633                                         
+StrCSpnIA                                                                                            0xae1f8ddc                                         
+StrCSpnIW                                                                                            0xae1f8df2                                         
+StrCSpnW                                                                                             0x0546c649                                         
+StrCatBuffA                                                                                          0xf03aff3a                                         
+StrCatBuffW                                                                                          0xf03aff50                                         
+StrCatChainW                                                                                         0xf9022590                                         
+StrCatW                                                                                              0x0fad0bad                                         
+StrChrA                                                                                              0x0fad291c                                         
+StrChrIA                                                                                             0x05524de5                                         
+StrChrIW                                                                                             0x05524dfb                                         
+StrChrNIW                                                                                            0xaf9c2129                                         
+StrChrNW                                                                                             0x05524ea0                                         
+StrChrW                                                                                              0x0fad2932                                         
+StrCmpCA                                                                                             0x05550282                                         
+StrCmpCW                                                                                             0x05550298                                         
+StrCmpICA                                                                                            0xaff56ccb                                         
+StrCmpICW                                                                                            0xaff56ce1                                         
+StrCmpIW                                                                                             0x0555035e                                         
+StrCmpLogicalW                                                                                       0x17d01cb0                                         
+StrCmpNA                                                                                             0x055503ed                                         
+StrCmpNCA                                                                                            0xaff58210                                         
+StrCmpNCW                                                                                            0xaff58226                                         
+StrCmpNIA                                                                                            0xaff582d6                                         
+StrCmpNICA                                                                                           0xaea5de19                                         
+StrCmpNICW                                                                                           0xaea5de2f                                         
+StrCmpNIW                                                                                            0xaff582ec                                         
+StrCmpNW                                                                                             0x05550403                                         
+StrCmpW                                                                                              0x0fad3e35                                         
+StrCpyNW                                                                                             0x0556cf6f                                         
+StrCpyW                                                                                              0x0fad4c21                                         
+StrDupA                                                                                              0x0fadec88                                         
+StrDupW                                                                                              0x0fadec9e                                         
+StrFormatByteSize64A                                                                                 0xdf8b74e1                                         
+StrFormatByteSizeA                                                                                   0xf3bf02f7                                         
+StrFormatByteSizeEx                                                                                  0x6b9f62d3                                         
+StrFormatByteSizeW                                                                                   0xf3bf030d                                         
+StrFormatKBSizeA                                                                                     0x79a1ebb0                                         
+StrFormatKBSizeW                                                                                     0x79a1ebc6                                         
+StrFromTimeIntervalA                                                                                 0xad9b3987                                         
+StrFromTimeIntervalW                                                                                 0xad9b399d                                         
+StrIsIntlEqualA                                                                                      0xfdd9ccea                                         
+StrIsIntlEqualW                                                                                      0xfdd9cd00                                         
+StrNCatA                                                                                             0x0604cea5                                         
+StrNCatW                                                                                             0x0604cebb                                         
+StrPBrkA                                                                                             0x0628ba6e                                         
+StrPBrkW                                                                                             0x0628ba84                                         
+StrRChrA                                                                                             0x064d4e2e                                         
+StrRChrIA                                                                                            0xcff71537                                         
+StrRChrIW                                                                                            0xcff7154d                                         
+StrRChrW                                                                                             0x064d4e44                                         
+StrRStrIA                                                                                            0xd11f31d3                                         
+StrRStrIW                                                                                            0xd11f31e9                                         
+StrRetToBSTR                                                                                         0xa56915a7                                         
+StrRetToBufA                                                                                         0xa569a88a                                         
+StrRetToBufW                                                                                         0xa569a8a0                                         
+StrRetToStrA                                                                                         0xa572f846                                         
+StrRetToStrW                                                                                         0xa572f85c                                         
+StrSpnA                                                                                              0x0fb610b0                                         
+StrSpnW                                                                                              0x0fb610c6                                         
+StrStrA                                                                                              0x0fb62238                                         
+StrStrIA                                                                                             0x067a6a81                                         
+StrStrIW                                                                                             0x067a6a97                                         
+StrStrNIW                                                                                            0xd5c7d145                                         
+StrStrNW                                                                                             0x067a6b3c                                         
+StrStrW                                                                                              0x0fb6224e                                         
+StrToInt64ExA                                                                                        0x14982b54                                         
+StrToInt64ExW                                                                                        0x14982b6a                                         
+StrToIntA                                                                                            0xd7ac916d                                         
+StrToIntExA                                                                                          0x7516c16a                                         
+StrToIntExW                                                                                          0x7516c180                                         
+StrToIntW                                                                                            0xd7ac9183                                         
+StrTrimA                                                                                             0x068b489b                                         
+StrTrimW                                                                                             0x068b48b1                                         
+UrlApplySchemeA                                                                                      0xecc8b754                                         
+UrlApplySchemeW                                                                                      0xecc8b76a                                         
+UrlCanonicalizeA                                                                                     0x8439b129                                         
+UrlCanonicalizeW                                                                                     0x8439b13f                                         
+UrlCombineA                                                                                          0x5f8c7516                                         
+UrlCombineW                                                                                          0x5f8c752c                                         
+UrlCompareA                                                                                          0x60857a20                                         
+UrlCompareW                                                                                          0x60857a36                                         
+UrlCreateFromPathA                                                                                   0x6c9a5bce                                         
+UrlCreateFromPathW                                                                                   0x6c9a5be4                                         
+UrlEscapeA                                                                                           0xeb4a654a                                         
+UrlEscapeW                                                                                           0xeb4a6560                                         
+UrlFixupW                                                                                            0xf949747b                                         
+UrlGetLocationA                                                                                      0x695fcd72                                         
+UrlGetLocationW                                                                                      0x695fcd88                                         
+UrlGetPartA                                                                                          0x1dd77c50                                         
+UrlGetPartW                                                                                          0x1dd77c66                                         
+UrlHashA                                                                                             0x3639367d                                         
+UrlHashW                                                                                             0x36393693                                         
+UrlIsA                                                                                               0xd670ea35                                         
+UrlIsNoHistoryA                                                                                      0x63a08c04                                         
+UrlIsNoHistoryW                                                                                      0x63a08c1a                                         
+UrlIsOpaqueA                                                                                         0xd7d355a0                                         
+UrlIsOpaqueW                                                                                         0xd7d355b6                                         
+UrlIsW                                                                                               0xd670ea4b                                         
+UrlUnescapeA                                                                                         0x54fb816d                                         
+UrlUnescapeW                                                                                         0x54fb8183                                         
+WhichPlatform                                                                                        0x17a55c5d                                         
+wnsprintfA                                                                                           0x04b38ab1                                         
+wnsprintfW                                                                                           0x04b38ac7                                         
+wvnsprintfA                                                                                          0xb47d2367                                         
+wvnsprintfW                                                                                          0xb47d237d                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\JpMapControl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+JpIs3DSupported                                                                                      0x74dbdab8                                         
+JpIsUnifiedMapsStack                                                                                 0x9c2a3c26                                         
+JpMapControlSettings_Create                                                                          0x5127f7a2                                         
+JpMapControl_Create                                                                                  0x49c4bcd1                                         
+JpMapFactory_Create                                                                                  0xda8b5088                                         
+JpMapModel3DFrom3MFStreamOperation_Create                                                            0xcb0ecb8f                                         
+JpMapOverlayModel_Create                                                                             0xc88d0883                                         
+JpMapStyleSheetFactory_Create                                                                        0x4dbc3012                                         
+JpOverviewMapControl_Create                                                                          0x7a1164e8                                         
+JpRestrictedApiAccessCheck                                                                           0x92664802                                         
+JpStreetsideExperience_Create                                                                        0x04ef71b6                                         
+JpStreetsidePanoramaOperation_Create                                                                 0xdcca54ee                                         
+MapSettings_GetMosBingMapsKey                                                                        0x6ac3dfdc                                         
+MapSettings_ResetMosKeys                                                                             0x069b8c81                                         

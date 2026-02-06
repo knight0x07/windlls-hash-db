@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\msmpeg2vdec.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?GetSurface@CVIDEOfilter@@QEAAJHPEAEJ@Z                                                              0x2fa90e16                                         
+?GetSurfaceSize@CVIDEOfilter@@QEAAJHPEAJ@Z                                                           0xcd79a62c                                         
+?LoadSurface@CVIDEOfilter@@QEAAJHPEAEK@Z                                                             0x0225e937                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetH264DecoderFunctionTable                                                                          0xa051e00d                                         

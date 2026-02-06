@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\ISM.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateSystemInputHost                                                                                0x77ab8bec                                         
+IsSystemInputHostStandalone                                                                          0x24524f3d                                         
+NotifyInputSinkParented                                                                              0x08981c76                                         
+NotifyInputSinkRemoved                                                                               0x08101f35                                         
+Register3DCompositor                                                                                 0x1650f410                                         
+RegisterManipulationThread                                                                           0xfc0596d3                                         
+SetManipulationInputTarget                                                                           0x5c1f02d9                                         
+StopAndEndInertia                                                                                    0x0550b9c1                                         
+Unregister3DCompositor                                                                               0x2b43a053                                         

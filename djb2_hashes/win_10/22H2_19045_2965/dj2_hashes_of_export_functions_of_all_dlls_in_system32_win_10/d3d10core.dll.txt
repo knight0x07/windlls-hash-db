@@ -1,0 +1,44 @@
+DLL Path: C:\Windows\System32\d3d10core.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+D3D10CoreCreateDevice                                                                                0x59b10cae                                         
+D3D10CoreGetSupportedVersions                                                                        0x50674029                                         
+D3D10CoreGetVersion                                                                                  0xd93a7d70                                         
+D3D10CoreRegisterLayers                                                                              0x51d77f9f                                         
+D3DKMTCloseAdapter                                                                                   0xa8a6a5c3                                         
+D3DKMTCreateAllocation                                                                               0x0d616406                                         
+D3DKMTCreateContext                                                                                  0xa5a10865                                         
+D3DKMTCreateDevice                                                                                   0xd05bb550                                         
+D3DKMTCreateSynchronizationObject                                                                    0x4acb48a9                                         
+D3DKMTDestroyAllocation                                                                              0xa4f3c39c                                         
+D3DKMTDestroyContext                                                                                 0x41f79fbb                                         
+D3DKMTDestroyDevice                                                                                  0x39f1b9e6                                         
+D3DKMTDestroySynchronizationObject                                                                   0xc15cfe7f                                         
+D3DKMTEscape                                                                                         0x1939379d                                         
+D3DKMTGetContextSchedulingPriority                                                                   0x40925079                                         
+D3DKMTGetDeviceState                                                                                 0xe01572bd                                         
+D3DKMTGetDisplayModeList                                                                             0x517796c3                                         
+D3DKMTGetMultisampleMethodList                                                                       0x7ede6b16                                         
+D3DKMTGetRuntimeData                                                                                 0xd073246a                                         
+D3DKMTGetSharedPrimaryHandle                                                                         0x56ed0a73                                         
+D3DKMTLock                                                                                           0x85cc1c75                                         
+D3DKMTOpenAdapterFromHdc                                                                             0x98a4a6e2                                         
+D3DKMTOpenResource                                                                                   0x08f52706                                         
+D3DKMTPresent                                                                                        0x8cf9818d                                         
+D3DKMTQueryAdapterInfo                                                                               0xdef0a84f                                         
+D3DKMTQueryAllocationResidency                                                                       0x51f5efce                                         
+D3DKMTQueryResourceInfo                                                                              0x0aad6cd6                                         
+D3DKMTRender                                                                                         0x3695044c                                         
+D3DKMTSetAllocationPriority                                                                          0x2b628fc0                                         
+D3DKMTSetContextSchedulingPriority                                                                   0x5fe24905                                         
+D3DKMTSetDisplayMode                                                                                 0x7dabe413                                         
+D3DKMTSetDisplayPrivateDriverFormat                                                                  0xe0a675fe                                         
+D3DKMTSetGammaRamp                                                                                   0xc00db8ab                                         
+D3DKMTSetVidPnSourceOwner                                                                            0xdba54375                                         
+D3DKMTSignalSynchronizationObject                                                                    0xfaeb6213                                         
+D3DKMTUnlock                                                                                         0x3e367078                                         
+D3DKMTWaitForSynchronizationObject                                                                   0x9adb1d51                                         
+D3DKMTWaitForVerticalBlankEvent                                                                      0x87db8b2c                                         
+OpenAdapter10                                                                                        0xc5b50a19                                         
+OpenAdapter10_2                                                                                      0x072000ca                                         

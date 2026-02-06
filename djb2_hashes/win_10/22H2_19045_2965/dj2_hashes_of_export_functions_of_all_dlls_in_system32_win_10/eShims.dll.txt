@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\eShims.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IEShims_CreateFileW                                                                                  0x64de59e1                                         
+IEShims_FindClose                                                                                    0x34e5b0ad                                         
+IEShims_FindFirstFileW                                                                               0xc71b8516                                         
+IEShims_GetFileAttributesExW                                                                         0x9c8863d1                                         
+IEShims_GetFileAttributesW                                                                           0xdeff6b94                                         
+IEShims_GetFullPathNameW                                                                             0x60a6886e                                         
+IEShims_GetLongPathNameW                                                                             0x0db1260b                                         
+IEShims_Initialize                                                                                   0xae5f8028                                         
+IEShims_Uninitialize                                                                                 0x03b89ceb                                         
+IEShims_WNetGetConnectionW                                                                           0x5b8f28fb                                         
+RegisterFlashShimHandler                                                                             0x34cf91e7                                         

@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\sxshared.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetLastFailureAsHRESULT                                                                              0x45b13f1c                                         
+HRESULTFromNTSTATUS                                                                                  0xbc43cd06                                         
+SxTracerDebuggerBreak                                                                                0x372b6ffb                                         
+SxTracerGetThreadContextDebug                                                                        0xa810a375                                         
+SxTracerGetThreadContextRetail                                                                       0xcad6d54f                                         
+SxTracerShouldTrackFailure                                                                           0xea28409d                                         
+Win32FromHRESULT                                                                                     0x79f9c6f3                                         
+Win32FromNTSTATUS                                                                                    0xfd619852                                         

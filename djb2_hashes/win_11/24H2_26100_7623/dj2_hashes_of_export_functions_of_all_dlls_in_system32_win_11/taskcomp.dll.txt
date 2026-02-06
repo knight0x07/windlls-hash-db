@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\taskcomp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DeleteTaskNotification                                                                               0x1dce4cf2                                         
+InitializeAdapter                                                                                    0xa26b50b8                                         
+IsRegistering                                                                                        0xcbbac504                                         
+RegisterTaskNotification                                                                             0xd359a304                                         
+SetSdNotification                                                                                    0x143e052f                                         
+ShutdownAdapter                                                                                      0x0ef08e42                                         
+UpdateJobStatus                                                                                      0xadcf03a7                                         

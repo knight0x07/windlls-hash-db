@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-rtlsupport-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RtlAddFunctionTable                                                                                  0xbdb9f1ae                                         
+RtlCaptureContext                                                                                    0x7733eed0                                         
+RtlCaptureStackBackTrace                                                                             0xd43e9c41                                         
+RtlCompareMemory                                                                                     0xa0f57717                                         
+RtlDeleteFunctionTable                                                                               0xf6c5d058                                         
+RtlInstallFunctionTableCallback                                                                      0xefaa9c89                                         
+RtlLookupFunctionEntry                                                                               0xfa44c769                                         
+RtlPcToFileHeader                                                                                    0x9fd8f4d6                                         
+RtlRaiseException                                                                                    0x6a652c7a                                         
+RtlRestoreContext                                                                                    0xa80e26a0                                         
+RtlUnwind                                                                                            0x97aee78c                                         
+RtlUnwindEx                                                                                          0x3f0703e9                                         
+RtlVirtualUnwind                                                                                     0xa1cba7d3                                         

@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\msports.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ComDBClaimNextFreePort                                                                               0x54ed1dd6                                         
+ComDBClaimPort                                                                                       0x975ac5d5                                         
+ComDBClose                                                                                           0x6fd4a500                                         
+ComDBGetCurrentPortUsage                                                                             0x07678dc7                                         
+ComDBOpen                                                                                            0x493ba17c                                         
+ComDBReleasePort                                                                                     0x92bbd270                                         
+ComDBResizeDatabase                                                                                  0x7523ecb1                                         
+ParallelPortPropPageProvider                                                                         0x9b202dc0                                         
+PortsClassInstaller                                                                                  0xa2fc9141                                         
+SerialDisplayAdvancedSettings                                                                        0x3baa42e2                                         
+SerialPortPropPageProvider                                                                           0xf23b8813                                         

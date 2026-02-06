@@ -1,0 +1,846 @@
+DLL Path: C:\Windows\System32\shell32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppCompat_RunDLLW                                                                                    0x6112f311                                         
+AssocCreateForClasses                                                                                0x42f50367                                         
+AssocElemCreateForKey                                                                                0x7fd8bc65                                         
+AssocGetDetailsOfPropKey                                                                             0xe7c9a8c3                                         
+CDefFolderMenu_Create2                                                                               0x7cfb9f8d                                         
+CIDLData_CreateFromIDArray                                                                           0x22c7226e                                         
+CStorageItem_GetValidatedStorageItemObject                                                           0xbd1e7214                                         
+CallFileCopyHook                                                                                     0x4bc8cd0d                                         
+CheckEscapesW                                                                                        0x239670de                                         
+CommandLineToArgvW                                                                                   0x8d607276                                         
+Control_RunDLL                                                                                       0xc2141d36                                         
+Control_RunDLLA                                                                                      0x0497c437                                         
+Control_RunDLLAsUserW                                                                                0x0ca200e0                                         
+Control_RunDLLW                                                                                      0x0497c44d                                         
+CreateStorageItemFromPath_FullTrustCaller                                                            0x34808285                                         
+CreateStorageItemFromPath_FullTrustCaller_ForPackage                                                 0xaf9eb537                                         
+CreateStorageItemFromPath_PartialTrustCaller                                                         0x784f84df                                         
+CreateStorageItemFromShellItem_FullTrustCaller                                                       0xa410469f                                         
+CreateStorageItemFromShellItem_FullTrustCaller_ForPackage                                            0x34037511                                         
+CreateStorageItemFromShellItem_FullTrustCaller_ForPackage_WithProcessHandle                          0xa0002b37                                         
+CreateStorageItemFromShellItem_FullTrustCaller_UseImplicitFlagsAndPackage                            0x3a7c4fd2                                         
+DAD_AutoScroll                                                                                       0xe9621f75                                         
+DAD_DragEnterEx                                                                                      0x7669a6e6                                         
+DAD_DragEnterEx2                                                                                     0x439e83d8                                         
+DAD_DragLeave                                                                                        0x239c14b8                                         
+DAD_DragMove                                                                                         0x75720f82                                         
+DAD_SetDragImage                                                                                     0x3a7e693a                                         
+DAD_ShowDragImage                                                                                    0x880c3c8f                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllGetVersion                                                                                        0x5dd63a07                                         
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DoEnvironmentSubstA                                                                                  0x8a0e4d1f                                         
+DoEnvironmentSubstW                                                                                  0x8a0e4d35                                         
+DragAcceptFiles                                                                                      0x8f9d2206                                         
+DragFinish                                                                                           0x507a21e4                                         
+DragQueryFile                                                                                        0xbdcc62f9                                         
+DragQueryFileA                                                                                       0x7758c25a                                         
+DragQueryFileAorW                                                                                    0xc2ecc352                                         
+DragQueryFileW                                                                                       0x7758c270                                         
+DragQueryPoint                                                                                       0x7810f643                                         
+DriveType                                                                                            0xc5b2ccc1                                         
+DuplicateIcon                                                                                        0x53ac9009                                         
+ExtractAssociatedIconA                                                                               0xaf11f1aa                                         
+ExtractAssociatedIconExA                                                                             0xbb5524e7                                         
+ExtractAssociatedIconExW                                                                             0xbb5524fd                                         
+ExtractAssociatedIconW                                                                               0xaf11f1c0                                         
+ExtractIconA                                                                                         0x1f92b94a                                         
+ExtractIconEx                                                                                        0x11e9e386                                         
+ExtractIconExA                                                                                       0x4f265487                                         
+ExtractIconExW                                                                                       0x4f26549d                                         
+ExtractIconW                                                                                         0x1f92b960                                         
+FindExecutableA                                                                                      0x33713dc9                                         
+FindExecutableW                                                                                      0x33713ddf                                         
+FreeIconList                                                                                         0xda24ae2c                                         
+GetCurrentProcessExplicitAppUserModelID                                                              0xa31c1b27                                         
+GetFileNameFromBrowse                                                                                0xd8f4faac                                         
+GetSystemPersistedStorageItemList                                                                    0x3007d8dd                                         
+ILAppendID                                                                                           0xa877e59f                                         
+ILClone                                                                                              0xad5c89ab                                         
+ILCloneFirst                                                                                         0x8daa87d3                                         
+ILCombine                                                                                            0x7d7a7457                                         
+ILCreateFromPath                                                                                     0x1a8de9cf                                         
+ILCreateFromPathA                                                                                    0x6c4b23f0                                         
+ILCreateFromPathW                                                                                    0x6c4b2406                                         
+ILFindChild                                                                                          0xe8c4fbbf                                         
+ILFindLastID                                                                                         0x15e9d05c                                         
+ILFree                                                                                               0xb7af35dc                                         
+ILGetNext                                                                                            0x9a837559                                         
+ILGetSize                                                                                            0x9a864475                                         
+ILIsEqual                                                                                            0x51e11a4e                                         
+ILIsParent                                                                                           0xa68a0780                                         
+ILLoadFromStreamEx                                                                                   0x67432cd7                                         
+ILRemoveLastID                                                                                       0x055fe869                                         
+ILSaveToStream                                                                                       0x6b165f98                                         
+InitNetworkAddressControl                                                                            0x08373c6a                                         
+InternalExtractIconListA                                                                             0x5968be03                                         
+InternalExtractIconListW                                                                             0x5968be19                                         
+IsDesktopExplorerProcess                                                                             0x5593a6cb                                         
+IsLFNDrive                                                                                           0x9b91097b                                         
+IsLFNDriveA                                                                                          0x0db2391c                                         
+IsLFNDriveW                                                                                          0x0db23932                                         
+IsNetDrive                                                                                           0x1f061682                                         
+IsProcessAnExplorer                                                                                  0xba2707a0                                         
+IsUserAnAdmin                                                                                        0xe04a8df8                                         
+LaunchMSHelp_RunDLLW                                                                                 0x43faeef0                                         
+OpenAs_RunDLL                                                                                        0xbdb78ebb                                         
+OpenAs_RunDLLA                                                                                       0x74a9665c                                         
+OpenAs_RunDLLW                                                                                       0x74a96672                                         
+OpenRegStream                                                                                        0xf8792261                                         
+Options_RunDLL                                                                                       0x385eee81                                         
+Options_RunDLLA                                                                                      0x443cbee2                                         
+Options_RunDLLW                                                                                      0x443cbef8                                         
+PathCleanupSpec                                                                                      0x2f0a4d65                                         
+PathGetShortPath                                                                                     0xbbee432f                                         
+PathIsExe                                                                                            0xb756ced0                                         
+PathIsSlowA                                                                                          0xe93cbf74                                         
+PathIsSlowW                                                                                          0xe93cbf8a                                         
+PathMakeUniqueName                                                                                   0x9e8567c8                                         
+PathQualify                                                                                          0x56b6324d                                         
+PathResolve                                                                                          0x7fa551f2                                         
+PathYetAnotherMakeUniqueName                                                                         0x36ee754b                                         
+PickIconDlg                                                                                          0xeebbcaac                                         
+PifMgr_CloseProperties                                                                               0x98bd2fcc                                         
+PifMgr_GetProperties                                                                                 0x96097f76                                         
+PifMgr_OpenProperties                                                                                0x75071368                                         
+PifMgr_SetProperties                                                                                 0x4e7df182                                         
+PrepareDiscForBurnRunDllW                                                                            0x215282bd                                         
+PrintersGetCommand_RunDLL                                                                            0x5a36618b                                         
+PrintersGetCommand_RunDLLA                                                                           0xa102932c                                         
+PrintersGetCommand_RunDLLW                                                                           0xa1029342                                         
+ReadCabinetState                                                                                     0x29169438                                         
+RealDriveType                                                                                        0x399c6165                                         
+RealShellExecuteA                                                                                    0xfa428895                                         
+RealShellExecuteExA                                                                                  0x95072292                                         
+RealShellExecuteExW                                                                                  0x950722a8                                         
+RealShellExecuteW                                                                                    0xfa4288ab                                         
+RegenerateUserEnvironment                                                                            0x8ee4bffb                                         
+RestartDialog                                                                                        0xc6fc6e7a                                         
+RestartDialogEx                                                                                      0x77d1fe57                                         
+RunAsNewUser_RunDLLW                                                                                 0x049ee07e                                         
+SHAddDefaultPropertiesByExt                                                                          0x82e210a7                                         
+SHAddFromPropSheetExtArray                                                                           0x291ece47                                         
+SHAddToRecentDocs                                                                                    0x06d4bb76                                         
+SHAlloc                                                                                              0xa5aa090b                                         
+SHAppBarMessage                                                                                      0x9bf79f5b                                         
+SHAssocEnumHandlers                                                                                  0x97f65b3f                                         
+SHAssocEnumHandlersForProtocolByApplication                                                          0x292c4fe7                                         
+SHBindToFolderIDListParent                                                                           0x9e97300f                                         
+SHBindToFolderIDListParentEx                                                                         0xa123792c                                         
+SHBindToObject                                                                                       0xc9693817                                         
+SHBindToParent                                                                                       0xcbb0acaa                                         
+SHBrowseForFolder                                                                                    0xe75c6575                                         
+SHBrowseForFolderA                                                                                   0xd2e91456                                         
+SHBrowseForFolderW                                                                                   0xd2e9146c                                         
+SHCLSIDFromString                                                                                    0xeedfc19a                                         
+SHChangeNotification_Lock                                                                            0x7c59adb5                                         
+SHChangeNotification_Unlock                                                                          0x0e6d51b8                                         
+SHChangeNotify                                                                                       0x530afbdf                                         
+SHChangeNotifyDeregister                                                                             0xcce4f54d                                         
+SHChangeNotifyRegister                                                                               0x3bfd0344                                         
+SHChangeNotifyRegisterThread                                                                         0xb276ed3c                                         
+SHChangeNotifySuspendResume                                                                          0x22d942b2                                         
+SHCloneSpecialIDList                                                                                 0x747aa6fb                                         
+SHCoCreateInstance                                                                                   0xde1cdf5b                                         
+SHCoCreateInstanceWorker                                                                             0x2e057e15                                         
+SHCreateAssociationRegistration                                                                      0xbcd26b2c                                         
+SHCreateCategoryEnum                                                                                 0xc4b417e7                                         
+SHCreateDataObject                                                                                   0x32128765                                         
+SHCreateDefaultContextMenu                                                                           0x741ec333                                         
+SHCreateDefaultExtractIcon                                                                           0x20b6c1fd                                         
+SHCreateDefaultPropertiesOp                                                                          0x6a9f26c5                                         
+SHCreateDirectory                                                                                    0x96579cc9                                         
+SHCreateDirectoryExA                                                                                 0xe0f18967                                         
+SHCreateDirectoryExW                                                                                 0xe0f1897d                                         
+SHCreateDrvExtIcon                                                                                   0xbc52287a                                         
+SHCreateFileExtractIconW                                                                             0xa07d0b6f                                         
+SHCreateItemFromIDList                                                                               0xd42a5380                                         
+SHCreateItemFromParsingName                                                                          0x5c9ff92c                                         
+SHCreateItemFromRelativeName                                                                         0xe97d43b4                                         
+SHCreateItemInKnownFolder                                                                            0x39e702e3                                         
+SHCreateItemWithParent                                                                               0x2f599e09                                         
+SHCreateLocalServerRunDll                                                                            0xd6db9b47                                         
+SHCreateProcessAsUserW                                                                               0x531ae7fd                                         
+SHCreatePropSheetExtArray                                                                            0x1e73c47e                                         
+SHCreateQueryCancelAutoPlayMoniker                                                                   0xa0609814                                         
+SHCreateShellFolderView                                                                              0x5dfcce43                                         
+SHCreateShellFolderViewEx                                                                            0xd0697460                                         
+SHCreateShellItem                                                                                    0xa58ac95b                                         
+SHCreateShellItemArray                                                                               0x61ce881a                                         
+SHCreateShellItemArrayFromDataObject                                                                 0xb5c9f41f                                         
+SHCreateShellItemArrayFromIDLists                                                                    0x1d00c80a                                         
+SHCreateShellItemArrayFromShellItem                                                                  0xb14a86d5                                         
+SHCreateStdEnumFmtEtc                                                                                0xe00842d7                                         
+SHDefExtractIconA                                                                                    0xa8efef34                                         
+SHDefExtractIconW                                                                                    0xa8efef4a                                         
+SHDestroyPropSheetExtArray                                                                           0xcf87cdd4                                         
+SHDoDragDrop                                                                                         0x40ffa986                                         
+SHELL32_AddToBackIconTable                                                                           0x019709ef                                         
+SHELL32_AddToFrontIconTable                                                                          0x9108a507                                         
+SHELL32_AreAllItemsAvailable                                                                         0x1f7e00d5                                         
+SHELL32_CCommonPlacesFolder_CreateInstance                                                           0x3e549c09                                         
+SHELL32_CDBurn_CloseSession                                                                          0x77be6a18                                         
+SHELL32_CDBurn_DriveSupportedForDataBurn                                                             0x98eeb096                                         
+SHELL32_CDBurn_Erase                                                                                 0x35e2df4e                                         
+SHELL32_CDBurn_GetCDInfo                                                                             0x4dce8d91                                         
+SHELL32_CDBurn_GetLiveFSDiscInfo                                                                     0x61a699b6                                         
+SHELL32_CDBurn_GetStagingPathOrNormalPath                                                            0x98b6b7af                                         
+SHELL32_CDBurn_GetTaskInfo                                                                           0xc612bddd                                         
+SHELL32_CDBurn_IsBlankDisc                                                                           0x63915e65                                         
+SHELL32_CDBurn_IsBlankDisc2                                                                          0xd5bd2b37                                         
+SHELL32_CDBurn_IsLiveFS                                                                              0x49709403                                         
+SHELL32_CDBurn_OnDeviceChange                                                                        0x0bf08471                                         
+SHELL32_CDBurn_OnEject                                                                               0x308a1786                                         
+SHELL32_CDBurn_OnMediaChange                                                                         0xcf82ab41                                         
+SHELL32_CDefFolderMenu_Create2                                                                       0x50031b09                                         
+SHELL32_CDefFolderMenu_Create2Ex                                                                     0x5d360aa6                                         
+SHELL32_CDefFolderMenu_MergeMenu                                                                     0xe052f468                                         
+SHELL32_CDrivesContextMenu_Create                                                                    0x48e251fe                                         
+SHELL32_CDrivesDropTarget_Create                                                                     0x8392ce20                                         
+SHELL32_CDrives_CreateSFVCB                                                                          0xfe589438                                         
+SHELL32_CFSDropTarget_CreateInstance                                                                 0xeab89741                                         
+SHELL32_CFSFolderCallback_Create                                                                     0xb50afcb9                                         
+SHELL32_CFillPropertiesTask_CreateInstance                                                           0x460a2f73                                         
+SHELL32_CLibraryDropTarget_CreateInstance                                                            0xc5f36f9d                                         
+SHELL32_CLocationContextMenu_Create                                                                  0x6e352d8a                                         
+SHELL32_CLocationFolderUI_CreateInstance                                                             0x85d5a91f                                         
+SHELL32_CMountPoint_DoAutorun                                                                        0xf25de781                                         
+SHELL32_CMountPoint_DoAutorunPrompt                                                                  0xddf21ca3                                         
+SHELL32_CMountPoint_IsAutoRunDriveAndEnabledByPolicy                                                 0x7a9da0ed                                         
+SHELL32_CMountPoint_ProcessAutoRunFile                                                               0x0a74c90d                                         
+SHELL32_CMountPoint_WantAutorunUI                                                                    0xbb580de6                                         
+SHELL32_CMountPoint_WantAutorunUIGetReady                                                            0x8679e4fb                                         
+SHELL32_CNetFolderUI_CreateInstance                                                                  0x5d1d592d                                         
+SHELL32_CPL_CategoryIdArrayFromVariant                                                               0x427c48b2                                         
+SHELL32_CPL_IsLegacyCanonicalNameListedUnderKey                                                      0xa07ac585                                         
+SHELL32_CPL_ModifyWowDisplayName                                                                     0xb9c0d85b                                         
+SHELL32_CRecentDocsContextMenu_CreateInstance                                                        0x60852870                                         
+SHELL32_CTransferConfirmation_CreateInstance                                                         0x6619199a                                         
+SHELL32_CallFileCopyHooks                                                                            0xb1b3cd1c                                         
+SHELL32_CanDisplayWin8CopyDialog                                                                     0xd3684d1a                                         
+SHELL32_CloseAutoplayPrompt                                                                          0xceb1e728                                         
+SHELL32_CommandLineFromMsiDescriptor                                                                 0xd0a3d104                                         
+SHELL32_CopySecondaryTiles                                                                           0xd77fd725                                         
+SHELL32_CreateConfirmationInterrupt                                                                  0xf22894ab                                         
+SHELL32_CreateConflictInterrupt                                                                      0x49aa3914                                         
+SHELL32_CreateDefaultOperationDataProvider                                                           0xab3fc4f0                                         
+SHELL32_CreateFileFolderContextMenu                                                                  0xd600f42b                                         
+SHELL32_CreateLinkInfoW                                                                              0x8473cb86                                         
+SHELL32_CreateQosRecorder                                                                            0xa9fecdbe                                         
+SHELL32_CreateSharePointView                                                                         0x05be168d                                         
+SHELL32_Create_IEnumUICommand                                                                        0x3bf0956f                                         
+SHELL32_DestroyLinkInfo                                                                              0x7b452205                                         
+SHELL32_EncryptDirectory                                                                             0xa68f8a3b                                         
+SHELL32_EncryptedFileKeyInfo                                                                         0xd5558184                                         
+SHELL32_EnumCommonTasks                                                                              0xcad171c5                                         
+SHELL32_FreeEncryptedFileKeyInfo                                                                     0xf6ba13e6                                         
+SHELL32_GenerateAppID                                                                                0xc2c5c71a                                         
+SHELL32_GetAppIDRoot                                                                                 0xd968fed3                                         
+SHELL32_GetCommandProviderForFolderType                                                              0xa6517e70                                         
+SHELL32_GetDPIAdjustedLogicalSize                                                                    0xa044e388                                         
+SHELL32_GetDiskCleanupPath                                                                           0x71da2be1                                         
+SHELL32_GetFileNameFromBrowse                                                                        0x6afcf6a8                                         
+SHELL32_GetIconOverlayManager                                                                        0x630501c7                                         
+SHELL32_GetLinkInfoData                                                                              0xa51299d5                                         
+SHELL32_GetRatingBucket                                                                              0x8657c4e4                                         
+SHELL32_GetSqmableFileName                                                                           0xbbee42e7                                         
+SHELL32_GetThumbnailAdornerFromFactory                                                               0x81ca301c                                         
+SHELL32_GetThumbnailAdornerFromFactory2                                                              0xbb1033ce                                         
+SHELL32_HandleUnrecognizedFileSystem                                                                 0x3f91933f                                         
+SHELL32_IconCacheCreate                                                                              0x5a38e392                                         
+SHELL32_IconCacheDestroy                                                                             0xd1043de8                                         
+SHELL32_IconCacheHandleAssociationChanged                                                            0x09931a71                                         
+SHELL32_IconCacheRestore                                                                             0x06b38402                                         
+SHELL32_IconCache_AboutToExtractIcons                                                                0x4906c1d2                                         
+SHELL32_IconCache_DoneExtractingIcons                                                                0xda842718                                         
+SHELL32_IconCache_ExpandEnvAndSearchPath                                                             0xd785017c                                         
+SHELL32_IconCache_RememberRecentlyExtractedIconsW                                                    0x3ca4ff69                                         
+SHELL32_IconOverlayManagerInit                                                                       0xb90e36fb                                         
+SHELL32_IsGetKeyboardLayoutPresent                                                                   0x9ca5b04d                                         
+SHELL32_IsSystemUpgradeInProgress                                                                    0x5d134fb6                                         
+SHELL32_IsValidLinkInfo                                                                              0x82b88067                                         
+SHELL32_LegacyEnumSpecialTasksByType                                                                 0x5967fe6f                                         
+SHELL32_LegacyEnumTasks                                                                              0xe24149d1                                         
+SHELL32_LookupBackIconIndex                                                                          0xea7bf90d                                         
+SHELL32_LookupFrontIconIndex                                                                         0xae8815e5                                         
+SHELL32_NormalizeRating                                                                              0x5579aeb7                                         
+SHELL32_NotifyLinkTrackingServiceOfMove                                                              0x050f7bb8                                         
+SHELL32_PifMgr_CloseProperties                                                                       0x6bc4ab48                                         
+SHELL32_PifMgr_GetProperties                                                                         0xd0c3ebf2                                         
+SHELL32_PifMgr_OpenProperties                                                                        0x070f0f64                                         
+SHELL32_PifMgr_SetProperties                                                                         0x89385dfe                                         
+SHELL32_Printers_CreateBindInfo                                                                      0x879b5254                                         
+SHELL32_Printjob_GetPidl                                                                             0x35f3ae11                                         
+SHELL32_PurgeSystemIcon                                                                              0x0bf7a612                                         
+SHELL32_RefreshOverlayImages                                                                         0xbff22228                                         
+SHELL32_ResolveLinkInfoW                                                                             0x30f7b3b2                                         
+SHELL32_SHAddSparseIcon                                                                              0x133e395c                                         
+SHELL32_SHCreateByValueOperationInterrupt                                                            0xad916b86                                         
+SHELL32_SHCreateDefaultContextMenu                                                                   0x2d2f9caf                                         
+SHELL32_SHCreateLocalServer                                                                          0x1742cff2                                         
+SHELL32_SHCreateShellFolderView                                                                      0x91f3b93f                                         
+SHELL32_SHDuplicateEncryptionInfoFile                                                                0x58d754ae                                         
+SHELL32_SHEncryptFile                                                                                0x3352eb21                                         
+SHELL32_SHFormatDriveAsync                                                                           0xf3e6cf5d                                         
+SHELL32_SHGetThreadUndoManager                                                                       0xd6fa1bc5                                         
+SHELL32_SHGetUserNameW                                                                               0x8585fb93                                         
+SHELL32_SHIsVirtualDevice                                                                            0x7414b8ef                                         
+SHELL32_SHLaunchPropSheet                                                                            0xea638ab1                                         
+SHELL32_SHLogILFromFSIL                                                                              0xa93df4f5                                         
+SHELL32_SHOpenWithDialog                                                                             0x309d909a                                         
+SHELL32_SHStartNetConnectionDialogW                                                                  0xf8f63348                                         
+SHELL32_SHUICommandFromGUID                                                                          0xe5dba6d6                                         
+SHELL32_SendToMenu_InvokeTargetedCommand                                                             0xeffca87d                                         
+SHELL32_SendToMenu_VerifyTargetedCommand                                                             0x9e3be566                                         
+SHELL32_ShowHideIconOnlyOnDesktop                                                                    0xbff32a7e                                         
+SHELL32_SimpleRatingToFilterCondition                                                                0x54c6d6a0                                         
+SHELL32_StampIconForFile                                                                             0xdede6836                                         
+SHELL32_SuspendUndo                                                                                  0xd425d419                                         
+SHELL32_TryVirtualDiscImageDriveEject                                                                0xd3cb6b12                                         
+SHELL32_VerifySaferTrust                                                                             0x91b6d349                                         
+SHEmptyRecycleBinA                                                                                   0x82207bf0                                         
+SHEmptyRecycleBinW                                                                                   0x82207c06                                         
+SHEnableServiceObject                                                                                0x2c1d464f                                         
+SHEnumerateUnreadMailAccountsW                                                                       0xe3144a5f                                         
+SHEvaluateSystemCommandTemplate                                                                      0x8517ae97                                         
+SHExecuteErrorMessageBox                                                                             0xe850dacb                                         
+SHExtractIconsW                                                                                      0xd84c916e                                         
+SHFileOperation                                                                                      0x956a6091                                         
+SHFileOperationA                                                                                     0x42b672f2                                         
+SHFileOperationW                                                                                     0x42b67308                                         
+SHFindFiles                                                                                          0x0e70ad94                                         
+SHFind_InitMenuPopup                                                                                 0x8926de7d                                         
+SHFlushSFCache                                                                                       0xff73042f                                         
+SHFormatDrive                                                                                        0xdb146263                                         
+SHFree                                                                                               0xceba6a22                                         
+SHFreeNameMappings                                                                                   0x022e2fe2                                         
+SHGetAttributesFromDataObject                                                                        0xb5a817ec                                         
+SHGetDataFromIDListA                                                                                 0x5f528238                                         
+SHGetDataFromIDListW                                                                                 0x5f52824e                                         
+SHGetDesktopFolder                                                                                   0x143c1576                                         
+SHGetDiskFreeSpaceA                                                                                  0x6739a05a                                         
+SHGetDiskFreeSpaceExA                                                                                0x1c233f97                                         
+SHGetDiskFreeSpaceExW                                                                                0x1c233fad                                         
+SHGetDriveMedia                                                                                      0x3a94491a                                         
+SHGetFileInfo                                                                                        0x7a60416c                                         
+SHGetFileInfoA                                                                                       0xc6686f2d                                         
+SHGetFileInfoW                                                                                       0xc6686f43                                         
+SHGetFolderLocation                                                                                  0x4eb19375                                         
+SHGetFolderPathA                                                                                     0xa15ce62a                                         
+SHGetFolderPathAndSubDirA                                                                            0x754ce8a6                                         
+SHGetFolderPathAndSubDirW                                                                            0x754ce8bc                                         
+SHGetFolderPathEx                                                                                    0xccf9ac66                                         
+SHGetFolderPathW                                                                                     0xa15ce640                                         
+SHGetIDListFromObject                                                                                0xf3172634                                         
+SHGetIconOverlayIndexA                                                                               0xa0ad8d44                                         
+SHGetIconOverlayIndexW                                                                               0xa0ad8d5a                                         
+SHGetImageList                                                                                       0x8cb6e15f                                         
+SHGetInstanceExplorer                                                                                0xffeb11e6                                         
+SHGetItemFromDataObject                                                                              0x05847014                                         
+SHGetItemFromObject                                                                                  0xee11ad5a                                         
+SHGetKnownFolderIDList                                                                               0xdd734f52                                         
+SHGetKnownFolderItem                                                                                 0x26fe90b8                                         
+SHGetKnownFolderPath                                                                                 0x27021876                                         
+SHGetLocalizedName                                                                                   0x165140f8                                         
+SHGetMalloc                                                                                          0x6c06cd18                                         
+SHGetNameFromIDList                                                                                  0x7ecc26be                                         
+SHGetNewLinkInfo                                                                                     0xab756e44                                         
+SHGetNewLinkInfoA                                                                                    0x1a233705                                         
+SHGetNewLinkInfoW                                                                                    0x1a23371b                                         
+SHGetPathFromIDList                                                                                  0xdc0a476a                                         
+SHGetPathFromIDListA                                                                                 0x5d5334eb                                         
+SHGetPathFromIDListEx                                                                                0x07b9d347                                         
+SHGetPathFromIDListW                                                                                 0x5d533501                                         
+SHGetPropertyStoreForWindow                                                                          0xa1663191                                         
+SHGetPropertyStoreFromIDList                                                                         0xb6b314af                                         
+SHGetPropertyStoreFromParsingName                                                                    0xb56bcfbb                                         
+SHGetRealIDL                                                                                         0x76508f7d                                         
+SHGetSetFolderCustomSettings                                                                         0x599d43d4                                         
+SHGetSetSettings                                                                                     0x3966e13d                                         
+SHGetSettings                                                                                        0x59995eb1                                         
+SHGetSpecialFolderLocation                                                                           0xca60a236                                         
+SHGetSpecialFolderPathA                                                                              0x05f3848b                                         
+SHGetSpecialFolderPathW                                                                              0x05f384a1                                         
+SHGetStockIconInfo                                                                                   0xafec7919                                         
+SHGetTemporaryPropertyForItem                                                                        0xba44171e                                         
+SHGetUnreadMailCountW                                                                                0x84e635c2                                         
+SHHandleUpdateImage                                                                                  0x6c418352                                         
+SHHelpShortcuts_RunDLL                                                                               0x5a692608                                         
+SHHelpShortcuts_RunDLLA                                                                              0xa78de749                                         
+SHHelpShortcuts_RunDLLW                                                                              0xa78de75f                                         
+SHILCreateFromPath                                                                                   0x39de600a                                         
+SHInvokePrinterCommandA                                                                              0x43f77d90                                         
+SHInvokePrinterCommandW                                                                              0x43f77da6                                         
+SHIsFileAvailableOffline                                                                             0xc341d940                                         
+SHLimitInputEdit                                                                                     0xa61f03d5                                         
+SHLoadInProc                                                                                         0xb7a36e6b                                         
+SHLoadNonloadedIconOverlayIdentifiers                                                                0xfaaf7f15                                         
+SHMapPIDLToSystemImageListIndex                                                                      0xf8562266                                         
+SHMultiFileProperties                                                                                0xc24245b8                                         
+SHObjectProperties                                                                                   0x8cb76be4                                         
+SHOpenFolderAndSelectItems                                                                           0xa6bc0fc3                                         
+SHOpenOrGetFolderView                                                                                0xd2d51d0a                                         
+SHOpenPropSheetW                                                                                     0x494a1e23                                         
+SHOpenWithDialog                                                                                     0x5fbe021e                                         
+SHParseDisplayName                                                                                   0x1050c552                                         
+SHPathPrepareForWriteA                                                                               0x2f5b97ef                                         
+SHPathPrepareForWriteW                                                                               0x2f5b9805                                         
+SHPropStgCreate                                                                                      0xd4afc523                                         
+SHPropStgReadMultiple                                                                                0xaeb640f7                                         
+SHPropStgWriteMultiple                                                                               0x9e8b8546                                         
+SHQueryRecycleBinA                                                                                   0x04592397                                         
+SHQueryRecycleBinW                                                                                   0x045923ad                                         
+SHQueryUserNotificationState                                                                         0x7d3aec3d                                         
+SHRemoveLocalizedName                                                                                0xadaa7fc6                                         
+SHReplaceFromPropSheetExtArray                                                                       0x990c52da                                         
+SHResolveLibrary                                                                                     0x2ce3f555                                         
+SHRestricted                                                                                         0x0e9ea8b9                                         
+SHSetDefaultProperties                                                                               0x05e1be5e                                         
+SHSetFolderPathA                                                                                     0x685f99b6                                         
+SHSetFolderPathW                                                                                     0x685f99cc                                         
+SHSetInstanceExplorer                                                                                0x4a27dcf2                                         
+SHSetKnownFolderPath                                                                                 0x500bb202                                         
+SHSetLocalizedName                                                                                   0xa8cf0784                                         
+SHSetTemporaryPropertyForItem                                                                        0xa3f12e2a                                         
+SHSetUnreadMailCountW                                                                                0xcf2300ce                                         
+SHShellFolderView_Message                                                                            0x10108ed3                                         
+SHShowManageLibraryUI                                                                                0xf6cd1b5d                                         
+SHSimpleIDListFromPath                                                                               0xee6b8654                                         
+SHStartNetConnectionDialogW                                                                          0x1dca2a4c                                         
+SHTestTokenMembership                                                                                0xc6ef3f2d                                         
+SHUpdateImageA                                                                                       0x045a8c47                                         
+SHUpdateImageW                                                                                       0x045a8c5d                                         
+SHUpdateRecycleBinIcon                                                                               0x0b8b83ac                                         
+SHValidateUNC                                                                                        0x4a539c50                                         
+SetCurrentProcessExplicitAppUserModelID                                                              0xba982433                                         
+SheChangeDirA                                                                                        0x9a949f4b                                         
+SheChangeDirExW                                                                                      0x9239bede                                         
+SheGetDirA                                                                                           0x5afbe505                                         
+SheSetCurDrive                                                                                       0x8108fdb5                                         
+ShellAboutA                                                                                          0x85ff1859                                         
+ShellAboutW                                                                                          0x85ff186f                                         
+ShellExec_RunDLL                                                                                     0x0d4a8ad2                                         
+ShellExec_RunDLLA                                                                                    0xb69be553                                         
+ShellExec_RunDLLW                                                                                    0xb69be569                                         
+ShellExecuteA                                                                                        0x381741f1                                         
+ShellExecuteEx                                                                                       0x3aff810d                                         
+ShellExecuteExA                                                                                      0x9aefa2ee                                         
+ShellExecuteExW                                                                                      0x9aefa304                                         
+ShellExecuteW                                                                                        0x38174207                                         
+ShellHookProc                                                                                        0x5fe0a702                                         
+ShellMessageBoxA                                                                                     0xd80ace0c                                         
+ShellMessageBoxW                                                                                     0xd80ace22                                         
+Shell_GetCachedImageIndex                                                                            0x4643994f                                         
+Shell_GetCachedImageIndexA                                                                           0x0eb6c370                                         
+Shell_GetCachedImageIndexW                                                                           0x0eb6c386                                         
+Shell_GetImageLists                                                                                  0x28edc74e                                         
+Shell_MergeMenus                                                                                     0x5415ea94                                         
+Shell_NotifyIcon                                                                                     0x5cd6dd9e                                         
+Shell_NotifyIconA                                                                                    0xf7b2919f                                         
+Shell_NotifyIconGetRect                                                                              0xc2df4d4c                                         
+Shell_NotifyIconW                                                                                    0xf7b291b5                                         
+SignalFileOpen                                                                                       0xac55d815                                         
+StateRepoNewMenuCache_EnsureCacheAsync                                                               0x7ca98a92                                         
+StateRepoNewMenuCache_RebuildCacheAsync                                                              0x366fcb67                                         
+StgMakeUniqueName                                                                                    0xa4fcff09                                         
+StrChrA                                                                                              0x0fad291c                                         
+StrChrIA                                                                                             0x05524de5                                         
+StrChrIW                                                                                             0x05524dfb                                         
+StrChrW                                                                                              0x0fad2932                                         
+StrCmpNA                                                                                             0x055503ed                                         
+StrCmpNIA                                                                                            0xaff582d6                                         
+StrCmpNIW                                                                                            0xaff582ec                                         
+StrCmpNW                                                                                             0x05550403                                         
+StrNCmpA                                                                                             0x0605012d                                         
+StrNCmpIA                                                                                            0xc6a52816                                         
+StrNCmpIW                                                                                            0xc6a5282c                                         
+StrNCmpW                                                                                             0x06050143                                         
+StrRChrA                                                                                             0x064d4e2e                                         
+StrRChrIA                                                                                            0xcff71537                                         
+StrRChrIW                                                                                            0xcff7154d                                         
+StrRChrW                                                                                             0x064d4e44                                         
+StrRStrA                                                                                             0x0656474a                                         
+StrRStrIA                                                                                            0xd11f31d3                                         
+StrRStrIW                                                                                            0xd11f31e9                                         
+StrRStrW                                                                                             0x06564760                                         
+StrStrA                                                                                              0x0fb62238                                         
+StrStrIA                                                                                             0x067a6a81                                         
+StrStrIW                                                                                             0x067a6a97                                         
+StrStrW                                                                                              0x0fb6224e                                         
+UsersLibrariesFolderUI_CreateInstance                                                                0x593adff6                                         
+WOWShellExecute                                                                                      0xac4489ad                                         
+WaitForExplorerRestartW                                                                              0xdc1b7cce                                         
+Win32DeleteFile                                                                                      0x7379650b                                         
+WriteCabinetState                                                                                    0x937806c7                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

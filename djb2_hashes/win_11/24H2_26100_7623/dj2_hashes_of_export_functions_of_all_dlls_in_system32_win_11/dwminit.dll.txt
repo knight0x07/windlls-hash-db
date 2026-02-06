@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\dwminit.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DwmpCreateSessionProcess                                                                             0x9c603634                                         
+DwmpIsInitialSessionInteractive                                                                      0x823362e5                                         
+DwmpNotifyUserLogoff                                                                                 0x0baecf12                                         
+DwmpNotifyUserLogon                                                                                  0x7c79a934                                         
+DwmpShutdownWinlogonMouseThread                                                                      0x89d91327                                         
+DwmpStartWinlogonMouseThread                                                                         0xebedcf59                                         
+DwmpTerminateSessionProcess                                                                          0xd8c7ce29                                         

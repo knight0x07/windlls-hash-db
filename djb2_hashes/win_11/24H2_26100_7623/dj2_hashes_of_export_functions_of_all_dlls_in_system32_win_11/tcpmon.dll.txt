@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\tcpmon.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CPortABC@@QEAA@AEBV0@@Z                                                                           0x4d669961                                         
+??0CPortABC@@QEAA@XZ                                                                                 0x8181094b                                         
+??0CTcpMibABC@@QEAA@AEBV0@@Z                                                                         0x67242a5b                                         
+??0CTcpMibABC@@QEAA@XZ                                                                               0x260be6c5                                         
+??1CPortABC@@UEAA@XZ                                                                                 0xa3801e70                                         
+??1CTcpMibABC@@UEAA@XZ                                                                               0x261c082a                                         
+??4CPortABC@@QEAAAEAV0@AEBV0@@Z                                                                      0xc6ddc052                                         
+??4CTcpMibABC@@QEAAAEAV0@AEBV0@@Z                                                                    0x87628e8c                                         
+??_7CPortABC@@6B@                                                                                    0xdea203df                                         
+??_7CTcpMibABC@@6B@                                                                                  0x8b1165d9                                         
+?Read@CPortABC@@UEAAKQEAXPEAEKPEAK@Z                                                                 0x76989745                                         
+InitializePrintMonitor2                                                                              0x7f5e861e                                         

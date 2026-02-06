@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\drivers\KNetPwrDepBroker.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+ImsBrokerKeepAliveCompleted                                                                          0x0ab27726                                         
+ImsBrokerNetworkActivityCompleted                                                                    0x91d0ff87                                         
+ImsBrokerRecoveryCompleted                                                                           0x9113d63f                                         
+ImsBrokerRequestKeepAlive                                                                            0xdbb6e252                                         
+ImsBrokerRequestNetworkActivation                                                                    0xb500ebb8                                         
+ImsBrokerRequestRecovery                                                                             0xc569342b                                         
+NpdBrokerAcquireWithTimeout                                                                          0xba15d939                                         
+NpdBrokerInitialize                                                                                  0x022f269e                                         
+NpdBrokerUninitialize                                                                                0x8a0bb8e1                                         

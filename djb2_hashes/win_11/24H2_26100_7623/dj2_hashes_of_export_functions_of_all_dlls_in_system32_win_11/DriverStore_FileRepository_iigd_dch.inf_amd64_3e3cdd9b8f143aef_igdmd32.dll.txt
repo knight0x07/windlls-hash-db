@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igdmd32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseMetricsDevice                                                                                   0x701474a2                                         
+ClosePerformanceInterface                                                                            0x93eb075e                                         
+OpenAdapterGroup                                                                                     0xecd2b345                                         
+OpenMetricsDevice                                                                                    0xc9be233e                                         
+OpenMetricsDeviceFromFile                                                                            0xcd8d00f2                                         
+OpenPerformanceInterface                                                                             0x0c42ae7a                                         

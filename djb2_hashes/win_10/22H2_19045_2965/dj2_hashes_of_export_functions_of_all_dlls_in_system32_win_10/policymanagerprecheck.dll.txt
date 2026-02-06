@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\policymanagerprecheck.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PolicyManagerTranslationProxy_GetPolicyValue                                                         0xeb8ffb0d                                         
+PolicyManagerTranslationProxy_SetPolicyValue                                                         0xb292ae99                                         
+PolicyManager_Apply                                                                                  0x4eab6ed5                                         
+PolicyManager_PostApply                                                                              0x5eab8fdb                                         
+PolicyManager_PreCheck                                                                               0xe4cb2a34                                         

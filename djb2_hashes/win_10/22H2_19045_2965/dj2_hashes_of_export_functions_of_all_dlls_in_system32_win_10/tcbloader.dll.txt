@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\tcbloader.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OslGenRandomBytes                                                                                    0xe8ef5795                                         
+OslGetControlSubkeyCell                                                                              0xa50059a7                                         
+OslGetExportRoutineInModule                                                                          0x90623338                                         
+OslGetStringValue                                                                                    0xf6675f67                                         
+OslGetValue                                                                                          0x022247b0                                         
+OslIsRunningInSecureKernel                                                                           0x5f6b454f                                         
+TcbLoadEntry                                                                                         0xa613b610                                         
+TcbResumeEntry                                                                                       0x41817c81                                         

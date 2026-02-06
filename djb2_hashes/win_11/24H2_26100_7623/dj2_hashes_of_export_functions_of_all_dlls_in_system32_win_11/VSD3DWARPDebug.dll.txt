@@ -1,0 +1,49 @@
+DLL Path: C:\Windows\System32\VSD3DWARPDebug.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?ReadThreadRegisterWithSize@WarpDebugInternal@@YAJPEAXIW4VSD3D_REGISTER_SET@@I_KPEAEI@Z              0x8884233c                                         
+?VSD3DAttach2@WarpDebugInternal@@YAJKPEAXPEAPEAX@Z                                                   0xf47e38c8                                         
+?VSD3DAttach@WarpDebugInternal@@YAJKUVSD3D_CONFIG_INFO@@PEAPEAX@Z                                    0x3d2f9e81                                         
+?VSD3DBreak@WarpDebugInternal@@YAJPEAX@Z                                                             0x12d9f137                                         
+?VSD3DCloseActiveGroup@WarpDebugInternal@@YAJPEAX@Z                                                  0xaecaa8f1                                         
+?VSD3DConfig@WarpDebugInternal@@YAJPEAXKPEAUVSD3D_MONITORFUNCS@@PEAUVSD3D_CONFIG_INFO2@@@Z           0x4785dec9                                         
+?VSD3DContinueDebugEvent@WarpDebugInternal@@YAJPEAXPEAUVSD3D_SINGLESTEP_INFO@@@Z                     0x507e5097                                         
+?VSD3DDeleteShaderBreakPoint@WarpDebugInternal@@YAJPEAX@Z                                            0x9ef1840b                                         
+?VSD3DDetach@WarpDebugInternal@@YAJPEAXH@Z                                                           0x3dbc5383                                         
+?VSD3DEnableShaderBreakPoint@WarpDebugInternal@@YAJPEAX_N@Z                                          0x37a318cc                                         
+?VSD3DEnableWarning@WarpDebugInternal@@YAJPEAXW4VSD3DDebugWarningType@@H@Z                           0x379f65e5                                         
+?VSD3DGatherGroupSharedRegister@WarpDebugInternal@@YAJPEAXIPEA_KIIPEAEI@Z                            0x10494435                                         
+?VSD3DGatherShaderBufferMemory@WarpDebugInternal@@YAJPEAXW4VSD3D_REGISTER_SET@@IPEA_KIIPEAEI@Z       0xe2c885f4                                         
+?VSD3DGatherThreadRegister@WarpDebugInternal@@YAJPEAXUVSD3D_SHADER_DIMENSION@@W4VSD3D_REGISTER_SET@@IPEA_KIIPEAEI@Z 0x3a9c243b                                         
+?VSD3DGetActiveGroups@WarpDebugInternal@@YAJPEAXHPEAUVSD3D_GROUP_STATISTICS@@PEAUVSD3D_SHADER_DIMENSION@@IPEAI@Z 0x299769cd                                         
+?VSD3DGetBreakPointInfo@WarpDebugInternal@@YAJPEAXPEAUVSD3D_BREAKPOINT_INFO@@@Z                      0x9239ce35                                         
+?VSD3DGetConfigInfo@WarpDebugInternal@@YAJPEAUVSD3D_CONFIG_INFO@@@Z                                  0x84591435                                         
+?VSD3DGetDebugEvent@WarpDebugInternal@@YAJPEAUVSD3D_DEBUG_EVENT@@PEAX@Z                              0x80233ad1                                         
+?VSD3DGetDeviceInfo@WarpDebugInternal@@YAJPEAXPEAUVSD3D_DEVICE_INFO@@@Z                              0x747cfaf7                                         
+?VSD3DGetDispatchDictionary@WarpDebugInternal@@YAJPEAXPEAUVSD3D_NAME_VALUE_PAIR@@IPEAI@Z             0x15163d96                                         
+?VSD3DGetRegisterInfo@WarpDebugInternal@@YAJPEAXPEAUVSD3D_REGISTER_INFO@@I@Z                         0x531af0ea                                         
+?VSD3DGetResourceInformation@WarpDebugInternal@@YAJPEAXW4VSD3D_REGISTER_SET@@IPEAUD3D11_BOX@@PEAW4DXGI_FORMAT@@@Z 0x68f1a92c                                         
+?VSD3DGetShaderBreakPoints@WarpDebugInternal@@YAJPEAXPEAPEAXIPEAI@Z                                  0xfbbdbe77                                         
+?VSD3DGetShaderDebugData@WarpDebugInternal@@YAJPEAXPEAE_KPEA_K@Z                                     0xa048a56f                                         
+?VSD3DGetShaderDispatchInfo@WarpDebugInternal@@YAJPEAXPEAUVSD3D_SHADER_DISPATCH_INFO@@@Z             0xccb07e64                                         
+?VSD3DGetShaderInfo@WarpDebugInternal@@YAJPEAXPEAUVSD3D_SHADER_INFO@@@Z                              0x10edf7e5                                         
+?VSD3DGetShaderInstructions@WarpDebugInternal@@YAJPEAXPEAE_KPEA_K@Z                                  0xa7d36f83                                         
+?VSD3DGetSupportedDeviceIds@WarpDebugInternal@@YAJPEAU_LUID@@IPEAI@Z                                 0x5d50a73a                                         
+?VSD3DGetWarningEnabled@WarpDebugInternal@@YAJPEAXW4VSD3DDebugWarningType@@PEAH@Z                    0xbcb44f9f                                         
+?VSD3DGetWarningInfo@WarpDebugInternal@@YAJPEAXPEAUVSD3D_WARNING_INFO@@IPEAI@Z                       0x9335740b                                         
+?VSD3DGroupGetThreadsInfo@WarpDebugInternal@@YAJPEAXPEAUVSD3D_THREAD_INFO@@IPEAI@Z                   0x4183814f                                         
+?VSD3DGroupReadThreadRegister@WarpDebugInternal@@YAJPEAXW4VSD3D_REGISTER_SET@@I_KIPEAEI@Z            0x94184756                                         
+?VSD3DOpenActiveGroup@WarpDebugInternal@@YAJPEAXUVSD3D_SHADER_DIMENSION@@PEAPEAX@Z                   0xdc9ae4c5                                         
+?VSD3DReadGroupSharedRegister@WarpDebugInternal@@YAJPEAXI_KPEAEI@Z                                   0xf668f2ae                                         
+?VSD3DReadShaderBufferMemory@WarpDebugInternal@@YAJPEAXW4VSD3D_REGISTER_SET@@I_KPEAEI@Z              0x8f7173ad                                         
+?VSD3DReadThreadRegister@WarpDebugInternal@@YAJPEAXUVSD3D_SHADER_DIMENSION@@W4VSD3D_REGISTER_SET@@I_KPEAEI@Z 0x76664034                                         
+?VSD3DReleaseDebugString@WarpDebugInternal@@YAJPEAG@Z                                                0x34f109a0                                         
+?VSD3DSetShaderBreakPoint@WarpDebugInternal@@YAJPEAXUVSD3D_BREAKPOINT_INFO@@PEAPEAX@Z                0x35f1b65a                                         
+?VSD3DSetThreadsFrozen@WarpDebugInternal@@YAJPEAXIH@Z                                                0x15980a4e                                         
+?VSD3DShaderDispatchGetThreadsInfo@WarpDebugInternal@@YAJPEAXPEAUVSD3D_GROUP_THREADS_INFO@@IPEAI@Z   0xbf919468                                         
+?VSD3DWaitForDebugEvent@WarpDebugInternal@@YAJPEAUVSD3D_DEBUG_EVENT@@PEAPEAXK@Z                      0xe6f4c84e                                         
+?VSD3DWriteGroupSharedRegister@WarpDebugInternal@@YAJPEAXI_KPEAEI@Z                                  0xeb3cc81d                                         
+?VSD3DWriteShaderBufferMemory@WarpDebugInternal@@YAJPEAXW4VSD3D_REGISTER_SET@@I_KPEAEI@Z             0x98f0c47c                                         
+?VSD3DWriteThreadRegister@WarpDebugInternal@@YAJPEAXUVSD3D_SHADER_DIMENSION@@W4VSD3D_REGISTER_SET@@I_KPEAEI@Z 0xb5e7e863                                         
+InitializeDebugging                                                                                  0x8bf35103                                         

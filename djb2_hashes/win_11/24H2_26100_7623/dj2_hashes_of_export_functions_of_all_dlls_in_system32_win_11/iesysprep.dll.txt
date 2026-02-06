@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\iesysprep.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sysprep_Cleanup_IE                                                                                   0x1c12216f                                         
+Sysprep_Generalize_IE                                                                                0x782a3b8d                                         
+Sysprep_Offline_Specialize_IE                                                                        0xc0ad0572                                         
+Sysprep_Online_Specialize_IE                                                                         0x45fbcbb4                                         
+Sysprep_Specialize_IE                                                                                0x7a5c3630                                         

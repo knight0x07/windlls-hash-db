@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\cflapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CflClearScenarioData                                                                                 0xa965666f                                         
+CflClearTempUserAccount                                                                              0x6d2ee0a3                                         
+CflDeserializeSessionContext                                                                         0xde568654                                         
+CflDeserializeSessionContextNew                                                                      0x90402f1e                                         
+CflExtendCorrelationVector                                                                           0xbf36c7b7                                         
+CflFreeBuffer                                                                                        0x2862ced6                                         
+CflGetCorrelationVector                                                                              0x0229746f                                         
+CflGetScenarioData                                                                                   0xd897eba8                                         
+CflGetScenarioDataNew                                                                                0x267183f2                                         
+CflGetTransitionScenarioData                                                                         0xcecdb0b3                                         
+CflIncrementCorrelationVector                                                                        0xdc0873d4                                         
+CflSecureFreeBuffer                                                                                  0x798e307d                                         
+CflSerializeSessionContext                                                                           0xb506c4ab                                         
+CflSerializeSessionContextNew                                                                        0x4b1f6215                                         
+CflSetCorrelationVector                                                                              0x93ffa0fb                                         
+CflSetScenarioData                                                                                   0x7ff110b4                                         
+CflSetScenarioDataNew                                                                                0x4f7b1d7e                                         
+CflSetupAuthEnvironment                                                                              0xc3e13812                                         
+CflSetupTempUserAccount                                                                              0xad90572d                                         
+CflSetupTransitionToUserAccount                                                                      0x89aeed45                                         
+CflUpdateCorrelationVector                                                                           0x7ef684d2                                         

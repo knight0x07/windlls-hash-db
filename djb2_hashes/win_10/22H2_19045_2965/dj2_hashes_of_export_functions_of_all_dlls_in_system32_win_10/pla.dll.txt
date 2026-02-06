@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\pla.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+PlaDeleteReport                                                                                      0x2c90f691                                         
+PlaExpandTaskArguments                                                                               0x2e9dc20b                                         
+PlaExtractCabinet                                                                                    0xcf19ddb3                                         
+PlaGetLegacyAlertActionsFlagsFromString                                                              0x3977d838                                         
+PlaGetLegacyAlertActionsStringFromFlags                                                              0x82969758                                         
+PlaGetServerCapabilities                                                                             0xea974e83                                         
+PlaHost                                                                                              0x14e46940                                         
+PlaServer                                                                                            0xf8970cb9                                         
+PlaUpgrade                                                                                           0xbe4c8aca                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

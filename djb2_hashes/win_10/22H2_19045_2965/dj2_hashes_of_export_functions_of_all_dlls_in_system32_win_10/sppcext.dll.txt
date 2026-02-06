@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\sppcext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+SLAcquireGenuineTicket                                                                               0x04294bfd                                         
+SLAcquireGenuineTicketForAppId                                                                       0xba842752                                         
+SLActivateProduct                                                                                    0x3ccaeab6                                         
+SLDepositTokenActivationResponse                                                                     0xb5a9a77e                                         
+SLFreeTokenActivationCertificates                                                                    0x4ca4526f                                         
+SLFreeTokenActivationGrants                                                                          0xb17a90e8                                         
+SLGenerateTokenActivationChallenge                                                                   0x31695c05                                         
+SLGetGenuineInformationEx                                                                            0x1df42372                                         
+SLGetPackageProductKey                                                                               0x6039057a                                         
+SLGetPackageProperties                                                                               0xd7b1439d                                         
+SLGetPackageToken                                                                                    0xd78c76d1                                         
+SLGetReferralInformation                                                                             0xd005169d                                         
+SLGetServerStatus                                                                                    0x95d75f9f                                         
+SLGetTokenActivationCertificates                                                                     0xfec88dcd                                         
+SLGetTokenActivationGrants                                                                           0xa1e51dc6                                         
+SLInitialize                                                                                         0xc7f59d76                                         
+SLInstallPackage                                                                                     0xe7b09f87                                         
+SLSignTokenActivationChallenge                                                                       0x92b54a0b                                         
+SLUninstallPackage                                                                                   0x8256b14a                                         

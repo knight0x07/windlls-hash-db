@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\bi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BiActivateDeferredWorkItem                                                                           0xc0bfb554                                         
+BiActivateInBackground                                                                               0x117fe5b8                                         
+BiActivateInBackgroundEx                                                                             0x71103d15                                         
+BiActivateWorkItem                                                                                   0x3fa2fed3                                         
+BiAssociateActivationProxy                                                                           0xbe608160                                         
+BiAssociateApplicationExtensionClass                                                                 0x8ae383f3                                         
+BiCancelWorkItem                                                                                     0x853a24c8                                         
+BiCancelWorkItemEx                                                                                   0xbc568025                                         
+BiCreateEvent                                                                                        0xf76eff46                                         
+BiCreateEventForPackageName                                                                          0xb8ef809a                                         
+BiDeleteEvent                                                                                        0x28b0c065                                         
+BiDisassociateWorkItem                                                                               0xd4367b5e                                         
+BiDiscardPendingActivations                                                                          0x3ed3d274                                         
+BiEnumerateBrokeredEvents                                                                            0x97503fb9                                         
+BiEnumerateUserContexts                                                                              0xe372932d                                         
+BiEnumerateUserSessions                                                                              0xb1633ecc                                         
+BiEnumerateWorkItemsForPackageName                                                                   0x4ce8b3cf                                         
+BiEnumerateWorkItemsForPackageNameEx                                                                 0x29e4ecec                                         
+BiFreeMemory                                                                                         0xf466b58b                                         
+BiPackageChangeState                                                                                 0xa4591423                                         
+BiQueryBrokeredEvent                                                                                 0x0a3a11b6                                         
+BiQuerySystemStateBroadcastChannels                                                                  0x9bb052cb                                         
+BiQueryUserContext                                                                                   0xc7433aaa                                         
+BiQueryUserSession                                                                                   0x7fed6e69                                         
+BiQueryWorkItem                                                                                      0xb0d26578                                         
+BiQueryWorkItemEx                                                                                    0x2f01acd5                                         
+BiQueryWorkItemStatusStateName                                                                       0x54fbce3e                                         
+BiSignalEvent                                                                                        0x6aed84b0                                         
+BiSignalEventEx                                                                                      0xdc617a0d                                         
+BiSignalMultipleEvents                                                                               0xbf1ddaef                                         
+BiSignalTriggerEvent                                                                                 0xb5577c04                                         
+BiSignalTriggerEventEx                                                                               0x69269661                                         
+BiUpdateEventFlags                                                                                   0xa20ca642                                         
+BiUpdateEventInformation                                                                             0x1001afdb                                         
+BiUpdateEventParameters                                                                              0x9ed17609                                         

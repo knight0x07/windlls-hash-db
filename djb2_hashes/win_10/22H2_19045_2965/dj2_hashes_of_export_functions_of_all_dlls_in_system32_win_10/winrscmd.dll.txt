@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\winrscmd.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ                             0x78097350                                         
+??0?$SafeMap_Iterator@VKey@Locale@@K@@QEAA@AEAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z 0x95cd0b85                                         
+??0?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@AEBV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@_N@Z 0xc34312be                                         
+??1?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ                             0xcfd323f1                                         
+??1?$SafeMap_Iterator@VKey@Locale@@K@@QEAA@XZ                                                        0x7e3753a1                                         
+??1?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA@XZ                        0x4f849e79                                         
+??1CWSManCriticalSectionWithConditionVar@@QEAA@XZ                                                    0x1b2e0653                                         
+??_7?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@6B@                                0xe9f51a64                                         
+?Acquire@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEBAXXZ                       0x78514848                                         
+?Acquire@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAAXXZ                  0xcd667b8b                                         
+?Acquired@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAA_NXZ                0x1bba0544                                         
+?AsReference@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEAAAEAV1@XZ              0x1ebd9ff2                                         
+?Data@?$SafeMap_Iterator@VKey@Locale@@K@@IEBAAEAV?$STLMap@VKey@Locale@@K@@XZ                         0xa0eeff2f                                         
+?DeInitialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEAA_NAEAVIRequestContext@@@Z 0xe2a35bc9                                         
+?GetInitError@CWSManCriticalSection@@QEBAKXZ                                                         0x9175fbc1                                         
+?GetMap@?$SafeMap_Iterator@VKey@Locale@@K@@QEBAAEAV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ 0x9cddf4c0                                         
+?GetMap@?$SafeMap_Lock@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@QEBAAEBV?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@XZ 0x45121ab9                                         
+?Initialize@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEAA_NAEAVIRequestContext@@@Z 0x5f80e2e0                                         
+?IsValid@?$SafeMap_Iterator@VKey@Locale@@K@@QEBA_NXZ                                                 0x941bfd6b                                         
+?Release@?$SafeMap@VKey@Locale@@KV?$SafeMap_Iterator@VKey@Locale@@K@@@@UEBAXXZ                       0x61e88d1f                                         
+?Reset@?$SafeMap_Iterator@VKey@Locale@@K@@QEAAXXZ                                                    0x3d859e0c                                         
+?SkipOrphans@?$SafeMap_Iterator@VKey@Locale@@K@@IEAAXXZ                                              0xef8d0873                                         
+WSManPluginCommand                                                                                   0x6824bfd9                                         
+WSManPluginReceive                                                                                   0xd2c183dd                                         
+WSManPluginReleaseCommandContext                                                                     0xaa52d55f                                         
+WSManPluginReleaseShellContext                                                                       0x264a19f8                                         
+WSManPluginSend                                                                                      0x5d558204                                         
+WSManPluginShell                                                                                     0x080742d2                                         
+WSManPluginShutdown                                                                                  0x292bfc96                                         
+WSManPluginSignal                                                                                    0x0902d5d8                                         
+WSManPluginStartup                                                                                   0x429c40ad                                         

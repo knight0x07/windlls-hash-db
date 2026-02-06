@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\osuninst.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ExecuteUninstall                                                                                     0xd6504892                                         
+GetUninstallImageSize                                                                                0xe495663d                                         
+IsUninstallImageValid                                                                                0x10834dee                                         
+ProvideUiAlerts                                                                                      0xdcac87c7                                         
+RemoveUninstallImage                                                                                 0xa9e19d70                                         

@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\ntshrui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CanShareFolder                                                                                       0xedb3c366                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetLocalPathFromNetResource                                                                          0x26d13580                                         
+GetLocalPathFromNetResourceA                                                                         0x00f7e5c1                                         
+GetLocalPathFromNetResourceW                                                                         0x00f7e5d7                                         
+GetNetResourceFromLocalPath                                                                          0x539323e0                                         
+GetNetResourceFromLocalPathA                                                                         0xc5f7a021                                         
+GetNetResourceFromLocalPathW                                                                         0xc5f7a037                                         
+IsFolderPrivateForUser                                                                               0x48913f7e                                         
+IsPathShared                                                                                         0xb9cc6525                                         
+IsPathSharedA                                                                                        0xf3590a06                                         
+IsPathSharedW                                                                                        0xf3590a1c                                         
+SetFolderPermissionsForSharing                                                                       0x5216d39c                                         
+ShowShareFolderUI                                                                                    0x469ee7d3                                         

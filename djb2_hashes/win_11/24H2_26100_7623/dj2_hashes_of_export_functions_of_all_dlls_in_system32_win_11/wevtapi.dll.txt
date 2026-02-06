@@ -1,0 +1,49 @@
+DLL Path: C:\Windows\System32\wevtapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EvtArchiveExportedLog                                                                                0x29b235c3                                         
+EvtCancel                                                                                            0xc2c5965a                                         
+EvtClearLog                                                                                          0xc42939fd                                         
+EvtClose                                                                                             0xb8599eaa                                         
+EvtCreateBookmark                                                                                    0x792e2f5e                                         
+EvtCreateRenderContext                                                                               0x4a57b62d                                         
+EvtExportLog                                                                                         0xb4dd86f8                                         
+EvtFormatMessage                                                                                     0x79aa51a2                                         
+EvtGetChannelConfigProperty                                                                          0xabecc5e8                                         
+EvtGetEventInfo                                                                                      0x9b7dd782                                         
+EvtGetEventMetadataProperty                                                                          0xfe1184fc                                         
+EvtGetExtendedStatus                                                                                 0xe26e6aa9                                         
+EvtGetLogInfo                                                                                        0xd64bc8c2                                         
+EvtGetObjectArrayProperty                                                                            0xf1f4ec0f                                         
+EvtGetObjectArraySize                                                                                0x972d1825                                         
+EvtGetPublisherMetadataProperty                                                                      0x4ecca088                                         
+EvtGetQueryInfo                                                                                      0x2ec06bb6                                         
+EvtIntAssertConfig                                                                                   0x9685cb87                                         
+EvtIntCreateBinXMLFromCustomXML                                                                      0x0c9a501d                                         
+EvtIntCreateLocalLogfile                                                                             0x841eb500                                         
+EvtIntGetClassicLogDisplayName                                                                       0xd38c9d3a                                         
+EvtIntRenderResourceEventTemplate                                                                    0x1d6a49e5                                         
+EvtIntReportAuthzEventAndSourceAsync                                                                 0x2b5fb16b                                         
+EvtIntReportEventAndSourceAsync                                                                      0x65f4d39f                                         
+EvtIntRetractConfig                                                                                  0xa1dc474a                                         
+EvtIntSysprepCleanup                                                                                 0x8565953d                                         
+EvtIntWriteXmlEventToLocalLogfile                                                                    0x3e57138d                                         
+EvtNext                                                                                              0xded25533                                         
+EvtNextChannelPath                                                                                   0x7ffc81f9                                         
+EvtNextEventMetadata                                                                                 0xa07cd156                                         
+EvtNextPublisherId                                                                                   0xb5bc49ee                                         
+EvtOpenChannelConfig                                                                                 0xeb1fe9d5                                         
+EvtOpenChannelEnum                                                                                   0xa53eb414                                         
+EvtOpenEventMetadataEnum                                                                             0xacbadafe                                         
+EvtOpenLog                                                                                           0xd9935e28                                         
+EvtOpenPublisherEnum                                                                                 0xad488989                                         
+EvtOpenPublisherMetadata                                                                             0x7460dd75                                         
+EvtOpenSession                                                                                       0x1784482a                                         
+EvtQuery                                                                                             0xb95bba8a                                         
+EvtRender                                                                                            0xe60b5e14                                         
+EvtSaveChannelConfig                                                                                 0x41e67cd2                                         
+EvtSeek                                                                                              0xded5109c                                         
+EvtSetChannelConfigProperty                                                                          0x5ede5874                                         
+EvtSubscribe                                                                                         0x217b77b6                                         
+EvtUpdateBookmark                                                                                    0xd400cc4d                                         

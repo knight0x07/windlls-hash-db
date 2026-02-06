@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\skci.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SkciCompareSigningLevels                                                                             0x597c27b0                                         
+SkciCreateCodeCatalog                                                                                0x797f0bd9                                         
+SkciCreateSecureImage                                                                                0x1ec3a2ad                                         
+SkciFinalizeSecureImageHash                                                                          0x1c83ecef                                         
+SkciFinishImageValidation                                                                            0xd2f48ede                                         
+SkciFreeImageContext                                                                                 0x57408179                                         
+SkciInitialize                                                                                       0x08fad941                                         
+SkciMatchHotPatch                                                                                    0x43f96a77                                         
+SkciQueryImageAuthorID                                                                               0xad42f588                                         
+SkciQueryImageUniqueID                                                                               0xee8d1e6c                                         
+SkciQueryInformation                                                                                 0x52c5d1eb                                         
+SkciSetCodeIntegrityPolicy                                                                           0xc06e1985                                         
+SkciTransferVersionResource                                                                          0xd8c7b2a2                                         
+SkciValidateAmeCertChain                                                                             0xa358263d                                         
+SkciValidateCertChain                                                                                0xcc75a48a                                         
+SkciValidateDynamicCodePages                                                                         0x55cc9ae9                                         
+SkciValidateImageData                                                                                0xb0d15d76                                         

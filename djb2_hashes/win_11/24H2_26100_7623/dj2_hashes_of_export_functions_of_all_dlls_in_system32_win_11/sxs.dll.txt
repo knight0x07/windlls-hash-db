@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\sxs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateAssemblyCache                                                                                  0xb79d984d                                         
+CreateAssemblyNameObject                                                                             0x996965f1                                         
+SxsBeginAssemblyInstall                                                                              0x1cd2b91f                                         
+SxsEndAssemblyInstall                                                                                0x00ad9e91                                         
+SxsFindClrClassInformation                                                                           0xc7d67141                                         
+SxsFindClrSurrogateInformation                                                                       0x58c4d427                                         
+SxsGenerateActivationContext                                                                         0xff9d89c5                                         
+SxsInstallW                                                                                          0xe84a8b31                                         
+SxsLookupClrGuid                                                                                     0xeb055667                                         
+SxsOleAut32MapConfiguredClsidToReferenceClsid                                                        0xff1958a6                                         
+SxsOleAut32MapIIDOrCLSIDToTypeLibrary                                                                0xd79757d0                                         
+SxsOleAut32MapIIDToProxyStubCLSID                                                                    0x43e0ded8                                         
+SxsOleAut32MapIIDToTLBPath                                                                           0x8461fb58                                         
+SxsOleAut32MapReferenceClsidToConfiguredClsid                                                        0x86870ac6                                         
+SxsOleAut32RedirectTypeLibrary                                                                       0x62771efb                                         
+SxsProbeAssemblyInstallation                                                                         0xfa8ca74d                                         
+SxsQueryManifestInformation                                                                          0x9044a196                                         
+SxsRunDllInstallAssembly                                                                             0x4869e32b                                         
+SxsRunDllInstallAssemblyW                                                                            0x55a648e2                                         
+SxsUninstallW                                                                                        0x77b12a74                                         
+SxspGenerateManifestPathOnAssemblyIdentity                                                           0x577eac09                                         

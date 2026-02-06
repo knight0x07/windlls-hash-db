@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\AppVOrchestration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Deinitialize                                                                                         0x7112fc40                                         
+GetControllerComponent                                                                               0x73e4eabc                                         
+GetControllerRequests                                                                                0x0a0b9365                                         
+Initialize                                                                                           0x2e93a277                                         
+InitializeISV                                                                                        0x62cae4a9                                         

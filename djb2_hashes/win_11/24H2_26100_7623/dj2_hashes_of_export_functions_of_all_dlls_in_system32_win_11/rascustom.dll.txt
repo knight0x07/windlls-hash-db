@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\rascustom.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitializeProtocolEngine                                                                             0xb12d55bf                                         
+SendMessageToProtocolEngine                                                                          0x0adaa93f                                         
+UninitializeProtocolEngine                                                                           0x1c526b82                                         
+VpnBrokerPluginIsInstalled                                                                           0xa20eab29                                         
+VpnBrokerRegisterForPluginInstallations                                                              0x6f5905be                                         
+VpnSmCommsPluginsNotifyLogOff                                                                        0xfdc99e70                                         
+VpnSmCommsPluginsRoamToBestCostInterface                                                             0x8b9ce7c4                                         

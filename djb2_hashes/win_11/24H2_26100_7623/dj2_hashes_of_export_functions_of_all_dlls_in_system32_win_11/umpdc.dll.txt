@@ -1,0 +1,53 @@
+DLL Path: C:\Windows\System32\umpdc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PdcAcquireRwLockExclusive                                                                            0xe2368a90                                         
+PdcActivationClientActivityRequest                                                                   0x265a90a3                                         
+PdcActivationClientRegister                                                                          0x76205a52                                         
+PdcActivationClientUnregister                                                                        0x7a4de415                                         
+PdcAllocate                                                                                          0xb2e93861                                         
+PdcFree                                                                                              0x025e475e                                         
+PdcNotificationClientAcknowledge                                                                     0x17e84826                                         
+PdcNotificationClientRegister                                                                        0x92e2dc27                                         
+PdcNotificationClientUnregister                                                                      0xd1b82f2a                                         
+PdcPortClose                                                                                         0x7f6a7ed7                                         
+PdcPortOpen                                                                                          0x80021c73                                         
+PdcPortSendMessage                                                                                   0x60a88750                                         
+PdcPortSendMessageSynchronously                                                                      0x41f26400                                         
+PdcPpmProfileClientRegister                                                                          0x4789931e                                         
+PdcPpmProfileClientUnregister                                                                        0x4ae87fe1                                         
+PdcPpmProfileDisable                                                                                 0x0611db8e                                         
+PdcPpmProfileEnable                                                                                  0x40e463e1                                         
+PdcReleaseRwLockExclusive                                                                            0x397ff947                                         
+PdcResiliencyClientAcknowledge                                                                       0xc16e4136                                         
+PdcResiliencyClientRegister                                                                          0x3b34ef37                                         
+PdcResiliencyClientUnregister                                                                        0xd6db463a                                         
+PdcRwLockInitialize                                                                                  0xb7fc8fe0                                         
+PdcSignalClientPulse                                                                                 0xda220582                                         
+PdcSignalClientRegister                                                                              0x3e71f3fe                                         
+PdcSignalClientSetActive                                                                             0x0b722b41                                         
+PdcSignalClientUnregister                                                                            0x9d6c98c1                                         
+PdcSleep                                                                                             0x4f0f27d5                                         
+PdcTaskClientRegister                                                                                0x8dd56473                                         
+PdcTaskClientRequest                                                                                 0xf583b5d7                                         
+PdcTaskClientUnregister                                                                              0x536dfa76                                         
+Pdcv2ActivationClientActivate                                                                        0x4513faa6                                         
+Pdcv2ActivationClientDeactivate                                                                      0x743d222f                                         
+Pdcv2ActivationClientRegister                                                                        0x711330ba                                         
+Pdcv2ActivationClientRenewActivation                                                                 0x6920b348                                         
+Pdcv2ActivationClientSetBrokeredProcessId                                                            0xaeacc7db                                         
+Pdcv2ActivationClientUnregister                                                                      0xfd4ff47d                                         
+SleepstudyHelperBlockerActiveDereference                                                             0x3985f62d                                         
+SleepstudyHelperBlockerActiveReference                                                               0x666a4d84                                         
+SleepstudyHelperBuildBlocker                                                                         0x0e42d4c9                                         
+SleepstudyHelperCreateBlockerFromGuid                                                                0x58c13e2a                                         
+SleepstudyHelperCreateLibrary                                                                        0x38ad9a60                                         
+SleepstudyHelperCreateLibraryEx                                                                      0x1a7dbbbd                                         
+SleepstudyHelperDestroyBlocker                                                                       0x7e56eb23                                         
+SleepstudyHelperDestroyBlockerBuilder                                                                0xee18ddca                                         
+SleepstudyHelperDestroyLibrary                                                                       0x783aa316                                         
+SleepstudyHelperGetBlockerGuid                                                                       0x32ee9502                                         
+SleepstudyHelperSetBlockerFriendlyName                                                               0x45e34803                                         
+SleepstudyHelperSetBlockerParentHandle                                                               0xf2a560bb                                         
+SleepstudyHelperSetBlockerVisible                                                                    0x0f7f2fb3                                         

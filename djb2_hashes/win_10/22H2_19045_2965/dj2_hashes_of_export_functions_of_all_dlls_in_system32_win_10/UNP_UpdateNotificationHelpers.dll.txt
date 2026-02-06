@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\UNP\UpdateNotificationHelpers.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetCampaignContentLocation                                                                           0xffd7f0d9                                         
+InitializeUpdateNotificationMgrTask                                                                  0xc10387ba                                         
+IsCampaignActive                                                                                     0x66f7a4fd                                         

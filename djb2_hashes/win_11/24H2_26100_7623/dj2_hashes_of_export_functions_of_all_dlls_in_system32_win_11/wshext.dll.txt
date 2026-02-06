@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\wshext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateIndirectData                                                                                   0x0dd463c5                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetSignedDataMsg                                                                                     0x353ffd00                                         
+IsFileSupportedName                                                                                  0xc55ca468                                         
+PutSignedDataMsg                                                                                     0xd7952df9                                         
+RemoveSignedDataMsg                                                                                  0x0dc4a1ae                                         
+VerifyIndirectData                                                                                   0xf34063e6                                         

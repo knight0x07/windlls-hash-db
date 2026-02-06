@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-service-management-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseServiceHandle                                                                                   0x2517fe78                                         
+ControlServiceExW                                                                                    0xf960940b                                         
+CreateServiceW                                                                                       0x931ece21                                         
+DeleteService                                                                                        0x94edc169                                         
+OpenSCManagerW                                                                                       0xbaef479f                                         
+OpenServiceW                                                                                         0x7c8058df                                         
+StartServiceW                                                                                        0x7edae33b                                         

@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\ws2help.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WahCloseApcHelper                                                                                    0x712beecf                                         
+WahCloseHandleHelper                                                                                 0x562da727                                         
+WahCloseNotificationHandleHelper                                                                     0x36c2068e                                         
+WahCloseSocketHandle                                                                                 0xcb3cb030                                         
+WahCloseThread                                                                                       0x8e9fe253                                         
+WahCompleteRequest                                                                                   0xfa70ae27                                         
+WahCreateHandleContextTable                                                                          0xc0e8cbf2                                         
+WahCreateNotificationHandle                                                                          0x6e5274ec                                         
+WahCreateSocketHandle                                                                                0x64875d8e                                         
+WahDestroyHandleContextTable                                                                         0x4e8574a8                                         
+WahDisableNonIFSHandleSupport                                                                        0x037120ef                                         
+WahEnableNonIFSHandleSupport                                                                         0xe4ccdd02                                         
+WahEnumerateHandleContexts                                                                           0xf739bd6f                                         
+WahInsertHandleContext                                                                               0x4cd304eb                                         
+WahNotifyAllProcesses                                                                                0x45f7326e                                         
+WahOpenApcHelper                                                                                     0x7b6d936b                                         
+WahOpenCurrentThread                                                                                 0xc788d7d2                                         
+WahOpenHandleHelper                                                                                  0x1f125643                                         
+WahOpenNotificationHandleHelper                                                                      0x1b8a3faa                                         
+WahQueueUserApc                                                                                      0xe67b35dd                                         
+WahReferenceContextByHandle                                                                          0x3f19ec60                                         
+WahRemoveHandleContext                                                                               0x430bef64                                         
+WahWaitForNotification                                                                               0xac4d2028                                         
+WahWriteLSPEvent                                                                                     0xef048181                                         

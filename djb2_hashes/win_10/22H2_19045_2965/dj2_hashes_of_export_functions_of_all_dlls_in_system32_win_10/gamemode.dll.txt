@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\gamemode.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetExpandedResourceExclusiveCpuCount                                                                 0xf6b2c91f                                         
+HasExpandedResources                                                                                 0xc90961a5                                         
+MsixvcAddGameToGCS                                                                                   0x25bd9102                                         
+MsixvcAddPackageAsync                                                                                0x20a06592                                         
+MsixvcRemediateMutablePackagesForVolumeAsync                                                         0x4c1636d5                                         
+MsixvcUpdatePolicyString                                                                             0x4a802929                                         
+MsixvcUpdatePolicyUInt64                                                                             0x4c1e529c                                         
+ReleaseExclusiveCpuSets                                                                              0x788812c5                                         

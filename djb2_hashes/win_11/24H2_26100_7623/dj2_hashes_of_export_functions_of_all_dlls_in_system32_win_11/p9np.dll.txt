@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\p9np.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NPAddConnection                                                                                      0x56c5cffc                                         
+NPAddConnection3                                                                                     0x2f7fcfaf                                         
+NPCancelConnection                                                                                   0xb35212d9                                         
+NPCloseEnum                                                                                          0x6d5abaae                                         
+NPEnumResource                                                                                       0xf91522a0                                         
+NPFormatNetworkName                                                                                  0x68a7fdf7                                         
+NPGetCaps                                                                                            0x91f2e3aa                                         
+NPGetConnection                                                                                      0xb9beba73                                         
+NPGetResourceInformation                                                                             0x075d02b1                                         
+NPOpenEnum                                                                                           0x611bf60a                                         

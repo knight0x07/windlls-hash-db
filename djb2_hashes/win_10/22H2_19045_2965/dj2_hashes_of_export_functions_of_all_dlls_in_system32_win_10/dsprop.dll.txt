@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\dsprop.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ADsPropCheckIfWritable                                                                               0xe1952e85                                         
+ADsPropCreateNotifyObj                                                                               0xc5204966                                         
+ADsPropGetInitInfo                                                                                   0x5a7b329e                                         
+ADsPropSendErrorMessage                                                                              0xf92d8b97                                         
+ADsPropSetHwnd                                                                                       0x6bccd3fb                                         
+ADsPropSetHwndWithTitle                                                                              0x74b8d8b9                                         
+ADsPropShowErrorDialog                                                                               0x219f8b19                                         
+BringSheetToForeground                                                                               0xdd693aee                                         
+CheckADsError                                                                                        0x73f72185                                         
+CrackName                                                                                            0xbd7b540a                                         
+DSPROP_GetGCSearchOnDomain                                                                           0x84bd7ad1                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ErrMsg                                                                                               0xb121bb95                                         
+ErrMsgParam                                                                                          0x23de0ba6                                         
+FindSheet                                                                                            0xb6066f5f                                         
+IsSheetAlreadyUp                                                                                     0x425404e1                                         
+MsgBox                                                                                               0xc3d6e1b5                                         
+PostADsPropSheet                                                                                     0xa283197d                                         
+ReportError                                                                                          0xfd6a5f4b                                         
+Smart_PADS_ATTR_INFO__Empty                                                                          0x5bd49445                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\wc_storage.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WcAttachFilterEx                                                                                     0xd4e175d7                                         
+WcCreateSandboxStubFiles                                                                             0x3e168173                                         
+WcDestroyLayer                                                                                       0xcdfcd246                                         
+WcDetachFilterEx                                                                                     0xe010942b                                         
+WcExportLayerEx                                                                                      0x22ab737b                                         
+WcImportLayerEx                                                                                      0x45b29654                                         
+WcInitializeSandbox                                                                                  0xef06eb40                                         
+WcInitializeSandboxEx                                                                                0xcc6ec49d                                         
+WcPopulateNewLayer                                                                                   0x502ff8f0                                         

@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\rgb9rast.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0PrimProcessor@@QEAA@XZ                                                                            0x9bda0dd5                                         
+??1PrimProcessor@@QEAA@XZ                                                                            0x640fac96                                         
+??4PrimProcessor@@QEAAAEAV0@AEBV0@@Z                                                                 0xd08dfd1c                                         
+?AllocSpans@PrimProcessor@@QEAAJPEAIPEAPEAUtagD3DI_RASTSPAN@@@Z                                      0xc59f5593                                         
+?AppendPrim@PrimProcessor@@AEAAJXZ                                                                   0xa9025eb0                                         
+?Begin@PrimProcessor@@QEAAXXZ                                                                        0x2b05a6a3                                         
+?BeginPrimSet@PrimProcessor@@QEAAXW4_D3DPRIMITIVETYPE@@W4_RAST_VERTEX_TYPE@@@Z                       0xd1d480d1                                         
+?ClrFlags@PrimProcessor@@QEAAXI@Z                                                                    0xaa8d279d                                         
+?End@PrimProcessor@@QEAAJXZ                                                                          0xb3304e47                                         
+?FillPointSpan@PrimProcessor@@AEAAXPEAU_D3DTLVERTEX@@PEAUtagD3DI_RASTSPAN@@@Z                        0x218bee92                                         
+?Flush@PrimProcessor@@AEAAJXZ                                                                        0x61817fe2                                         
+?FlushPartial@PrimProcessor@@AEAAJXZ                                                                 0xbd6518cf                                         
+?FreeSpans@PrimProcessor@@QEAAXI@Z                                                                   0x31feb236                                         
+?GetFlags@PrimProcessor@@QEAAIXZ                                                                     0x542d21bc                                         
+?Initialize@PrimProcessor@@QEAAJXZ                                                                   0x5739de82                                         
+?Line@PrimProcessor@@QEAAJPEAU_D3DTLVERTEX@@00@Z                                                     0x6af6eb63                                         
+?LineSetup@PrimProcessor@@AEAAHPEAU_D3DTLVERTEX@@0@Z                                                 0x03297a92                                         
+?NormalizeLineRHW@PrimProcessor@@AEAAXPEAU_D3DTLVERTEX@@0@Z                                          0xe2082293                                         
+?NormalizePointRHW@PrimProcessor@@AEAAXPEAU_D3DTLVERTEX@@@Z                                          0xfaca1085                                         
+?NormalizeTriRHW@PrimProcessor@@AEAAXPEAU_D3DTLVERTEX@@00@Z                                          0xc464edea                                         
+?Point@PrimProcessor@@QEAAJPEAU_D3DTLVERTEX@@0@Z                                                     0xc16aa0b5                                         
+?PointDiamondCheck@PrimProcessor@@AEAAHHHHH@Z                                                        0x9014b06a                                         
+?ResetBuffer@PrimProcessor@@AEAAXXZ                                                                  0x95b92deb                                         
+?SetCtx@PrimProcessor@@QEAAXPEAUtagD3DI_RASTCTX@@@Z                                                  0x9f789cd4                                         
+?SetFlags@PrimProcessor@@QEAAXI@Z                                                                    0x9a4aaea8                                         
+?SetTriFunctions@PrimProcessor@@AEAAXXZ                                                              0x3af0f042                                         
+?StateChanged@PrimProcessor@@QEAAXXZ                                                                 0xe5b9ec69                                         
+?Tri@PrimProcessor@@QEAAJPEAU_D3DTLVERTEX@@00@Z                                                      0xb704f6ea                                         
+?TriSetup@PrimProcessor@@AEAAHPEAU_D3DTLVERTEX@@00@Z                                                 0x50cddda9                                         
+D3D9GetSWInfo                                                                                        0xc37c300f                                         

@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\ubpm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+UbpmAcquireJobBackgroundMode                                                                         0xa6d1a583                                         
+UbpmApiBufferFree                                                                                    0xdd7d704f                                         
+UbpmCloseTriggerConsumer                                                                             0x0497ff0f                                         
+UbpmInitialize                                                                                       0x46f289eb                                         
+UbpmOpenTriggerConsumer                                                                              0x73d6862b                                         
+UbpmReleaseJobBackgroundMode                                                                         0xf6319dfa                                         
+UbpmSessionStateChanged                                                                              0x632b0288                                         
+UbpmTerminate                                                                                        0x51ebc9c2                                         
+UbpmTriggerConsumerConfigure                                                                         0xd0e074db                                         
+UbpmTriggerConsumerControl                                                                           0xef4bf95a                                         
+UbpmTriggerConsumerControlNotifications                                                              0xfcacb554                                         
+UbpmTriggerConsumerQueryStatus                                                                       0x89b9ed53                                         
+UbpmTriggerConsumerRegister                                                                          0x9dc5b57e                                         
+UbpmTriggerConsumerSetDisabledForUser                                                                0xcca6f763                                         
+UbpmTriggerConsumerSetStatePublishingSecurity                                                        0x092496f3                                         
+UbpmTriggerConsumerUnregister                                                                        0x20b6ba41                                         

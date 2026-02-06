@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\XblGameSaveExt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+XblGameSave_GetUserStorageRoot                                                                       0x6f97fc0b                                         
+XblGameSave_NTMSCreateInstance                                                                       0x6bf53fbe                                         
+XblGameSave_NTMSServerStart                                                                          0x1f233bfa                                         
+XblGameSave_NTMSServerStop                                                                           0x5646e492                                         

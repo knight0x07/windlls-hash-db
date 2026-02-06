@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\rasmontr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetDiagnosticFunctions                                                                               0x91614c63                                         
+InitHelperDll                                                                                        0x1ea6cfd5                                         
+RutlAlloc                                                                                            0x1e34fef7                                         
+RutlAssignmentFromTokenAndDword                                                                      0xfa8c9e6d                                         
+RutlAssignmentFromTokens                                                                             0xd2660e8d                                         
+RutlCloseDumpFile                                                                                    0x0c8ae3b8                                         
+RutlCreateDumpFile                                                                                   0x9be1b6f6                                         
+RutlDwordDup                                                                                         0x88414b15                                         
+RutlFree                                                                                             0x6d88528e                                         
+RutlGetOsVersion                                                                                     0x8577cc54                                         
+RutlGetTagToken                                                                                      0x9c3e1469                                         
+RutlIsHelpToken                                                                                      0xee462f72                                         
+RutlParse                                                                                            0x1f3e8067                                         
+RutlStrDup                                                                                           0x0f65134e                                         

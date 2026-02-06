@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\AzSqlExt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AzGenerateAudit                                                                                      0xba76c842                                         
+__GetXpVersion                                                                                       0xbae94071                                         
+xp_AzManAddRole                                                                                      0xd9a3259e                                         
+xp_AzManAddUserToRole                                                                                0x120ef180                                         
+xp_AzManDeleteRole                                                                                   0x53c39188                                         
+xp_AzManRemoveUserFromRole                                                                           0x102a3a16                                         

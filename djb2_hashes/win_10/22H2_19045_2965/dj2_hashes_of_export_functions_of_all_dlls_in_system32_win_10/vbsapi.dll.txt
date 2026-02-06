@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\vbsapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HvciGetConfig                                                                                        0x9552d9e5                                         
+HvciGetConfigFromVBSKey                                                                              0xc43e30ad                                         
+HvciIncompatibilityScanCancel                                                                        0xf20deeeb                                         
+HvciIncompatibilityScanFree                                                                          0x90552747                                         
+HvciIncompatibilityScanGetResult                                                                     0x7f24b324                                         
+HvciIncompatibilityScanInitialize                                                                    0x9ea20d57                                         
+HvciIncompatibilityScanOverrideDriverCompatDatabase                                                  0x8136bcca                                         
+HvciIncompatibilityScanOverrideServicesKey                                                           0x9e2d06f2                                         
+HvciIncompatibilityScanStart                                                                         0x9be65893                                         
+HvciIsActive                                                                                         0x7f0040c7                                         
+VbsGetIssues                                                                                         0xc12b39ec                                         
+VbsIsCapable                                                                                         0x11937614                                         
+VbsIsRecommended                                                                                     0x2efcf80f                                         
+VbsIsScenarioEnabled                                                                                 0xc51c65eb                                         
+VbsSetScenarioEnable                                                                                 0x29c7e357                                         
+VbsSetScenarioEnableToVBSKey                                                                         0xa2d4432e                                         

@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\rastls.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EapTls_SaveUserCredentials                                                                           0x58314a09                                         
+RasEapCreateConnectionProperties                                                                     0xb3e5b392                                         
+RasEapCreateConnectionProperties2                                                                    0x309c2604                                         
+RasEapCreateConnectionPropertiesXml                                                                  0xc83e6723                                         
+RasEapCreateMethodConfiguration                                                                      0x62532aae                                         
+RasEapCreateUserProperties                                                                           0x62ecc801                                         
+RasEapCreateUserProperties2                                                                          0xc085c853                                         
+RasEapFreeMemory                                                                                     0xb61ededc                                         
+RasEapGetConfigBlobAndUserBlob                                                                       0xee822be7                                         
+RasEapGetCredentials                                                                                 0xed46510f                                         
+RasEapGetIdentity                                                                                    0xb1758cab                                         
+RasEapGetIdentityPageGuid                                                                            0x2a548551                                         
+RasEapGetInfo                                                                                        0x327224cd                                         
+RasEapGetMethodProperties                                                                            0x6581928f                                         
+RasEapGetNextPageGuid                                                                                0x169afc66                                         
+RasEapInvokeConfigUI                                                                                 0xebf6b1c1                                         
+RasEapInvokeInteractiveUI                                                                            0x70ea1849                                         
+RasEapQueryCredentialInputFields                                                                     0x97ca1a79                                         
+RasEapQueryInteractiveUIInputFields                                                                  0x0c6b3a7a                                         
+RasEapQueryUIBlobFromInteractiveUIInputFields                                                        0x9953b84b                                         
+RasEapQueryUserBlobFromCredentialInputFields                                                         0x630422eb                                         
+RasEapSetRetryFlag                                                                                   0xbc76a6dd                                         
+RasEapUpdateServerConfig                                                                             0xca189c51                                         

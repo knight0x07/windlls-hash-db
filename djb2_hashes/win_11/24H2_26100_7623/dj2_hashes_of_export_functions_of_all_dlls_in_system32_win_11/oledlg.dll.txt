@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\oledlg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OleUIAddVerbMenuA                                                                                    0x4c1ba531                                         
+OleUIAddVerbMenuW                                                                                    0x4c1ba547                                         
+OleUIBusyA                                                                                           0x0db48647                                         
+OleUIBusyW                                                                                           0x0db4865d                                         
+OleUICanConvertOrActivateAs                                                                          0xaffec0bc                                         
+OleUIChangeIconA                                                                                     0x31465773                                         
+OleUIChangeIconW                                                                                     0x31465789                                         
+OleUIChangeSourceA                                                                                   0xba6da9bb                                         
+OleUIChangeSourceW                                                                                   0xba6da9d1                                         
+OleUIConvertA                                                                                        0xfd6fba65                                         
+OleUIConvertW                                                                                        0xfd6fba7b                                         
+OleUIEditLinksA                                                                                      0xacd0302b                                         
+OleUIEditLinksW                                                                                      0xacd03041                                         
+OleUIInsertObjectA                                                                                   0x7eabdbf0                                         
+OleUIInsertObjectW                                                                                   0x7eabdc06                                         
+OleUIObjectPropertiesA                                                                               0xaf09eb88                                         
+OleUIObjectPropertiesW                                                                               0xaf09eb9e                                         
+OleUIPasteSpecialA                                                                                   0xfe7e7ea2                                         
+OleUIPasteSpecialW                                                                                   0xfe7e7eb8                                         
+OleUIPromptUserA                                                                                     0x6a9cd685                                         
+OleUIPromptUserW                                                                                     0x6a9cd69b                                         
+OleUIUpdateLinksA                                                                                    0x1ea4c0e8                                         
+OleUIUpdateLinksW                                                                                    0x1ea4c0fe                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\wiashext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddDeviceWasChosen                                                                                   0xdba1c5a9                                         
+AddDeviceWasChosenA                                                                                  0x4fda7b0a                                         
+AddDeviceWasChosenW                                                                                  0x4fda7b20                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DoDeleteAllItems                                                                                     0x5b319b66                                         
+MakeFullPidlForDevice                                                                                0x789007b6                                         

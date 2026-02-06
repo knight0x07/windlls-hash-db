@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\perfctrs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseDhcpPerformanceData                                                                             0x7a0ae326                                         
+CloseIPXPerformanceData                                                                              0x929ee558                                         
+CloseNWNBPerformanceData                                                                             0x55ae44fc                                         
+CloseNbfPerformanceData                                                                              0x3747865d                                         
+CloseSPXPerformanceData                                                                              0xdf7c3aa2                                         
+CloseTcpIpPerformanceData                                                                            0x27e7e527                                         
+CollectDhcpPerformanceData                                                                           0xf1ce06d6                                         
+CollectIPXPerformanceData                                                                            0x67b45308                                         
+CollectNWNBPerformanceData                                                                           0xcd7168ac                                         
+CollectNbfPerformanceData                                                                            0x0c5cf40d                                         
+CollectSPXPerformanceData                                                                            0xb491a852                                         
+CollectTcpIpPerformanceData                                                                          0x980f7ed7                                         
+OpenDhcpPerformanceData                                                                              0xac3c16c2                                         
+OpenIPXPerformanceData                                                                               0xab6a1574                                         
+OpenNWNBPerformanceData                                                                              0x87df7898                                         
+OpenNbfPerformanceData                                                                               0x5012b679                                         
+OpenSPXPerformanceData                                                                               0xf8476abe                                         
+OpenTcpIpPerformanceData                                                                             0xa03f8c43                                         

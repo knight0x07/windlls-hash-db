@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\traffic.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TcAddFilter                                                                                          0xd7ed524b                                         
+TcAddFlow                                                                                            0x046e0cfd                                         
+TcCloseInterface                                                                                     0x2d236423                                         
+TcDeleteFilter                                                                                       0x8e807a15                                         
+TcDeleteFlow                                                                                         0x23a0ba47                                         
+TcDeregisterClient                                                                                   0xc4345749                                         
+TcEnumerateFlows                                                                                     0xed67772d                                         
+TcEnumerateInterfaces                                                                                0x9282f1a6                                         
+TcGetFlowNameA                                                                                       0x36b32fb6                                         
+TcGetFlowNameW                                                                                       0x36b32fcc                                         
+TcGetInterfaceList                                                                                   0xbac01709                                         
+TcModifyFlow                                                                                         0x87783bbc                                         
+TcOpenInterfaceA                                                                                     0x367e2600                                         
+TcOpenInterfaceW                                                                                     0x367e2616                                         
+TcQueryFlowA                                                                                         0x1c67242b                                         
+TcQueryFlowW                                                                                         0x1c672441                                         
+TcQueryInterface                                                                                     0x16f2dc03                                         
+TcRegisterClient                                                                                     0x4e8f3740                                         
+TcSetFlowA                                                                                           0xa11d6b81                                         
+TcSetFlowW                                                                                           0xa11d6b97                                         
+TcSetInterface                                                                                       0x1188de59                                         
+TcSetSocketFlow                                                                                      0xdfa4b009                                         

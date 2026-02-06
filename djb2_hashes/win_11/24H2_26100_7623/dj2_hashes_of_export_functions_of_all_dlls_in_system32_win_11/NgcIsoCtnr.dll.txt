@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\NgcIsoCtnr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+NgcIsoCtnrInitialize                                                                                 0x19c5fc71                                         
+NgcIsoCtnrInitializePregenPool                                                                       0x39496d0c                                         
+NgcIsoCtnrTriggerPregen                                                                              0x5d77d814                                         
+NgcIsoCtnrUninitializePregenPool                                                                     0x984c9fcf                                         

@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\drivers\fsdepends.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DependentFSCheckFileHandle                                                                           0x1b3ec57f                                         
+DependentFSCheckStoragePrivilege                                                                     0xb131904f                                         
+DependentFSDereferenceDependency                                                                     0xde8c462c                                         
+DependentFSDismountForSystemEvent                                                                    0xdb5115d6                                         
+DependentFSDismountForUnsurface                                                                      0x5a9f6bbb                                         
+DependentFSGetVirtualStoragePolicies                                                                 0x030afd29                                         
+DependentFSReferenceDependency                                                                       0x21fff643                                         
+DependentFSRegister                                                                                  0x2472e6fa                                         
+DependentFSRegisterDeviceName                                                                        0xd174664b                                         
+DependentFSUnregister                                                                                0x07763abd                                         

@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\wevtfwd.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WSManPluginShutdown                                                                                  0x292bfc96                                         
+WSManPluginStartup                                                                                   0x429c40ad                                         
+WSManProvPullEvents                                                                                  0x51036684                                         
+WSManProvSubscribe                                                                                   0x785634d4                                         
+WSManProvUnsubscribe                                                                                 0x1ee49437                                         

@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\eappprxy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EapHostPeerBeginSession                                                                              0xae92100e                                         
+EapHostPeerClearConnection                                                                           0x5b20e45c                                         
+EapHostPeerEndSession                                                                                0xec549300                                         
+EapHostPeerFreeEapError                                                                              0xd399ffc7                                         
+EapHostPeerFreeRuntimeMemory                                                                         0x2694ed24                                         
+EapHostPeerGetAuthStatus                                                                             0x71f8bebb                                         
+EapHostPeerGetDataToUnplumbCredentials                                                               0x5f0ed013                                         
+EapHostPeerGetEncryptedPassword                                                                      0x4d88ae26                                         
+EapHostPeerGetIdentity                                                                               0xfc7f026f                                         
+EapHostPeerGetResponseAttributes                                                                     0x3fcf657b                                         
+EapHostPeerGetResult                                                                                 0x57da9ac4                                         
+EapHostPeerGetSendPacket                                                                             0xad2597a7                                         
+EapHostPeerGetUIContext                                                                              0xdff57548                                         
+EapHostPeerInitialize                                                                                0x8e14e8f7                                         
+EapHostPeerProcessReceivedPacket                                                                     0x6f201863                                         
+EapHostPeerSetResponseAttributes                                                                     0x0c6b2387                                         
+EapHostPeerSetUIContext                                                                              0x2b5dd5d4                                         
+EapHostPeerUninitialize                                                                              0xa66b757a                                         

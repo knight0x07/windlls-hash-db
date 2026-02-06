@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-kernel32-legacy-l1-1-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FindFirstVolumeMountPointW                                                                           0xb2eedcda                                         
+FindNextVolumeMountPointW                                                                            0x7dd9ccd1                                         
+FindVolumeMountPointClose                                                                            0x64278411                                         
+GetFileAttributesTransactedW                                                                         0xff45700c                                         
+GetFirmwareType                                                                                      0xc34929e4                                         
+GetNumaAvailableMemoryNodeEx                                                                         0x12ddccf3                                         
+GetNumaNodeProcessorMask                                                                             0x19c23408                                         
+GetNumaProcessorNodeEx                                                                               0x6bc16299                                         
+PowerClearRequest                                                                                    0xe4aa6422                                         
+PowerCreateRequest                                                                                   0x3eb6864f                                         
+PowerSetRequest                                                                                      0xd723c147                                         
+SetDllDirectoryW                                                                                     0x5399e1d9                                         
+SetThreadIdealProcessor                                                                              0xa40f4de8                                         
+SetVolumeMountPointW                                                                                 0x739d125d                                         
+VerifyVersionInfoW                                                                                   0x4ef5bdc3                                         

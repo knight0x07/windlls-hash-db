@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\netwtw08.inf_amd64_d9df0be471398464\IntelIHVRouter10.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dot11ExtIhvGetVersionInfo                                                                            0x39d06818                                         
+Dot11ExtIhvInitService                                                                               0x57413a8b                                         
+Dot11ExtIhvInitVirtualStation                                                                        0x62c58403                                         

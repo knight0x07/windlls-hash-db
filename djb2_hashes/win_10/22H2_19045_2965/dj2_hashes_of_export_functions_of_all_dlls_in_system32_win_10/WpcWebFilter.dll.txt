@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\WpcWebFilter.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+WpcWebFilterCreate                                                                                   0x34701387                                         
+WpcWebFilterDestroy                                                                                  0xf2216c7d                                         
+WpcWebFilterGet                                                                                      0xd12bda13                                         

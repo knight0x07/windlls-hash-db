@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\dmenterprisediagnostics.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CollectDiagnosticsAutoLog                                                                            0xfeb268fe                                         
+GatherAutoLogEventsFromMobile                                                                        0xd1a21b9c                                         
+RecordDiagnosticsError                                                                               0xd43d66e6                                         
+SetupAutoLog                                                                                         0xe87a6191                                         
+SetupAutoLogWithTraceLevel                                                                           0x3c8e85f4                                         
+StartAutoLog                                                                                         0xbfb23b6e                                         
+StopAutoLog                                                                                          0x80eab9e6                                         
+TearDownAutoLog                                                                                      0xe88b7d24                                         

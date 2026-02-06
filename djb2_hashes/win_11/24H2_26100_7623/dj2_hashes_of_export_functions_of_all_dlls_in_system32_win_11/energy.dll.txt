@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\energy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateProvisioningXml                                                                                0x06b21dd1                                         
+EnergyWizard_Analyze                                                                                 0x2dfe07b3                                         
+EnergyWizard_CancelTrace                                                                             0xd5598ab4                                         
+EnergyWizard_CollectTrace                                                                            0x6faafdd4                                         
+EnergyWizard_CreateEnergyWizard                                                                      0x28a44c2e                                         
+EnergyWizard_DefaultTraceDuration                                                                    0x6ddb9299                                         
+EnergyWizard_DestroyEnergyWizard                                                                     0x0795efa4                                         
+EnergyWizard_GetLogEntryCounts                                                                       0x1f54d82f                                         
+EnergyWizard_SaveReport                                                                              0xa204cfaa                                         
+EnergyWizard_SqmAnalysis                                                                             0x336d0df4                                         
+EnergyWizard_TransformReport                                                                         0x71b04fd7                                         
+SaveBatteryReport                                                                                    0xf023262b                                         
+SaveSleepStudyReport                                                                                 0x3b781f42                                         
+SaveSystemSleepDiagnosticsReport                                                                     0x5d1f7606                                         
+SendScreenOnTelemetry                                                                                0xb519ae87                                         
+TransformBatteryReport                                                                               0xaae38578                                         
+TransformSleepStudyReport                                                                            0x327a576f                                         
+TransformSystemSleepDiagnosticsReport                                                                0xa4ea59b3                                         

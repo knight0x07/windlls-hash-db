@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\setup\tssysprep.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppsrvSysPrepGeneralize                                                                              0x24e9fa7d                                         
+AppsrvSysPrepSpecializeOffline                                                                       0x2b8ff943                                         
+AppsrvSysPrepSpecializeOnline                                                                        0x4f795745                                         
+CBrokerSysPrepGeneralize                                                                             0xbdd510a9                                         
+CBrokerSysPrepSpecializeOffline                                                                      0x71b6e5ef                                         
+CBrokerSysPrepSpecializeOnline                                                                       0x68df5e71                                         
+LSMSysPrepBackup                                                                                     0x8ebc6d3d                                         
+LSMSysPrepRestoreOffline                                                                             0xb6c480ee                                         
+LSMSysPrepRestoreOnline                                                                              0xe7161590                                         
+RCMSysPrepGeneralize                                                                                 0x380ae703                                         
+RdpSysPrepGeneralize                                                                                 0x9138bfe7                                         
+RdpSysPrepRestoreOffline                                                                             0x895b0908                                         
+RdpSysPrepRestoreOnline                                                                              0x4a8f026a                                         

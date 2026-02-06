@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\EapTeapConfig.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EapPeerConfigBlob2Xml                                                                                0xda78207f                                         
+EapPeerConfigXml2Blob                                                                                0x6abfb1df                                         
+EapPeerCredentialsXml2Blob                                                                           0xeef35737                                         
+EapPeerFreeErrorMemory                                                                               0x8ae6b22c                                         
+EapPeerFreeMemory                                                                                    0xed357f62                                         
+EapPeerGetMethodProperties                                                                           0xad9429d5                                         
+EapPeerGetNextPageGuid                                                                               0x9d68e0ac                                         
+EapPeerInvokeConfigUI                                                                                0x16d62547                                         
+EapPeerInvokeInteractiveUI                                                                           0xb8fcaf8f                                         
+EapPeerQueryInteractiveUIInputFields                                                                 0x39402140                                         

@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\FXST30.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+FaxDevAbortOperation                                                                                 0xc9a8772c                                         
+FaxDevEndJob                                                                                         0x73949e55                                         
+FaxDevInitialize                                                                                     0x8f6320d5                                         
+FaxDevReceive                                                                                        0xb9dbb046                                         
+FaxDevReportStatus                                                                                   0x9e220403                                         
+FaxDevSend                                                                                           0x992bdf0d                                         
+FaxDevShutdown                                                                                       0xf38bb61f                                         
+FaxDevStartJob                                                                                       0x6083592c                                         
+FaxExtInitializeConfig                                                                               0x7c9b2add                                         

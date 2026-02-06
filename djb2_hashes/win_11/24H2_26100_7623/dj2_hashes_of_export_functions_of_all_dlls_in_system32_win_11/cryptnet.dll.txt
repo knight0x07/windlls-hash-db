@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\cryptnet.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CertDllVerifyCTLUsage                                                                                0x006faedc                                         
+CertDllVerifyRevocation                                                                              0x42e4a6fe                                         
+CryptCancelAsyncRetrieval                                                                            0xe1ec8da9                                         
+CryptFlushTimeValidObject                                                                            0xd3d64e2f                                         
+CryptGetObjectUrl                                                                                    0xa1c61021                                         
+CryptGetTimeValidObject                                                                              0x19964b0d                                         
+CryptInstallCancelRetrieval                                                                          0xb7e01082                                         
+CryptRetrieveObjectByUrlA                                                                            0xa3c2de03                                         
+CryptRetrieveObjectByUrlW                                                                            0xa3c2de19                                         
+CryptUninstallCancelRetrieval                                                                        0x589e6e05                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+I_CryptConvertIriToAsciiOrUnicode                                                                    0xf34f7b78                                         
+I_CryptConvertIriToAsciiOrUnicodeWithFlags                                                           0x6b543981                                         
+I_CryptNetAutoFlush                                                                                  0xbe5fe0e1                                         
+I_CryptNetEnumUrlCacheEntry                                                                          0xd2d0af94                                         
+I_CryptNetFlushOfflineUrl                                                                            0x3458159e                                         
+I_CryptNetGetConnectivity                                                                            0xfadb68a5                                         
+I_CryptNetGetHostNameFromUrl                                                                         0xaf2d048c                                         
+I_CryptNetGetUserDsStoreUrl                                                                          0x7131685c                                         
+I_CryptNetSetUrlCacheFlushInfo                                                                       0x8a7f1be7                                         
+I_CryptNetSetUrlCachePreFetchInfo                                                                    0x5c3c0f96                                         
+LdapProvOpenStore                                                                                    0x9d9ffe6c                                         

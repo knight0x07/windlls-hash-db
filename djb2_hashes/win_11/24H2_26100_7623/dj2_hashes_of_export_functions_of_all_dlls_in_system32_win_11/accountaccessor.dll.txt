@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\accountaccessor.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateDefaultWindowsLiveAccount                                                                      0x603ffba6                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+FindMatchingPartnership                                                                              0xcfa57b01                                         
+GetConversationSyncDateFilter                                                                        0xb8329b61                                         
+GetConversationSyncEnabled                                                                           0x8f45fb88                                         
+GetUnifiedInboxEnabled                                                                               0xe842e754                                         
+GetUnifiedInboxServerValue                                                                           0xee1e7edd                                         
+IsExtendedConversationSyncDateFiltersSupported                                                       0x6fcc7227                                         
+LoadGoldenPartnershipAccessor                                                                        0xba673341                                         
+SetConversationSyncDateFilter                                                                        0xc181a56d                                         
+SetConversationSyncEnabled                                                                           0xc4e66114                                         
+SetUnifiedInboxEnabled                                                                               0x485666e0                                         
+UnenrollAndMarkAccountForDeletion                                                                    0x64c5d4da                                         
+UpdateGoogleAccountConversationFlags                                                                 0x3b3da2ba                                         
+UpdateGoogleAccountServerSendsMeetingProp                                                            0xa54c3030                                         
+UpdateWebDavAccountProperties                                                                        0xf826713b                                         

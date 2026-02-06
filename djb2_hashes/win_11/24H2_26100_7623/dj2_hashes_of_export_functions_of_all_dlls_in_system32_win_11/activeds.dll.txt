@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\activeds.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ADsBuildEnumerator                                                                                   0xa27ab8cf                                         
+ADsBuildVarArrayInt                                                                                  0x8861c5a0                                         
+ADsBuildVarArrayStr                                                                                  0x8861f0ee                                         
+ADsDecodeBinaryData                                                                                  0x9e421060                                         
+ADsEncodeBinaryData                                                                                  0x67fa120a                                         
+ADsEnumerateNext                                                                                     0x584c76a2                                         
+ADsFreeEnumerator                                                                                    0xaa0e6a01                                         
+ADsGetLastError                                                                                      0x3ae8ca7b                                         
+ADsGetObject                                                                                         0x291d72d4                                         
+ADsOpenObject                                                                                        0xbc0b1046                                         
+ADsSetLastError                                                                                      0x86512b07                                         
+AdsFreeAdsValues                                                                                     0x34931de7                                         
+AdsTypeToPropVariant                                                                                 0xacf84f98                                         
+AdsTypeToPropVariant2                                                                                0x4c0242ca                                         
+AllocADsMem                                                                                          0x72e7b7a7                                         
+AllocADsStr                                                                                          0x72e7d321                                         
+BinarySDToSecurityDescriptor                                                                         0x5ee4a15b                                         
+ConvertSecDescriptorToVariant                                                                        0xc88dd9f8                                         
+ConvertSecurityDescriptorToSecDes                                                                    0xc3f658b7                                         
+ConvertTrusteeToSid                                                                                  0x357e82f5                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+FreeADsMem                                                                                           0x615d0d5e                                         
+FreeADsStr                                                                                           0x615d28d8                                         
+PropVariantToAdsType                                                                                 0x6c0de498                                         
+PropVariantToAdsType2                                                                                0xedca77ca                                         
+ReallocADsMem                                                                                        0x5c84cf9e                                         
+ReallocADsStr                                                                                        0x5c84eb18                                         
+SecurityDescriptorToBinarySD                                                                         0xe85a5c5b                                         

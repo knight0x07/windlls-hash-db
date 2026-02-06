@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\wshunix.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WSHAddressToString                                                                                   0x2ddfc817                                         
+WSHEnumProtocols                                                                                     0xaa7e27b1                                         
+WSHGetBroadcastSockaddr                                                                              0x004ebb35                                         
+WSHGetProviderGuid                                                                                   0x01d22acb                                         
+WSHGetSockaddrType                                                                                   0x6e61ddc4                                         
+WSHGetSocketInformation                                                                              0xb5efc406                                         
+WSHGetWSAProtocolInfo                                                                                0xabc77960                                         
+WSHGetWildcardSockaddr                                                                               0x4a927b8c                                         
+WSHGetWinsockMapping                                                                                 0x1bdb95c1                                         
+WSHIoctl                                                                                             0x688f51b2                                         
+WSHJoinLeaf                                                                                          0xf8bfb07f                                         
+WSHNotify                                                                                            0x862c7670                                         
+WSHOpenSocket                                                                                        0x10220c52                                         
+WSHOpenSocket2                                                                                       0x146396c4                                         
+WSHSetSocketInformation                                                                              0x47c5f092                                         
+WSHStringToAddress                                                                                   0x9cbfdc57                                         

@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\ncsi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NcsiAllocateAndGetConnectivityStatusSet                                                              0x1e7ffa19                                         
+NcsiDeregisterConnectivityStatusChange                                                               0xa0484ba9                                         
+NcsiDeregisterDiagnosticsInfoChange                                                                  0x5fbb69ea                                         
+NcsiFreeConnectivityStatusSet                                                                        0xe3693963                                         
+NcsiGetCaptivePortalHosts                                                                            0x5bd978e1                                         
+NcsiGetWebProbeConfig                                                                                0x45f75a3e                                         
+NcsiIdentifyUserSpecificProxies                                                                      0x569d759d                                         
+NcsiNotifySessionChange                                                                              0x1dd862f5                                         
+NcsiPerformRefresh                                                                                   0xbef21c9c                                         
+NcsiPerformReprobe                                                                                   0xbfa739fc                                         
+NcsiRegisterConnectivityStatusChange                                                                 0x60a2bde0                                         
+NcsiRegisterDiagnosticsInfoChange                                                                    0x4b5d2f81                                         
+NcsiUpdateClientPresence                                                                             0x9a148029                                         

@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\ktmw32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CommitComplete                                                                                       0x455fe147                                         
+CommitEnlistment                                                                                     0xbabc4611                                         
+CommitTransaction                                                                                    0x61cf6414                                         
+CommitTransactionAsync                                                                               0x528e6a32                                         
+CreateEnlistment                                                                                     0x5c22b49c                                         
+CreateResourceManager                                                                                0x79b5763c                                         
+CreateTransaction                                                                                    0x3003a3ff                                         
+CreateTransactionManager                                                                             0x004775fa                                         
+GetCurrentClockTransactionManager                                                                    0xb0c6d8f5                                         
+GetEnlistmentId                                                                                      0x3ce3b735                                         
+GetEnlistmentRecoveryInformation                                                                     0x60d4535d                                         
+GetNotificationResourceManager                                                                       0x7636ed8f                                         
+GetNotificationResourceManagerAsync                                                                  0xf0fe188d                                         
+GetTransactionId                                                                                     0x34ea44d8                                         
+GetTransactionInformation                                                                            0xe2f943d1                                         
+GetTransactionManagerId                                                                              0x28395413                                         
+OpenEnlistment                                                                                       0x2411e6da                                         
+OpenResourceManager                                                                                  0xc193bf3a                                         
+OpenTransaction                                                                                      0xf5d91dfd                                         
+OpenTransactionManager                                                                               0xcb6c0638                                         
+OpenTransactionManagerById                                                                           0x121a9fc0                                         
+PrePrepareComplete                                                                                   0xa5871254                                         
+PrePrepareEnlistment                                                                                 0xc173ee5e                                         
+PrepareComplete                                                                                      0x431bafed                                         
+PrepareEnlistment                                                                                    0x16a65637                                         
+PrivCreateTransaction                                                                                0x9d8d89e0                                         
+PrivIsLogWritableTransactionManager                                                                  0x35fab85f                                         
+PrivPropagationComplete                                                                              0x2c6b0383                                         
+PrivPropagationFailed                                                                                0x07ebc10f                                         
+PrivRegisterProtocolAddressInformation                                                               0x411f6ce9                                         
+ReadOnlyEnlistment                                                                                   0x844fd866                                         
+RecoverEnlistment                                                                                    0xe7fd569e                                         
+RecoverResourceManager                                                                               0x662fa97e                                         
+RecoverTransactionManager                                                                            0x6e9cf9fc                                         
+RenameTransactionManager                                                                             0x6838b85e                                         
+RollbackComplete                                                                                     0xaf835b88                                         
+RollbackEnlistment                                                                                   0x3ba75492                                         
+RollbackTransaction                                                                                  0x001c42b5                                         
+RollbackTransactionAsync                                                                             0x11249573                                         
+RollforwardTransactionManager                                                                        0x72964a34                                         
+SetEnlistmentRecoveryInformation                                                                     0x2145b1e9                                         
+SetResourceManagerCompletionPort                                                                     0xe9461f33                                         
+SetTransactionInformation                                                                            0xf41d27dd                                         
+SinglePhaseReject                                                                                    0x9cadef75                                         

@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\msv1_0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+LsaApCallPackage                                                                                     0xf2d6409e                                         
+LsaApCallPackagePassthrough                                                                          0x555eb7f6                                         
+LsaApCallPackageUntrusted                                                                            0xcbd4acec                                         
+LsaApInitializePackage                                                                               0xd6033f34                                         
+LsaApLogonTerminated                                                                                 0x6c7f1062                                         
+LsaApLogonUserEx2                                                                                    0xd369d883                                         
+Msv1_0ExportSubAuthenticationRoutine                                                                 0xbb8e326d                                         
+Msv1_0ExportSubAuthenticationRoutineEx                                                               0xd7e48b0a                                         
+Msv1_0SubAuthenticationPresent                                                                       0x63f5a586                                         
+MsvGetLogonAttemptCount                                                                              0xefcb0942                                         
+MsvIsIpAddressLocal                                                                                  0x5292b681                                         
+MsvIsLocalhostAliases                                                                                0xc530e842                                         
+MsvSamLogoff                                                                                         0xa08b6759                                         
+MsvSamValidate                                                                                       0x0121b946                                         
+MsvValidateTarget                                                                                    0xa4bb7c6c                                         
+SpInitialize                                                                                         0x88ff1a9a                                         
+SpInstanceInit                                                                                       0x5edec931                                         
+SpLsaModeInitialize                                                                                  0x98bfd8ff                                         
+SpUserModeInitialize                                                                                 0xb41f209e                                         

@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-threadpool-legacy-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ChangeTimerQueueTimer                                                                                0xf6906f72                                         
+CreateTimerQueue                                                                                     0x05e1c3ff                                         
+CreateTimerQueueTimer                                                                                0x117296a0                                         
+DeleteTimerQueueEx                                                                                   0x60fa315b                                         
+DeleteTimerQueueTimer                                                                                0x92d38a7f                                         
+QueueUserWorkItem                                                                                    0xb00c9f9b                                         
+UnregisterWaitEx                                                                                     0xf4bda21f                                         

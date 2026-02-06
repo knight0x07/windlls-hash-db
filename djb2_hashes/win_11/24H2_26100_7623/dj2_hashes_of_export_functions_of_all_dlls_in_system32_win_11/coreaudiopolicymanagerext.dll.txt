@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\coreaudiopolicymanagerext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+IsApmDuckingGainForIdSupported                                                                       0xf79ee9dd                                         
+IsApmLayoutGainForIdSupported                                                                        0x8e8d63f6                                         
+IsApmRegisterProxyAudioProcessSupported                                                              0xe83249dd                                         
+IsDataRangeForEndpointSupported                                                                      0x044828b6                                         
+IsHHostEdappManagerContextRundownSupported                                                           0xfbb8f224                                         
+IsHdAudioProtocolNotifyRundownSupported                                                              0xb3280c5d                                         
+IsPbmAllowMediaPlaybackForAppSupported                                                               0xbd4506f4                                         
+IsPbmCastingAppStateChangedSupported                                                                 0xad75b19b                                         
+IsPbmLaunchBackgroundTaskSupported                                                                   0x0d0229d4                                         
+IsPbmPlayToStreamStateChangedSupported                                                               0xfa35f9b6                                         
+IsPbmPlayingSupported                                                                                0x46739f9a                                         
+IsPbmRegisterAppClosureNotificationSupported                                                         0x81708eb0                                         
+IsPbmRegisterAppManagerNotificationSupported                                                         0xd3be398e                                         
+IsPbmRegisterPlaybackManagerNotificationsSupported                                                   0xfaf18287                                         
+IsPbmReportAppClosingSupported                                                                       0x5ad9e112                                         
+IsPbmReportAppInteractivityChangeSupported                                                           0x8a756c38                                         
+IsPbmReportApplicationStateSupported                                                                 0x62db0977                                         
+IsPbmReportHostedAppStateChangeSupported                                                             0x1d808791                                         
+IsPbmSessionPlayingSupported                                                                         0x760f649e                                         
+IsPbmSmtcSubscriptionStateSupported                                                                  0x43ba91c3                                         
+IsPbmSoundLevelSupported                                                                             0x0f334fc7                                         
+IsPbmSwitchSoftNonToHardNonInteractiveSupported                                                      0x26b7e16a                                         
+IsPbmUnregisterAppClosureNotificationSupported                                                       0xd576e8d3                                         
+IsPbmUnregisterAppManagerNotificationSupported                                                       0x27c493b1                                         
+IsPbmUnregisterPlaybackManagerNotificationsSupported                                                 0x3b09aaea                                         
+IsScreenReaderStateSupported                                                                         0xfc9aacfb                                         
+IsTSRegisterAudioProtocolNotificationSupported                                                       0x0faf25de                                         
+IsTSServiceSessionChangeSupported                                                                    0xf36cca89                                         
+IsTSSessionGetAudioProtocolSupported                                                                 0x922a7cf6                                         
+IsTSSessionIdAudioProtocolSupported                                                                  0xbc709983                                         
+IsTSSessionIdRegisterVolumeTrackerForSessionSupported                                                0xce5ce473                                         
+IsTSSessionIdStreamStartedSupported                                                                  0xa83884e2                                         
+IsTSSessionIdStreamStoppedSupported                                                                  0x8330232a                                         
+IsTSUnregisterAudioProtocolNotificationSupported                                                     0x55bcfb21                                         

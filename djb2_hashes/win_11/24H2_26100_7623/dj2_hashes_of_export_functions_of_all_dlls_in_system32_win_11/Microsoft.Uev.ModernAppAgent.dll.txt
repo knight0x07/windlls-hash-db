@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\Microsoft.Uev.ModernAppAgent.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AllocateSettingsContext                                                                              0x2a1b52c0                                         
+ExportModernSettings                                                                                 0xb75c049d                                         
+ExportSettingsToStore                                                                                0xa2ce0288                                         
+FreeSettingsContext                                                                                  0x6b90439d                                         
+GetModernTemplateId                                                                                  0x5275fa53                                         
+GetOSSettingsRoamingState                                                                            0x23995006                                         
+ImportModernSettings                                                                                 0x4e965956                                         
+ImportSettingsFromStore                                                                              0x80d08832                                         
+InitializeRollbackState                                                                              0xb35f84e2                                         

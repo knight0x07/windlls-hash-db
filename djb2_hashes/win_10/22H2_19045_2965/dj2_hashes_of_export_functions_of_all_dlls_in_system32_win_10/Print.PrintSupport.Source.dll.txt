@@ -1,0 +1,29 @@
+DLL Path: C:\Windows\System32\Print.PrintSupport.Source.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateAndStartPsaSession                                                                             0x53fd30a2                                         
+CreatePsaManagerForUserContextAbi                                                                    0xd3af11cf                                         
+CreatePsaSessionForUserContext                                                                       0xabe1a50c                                         
+CreatePsaSourceStream                                                                                0x7f5a9eba                                         
+CreateSoftwareDevnode                                                                                0x48dd6889                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+GetAppUserModelId                                                                                    0xa2c6cfa3                                         
+GetEntryPoint                                                                                        0xc818a8a1                                         
+HasAppWithContract                                                                                   0x4bf85b1c                                         
+IsActivationContractSupported                                                                        0x02f42017                                         
+IsIppPrinterPsaEnabledForContractAsCurrentUser                                                       0xbf5c1458                                         
+IsPsaContractActivatableForDevice                                                                    0x20fbee1a                                         
+IsPsaEnabledForContract                                                                              0x04404135                                         
+IsPsaEnabledForContractAsCurrentUser                                                                 0xe02a290b                                         
+LaunchPsaAppForError                                                                                 0x94a142d6                                         
+LaunchSystemSettingsBroker                                                                           0x1bfa5b9b                                         
+QueryAndSubscribePdmPrinterChangeNotification                                                        0xdd405dc2                                         
+RegeneratePdcForApp                                                                                  0x43633466                                         
+RemovePsaSession                                                                                     0xe990841b                                         
+RemovePsaSessionForUserContext                                                                       0x5037b4c6                                         
+SetJobIdForPsaSession                                                                                0x8ad6dc08                                         
+SetPrintTicketPsa                                                                                    0xd9a20b86                                         
+UpdatePDC                                                                                            0xf8ab2cdf                                         
+UpdatePdcRegenerationRegKey                                                                          0x062f3749                                         
+ValidatePrintTicket                                                                                  0xbd560080                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\devinv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateDeviceInventory                                                                                0x964832d7                                         
+CreateDeviceInventoryTC                                                                              0x49204fae                                         
+CreateDeviceInventoryTC2                                                                             0x6d2a45a0                                         
+GetAndSendSigningInfo                                                                                0x475399dd                                         
+GetDevInventory                                                                                      0xdf31a8b2                                         
+ReportDeviceAdd                                                                                      0x100de01a                                         
+ReportDeviceRemove                                                                                   0xd390c43f                                         
+RunDeviceInventoryW                                                                                  0x586d30af                                         
+SetDevInvDebugCorrelationVector                                                                      0x989fffb9                                         

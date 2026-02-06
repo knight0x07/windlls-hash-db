@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\wbem\xml\wmi2xml.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseWbemTextSource                                                                                  0xd1d0fe3c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+OpenWbemTextSource                                                                                   0x60b08058                                         
+TextToWbemObject                                                                                     0x7dd2fc8f                                         
+WbemObjectToText                                                                                     0x65e3a84f                                         

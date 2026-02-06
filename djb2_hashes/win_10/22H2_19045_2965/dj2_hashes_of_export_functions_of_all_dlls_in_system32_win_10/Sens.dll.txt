@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\Sens.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SensNotifyNetconEvent                                                                                0x0076e280                                         
+SensNotifyRasEvent                                                                                   0x051d373f                                         
+SensNotifyWinlogonEvent                                                                              0xa26a2a66                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

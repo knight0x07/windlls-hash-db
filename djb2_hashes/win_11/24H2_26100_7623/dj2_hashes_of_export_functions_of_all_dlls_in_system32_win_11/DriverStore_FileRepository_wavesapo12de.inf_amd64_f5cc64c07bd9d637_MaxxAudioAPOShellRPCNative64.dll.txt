@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\MaxxAudioAPOShellRPCNative64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WavesFX_GetChunk                                                                                     0x6d0b76c1                                         
+WavesFX_GetParameter                                                                                 0xcf1ba1e9                                         
+WavesFX_Initialize                                                                                   0x9434eefa                                         
+WavesFX_IsConnectionActive                                                                           0x6ea6b810                                         
+WavesFX_Preset_GetCount                                                                              0x80e059e3                                         
+WavesFX_Preset_GetName                                                                               0x3279331b                                         
+WavesFX_Preset_GetOutputName                                                                         0x5d53cbac                                         
+WavesFX_Preset_RegisterChangeNotification                                                            0xc3cbbeac                                         
+WavesFX_RegisterChangeNotification                                                                   0x77ae29ba                                         
+WavesFX_SetChunk                                                                                     0x8021714d                                         
+WavesFX_SetParameter                                                                                 0x1a840275                                         
+WavesFX_SetParametersArray                                                                           0x21753467                                         
+WavesFX_Uninitialize                                                                                 0xb4a5083d                                         
+WavesFX_VendorSpecific                                                                               0xf59086fc                                         

@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\vmhgs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HgsCreateKeyProtector                                                                                0x3efaf2e6                                         
+HgsDecryptDataWithKeyProtector                                                                       0x107e82a3                                         
+HgsEncryptDataWithKeyProtector                                                                       0xcc2fe60d                                         
+HgsIssueCertificate                                                                                  0xb134a673                                         
+HgsUnwrapKeyProtector                                                                                0x67ede66f                                         
+HgsUsingLocalService                                                                                 0x6b7dda89                                         

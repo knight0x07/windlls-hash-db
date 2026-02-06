@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\SubAuthLoader.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Msv1_0SubAuthenticationFilter                                                                        0x7e79b2eb                                         
+Msv1_0SubAuthenticationFilterEx                                                                      0x03b22308                                         
+Msv1_0SubAuthenticationRoutineGeneric                                                                0x7943ddc8                                         

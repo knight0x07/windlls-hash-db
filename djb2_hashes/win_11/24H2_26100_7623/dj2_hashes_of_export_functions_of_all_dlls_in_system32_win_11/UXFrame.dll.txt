@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\UXFrame.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+UXFrameMain                                                                                          0xd68e6ca2                                         
+UXFrameMainStringArgs                                                                                0x48f90106                                         
+UXFramePrecreate                                                                                     0x4ee05d98                                         

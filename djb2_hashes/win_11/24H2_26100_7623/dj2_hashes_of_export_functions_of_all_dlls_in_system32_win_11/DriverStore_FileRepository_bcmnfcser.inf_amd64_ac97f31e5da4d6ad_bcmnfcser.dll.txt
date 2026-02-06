@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\bcmnfcser.inf_amd64_ac97f31e5da4d6ad\bcmnfcser.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllAwaitTag                                                                                          0xdff99e73                                         
+DllSetMaxPower                                                                                       0xe24590c0                                         
+DllSetParam                                                                                          0x3d86047e                                         
+DllStartNfc                                                                                          0x964ea3a6                                         
+DllStopNfc                                                                                           0x2491669e                                         
+FxDriverEntryUm                                                                                      0x69327383                                         
+HAL_NfcClose                                                                                         0xfa9b6446                                         
+HAL_NfcControlGranted                                                                                0x63c6bb16                                         
+HAL_NfcCoreInitialized                                                                               0x511b490f                                         
+HAL_NfcEnterCELowPowerMode                                                                           0xec7ab87a                                         
+HAL_NfcEnterFullPowerMode                                                                            0x5a2f3b73                                         
+HAL_NfcInfo                                                                                          0x1ee13d5c                                         
+HAL_NfcInitialize                                                                                    0x8fb77b62                                         
+HAL_NfcOpen                                                                                          0x1ee49002                                         
+HAL_NfcPowerCycle                                                                                    0x9c548d6d                                         
+HAL_NfcPreDiscover                                                                                   0x476dab36                                         
+HAL_NfcPrintBufferUsage                                                                              0x4c79ae4c                                         
+HAL_NfcTerminate                                                                                     0x068ce859                                         
+HAL_NfcUpdateSnoozeMode                                                                              0xccd60b56                                         
+HAL_NfcUpdateUartBaudRate                                                                            0xc3738e97                                         
+HAL_NfcWrite                                                                                         0xfc087f3b                                         
+HAL_NfcWriteBuf                                                                                      0x24cda198                                         

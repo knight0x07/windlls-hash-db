@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\rtmmvrortc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MediaVRCreateORTCRenderer                                                                            0x9c6c8090                                         
+MediaVRDestroyORTCRenderer                                                                           0x707f81c6                                         
+MediaVRGetORTCRenderContext                                                                          0xcc91224a                                         
+MediaVRRequestKeyFrame                                                                               0x861159ca                                         
+MediaVRSetDecodingHealth                                                                             0x65dfa70c                                         

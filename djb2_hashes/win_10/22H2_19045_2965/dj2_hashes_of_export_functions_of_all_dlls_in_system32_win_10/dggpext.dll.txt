@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\dggpext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ProcessConfigCIPolicyGroupPolicy                                                                     0x921e6313                                         
+ProcessVirtualizationBasedSecurityGroupPolicy                                                        0x41c0bb3d                                         
+ProcessVirtualizationBasedSecurityMDMPolicy                                                          0x4993d5ee                                         

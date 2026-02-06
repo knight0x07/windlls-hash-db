@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\hlink.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+HlinkClone                                                                                           0x763e4cec                                         
+HlinkCreateBrowseContext                                                                             0x214fec86                                         
+HlinkCreateExtensionServices                                                                         0x5aa74650                                         
+HlinkCreateFromData                                                                                  0x83c3519d                                         
+HlinkCreateFromMoniker                                                                               0x92b1c8b8                                         
+HlinkCreateFromString                                                                                0xa63277ba                                         
+HlinkCreateShortcut                                                                                  0x81c996eb                                         
+HlinkCreateShortcutFromMoniker                                                                       0x4a843574                                         
+HlinkCreateShortcutFromString                                                                        0xcacc3cf6                                         
+HlinkGetSpecialReference                                                                             0xa69c7cab                                         
+HlinkGetValueFromParams                                                                              0xfd0b5cd0                                         
+HlinkIsShortcut                                                                                      0x3dc8d973                                         
+HlinkNavigate                                                                                        0xc7bc256a                                         
+HlinkNavigateToStringReference                                                                       0x42c594d3                                         
+HlinkOnNavigate                                                                                      0x67234fc7                                         
+HlinkOnRenameDocument                                                                                0x0bb54b6f                                         
+HlinkParseDisplayName                                                                                0xb70790ad                                         
+HlinkPreprocessMoniker                                                                               0x0dbd20f6                                         
+HlinkQueryCreateFromData                                                                             0xee2b0ef3                                         
+HlinkResolveMonikerForData                                                                           0x1887c9b1                                         
+HlinkResolveShortcut                                                                                 0x159fbcd7                                         
+HlinkResolveShortcutToMoniker                                                                        0xdb86544f                                         
+HlinkResolveShortcutToString                                                                         0x2c486c71                                         
+HlinkResolveStringForData                                                                            0x78315b73                                         
+HlinkSetSpecialReference                                                                             0xf0d947b7                                         
+HlinkTranslateURL                                                                                    0x13fe2a7c                                         
+HlinkUpdateStackItem                                                                                 0x29dad183                                         
+OleSaveToStreamEx                                                                                    0x32173380                                         

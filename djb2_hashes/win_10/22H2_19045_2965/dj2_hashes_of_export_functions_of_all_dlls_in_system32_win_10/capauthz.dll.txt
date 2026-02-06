@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\capauthz.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DeprovisionApplicationCapabilities                                                                   0x034d3ab5                                         
+ProvisionApplicationCapabilities                                                                     0xa9437c2c                                         
+ProvisionApplicationCapabilitiesEx                                                                   0x08134089                                         
+QueryApplicationCapabilities                                                                         0x256e04b9                                         
+QueryApplicationCapabilitiesEx                                                                       0x39022056                                         
+SCCDFreeParsedElements                                                                               0x5689f7e0                                         
+SCCDParseFile                                                                                        0x395ff95d                                         
+SCCDValidateAppxFile                                                                                 0x1f7e5645                                         
+SCCDValidateCatalogFile                                                                              0xe6e944a7                                         

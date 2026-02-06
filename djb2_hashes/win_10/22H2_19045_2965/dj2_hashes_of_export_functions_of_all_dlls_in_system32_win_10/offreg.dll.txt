@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\offreg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ORCloseHive                                                                                          0xface2228                                         
+ORCloseKey                                                                                           0x1edf81a5                                         
+ORCreateHive                                                                                         0x904a51a6                                         
+ORCreateKey                                                                                          0x59b4b963                                         
+ORDeleteKey                                                                                          0xf305a6c2                                         
+ORDeleteValue                                                                                        0xcbcf1376                                         
+OREnumKey                                                                                            0x5a25b404                                         
+OREnumValue                                                                                          0x7b277938                                         
+ORGetKeySecurity                                                                                     0x5d545fe7                                         
+ORGetValue                                                                                           0xbeaa8d43                                         
+ORGetVersion                                                                                         0x1d43268c                                         
+ORGetVirtualFlags                                                                                    0x3198515a                                         
+ORMergeHives                                                                                         0x769fa175                                         
+OROpenHive                                                                                           0x4e20f924                                         
+OROpenHiveByHandle                                                                                   0xd3d635eb                                         
+OROpenKey                                                                                            0x5f756921                                         
+ORQueryInfoKey                                                                                       0x50221931                                         
+ORRenameKey                                                                                          0xe1f50047                                         
+ORSaveHive                                                                                           0xa3839381                                         
+ORSetKeySecurity                                                                                     0x24571373                                         
+ORSetValue                                                                                           0xd1c087cf                                         
+ORSetVirtualFlags                                                                                    0xd8f17666                                         

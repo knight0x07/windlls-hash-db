@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\vmstaging.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IsFeatureEnabled                                                                                     0xc5a4f658                                         
+WebAuthnRedirectionInVMConnectTipTest_Complete                                                       0x22094a24                                         
+WebAuthnRedirectionInVMConnectTipTest_SetConnected                                                   0x23f58a6a                                         
+WebAuthnRedirectionInVMConnectTipTest_SetRedirectionEnabled                                          0x6557db5a                                         
+WebAuthnRedirectionInVMConnectTipTest_Start                                                          0x6b744219                                         

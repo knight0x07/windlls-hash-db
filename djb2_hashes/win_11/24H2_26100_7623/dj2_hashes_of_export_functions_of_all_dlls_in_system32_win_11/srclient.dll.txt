@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\srclient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DisableSR                                                                                            0x4802e1de                                         
+DisableSRInternal                                                                                    0x158426db                                         
+EnableSR                                                                                             0x26667d91                                         
+EnableSREx                                                                                           0x59fc2f2e                                         
+EnableSRInternal                                                                                     0x7255c58e                                         
+SRNewSystemId                                                                                        0x474ea906                                         
+SRRemoveRestorePoint                                                                                 0xdc59ed06                                         
+SRSetRestorePointA                                                                                   0x25b71a05                                         
+SRSetRestorePointInternal                                                                            0x8a4e3c41                                         
+SRSetRestorePointW                                                                                   0x25b71a1b                                         
+SetSRStateAfterSetup                                                                                 0x99528f9a                                         
+SysprepCleanup                                                                                       0x63668803                                         
+SysprepGeneralize                                                                                    0x27221f41                                         

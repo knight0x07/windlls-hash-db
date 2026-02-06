@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\riched20.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateTextServices                                                                                   0x51705522                                         
+IID_IRichEditOle                                                                                     0x065418cf                                         
+IID_IRichEditOleCallback                                                                             0xf95e151c                                         
+IID_ITextHost                                                                                        0x2d1e4006                                         
+IID_ITextHost2                                                                                       0xd0e640f8                                         
+IID_ITextServices                                                                                    0x35c2e7ec                                         
+REExtendedRegisterClass                                                                              0x229473c8                                         
+RichEdit10ANSIWndProc                                                                                0x24a1951a                                         
+RichEditANSIWndProc                                                                                  0x8fcec8f9                                         

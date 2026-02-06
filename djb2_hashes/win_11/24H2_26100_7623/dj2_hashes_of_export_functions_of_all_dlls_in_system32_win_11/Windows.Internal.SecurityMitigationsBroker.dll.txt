@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\Windows.Internal.SecurityMitigationsBroker.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+QueryACGPolicyForDriverId                                                                            0x9e2d8f36                                         

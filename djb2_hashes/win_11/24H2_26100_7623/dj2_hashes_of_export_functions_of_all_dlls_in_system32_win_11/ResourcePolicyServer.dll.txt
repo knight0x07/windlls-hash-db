@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\ResourcePolicyServer.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RmRpsInitialize                                                                                      0xd8d3f8eb                                         
+RmRpsNotifyApplicationInterruptiveUIChange                                                           0xee9f1a1b                                         
+RmRpsQueryResourceSetInfo                                                                            0xb1bd67cf                                         

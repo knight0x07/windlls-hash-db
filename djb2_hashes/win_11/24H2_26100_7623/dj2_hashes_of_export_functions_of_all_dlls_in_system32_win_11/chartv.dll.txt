@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\chartv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CvCloseDataSource                                                                                    0x7ef858ff                                         
+CvCreateDataSource                                                                                   0xbe1d21fd                                         
+CvGetData                                                                                            0xa2602ed8                                         
+CvGetDataSourceName                                                                                  0x4a50d48a                                         
+CvInitialize                                                                                         0x99f58410                                         
+CvSetData                                                                                            0x3e1b07e4                                         
+CvSetDataSourceName                                                                                  0x2c876c96                                         
+CvUninitialize                                                                                       0x2cdf3ad3                                         

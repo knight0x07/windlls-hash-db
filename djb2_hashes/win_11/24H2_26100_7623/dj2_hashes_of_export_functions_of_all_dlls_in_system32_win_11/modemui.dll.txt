@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\modemui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CountryRunOnce                                                                                       0xc5d232b3                                         
+InvokeControlPanel                                                                                   0x9cd3a922                                         
+ModemCplDlgProc                                                                                      0xa6ed1ca1                                         
+ModemPropPagesProvider                                                                               0xf8065d33                                         
+QueryModemForCountrySettings                                                                         0x7725bd19                                         
+UnimodemDevConfigDialog                                                                              0x92285708                                         
+UnimodemGetDefaultCommConfig                                                                         0x0771566a                                         
+UnimodemGetExtendedCaps                                                                              0x96162f7b                                         
+drvCommConfigDialogA                                                                                 0x8bda96c4                                         
+drvCommConfigDialogW                                                                                 0x8bda96da                                         
+drvGetDefaultCommConfigA                                                                             0x0bdfce99                                         
+drvGetDefaultCommConfigW                                                                             0x0bdfceaf                                         
+drvSetDefaultCommConfigA                                                                             0xd87b8ca5                                         
+drvSetDefaultCommConfigW                                                                             0xd87b8cbb                                         

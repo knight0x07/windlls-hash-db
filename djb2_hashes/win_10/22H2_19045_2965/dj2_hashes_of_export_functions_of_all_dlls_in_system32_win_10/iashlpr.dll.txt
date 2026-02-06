@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\iashlpr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AllocateAttributes                                                                                   0xa1bb5ed1                                         
+ConfigureIas                                                                                         0x1a881164                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DoRequest                                                                                            0xefb51001                                         
+DoRequestAsync                                                                                       0x628d923f                                         
+FreeAttributes                                                                                       0xa652118e                                         
+GetOptionIas                                                                                         0x8c1a585b                                         
+InitializeIas                                                                                        0x62cae694                                         
+MemAllocIas                                                                                          0xb3b9ab4c                                         
+MemFreeIas                                                                                           0x17b0c483                                         
+MemReallocIas                                                                                        0xa809e263                                         
+SetOptionIas                                                                                         0xd782b8e7                                         
+ShutdownIas                                                                                          0x34caef1e                                         

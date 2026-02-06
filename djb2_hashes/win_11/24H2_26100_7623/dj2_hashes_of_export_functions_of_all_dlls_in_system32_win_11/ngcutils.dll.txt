@@ -1,0 +1,38 @@
+DLL Path: C:\Windows\System32\ngcutils.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+NgcAreCacheTypeApiFlagsValid                                                                         0x73d71122                                         
+NgcAreNCryptCacheTypeApiFlagsValid                                                                   0xc03b4482                                         
+NgcAreStringsEqual                                                                                   0x4edab337                                         
+NgcBuildDefaultDecryptionKeyNameString                                                               0xb9b5ae14                                         
+NgcBuildKeyNameString                                                                                0xdad62a6e                                         
+NgcCallerIsAppContainer                                                                              0x3852d610                                         
+NgcCoMemAllocCopy                                                                                    0x01ed60d4                                         
+NgcCoMemResourceStringAllocCopy                                                                      0x33d95833                                         
+NgcDeviceLockIsEnforcementPending                                                                    0xccd6b1cd                                         
+NgcGetAttestationStatement                                                                           0xd1b34ca2                                         
+NgcGetAuthPackageId                                                                                  0x9c3d2ea8                                         
+NgcGetCallerAppContainerSid                                                                          0x82c5cf14                                         
+NgcGetCallerSid                                                                                      0x65c24a50                                         
+NgcGetCryptoRegistryLocation                                                                         0x631943d0                                         
+NgcGetNCryptBinaryBlob                                                                               0x1b5a01e1                                         
+NgcGetSmartCardReaderAndContainerName                                                                0xa022a048                                         
+NgcGetUserNameAndDomain                                                                              0xec333348                                         
+NgcGetUserSid                                                                                        0xa54b399c                                         
+NgcIsCertTrustEnabled                                                                                0xe16b3ef4                                         
+NgcIsCloudTrustEnabled                                                                               0x1cdd43bd                                         
+NgcIsConsumerUser                                                                                    0x38717304                                         
+NgcIsInsecureTpm                                                                                     0xdccfbfe8                                         
+NgcIsPolicyEnabled                                                                                   0x55d9f734                                         
+NgcIsPostLogonCachingDisabled                                                                        0xd431e9c3                                         
+NgcPackGestureCollectionInputSerializationBuffer                                                     0xb4ceb18f                                         
+NgcSetBioProtectorUpdateNeeded                                                                       0xa2d2278d                                         
+NgcSetNCryptBoolProperty                                                                             0x39b2d6ba                                         
+NgcSetNCryptDwordProperty                                                                            0x4cfa128e                                         
+NgcSetNCryptUiPolicy                                                                                 0x7afbd617                                         
+NgcSetNCryptWindowHandle                                                                             0x366730ad                                         
+NgcUnpackGestureCollectionInputSerializationBuffer                                                   0x5caab532                                         
+NgcUnpackNegotiateInputSerializationBuffer                                                           0xf342d947                                         

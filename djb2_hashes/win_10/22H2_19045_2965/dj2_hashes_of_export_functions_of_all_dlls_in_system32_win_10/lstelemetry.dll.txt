@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\lstelemetry.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetLicensingTelemetryCommonData                                                                      0x4cd572ff                                         
+InitRDLSTelemetryCommonData                                                                          0xbe2376ec                                         
+LogRDLSSettingsTelemetryData                                                                         0xf620ed02                                         
+LogTSLSTelemetryEvent                                                                                0x901a4aaa                                         
+LogTSLSTelemetryRDSEvent                                                                             0xc4634133                                         
+RegisterAndEnableLicensingTelemetry                                                                  0x4573ed1b                                         
+UnregisterLicensingTelemetry                                                                         0x086c35c4                                         
+UpdateRDLSTelemetryCommonData                                                                        0x238c657b                                         

@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\nettracehelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NshLogConfigurationChangedEvent                                                                      0xe3551034                                         
+NshTraceFreeScenarioProviders                                                                        0xfa22bdf1                                         
+NshTraceGetScenarioProviders                                                                         0xdc8624af                                         

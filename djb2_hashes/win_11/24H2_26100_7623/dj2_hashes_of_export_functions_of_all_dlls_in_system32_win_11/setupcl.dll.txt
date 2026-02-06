@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\setupcl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SclAcquireRequiredPrivileges                                                                         0x6e9d25cc                                         
+SclClearPendedRequest                                                                                0x65d0c0c7                                         
+SclExecutePendedRequests                                                                             0xdcdb6886                                         
+SclExecuteRequest                                                                                    0x31793e83                                         
+SclFreeRequest                                                                                       0xa5c3b0f2                                         
+SclGetPendedRequest                                                                                  0x125dcde0                                         
+SclLoadStringResource                                                                                0x60222fc6                                         
+SclPendRequest                                                                                       0xd2f78af7                                         
+SclPendedRequestExists                                                                               0xac0ba800                                         
+SclPreCompilePendedRequests                                                                          0xb5cce923                                         
+SclReleasePrivileges                                                                                 0xf94b0782                                         

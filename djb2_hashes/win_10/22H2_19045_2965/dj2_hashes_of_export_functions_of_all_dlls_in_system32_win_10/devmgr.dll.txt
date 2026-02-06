@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\devmgr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DeviceAdvancedPropertiesA                                                                            0xd6127c99                                         
+DeviceAdvancedPropertiesW                                                                            0xd6127caf                                         
+DeviceCreateHardwarePage                                                                             0x578148f4                                         
+DeviceCreateHardwarePageCustom                                                                       0x98a910cf                                         
+DeviceCreateHardwarePageEx                                                                           0x3cf75f51                                         
+DeviceManager_ExecuteA                                                                               0x840bc123                                         
+DeviceManager_ExecuteW                                                                               0x840bc139                                         
+DeviceProblemTextA                                                                                   0x7618b54c                                         
+DeviceProblemTextW                                                                                   0x7618b562                                         
+DeviceProblemWizardA                                                                                 0x4f793478                                         
+DeviceProblemWizardW                                                                                 0x4f79348e                                         
+DeviceProblenWizard_RunDLLA                                                                          0x3f710389                                         
+DeviceProblenWizard_RunDLLW                                                                          0x3f71039f                                         
+DevicePropertiesA                                                                                    0xa59ff983                                         
+DevicePropertiesExA                                                                                  0x8d848700                                         
+DevicePropertiesExW                                                                                  0x8d848716                                         
+DevicePropertiesW                                                                                    0xa59ff999                                         
+DeviceProperties_RunDLLA                                                                             0x9b34e073                                         
+DeviceProperties_RunDLLW                                                                             0x9b34e089                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\oobe\spprgrss.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CallbackInitOnline                                                                                   0x862f95ab                                         
+CallbackInitWin32                                                                                    0xfcdd0bf9                                         
+CallbackInitWinPE                                                                                    0xfcdd0fc9                                         
+CallbackRegisterAllTasks                                                                             0xa28c7db6                                         
+CallbackReportEstimates                                                                              0x68d70f3d                                         
+CallbackTerminate                                                                                    0x55a5b9bb                                         
+GetProgressObject                                                                                    0xf46f4b11                                         
+ModuleInitialize                                                                                     0xde6afffd                                         
+OnlineProgress                                                                                       0xa1d8d41f                                         
+PutProgressEstimateOnBlackboard                                                                      0xe156bef1                                         
+Win32Progress                                                                                        0x7cce088d                                         
+WinPEProgress                                                                                        0x973cdc5d                                         

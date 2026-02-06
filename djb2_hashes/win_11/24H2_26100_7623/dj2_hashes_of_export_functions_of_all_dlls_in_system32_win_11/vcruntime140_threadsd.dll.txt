@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\vcruntime140_threadsd.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+_cnd_timedwait32                                                                                     0x1ee55105                                         
+_cnd_timedwait64                                                                                     0x1ee5516a                                         
+_mtx_timedlock32                                                                                     0xfdeed9fd                                         
+_mtx_timedlock64                                                                                     0xfdeeda62                                         
+_thrd_sleep32                                                                                        0xcea1f1f3                                         
+_thrd_sleep64                                                                                        0xcea1f258                                         
+call_once                                                                                            0xffa283a5                                         
+cnd_broadcast                                                                                        0xd6731d6c                                         
+cnd_destroy                                                                                          0x6d93b4a3                                         
+cnd_init                                                                                             0xdce5246d                                         
+cnd_signal                                                                                           0xc1b7ea17                                         
+cnd_wait                                                                                             0xdcec9a6e                                         
+mtx_destroy                                                                                          0xd52b0407                                         
+mtx_init                                                                                             0x13fc0e51                                         
+mtx_lock                                                                                             0x13fdb6e6                                         
+mtx_trylock                                                                                          0xc38a01e5                                         
+mtx_unlock                                                                                           0x1f386b29                                         
+thrd_create                                                                                          0xa6eb92aa                                         
+thrd_current                                                                                         0x8c51b499                                         
+thrd_detach                                                                                          0xa85db43f                                         
+thrd_equal                                                                                           0x8913c64e                                         
+thrd_exit                                                                                            0xece1adf0                                         
+thrd_join                                                                                            0xece44586                                         
+thrd_yield                                                                                           0x8a790aad                                         
+tss_create                                                                                           0x00044052                                         
+tss_delete                                                                                           0x01721211                                         
+tss_get                                                                                              0xf9bb42be                                         
+tss_set                                                                                              0xf9bb75ca                                         

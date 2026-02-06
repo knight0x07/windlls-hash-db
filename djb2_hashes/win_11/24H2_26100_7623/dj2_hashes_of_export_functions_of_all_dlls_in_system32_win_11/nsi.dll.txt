@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\nsi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NsiAllocateAndGetPersistentDataWithMaskTable                                                         0x8a204962                                         
+NsiAllocateAndGetTable                                                                               0xeeaba42f                                         
+NsiCancelChangeNotification                                                                          0xb814ae02                                         
+NsiDeregisterChangeNotification                                                                      0x064b3eea                                         
+NsiDeregisterChangeNotificationEx                                                                    0xc616aac7                                         
+NsiEnumerateObjectsAllParameters                                                                     0xd3d7e90c                                         
+NsiEnumerateObjectsAllParametersEx                                                                   0x29766569                                         
+NsiEnumerateObjectsAllPersistentParametersWithMask                                                   0xe7a56e25                                         
+NsiFreePersistentDataWithMaskTable                                                                   0x1156dfec                                         
+NsiFreeTable                                                                                         0x3395c739                                         
+NsiGetAllParameters                                                                                  0xc9988abc                                         
+NsiGetAllParametersEx                                                                                0x91e63319                                         
+NsiGetAllPersistentParametersWithMask                                                                0xbdda9bd5                                         
+NsiGetObjectSecurity                                                                                 0x483c09fe                                         
+NsiGetParameter                                                                                      0xa80fd090                                         
+NsiGetParameterEx                                                                                    0xeb463ded                                         
+NsiRegisterChangeNotification                                                                        0x44f370a1                                         
+NsiRegisterChangeNotificationEx                                                                      0x4f92263e                                         
+NsiRequestChangeNotification                                                                         0x9a9412e5                                         
+NsiRequestChangeNotificationEx                                                                       0x8fe46982                                         
+NsiSetAllParameters                                                                                  0x5c165148                                         
+NsiSetAllParametersEx                                                                                0xbaefcca5                                         
+NsiSetAllPersistentParametersWithMask                                                                0x601dcd61                                         
+NsiSetObjectSecurity                                                                                 0x2a72a20a                                         
+NsiSetParameter                                                                                      0xf378311c                                         
+NsiSetParameterEx                                                                                    0xb248f179                                         

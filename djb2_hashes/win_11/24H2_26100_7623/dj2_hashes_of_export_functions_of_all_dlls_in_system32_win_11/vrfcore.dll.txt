@@ -1,0 +1,49 @@
+DLL Path: C:\Windows\System32\vrfcore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AVrfAPILookupCallback                                                                                0x9bf55bf5                                         
+VerifierAreStaticDllsInitialized                                                                     0xb8a40a86                                         
+VerifierChainDuplicateHooks                                                                          0x3c8d8803                                         
+VerifierCloseLayerProperties                                                                         0xe77c5a41                                         
+VerifierConfigureStopOptions                                                                         0x9d417ef5                                         
+VerifierCreateLayerProperties                                                                        0x586c9a5f                                         
+VerifierDisableFaultInjectionExclusionRange                                                          0xe579225b                                         
+VerifierDisableFaultInjectionTargetRange                                                             0xa8829a48                                         
+VerifierDisableLayer                                                                                 0x54023592                                         
+VerifierDisableVerifier                                                                              0x688ce551                                         
+VerifierEnableFaultInjectionExclusionRange                                                           0x318cdc4e                                         
+VerifierEnableFaultInjectionTargetRange                                                              0x1ab0611b                                         
+VerifierEnableLayer                                                                                  0x18cd44e5                                         
+VerifierGetAppCallerAddress                                                                          0x999da3db                                         
+VerifierGetInfoForException                                                                          0xbd9e6d43                                         
+VerifierGetLoggingDirectory                                                                          0x7aa88d5d                                         
+VerifierGetRecursionTlsSlot                                                                          0x63023e50                                         
+VerifierHandleVerifierStopException                                                                  0x0a29493e                                         
+VerifierIsDllEntryActive                                                                             0xc04fbba7                                         
+VerifierIsInsideVerifierStop                                                                         0x5cfec41b                                         
+VerifierIsLayerEnabled                                                                               0x58f55365                                         
+VerifierLdrGetProcedureAddress                                                                       0x64a08712                                         
+VerifierOpenLayerProperties                                                                          0xf2d7cc5d                                         
+VerifierQueryGlobalProperties                                                                        0x0c0465b5                                         
+VerifierQueryLayerBreak                                                                              0x557c1cd9                                         
+VerifierQueryLayerBreaks                                                                             0x04ffb86c                                         
+VerifierQueryLayerProperties                                                                         0x5dbe3a21                                         
+VerifierQueryLayerProperty                                                                           0x47c8ee79                                         
+VerifierQueryRegisteredLayers                                                                        0x4c018a95                                         
+VerifierRegisterFaultInjectProvider                                                                  0x4a02076a                                         
+VerifierRegisterLayer                                                                                0xbd175983                                         
+VerifierRegisterLayerEx                                                                              0x6053cfa0                                         
+VerifierRegisterProvider                                                                             0x224ebcb1                                         
+VerifierResetFaultInjectionAddressRanges                                                             0xf8b71cc9                                         
+VerifierSetAPIClassName                                                                              0xf3ed5e1e                                         
+VerifierSetFaultInjectionProbability                                                                 0xcada10cd                                         
+VerifierSetFaultInjectionSeed                                                                        0xbe628b8d                                         
+VerifierSetLayerBreak                                                                                0xc8d664af                                         
+VerifierSetLayerProperty                                                                             0x5c472e8f                                         
+VerifierShouldFaultInject                                                                            0xc3db4009                                         
+VerifierStopMessageEx                                                                                0x4917ad29                                         
+VerifierSuspendFaultInjection                                                                        0xfb760442                                         
+VerifierTlsGetValue                                                                                  0x2fcfb7b1                                         
+VerifierTlsSetValue                                                                                  0x42e5b23d                                         
+VerifierUnregisterLayer                                                                              0x78207226                                         

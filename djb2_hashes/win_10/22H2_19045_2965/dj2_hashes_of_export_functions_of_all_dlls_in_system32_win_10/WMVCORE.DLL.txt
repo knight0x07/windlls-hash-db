@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\WMVCORE.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+WMCheckURLExtension                                                                                  0xf5db51d7                                         
+WMCheckURLScheme                                                                                     0x5193138f                                         
+WMCreateBackupRestorer                                                                               0x53ce4d29                                         
+WMCreateBackupRestorerPrivate                                                                        0x036e46a4                                         
+WMCreateEditor                                                                                       0x11eb29e4                                         
+WMCreateIndexer                                                                                      0x9a2a608c                                         
+WMCreateLicenseRevocationAgentPrivate                                                                0x78080604                                         
+WMCreateProfileManager                                                                               0xabc52a69                                         
+WMCreateReader                                                                                       0x304baa30                                         
+WMCreateReaderPriv                                                                                   0x65a31371                                         
+WMCreateSyncReader                                                                                   0x088fdf2d                                         
+WMCreateSyncReaderPriv                                                                               0x7ec37eee                                         
+WMCreateWriter                                                                                       0x3ce55afa                                         
+WMCreateWriterFileSink                                                                               0x0308f52f                                         
+WMCreateWriterNetworkSink                                                                            0xe7d5ed99                                         
+WMCreateWriterPriv                                                                                   0x95dc193b                                         
+WMCreateWriterPushSink                                                                               0xe9e084ef                                         
+WMIsAvailableOffline                                                                                 0x3ea53489                                         
+WMIsContentProtected                                                                                 0x04d41aaa                                         
+WMValidateData                                                                                       0x0e9a416d                                         

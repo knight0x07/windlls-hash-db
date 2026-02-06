@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-crt-conio-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+__conio_common_vcprintf                                                                              0xbc683fce                                         
+__conio_common_vcprintf_p                                                                            0x777777fd                                         
+__conio_common_vcprintf_s                                                                            0x77777800                                         
+__conio_common_vcscanf                                                                               0xd757e026                                         
+__conio_common_vcwprintf                                                                             0x603d98e5                                         
+__conio_common_vcwprintf_p                                                                           0x660772d4                                         
+__conio_common_vcwprintf_s                                                                           0x660772d7                                         
+__conio_common_vcwscanf                                                                              0xcccaf25d                                         
+_cgets                                                                                               0xecb2ca7a                                         
+_cgets_s                                                                                             0xe48f5dac                                         
+_cgetws                                                                                              0x830c1ab1                                         
+_cgetws_s                                                                                            0x767d97a3                                         
+_cputs                                                                                               0xecb7fdf3                                         
+_cputws                                                                                              0x83b7bd4a                                         
+_getch                                                                                               0xecfa514f                                         
+_getch_nolock                                                                                        0xa5efa174                                         
+_getche                                                                                              0x8c447b94                                         
+_getche_nolock                                                                                       0x68a4ec19                                         
+_getwch                                                                                              0x8c44d006                                         
+_getwch_nolock                                                                                       0x37cf8c4b                                         
+_getwche                                                                                             0x14ded12b                                         
+_getwche_nolock                                                                                      0x368231d0                                         
+_putch                                                                                               0xeda5f3e8                                         
+_putch_nolock                                                                                        0xb4493ded                                         
+_putwch                                                                                              0xa264c5bf                                         
+_putwch_nolock                                                                                       0x115cb7e4                                         
+_ungetch                                                                                             0x5e97bbb2                                         
+_ungetch_nolock                                                                                      0x24871e77                                         
+_ungetwch                                                                                            0x318f86c9                                         
+_ungetwch_nolock                                                                                     0x8956a9ae                                         

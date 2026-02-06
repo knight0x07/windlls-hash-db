@@ -1,0 +1,52 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igxess2.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+xessAILGetDecision                                                                                   0x5fb2bfec                                         
+xessAILGetVersion                                                                                    0xbb26cee4                                         
+xessComputeApiBuildPipelines                                                                         0x7b04cbd8                                         
+xessComputeApiCreateContext                                                                          0xa92edbd8                                         
+xessComputeApiExecute                                                                                0x4fcc50f2                                         
+xessComputeApiGetInitParams                                                                          0x428640d7                                         
+xessComputeApiInit                                                                                   0x49b7c1f3                                         
+xessD3D12BuildPipelines                                                                              0x72275f7f                                         
+xessD3D12CreateContext                                                                               0xa8ea169f                                         
+xessD3D12Execute                                                                                     0x1bc0c279                                         
+xessD3D12GetInitParams                                                                               0x42417b9e                                         
+xessD3D12GetProfilingData                                                                            0xb166b5ea                                         
+xessD3D12GetResourcesToDump                                                                          0xf18fc49a                                         
+xessD3D12Init                                                                                        0x959348da                                         
+xessDestroyContext                                                                                   0x61109657                                         
+xessForceLegacyScaleFactors                                                                          0xbaa0b966                                         
+xessGetExposureMultiplier                                                                            0x203da04a                                         
+xessGetInputResolution                                                                               0x04a120cc                                         
+xessGetIntelXeFXVersion                                                                              0xb1aa4f05                                         
+xessGetJitterScale                                                                                   0x259e6742                                         
+xessGetOptimalInputResolution                                                                        0xdba575e2                                         
+xessGetPipelineBuildStatus                                                                           0x9a05cd92                                         
+xessGetProfilingData                                                                                 0xc821a78c                                         
+xessGetProperties                                                                                    0x0b4df635                                         
+xessGetVelocityScale                                                                                 0xa3a9683f                                         
+xessGetVersion                                                                                       0xfacc9e2e                                         
+xessIsOptimalDriver                                                                                  0xe7332106                                         
+xessSelectNetworkModel                                                                               0xfeec29e3                                         
+xessSetContextParameterF                                                                             0x53aec280                                         
+xessSetExposureMultiplier                                                                            0xecd95e56                                         
+xessSetJitterScale                                                                                   0xeca11ace                                         
+xessSetLoggingCallback                                                                               0xf78ba888                                         
+xessSetVelocityScale                                                                                 0x36272ecb                                         
+xessStartDump                                                                                        0xba34d96c                                         
+xessTrinityCreateContext                                                                             0xa711a514                                         
+xessTrinityGetRequiredDeviceExtensions                                                               0x4ccf4dfc                                         
+xessTrinityGetRequiredDeviceFeatures                                                                 0x24223cab                                         
+xessTrinityGetRequiredInstanceExtensions                                                             0xdef5d4c1                                         
+xessVKAILGetDecision                                                                                 0x9bae3b0d                                         
+xessVKBuildPipelines                                                                                 0x60d0fbc2                                         
+xessVKCreateContext                                                                                  0x98dfb682                                         
+xessVKExecute                                                                                        0xe2c0f41c                                         
+xessVKGetInitParams                                                                                  0x32371b81                                         
+xessVKGetRequiredDeviceExtensions                                                                    0x361847ea                                         
+xessVKGetRequiredDeviceFeatures                                                                      0xa567e319                                         
+xessVKGetRequiredInstanceExtensions                                                                  0x3e65022f                                         
+xessVKGetResourcesToDump                                                                             0x1863ca5d                                         
+xessVKInit                                                                                           0x93c9255d                                         

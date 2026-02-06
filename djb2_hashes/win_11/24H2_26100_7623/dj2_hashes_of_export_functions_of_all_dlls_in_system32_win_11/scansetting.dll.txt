@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\scansetting.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllMain                                                                                              0x79f31ec6                                         
+GetDefaultProfileScan                                                                                0xe40f5d20                                         
+GetImageDialog                                                                                       0xf089d278                                         
+ProfilesDialog                                                                                       0x82b94979                                         
+ProgDlgTakeFgIfShowing                                                                               0xe9654034                                         

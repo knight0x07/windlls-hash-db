@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-version-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetFileVersionInfoExW                                                                                0x0698d02b                                         
+GetFileVersionInfoSizeExW                                                                            0x5eeed006                                         
+VerFindFileW                                                                                         0xf7ab96aa                                         
+VerQueryValueW                                                                                       0x7865985c                                         

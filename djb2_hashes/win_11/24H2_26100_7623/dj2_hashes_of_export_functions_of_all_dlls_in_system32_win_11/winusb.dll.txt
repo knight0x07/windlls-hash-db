@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\winusb.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WinUsb_AbortPipe                                                                                     0xaea3e362                                         
+WinUsb_AbortPipeAsync                                                                                0xb8fcaa40                                         
+WinUsb_ControlTransfer                                                                               0x5fb7e2e2                                         
+WinUsb_FlushPipe                                                                                     0xfefdd84c                                         
+WinUsb_Free                                                                                          0xe57769be                                         
+WinUsb_GetAdjustedFrameNumber                                                                        0x112af8e4                                         
+WinUsb_GetAssociatedInterface                                                                        0x9cb4b28d                                         
+WinUsb_GetCurrentAlternateSetting                                                                    0xb870c05d                                         
+WinUsb_GetCurrentFrameNumber                                                                         0xe49bc273                                         
+WinUsb_GetCurrentFrameNumberAndQpc                                                                   0x82eca24a                                         
+WinUsb_GetDescriptor                                                                                 0x5bd2b4fb                                         
+WinUsb_GetOverlappedResult                                                                           0xd85713ed                                         
+WinUsb_GetPipePolicy                                                                                 0xe48d0d3a                                         
+WinUsb_GetPowerPolicy                                                                                0xaef95e39                                         
+WinUsb_Initialize                                                                                    0x11400d0e                                         
+WinUsb_ParseConfigurationDescriptor                                                                  0x65d09bce                                         
+WinUsb_ParseDescriptors                                                                              0xf9e4e2a9                                         
+WinUsb_QueryDeviceInformation                                                                        0x37242928                                         
+WinUsb_QueryInterfaceSettings                                                                        0x58b6fe54                                         
+WinUsb_QueryPipe                                                                                     0x7de1db20                                         
+WinUsb_QueryPipeEx                                                                                   0x7dc52c7d                                         
+WinUsb_ReadIsochPipe                                                                                 0x1b5615fc                                         
+WinUsb_ReadIsochPipeAsap                                                                             0x644e4ec1                                         
+WinUsb_ReadPipe                                                                                      0x6399ee46                                         
+WinUsb_RegisterIsochBuffer                                                                           0x34fbcd51                                         
+WinUsb_ResetPipe                                                                                     0x4542c5ed                                         
+WinUsb_ResetPipeAsync                                                                                0x9475dbab                                         
+WinUsb_SetCurrentAlternateSetting                                                                    0xee1125e9                                         
+WinUsb_SetCurrentAlternateSettingAsync                                                               0xd3eb9927                                         
+WinUsb_SetPipePolicy                                                                                 0x9d017f46                                         
+WinUsb_SetPowerPolicy                                                                                0x75fc11c5                                         
+WinUsb_StartTrackingForTimeSync                                                                      0x311600f0                                         
+WinUsb_StopTrackingForTimeSync                                                                       0xe432f488                                         
+WinUsb_UnregisterIsochBuffer                                                                         0xbb3b76f4                                         
+WinUsb_WriteIsochPipe                                                                                0x2b0de1cb                                         
+WinUsb_WriteIsochPipeAsap                                                                            0xdf956a10                                         
+WinUsb_WritePipe                                                                                     0xab305cb5                                         

@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\CertEnroll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateLogonCertificateRequest                                                                        0x990b23c4                                         
+DeleteLogonCertificateRequest                                                                        0x121586a3                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ImportPFXToProvider                                                                                  0x1f970cfc                                         
+ImportPFXToProviderFreeData                                                                          0x1ab53498                                         
+InstallLogonCertificateResponse                                                                      0x44d782ad                                         
+IsLogonCertificateTemplateAvailable                                                                  0x424ee660                                         
+LogCertArchive                                                                                       0xc8f41537                                         
+LogCertCopy                                                                                          0x67d08190                                         
+LogCertDelete                                                                                        0x9f94e1e8                                         
+LogCertExpire                                                                                        0xa3441e62                                         
+LogCertExport                                                                                        0xa34437f7                                         
+LogCertImport                                                                                        0xabd1ccf0                                         
+LogCertInstall                                                                                       0x2899520c                                         
+LogCertReplace                                                                                       0xc82c5971                                         
+UpdateMachinePolicyConfigurationForTemplate                                                          0xbda7da48                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

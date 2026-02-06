@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iacamera64.inf_amd64_9ca40c8a0728be0c\subway_centernet_tracking.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SubwayPackClear                                                                                      0xe1754106                                         
+SubwayPackCloseSession                                                                               0x8f5b8539                                         
+SubwayPackCreateSession                                                                              0x07d38f17                                         
+SubwayPackExecute                                                                                    0xc9bd3072                                         
+SubwayPackGetData                                                                                    0x385dc0b9                                         
+SubwayPackLogLevel                                                                                   0xc5654e99                                         
+SubwayPackSetData                                                                                    0xd41899c5                                         

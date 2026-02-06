@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\telclient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0MetricsLogSplitter@telemetry_client@@QEAA@AEBV01@@Z                                               0x01239d4d                                         
+??0MetricsLogSplitter@telemetry_client@@QEAA@XZ                                                      0xdbc90226                                         
+??0TelemetryClientDecoder@telemetry_client@@QEAA@AEBV01@@Z                                           0xd73ed40d                                         
+??0TelemetryClientDecoder@telemetry_client@@QEAA@XZ                                                  0xde8850e6                                         
+??1MetricsLogSplitter@telemetry_client@@UEAA@XZ                                                      0xbe0ec2ab                                         
+??1TelemetryClientDecoder@telemetry_client@@UEAA@XZ                                                  0x158ae9eb                                         
+??4MetricsLogSplitter@telemetry_client@@QEAAAEAV01@AEBV01@@Z                                         0x676baacf                                         
+??4TelemetryClientDecoder@telemetry_client@@QEAAAEAV01@AEBV01@@Z                                     0x8627938f                                         
+??_7MetricsLogSplitter@telemetry_client@@6B@                                                         0x55db477a                                         
+??_7TelemetryClientDecoder@telemetry_client@@6B@                                                     0x2012193a                                         
+?AllocDecodedPayload@TelemetryClientDecoder@telemetry_client@@KA?AV?$unique_ptr@UDecodedPayload@telemetry_client@@P6AXPEBU12@@Z@__Cr@std@@XZ 0xbed35a53                                         
+?AllocLogsContainer@MetricsLogSplitter@telemetry_client@@KA?AV?$unique_ptr@V?$vector@ULogInfo@telemetry_client@@V?$allocator@ULogInfo@telemetry_client@@@__Cr@std@@@__Cr@std@@P6AXPEBV123@@Z@__Cr@std@@XZ 0x144355c7                                         
+CreateSplitter                                                                                       0xd2fb88b0                                         
+CreateTelemetryClientDecoder                                                                         0x28caec69                                         
+DecodePayload                                                                                        0xd583ed93                                         
+DecodeUkmPayload                                                                                     0x10966420                                         
+DecodeUmaPayload                                                                                     0xe6794b96                                         
+FreeLogs                                                                                             0x500ad29c                                         
+FreePayload                                                                                          0x53cb9ed1                                         
+FreeSplitter                                                                                         0xf6283c7e                                         
+FreeTelemetryClientDecoder                                                                           0xbe2f30b7                                         
+FreeTelemetryClientDecoderPayload                                                                    0x478a7121                                         
+GetHandleVerifier                                                                                    0x54d1a1cd                                         

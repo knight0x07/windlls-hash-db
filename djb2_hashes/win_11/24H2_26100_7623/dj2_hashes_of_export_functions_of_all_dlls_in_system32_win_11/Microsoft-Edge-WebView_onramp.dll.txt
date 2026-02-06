@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\onramp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?FetchSearchEngineDataSafe@@YAJV?$span@E$0?0@__Cr@std@@PEAKPEAIPEAUtagBLOB@@@Z                       0x656adac8                                         
+?GetEdgeAppId@@YA?AU_GUID@@XZ                                                                        0xef26e2f0                                         
+?UnobfuscateDataSafe@@YAJV?$span@E$0?0@__Cr@std@@0@Z                                                 0xaf4dc83b                                         
+ConstructPasswordImporter                                                                            0x2d5d872f                                         
+DestructPasswordImporter                                                                             0xeecfc0b8                                         
+FetchSearchEngineDataSafe                                                                            0x3ed677b4                                         
+GetEdgeAppId                                                                                         0xf6df8fc8                                         
+GetSearchEngineDataType                                                                              0x7b8cd08d                                         
+GetSearchEngineRawData                                                                               0xbd7556d5                                         
+IsBingDefaultSearchEngine                                                                            0x397cc952                                         
+IsSearchEngineImportAllowed                                                                          0x5e67d390                                         
+UnobfuscateDataSafe                                                                                  0x9ef9e27d                                         

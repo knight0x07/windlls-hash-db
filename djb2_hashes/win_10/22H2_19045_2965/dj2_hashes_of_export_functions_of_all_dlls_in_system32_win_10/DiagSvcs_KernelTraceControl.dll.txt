@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\DiagSvcs\KernelTraceControl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateMergedTraceFile                                                                                0x1789b85c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+StartHeapTrace                                                                                       0x2ccd9b00                                         
+StartKernelTrace                                                                                     0x18325e63                                         
+UpdateHeapTrace                                                                                      0x7eb51d75                                         

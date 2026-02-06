@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\wtdhost.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WtdhAllocateEvent                                                                                    0xf609cb83                                         
+WtdhDisableSensors                                                                                   0x8c72fd5d                                         
+WtdhEnableSensors                                                                                    0x85f16e10                                         
+WtdhFreeEventIoPacket                                                                                0x35fa25d0                                         
+WtdhGetProcessId                                                                                     0x34cf7ca8                                         
+WtdhRegister                                                                                         0x53c8d3a1                                         
+WtdhUnregister                                                                                       0x63f9ed24                                         
+WtdhWaitForSensorEvent                                                                               0x03c01d74                                         

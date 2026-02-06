@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\LicenseManager.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+LmCreateLicenseManager                                                                               0x9b7be070                                         
+LmCreateStandardServiceProvider                                                                      0xa932d81f                                         
+ServiceBeginAcquireLicense                                                                           0x7e269bc8                                         
+ServiceCleanup                                                                                       0xeb068a3e                                         
+ServiceCreateApplicationLicenseManager                                                               0x77c6e91c                                         
+ServiceEnsureLicenseForOptionalPackageUsage                                                          0x189c5259                                         
+ServiceEnsureLicenseForPackageActivation                                                             0xf35e8910                                         
+ServiceInitialize                                                                                    0xfcd25028                                         
+ServiceOptionalPackageRundownNotification                                                            0x4d42803c                                         
+ServicePackageRundownNotification                                                                    0xa0cfdc16                                         
+ServicePackageSuspendedNotification                                                                  0x7a181794                                         
+ServicePrecacheLicenseForPackageResume                                                               0x575b1b78                                         
+ServiceReset                                                                                         0xf0924d79                                         
+SetServiceStatusHandle                                                                               0x5159ae52                                         
+WnfEventHandlerForDeviceIdChange                                                                     0x5c8f83fa                                         
+WnfEventHandlerForOfflinePcChange                                                                    0xa12eea53                                         
+WnfEventHandlerForXboxTestNetworkConnectionComplete                                                  0x65d63feb                                         

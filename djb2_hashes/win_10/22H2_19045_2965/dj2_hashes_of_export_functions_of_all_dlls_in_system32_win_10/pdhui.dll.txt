@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\pdhui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PdhUiBrowseCountersA                                                                                 0x50270fe5                                         
+PdhUiBrowseCountersExA                                                                               0xf62abde2                                         
+PdhUiBrowseCountersExHA                                                                              0xbb827b4a                                         
+PdhUiBrowseCountersExHW                                                                              0xbb827b60                                         
+PdhUiBrowseCountersExW                                                                               0xf62abdf8                                         
+PdhUiBrowseCountersHA                                                                                0x55090dad                                         
+PdhUiBrowseCountersHW                                                                                0x55090dc3                                         
+PdhUiBrowseCountersW                                                                                 0x50270ffb                                         
+PdhUiSelectDataSourceA                                                                               0xf023de4b                                         
+PdhUiSelectDataSourceW                                                                               0xf023de61                                         

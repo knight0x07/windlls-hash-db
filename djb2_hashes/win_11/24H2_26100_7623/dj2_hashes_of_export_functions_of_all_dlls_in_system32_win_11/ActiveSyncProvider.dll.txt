@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\ActiveSyncProvider.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateMassObject                                                                                     0xb4779c04                                         
+CreateSyncServiceLayer                                                                               0xaafd26c4                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DownloadEmailAttachment                                                                              0x5bf53dee                                         
+DownloadEmailBody                                                                                    0x16ebaf93                                         
+GetActiveSyncServerProbeInstance                                                                     0xd8341322                                         
+GetConversationSyncEnabled                                                                           0x8f45fb88                                         
+GetOutlookExtensionSupportForAccount                                                                 0x3b20ad40                                         
+GetOutlookExtensionSupportFromAccessor                                                               0x917fe8b3                                         
+GetUserInfoForUnconfiguredAccount                                                                    0xa36a100d                                         
+HandleEasMeetingResponseForAppointment                                                               0xc9a3b4b8                                         
+HandleEasMeetingResponseForMeetingNotification                                                       0xeca242f9                                         
+InitializeSyncStatus                                                                                 0xdc724618                                         
+IsEnabledForSync                                                                                     0x49bfac50                                         
+IsErrorCatastrophic                                                                                  0xbde60030                                         
+IsValidOutlookExtensionVersion                                                                       0x717e82c1                                         
+MarkPeopleFolderForResync                                                                            0x3550ee2c                                         
+OneStopFactory                                                                                       0xa69e5705                                         
+SyncGetMAPISession                                                                                   0x1c31f6ad                                         
+SyncGetMessageStore                                                                                  0x6fff8914                                         
+SyncGetSpecialFolder                                                                                 0xf165b53f                                         
+SyncMgrPurgeFolderProvider                                                                           0x1242a1b2                                         
+SyncMgrPurgeProviderStore                                                                            0xd21bb483                                         
+SyncMgrRemovePolicy                                                                                  0xbe69fb66                                         
+SyncSqmUpdateStats                                                                                   0x57bbd6a5                                         
+UpdateEasTrackingSchema                                                                              0x1fc6e405                                         
+WriteStoreCapabilityProps                                                                            0x6fbbac93                                         
+WriteStoreContentTypesProps                                                                          0x19264961                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

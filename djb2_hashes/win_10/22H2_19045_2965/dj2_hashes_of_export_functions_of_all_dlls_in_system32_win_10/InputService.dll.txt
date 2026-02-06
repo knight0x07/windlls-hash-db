@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\InputService.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateInputMethodClient                                                                              0x4cedbbe9                                         
+CreateKeyEventProcessor                                                                              0xfe140ee4                                         
+InitializeService                                                                                    0x0f8f7aa8                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+UninitializeService                                                                                  0x2d28d5cb                                         

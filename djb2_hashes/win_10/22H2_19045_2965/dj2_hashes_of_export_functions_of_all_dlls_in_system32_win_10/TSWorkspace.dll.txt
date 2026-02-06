@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\TSWorkspace.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateClaimsAuthResponseHeader                                                                       0x953b42bc                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+RADCProcessGroupPolicyEx                                                                             0x29f2ce78                                         
+RADCUISupportCreateDiscoveryStrategy                                                                 0x2b175939                                         
+RADCUISupportCreateSubscriptionClient                                                                0x53cb0812                                         
+TaskUpdateWorkspaces                                                                                 0xd31c215d                                         
+TaskUpdateWorkspaces2                                                                                0x36a04d2f                                         
+TaskUpdateWorkspacesIfNeeded                                                                         0x52ab3c71                                         
+TryParseClaimsAuthnHeader                                                                            0x9cae3201                                         
+WorkspaceSilentSetupW                                                                                0x86154e0b                                         
+WorkspaceStatusNotify                                                                                0x05c50591                                         
+WorkspaceStatusNotify2                                                                               0xbe65b7e3                                         

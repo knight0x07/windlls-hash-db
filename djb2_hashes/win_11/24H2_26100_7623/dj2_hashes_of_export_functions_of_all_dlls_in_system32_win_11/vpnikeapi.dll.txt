@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\vpnikeapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CancelProcessEapAuthPacket                                                                           0x9d750eca                                         
+CloseTunnel                                                                                          0x55d8c551                                         
+CreateTunnel                                                                                         0x7ff2282f                                         
+FreeConfigurationPayloadBuffer                                                                       0xe0b44d63                                         
+FreeEapAuthAttributes                                                                                0x999f94d6                                         
+FreeEapAuthPacket                                                                                    0x7c1e0e47                                         
+FreeIDPayloadBuffer                                                                                  0x74caba98                                         
+FreeTrafficSelectors                                                                                 0x0dbb31da                                         
+GetConfigurationPayloadRequest                                                                       0xe292ced0                                         
+GetIDPayload                                                                                         0x50b9c95c                                         
+GetOptionalIDrPayload                                                                                0xa2b08ef4                                         
+GetServerEapAuthRequestPacket                                                                        0x8cf89da5                                         
+GetTrafficSelectorsRequest                                                                           0x2c2ce861                                         
+NewRasIncomingCall                                                                                   0x75efad45                                         
+ProcessAdditionalAddressNotification                                                                 0xbe9def0a                                         
+ProcessConfigurationPayloadReply                                                                     0xb23b4632                                         
+ProcessConfigurationPayloadRequest                                                                   0x2e3c5ccf                                         
+ProcessEapAuthPacket                                                                                 0xa32fd0c4                                         
+ProcessTrafficSelectorsReply                                                                         0x00628003                                         
+ProcessTrafficSelectorsRequest                                                                       0xa3194ee0                                         
+QueryEapAuthAttributes                                                                               0xe9eef50a                                         
+RemoveTrafficSelectors                                                                               0x432f85c6                                         
+TunnelAuthDone                                                                                       0x182789d3                                         
+UpdateTunnel                                                                                         0xe24abd5e                                         

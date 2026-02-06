@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igdrcl32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GTPin_Init                                                                                           0xfc1f1bda                                         
+clEnqueueMarkerWithSyncObjectINTEL                                                                   0x3809dd5a                                         
+clGetCLEventInfoINTEL                                                                                0x79abf12d                                         
+clGetCLObjectInfoINTEL                                                                               0x4567cf82                                         
+clGetExtensionFunctionAddress                                                                        0x1c8a90bd                                         
+clGetPlatformInfo                                                                                    0x7c33ad45                                         
+clReleaseGlSharedEventINTEL                                                                          0x0b75cbfd                                         

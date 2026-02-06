@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\Windows.StateRepositoryCore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SRCacheContext_Close                                                                                 0x78a8f098                                         
+SRCacheContext_Create                                                                                0x8e2dd096                                         
+SRCacheContext_CreateSubContext                                                                      0x8ff69aa5                                         
+SRCacheContext_Delete                                                                                0x8f9ba255                                         
+SRCacheContext_DeleteField                                                                           0x37a56279                                         
+SRCacheContext_DeleteIfEmpty                                                                         0x9434dfd3                                         
+SRCacheContext_EnumerateData                                                                         0xf3108a02                                         
+SRCacheContext_EnumerateIndex                                                                        0x558322a0                                         
+SRCacheContext_GetField_MultiString                                                                  0xe2c75b07                                         
+SRCacheContext_GetField_String                                                                       0xdad185bc                                         
+SRCacheContext_GetField_UInt32                                                                       0xdc6faeca                                         
+SRCacheContext_GetField_UInt64                                                                       0xdc6faf2f                                         
+SRCacheContext_HasSubKeys                                                                            0xab558f24                                         
+SRCacheContext_IsEmpty                                                                               0x21ddee4d                                         
+SRCacheContext_Open                                                                                  0xec68da14                                         
+SRCacheContext_OpenSubContext                                                                        0x19f219a3                                         
+SRCacheContext_SetField_MultiString                                                                  0x749d8793                                         
+SRCacheContext_SetField_String                                                                       0x822aaac8                                         
+SRCacheContext_SetField_UInt32                                                                       0x83c8d3d6                                         
+SRCacheContext_SetField_UInt64                                                                       0x83c8d43b                                         
+SRCacheManager_Close                                                                                 0x5e690aae                                         
+SRCacheManager_DeleteContext                                                                         0x2a2b4610                                         
+SRCacheManager_GetProperty_UInt32                                                                    0x38ddb461                                         
+SRCacheManager_GetProperty_UInt64                                                                    0x38ddb4c6                                         
+SRCacheManager_Open                                                                                  0x02e3096a                                         
+SRCacheManager_SetProperty_UInt32                                                                    0x61e74ded                                         
+SRCacheManager_SetProperty_UInt64                                                                    0x61e74e52                                         
+SRCache_AllocStringBuffer                                                                            0xcd39b9d9                                         
+SRCache_DuplicateString                                                                              0x6cb744af                                         
+SRCache_Free                                                                                         0xb6bd5c7f                                         
+SRCache_GetDefaultAccountSid                                                                         0x25ea11cf                                         

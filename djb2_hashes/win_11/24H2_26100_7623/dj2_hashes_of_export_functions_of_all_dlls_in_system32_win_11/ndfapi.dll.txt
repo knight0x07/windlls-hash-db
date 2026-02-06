@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\ndfapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+NdfCancelIncident                                                                                    0x569ebc71                                         
+NdfCloseIncident                                                                                     0x3fef43a1                                         
+NdfCreateConnectivityIncident                                                                        0x682aabbe                                         
+NdfCreateDNSIncident                                                                                 0x9d389804                                         
+NdfCreateGroupingIncident                                                                            0x7039d1ca                                         
+NdfCreateInboundIncident                                                                             0xf65d2ece                                         
+NdfCreateIncident                                                                                    0xe5de14ff                                         
+NdfCreateNetConnectionIncident                                                                       0xdda19716                                         
+NdfCreatePnrpIncident                                                                                0x931f16df                                         
+NdfCreateSharingIncident                                                                             0x543e012b                                         
+NdfCreateWebIncident                                                                                 0xb357b4dd                                         
+NdfCreateWebIncidentEx                                                                               0xe818697a                                         
+NdfCreateWinSockIncident                                                                             0xfca0e5bd                                         
+NdfDiagnoseIncident                                                                                  0x350ac555                                         
+NdfExecuteDiagnosis                                                                                  0xe0079771                                         
+NdfGetTraceFile                                                                                      0xaaea914c                                         
+NdfRepairIncident                                                                                    0x2f207dae                                         
+NdfRepairIncidentEx                                                                                  0x7936aa8b                                         
+NdfRunDllDiagnoseIncident                                                                            0x4609c8e6                                         
+NdfRunDllDiagnoseNetConnectionIncident                                                               0x4aec2a5d                                         
+NdfRunDllDiagnoseWithAnswerFile                                                                      0xff7cf384                                         
+NdfRunDllDuplicateIPDefendingSystem                                                                  0x1a39fd8b                                         
+NdfRunDllDuplicateIPOffendingSystem                                                                  0x598bee77                                         
+NdfRunDllHelpTopic                                                                                   0x15f22cf6                                         

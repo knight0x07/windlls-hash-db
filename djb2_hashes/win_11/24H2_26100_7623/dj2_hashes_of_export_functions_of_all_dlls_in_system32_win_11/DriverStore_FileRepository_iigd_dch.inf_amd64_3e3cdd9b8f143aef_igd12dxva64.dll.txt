@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igd12dxva64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?MosGetMemNinjaCounter@MosUtilities@@SAHXZ                                                           0x332ec4bb                                         
+?MosGetMemNinjaCounterGfx@MosUtilities@@SAHXZ                                                        0x9c2ed1a0                                         
+?MosSetUltFlag@MosUtilities@@SAXE@Z                                                                  0x538b2f44                                         
+DumpRegistryKeyDefinitions                                                                           0xe0d20e79                                         
+DumpRegistryKeyDefinitions3                                                                          0xfb13ddcc                                         
+GTPin_Init                                                                                           0xfc1f1bda                                         
+MOS_GetMemNinjaCounter                                                                               0xb53be082                                         
+MOS_GetMemNinjaCounterGfx                                                                            0x6a7864e7                                         
+MOS_SetUltFlag                                                                                       0x9f1285ee                                         
+OpenDxva12                                                                                           0x5c3dcfad                                         

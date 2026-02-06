@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\drivers\USBCAMD2.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllUnload                                                                                            0xd6cc2224                                         
+USBCAMD_AdapterReceivePacket                                                                         0x0f54927f                                         
+USBCAMD_ControlVendorCommand                                                                         0x96ae3f31                                         
+USBCAMD_Debug_LogEntry                                                                               0x1b78d99d                                         
+USBCAMD_DriverEntry                                                                                  0x06d6a801                                         
+USBCAMD_GetRegistryKeyValue                                                                          0x77b872c2                                         
+USBCAMD_InitializeNewInterface                                                                       0xa8aed5b0                                         
+USBCAMD_SelectAlternateInterface                                                                     0x7f01a0d4                                         

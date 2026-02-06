@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\raschapext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+RasChapExt_FreeMemory                                                                                0x4cd49d72                                         
+RasChapExt_GetConfigForceNotDomainJoined                                                             0x21a1a39e                                         
+RasChapExt_GetConfigIgnoreIASLogon                                                                   0x9019e76d                                         
+RasChapExt_GetConfigKeepCredentialsOnFailure                                                         0x7fdaeb05                                         
+RasChapExt_GetUserCredentials                                                                        0x795047a4                                         
+RasChapExt_InvokeConfigUI                                                                            0x4df5cb57                                         
+RasChapExt_InvokeInteractiveUI                                                                       0x99269f9f                                         
+RasChapExt_ShowHelp                                                                                  0x6a2651c1                                         

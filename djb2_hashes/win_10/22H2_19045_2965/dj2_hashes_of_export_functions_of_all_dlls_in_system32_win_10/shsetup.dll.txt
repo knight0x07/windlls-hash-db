@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\shsetup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SHUnattendedSetup                                                                                    0x1bddad3d                                         
+SHUnattendedSetupA                                                                                   0x9793551e                                         
+SHUnattendedSetupW                                                                                   0x97935534                                         
+Sysprep_Cleanup_Shell                                                                                0x8df14159                                         
+Sysprep_Generalize_Shell                                                                             0xa15b8eb7                                         

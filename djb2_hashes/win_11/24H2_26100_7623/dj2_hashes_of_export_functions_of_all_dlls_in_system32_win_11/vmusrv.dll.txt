@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\vmusrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+VmusrvAddShare                                                                                       0x83337ed4                                         
+VmusrvCleanup                                                                                        0xa12d8d00                                         
+VmusrvEnginePause                                                                                    0x9da3ba4c                                         
+VmusrvEngineRestore                                                                                  0x38a12e52                                         
+VmusrvEngineResume                                                                                   0x570ca83f                                         
+VmusrvEngineSave                                                                                     0x2b923e3d                                         
+VmusrvEngineStop                                                                                     0x2b928e34                                         
+VmusrvInitialize                                                                                     0x571c73aa                                         
+VmusrvOpenFile                                                                                       0x0eb336ca                                         
+VmusrvRemoveShare                                                                                    0xeb7b28b9                                         
+VmusrvSupportsPause                                                                                  0x7e3c77e6                                         
+VmusrvUpdateShareAllowedFileList                                                                     0x22fd7f92                                         

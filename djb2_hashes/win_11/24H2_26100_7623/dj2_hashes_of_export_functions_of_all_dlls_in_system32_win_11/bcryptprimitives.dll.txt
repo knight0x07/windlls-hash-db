@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\bcryptprimitives.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetAsymmetricEncryptionInterface                                                                     0x128d99bf                                         
+GetCipherInterface                                                                                   0x7fa47a51                                         
+GetHashInterface                                                                                     0x61bd9cfa                                         
+GetKeyDerivationInterface                                                                            0x1c213a74                                         
+GetKeyEncapsulationInterface                                                                         0x541b43d5                                         
+GetRngInterface                                                                                      0x66709ffd                                         
+GetSecretAgreementInterface                                                                          0x1895b174                                         
+GetSignatureInterface                                                                                0x5d3e7cc8                                         
+MSCryptConvertRsaPrivateBlobToFullRsaBlob                                                            0x963b5bd3                                         
+ProcessPrng                                                                                          0xb7cb6b9b                                         
+ProcessPrngGuid                                                                                      0x40a6afa4                                         

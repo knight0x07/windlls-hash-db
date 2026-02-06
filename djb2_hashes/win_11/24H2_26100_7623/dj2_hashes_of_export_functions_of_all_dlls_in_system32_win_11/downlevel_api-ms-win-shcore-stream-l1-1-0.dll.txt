@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-shcore-stream-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IStream_Copy                                                                                         0xa5354974                                         
+IStream_Read                                                                                         0xa53d5695                                         
+IStream_ReadStr                                                                                      0x2798baee                                         
+IStream_Reset                                                                                        0x4ce8765c                                         
+IStream_Size                                                                                         0xa53df734                                         
+IStream_Write                                                                                        0x4d49e924                                         
+IStream_WriteStr                                                                                     0xb482771d                                         
+SHCreateMemStream                                                                                    0x5402923f                                         
+SHCreateStreamOnFileA                                                                                0xb54006fe                                         
+SHCreateStreamOnFileEx                                                                               0x5d40e7ba                                         
+SHCreateStreamOnFileW                                                                                0xb5400714                                         
+SHOpenRegStream2A                                                                                    0xe4f8602f                                         
+SHOpenRegStream2W                                                                                    0xe4f86045                                         
+SHOpenRegStreamA                                                                                     0x9a551a3d                                         
+SHOpenRegStreamW                                                                                     0x9a551a53                                         

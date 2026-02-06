@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\wiarpc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0BUFFER@@QEAA@I@Z                                                                                  0x4542bc48                                         
+??0BUFFER_CHAIN@@QEAA@XZ                                                                             0xfb0b0f39                                         
+??0BUFFER_CHAIN_ITEM@@QEAA@I@Z                                                                       0x7fed4478                                         
+??1BUFFER@@QEAA@XZ                                                                                   0xb8f91e18                                         
+??1BUFFER_CHAIN@@QEAA@XZ                                                                             0x6db759da                                         
+??1BUFFER_CHAIN_ITEM@@QEAA@XZ                                                                        0x2e9f51a8                                         
+??_FBUFFER@@QEAAXXZ                                                                                  0x6f3b9264                                         
+??_FBUFFER_CHAIN_ITEM@@QEAAXXZ                                                                       0x782bfd74                                         
+?QueryPtr@BUFFER@@QEBAPEAXXZ                                                                         0xa6039ae3                                         
+?QuerySize@BUFFER@@QEBAIXZ                                                                           0xc2736003                                         
+?QueryUsed@BUFFER_CHAIN_ITEM@@QEBAKXZ                                                                0x3731a84b                                         
+?SetUsed@BUFFER_CHAIN_ITEM@@QEAAXK@Z                                                                 0x4332a740                                         
+ServiceMain                                                                                          0x0747703b                                         

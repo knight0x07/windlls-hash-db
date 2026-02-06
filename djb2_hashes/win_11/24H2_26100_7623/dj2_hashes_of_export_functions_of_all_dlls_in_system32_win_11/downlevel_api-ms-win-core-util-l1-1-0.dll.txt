@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-util-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Beep                                                                                                 0x7c82fba1                                         
+DecodePointer                                                                                        0xf50bccea                                         
+DecodeSystemPointer                                                                                  0x9c0c7faf                                         
+EncodePointer                                                                                        0xfcf91ed4                                         
+EncodeSystemPointer                                                                                  0xabae1919                                         

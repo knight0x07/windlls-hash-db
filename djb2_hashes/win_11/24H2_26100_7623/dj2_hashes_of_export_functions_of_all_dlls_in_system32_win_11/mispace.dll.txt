@@ -1,0 +1,37 @@
+DLL Path: C:\Windows\System32\mispace.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetProviderClassID                                                                                   0xdc3bff53                                         
+MI_Main                                                                                              0xdc2f74ff                                         
+PreShutdown                                                                                          0x5287bf88                                         
+SetShutdownCallback                                                                                  0x3df919fa                                         
+SmpUnload                                                                                            0xca418918                                         
+WspCheckMinimumSubsystemVersion                                                                      0x5af8d12e                                         
+WspCompleteMethod                                                                                    0x37b7ff19                                         
+WspCreateJob                                                                                         0xa3e8edee                                         
+WspEnumerateRemoteInstances                                                                          0x22a948d9                                         
+WspFreeString                                                                                        0x153a5c78                                         
+WspGetClassName                                                                                      0xdb6cd076                                         
+WspGetRemoteInstance                                                                                 0x716898a0                                         
+WspGetSubsystemFilter                                                                                0x2dddf554                                         
+WspGuidToString                                                                                      0xcdd2bae2                                         
+WspInvokeRemoteMethod                                                                                0x2c570518                                         
+WspIsAutomaticClusteringEnabled                                                                      0xe1f5decd                                         
+WspIsRemoteInstance                                                                                  0x9c09101c                                         
+WspIsRemoteRequest                                                                                   0xa4649710                                         
+WspPackObjectId                                                                                      0xe0db7382                                         
+WspPostAssociation                                                                                   0x56fc07a2                                         
+WspPostSubsystemAssociationReferenceObject                                                           0x70af2737                                         
+WspProviderEnter                                                                                     0xf1b56508                                         
+WspProviderExit                                                                                      0x7bb05304                                         
+WspReferencesOfRemoteInstance                                                                        0x1e4921f7                                         
+WspRunMethodAsJob                                                                                    0x5ac76284                                         
+WspSendIndication                                                                                    0xf062ff0b                                         
+WspUnpackObjectId                                                                                    0xa2fe0345                                         
+WspUpdateMethod                                                                                      0xe60f1123                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\IME\SHARED\IMEFILES.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+FNRM_CleanupGarbageFiles                                                                             0xfdae193b                                         
+FNRM_GetActiveFile                                                                                   0xc8a32b73                                         
+FNRM_GetRegistrationLevel                                                                            0x893475ca                                         
+FNRM_SetActiveFile                                                                                   0x81179d7f                                         
+FNRM_UnregisterAllPerUserFilesExcept                                                                 0x03d4d4ba                                         

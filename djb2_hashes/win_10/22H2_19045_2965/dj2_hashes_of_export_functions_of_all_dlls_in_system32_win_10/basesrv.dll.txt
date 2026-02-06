@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\basesrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BaseGetProcessCrtlRoutine                                                                            0xfce268ba                                         
+BaseSetProcessCreateNotify                                                                           0xbef5d258                                         
+BaseSrvNlsLogon                                                                                      0x5f399327                                         
+BaseSrvNlsUpdateRegistryCache                                                                        0xbea6fbb8                                         
+BaseSrvRegisterSxS                                                                                   0x299d74de                                         
+ServerDllInitialization                                                                              0x10878e20                                         

@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\mfds.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+InitAACAudioStream_                                                                                  0x31ff7f1b                                         
+InitAC3AudioStream_                                                                                  0xb28f5a4d                                         
+InitBDAVLPCMAudioStream_                                                                             0xcabe171f                                         
+InitDDPlusAudioStream_                                                                               0x9c3a0422                                         
+InitDTSAudioStream_                                                                                  0x778aa761                                         
+InitH264Stream_                                                                                      0x421ff068                                         
+InitHEVCStream_                                                                                      0xf6524f2a                                         
+InitLPCMAudioStream_                                                                                 0x4cfe7da2                                         
+InitLPCMMiracastAudioStream_                                                                         0xc7e0f976                                         
+InitMpeg1VideoStream_                                                                                0xc12da5f5                                         
+InitMpeg2VideoStream_                                                                                0x108caf76                                         
+InitMpegAudioStream_                                                                                 0xb04ffa1f                                         
+InitTrueHDAudioStream_                                                                               0x30c05ba2                                         
+PESHeaderLength                                                                                      0xf44be058                                         
+PESPacketLength                                                                                      0x37e4a927                                         
+PESPacketPTSinPCR                                                                                    0x19421a38                                         
+PackMuxRate                                                                                          0x2ce10e4a                                         
+PackSCR                                                                                              0xfb728f2c                                         
+xCreateCannedMediaType                                                                               0x5930837c                                         
+xMediaSubTypeTransform                                                                               0x6174a5c5                                         

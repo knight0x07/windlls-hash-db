@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\SensorsApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+SensorCloseCOM                                                                                       0x7e00b654                                         
+SensorEnableIdleOperationCOM                                                                         0xfc2a1194                                         
+SensorGetAccDataCOM                                                                                  0xcbf9521f                                         
+SensorGetAlsDataCOM                                                                                  0xa8769938                                         
+SensorGetAlsDataWithColorCOM                                                                         0x489aadf3                                         
+SensorGetBarDataCOM                                                                                  0xbee67a6d                                         
+SensorGetCapabilitiesCollectionCOM                                                                   0xe25133f4                                         
+SensorGetDataCollectionCOM                                                                           0xa7b468a4                                         
+SensorGetDeviceIdCOM                                                                                 0x2365b19b                                         
+SensorGetFusDataCOM                                                                                  0xd50b67e6                                         
+SensorGetGyrDataCOM                                                                                  0xbec5e82a                                         
+SensorGetMagDataCOM                                                                                  0xc486912d                                         
+SensorGetPropertiesCOM                                                                               0x23a7472b                                         
+SensorGetPrxDataCOM                                                                                  0x3d48e892                                         
+SensorGetThresholdsCOM                                                                               0x8589b99e                                         
+SensorOpenByInterfaceCOM                                                                             0xb72740bc                                         
+SensorPermissionsHandler                                                                             0xd4d98dd9                                         
+SensorPermissionsHandlerA                                                                            0x700b493a                                         
+SensorPermissionsHandlerW                                                                            0x700b4950                                         
+SensorRegisterEventCOM                                                                               0xfb4624e5                                         
+SensorSetAccThresholdsCOM                                                                            0x5efff151                                         
+SensorSetAlsThresholdsCOM                                                                            0xd086672a                                         
+SensorSetAlsWithColorThresholdsCOM                                                                   0x2d9785e5                                         
+SensorSetBarThresholdsCOM                                                                            0x9d699c1f                                         
+SensorSetFusThresholdsCOM                                                                            0xcb130058                                         
+SensorSetGyrThresholdsCOM                                                                            0x2925a39c                                         
+SensorSetIntervalCOM                                                                                 0xbb9ec52f                                         
+SensorSetMagThresholdsCOM                                                                            0x97efc2df                                         
+SensorSetOrientationSensorThresholdsCOM                                                              0xbcc66f10                                         
+SensorSetThresholdsCOM                                                                               0x1807802a                                         
+SensorStartCollectionCOM                                                                             0x761ccdb8                                         
+SensorStopCOM                                                                                        0x5a796e04                                         
+SensorUnregisterEventCOM                                                                             0xc9822e28                                         

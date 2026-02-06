@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\globinputhost.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WGIGetCompatibleInputMethodsForLanguage                                                              0x9302d3bb                                         
+WGIGetCompatibleInputMethodsForLanguageKeyboardAndImeMixed                                           0x369fd2f1                                         
+WGIGetCurrentInputLanguage                                                                           0x09c38463                                         
+WGIGetDefaultInputMethodForLanguage                                                                  0x33ba800d                                         
+WGIGetInputLanguagesForAllUsers                                                                      0x211dfbc5                                         
+WGIGetInputMethodDescription                                                                         0xe51fc521                                         
+WGIGetInputMethodProperties                                                                          0xb7e095ca                                         
+WGIGetInputMethodTileName                                                                            0x6b860f2c                                         
+WGIGetUserLanguageInputMethods                                                                       0xf4fd11d3                                         
+WGIIsImeInputMethod                                                                                  0x5c008a34                                         
+WGIIsImeScript                                                                                       0xf7438058                                         
+WGIIsImmersiveInputMethod                                                                            0xf7028b8a                                         
+WGIIsTouchEnabledInputMethod                                                                         0x20e7ca47                                         
+WGISetCurrentInputLanguage                                                                           0x6c46f56f                                         
+WGITransformInputMethodsForLanguage                                                                  0x7f7393b7                                         
+WGITransformInputMethodsForLanguageId                                                                0x2aa76744                                         
+WGIUpdateGlobalSpellerKey                                                                            0xf7c38840                                         

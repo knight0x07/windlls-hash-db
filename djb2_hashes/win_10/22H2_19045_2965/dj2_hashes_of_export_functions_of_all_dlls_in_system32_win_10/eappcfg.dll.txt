@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\eappcfg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EapHostPeerConfigBlob2Xml                                                                            0x4a957c3d                                         
+EapHostPeerConfigXml2Blob                                                                            0xdadd0d9d                                         
+EapHostPeerCreateMethodConfiguration                                                                 0x70f56772                                         
+EapHostPeerCredentialsXml2Blob                                                                       0xf9d5b9b5                                         
+EapHostPeerFreeErrorMemory                                                                           0xfeaf85aa                                         
+EapHostPeerFreeMemory                                                                                0xdf2eac20                                         
+EapHostPeerGetMethodProperties                                                                       0xb8768c53                                         
+EapHostPeerGetMethods                                                                                0xd255c639                                         
+EapHostPeerInvokeConfigUI                                                                            0x86f38105                                         
+EapHostPeerInvokeIdentityUI                                                                          0x5c1e9339                                         
+EapHostPeerInvokeInteractiveUI                                                                       0xc3df120d                                         
+EapHostPeerQueryCredentialInputFields                                                                0x7ab3efbd                                         
+EapHostPeerQueryInteractiveUIInputFields                                                             0xe7a6393e                                         
+EapHostPeerQueryUIBlobFromInteractiveUIInputFields                                                   0x5bdefc0f                                         
+EapHostPeerQueryUserBlobFromCredentialInputFields                                                    0x1393fe2f                                         

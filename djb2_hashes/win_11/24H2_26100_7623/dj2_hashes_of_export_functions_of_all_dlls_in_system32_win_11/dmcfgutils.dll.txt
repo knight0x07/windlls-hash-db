@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\dmcfgutils.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CfgUtilCheckCharacteristicNode                                                                       0x8de52a00                                         
+CfgUtilCheckParmNode                                                                                 0x2f67a587                                         
+CfgUtilCreateCharacteristic                                                                          0x958414b0                                         
+CfgUtilCreateParm                                                                                    0xd45ce937                                         
+CfgUtilGetConfigDataTypeName                                                                         0xe9c36446                                         
+CfgUtilGetConfigSemanticTypeName                                                                     0xf01324a0                                         
+CfgUtilGetElementName                                                                                0x1a38be5e                                         
+CfgUtilGetName                                                                                       0xbcbef054                                         
+CfgUtilGetParmAttributeName                                                                          0xe5532ab8                                         
+CfgUtilParseConfigDataTypeName                                                                       0x7a320f81                                         
+CfgUtilParseConfigSemanticTypeName                                                                   0x220af55b                                         
+CfgUtilParseElementName                                                                              0x0f6d65f9                                         
+CfgUtilParseName                                                                                     0x0c26c04f                                         
+CfgUtilParseNameByLen                                                                                0x2f944589                                         
+CfgUtilParseParmAttributeName                                                                        0xcaabda93                                         
+CleanupPolicyComplianceEnsuranceForSource                                                            0x9c0a3254                                         
+EnsurePolicyComplianceForSource                                                                      0x1fdfa99a                                         
+SyncGetDeviceUniqueID                                                                                0x15df9676                                         
+VerifyFullAdminPrivileges                                                                            0xc040a910                                         

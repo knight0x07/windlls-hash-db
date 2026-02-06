@@ -1,0 +1,46 @@
+DLL Path: C:\Windows\System32\ttdrecordcpu.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClearClientTlsValueForThreadId                                                                       0x8a0fec07                                         
+FlushCodeCaches                                                                                      0x8bb88989                                         
+GetClientTlsValueForCurrentThread                                                                    0x70ba9776                                         
+GetInstructionCounts                                                                                 0x4cb51c23                                         
+GetRegisterOffsets                                                                                   0x2d923444                                         
+InitializeEmulateOnlyClient                                                                          0x78b9d665                                         
+InitializeGlobalState                                                                                0xa01c2969                                         
+InitializeNirvanaClient                                                                              0x2e1c11e5                                         
+InitializeRecorder                                                                                   0xf1c5e1ed                                         
+InitializeSmartCpuClient                                                                             0x3ef18005                                         
+InjectThread                                                                                         0x47bb559a                                         
+IsEmulatingCurrentThread                                                                             0xdecdde22                                         
+IsSimulating                                                                                         0x1694767e                                         
+OpenWriter                                                                                           0x881c7774                                         
+ParametersBlock                                                                                      0xaeee4fa4                                         
+RegisterInstrumentationCallbacks                                                                     0x9ca529be                                         
+RegisterRecordCallbacks                                                                              0xaa930ea9                                         
+RequestUnhookedFunctions                                                                             0x177a6044                                         
+ResetMaxInstructionsToEmulate                                                                        0x53ccb133                                         
+ResumeSimulation                                                                                     0x4b6213bb                                         
+RunCallbackWithSmartContextForCurrentThread                                                          0xd1fff7f1                                         
+SetRuntimeOptions                                                                                    0xdeff1da1                                         
+SetThreadNative                                                                                      0x33c6c810                                         
+StartEmulatingCurrentThread                                                                          0xa950ed34                                         
+StopEmulatingCurrentThread                                                                           0x75176cac                                         
+StubDllEntry                                                                                         0x521dfd11                                         
+TryPauseSimulation                                                                                   0xe2f4a7a7                                         
+TtdWriterAddCustomEvent                                                                              0x0e6a8f54                                         
+TtdWriterDumpHeaps                                                                                   0x9012f0b5                                         
+TtdWriterDumpModuleData                                                                              0xc54f1c24                                         
+TtdWriterDumpSnapshot                                                                                0xce724234                                         
+TtdWriterGetFileName                                                                                 0x99649a0f                                         
+TtdWriterGetState                                                                                    0x64f60a6f                                         
+TtdWriterGetThrottleState                                                                            0x70a7ddc5                                         
+TtdWriterRelease                                                                                     0xf431594f                                         
+TtdWriterResetThrottle                                                                               0xfd0a6ec7                                         
+TtdWriterResumeRecording                                                                             0x6e2b22dc                                         
+TtdWriterStartRecordingCurrentThread                                                                 0xf56c9ff4                                         
+TtdWriterStopRecordingCurrentThread                                                                  0x0eabb24c                                         
+TtdWriterTryPauseRecording                                                                           0xd5c5cf88                                         
+g_ttdConstants                                                                                       0x9d393d54                                         
+ntdllLdrInitializeThunk                                                                              0xb8464ae1                                         

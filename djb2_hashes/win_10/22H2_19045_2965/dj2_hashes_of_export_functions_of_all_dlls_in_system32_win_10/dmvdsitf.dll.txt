@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\dmvdsitf.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?AddLDMObjMapEntry@CDataCache@@QEAAXPEAU_LDM_OBJ_MAP_ENTRY@@@Z                                       0x4765011f                                         
+?GetDiskCount@CDataCache@@QEAAKXZ                                                                    0x06bb819e                                         
+?GetLdmObjectId@CDMNodeObj@@QEAA_JXZ                                                                 0x0473050d                                         
+?GetNumMembers@CDMNodeObj@@QEAAKXZ                                                                   0xa76e7409                                         
+?GetOcxFrameCWndPtr@CTaskData@@QEAAPEAVCWnd@@XZ                                                      0x71aa932d                                         
+?GetRegionColorStructPtr@CTaskData@@QEAAXPEAPEAU_REGION_COLORS@@AEAH@Z                               0x55fe5be0                                         
+?GetServerName@CDataCache@@QEAA?AVCString@@XZ                                                        0xc794f527                                         
+?GetVolumeCount@CDataCache@@QEAAKXZ                                                                  0x12aff6ab                                         
+CreateDataCacheZ                                                                                     0xf6ae4761                                         
+CreateServerRequestsZ                                                                                0x13758606                                         
+LoadPropertyPageData                                                                                 0x0251e661                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\WindowManagementAPI.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateWindowInformation                                                                              0x5c98ba97                                         
+CreateWindowLayout                                                                                   0x704105cf                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

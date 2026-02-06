@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\installmon.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FreeInstallMonitoringCallback                                                                        0xc6799df1                                         
+StartInstallMonitoring                                                                               0x69a23370                                         
+StopInstallMonitoring                                                                                0x358527e8                                         
+UpdateInstallerInventoryCache                                                                        0xa55013b8                                         

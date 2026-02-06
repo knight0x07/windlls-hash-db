@@ -1,0 +1,38 @@
+DLL Path: C:\Windows\System32\utildll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AsyncDeviceEnumerate                                                                                 0xfa4bd859                                         
+CachedGetUserFromSid                                                                                 0xb9b58610                                         
+CalculateDiffTime                                                                                    0xdaee811b                                         
+CalculateElapsedTime                                                                                 0x30e88aa0                                         
+CompareElapsedTime                                                                                   0xc6221919                                         
+ConfigureModem                                                                                       0xdd21d759                                         
+CurrentDateTimeString                                                                                0x4d503aec                                         
+DateTimeString                                                                                       0x83a4e049                                         
+ElapsedTimeString                                                                                    0xe7ca2649                                         
+EnumerateMultiUserServers                                                                            0x9d04297f                                         
+FormDecoratedAsyncDeviceName                                                                         0x79ab2d73                                         
+GetAssociatedPortName                                                                                0x0e092acb                                         
+GetSystemMessageA                                                                                    0xd8599210                                         
+GetSystemMessageW                                                                                    0xd8599226                                         
+GetUnknownString                                                                                     0x7460766c                                         
+GetUserFromSid                                                                                       0x5b5a4ff8                                         
+HaveAnonymousUsersChanged                                                                            0x67204dee                                         
+InitializeAnonymousUserCompareList                                                                   0xc3aeb642                                         
+InstallModem                                                                                         0x35210fae                                         
+IsPartOfDomain                                                                                       0x3d671fa5                                         
+NetBIOSDeviceEnumerate                                                                               0x3053680f                                         
+NetworkDeviceEnumerate                                                                               0x5d9917a5                                         
+ParseDecoratedAsyncDeviceName                                                                        0x4d49e67a                                         
+QueryCurrentWinStation                                                                               0x103cf24e                                         
+RegGetNetworkDeviceName                                                                              0xedc7509e                                         
+RegGetNetworkServiceName                                                                             0x6f4ec09f                                         
+StandardErrorMessage                                                                                 0x8420fd45                                         
+StrAsyncConnectState                                                                                 0x94fcd207                                         
+StrConnectState                                                                                      0x371530a9                                         
+StrProcessState                                                                                      0x138767de                                         
+StrSdClass                                                                                           0x662dcdab                                         
+StrSystemWaitReason                                                                                  0xb2984fc0                                         
+TestUserForAdmin                                                                                     0x699afed4                                         
+WinEnumerateDevices                                                                                  0x01a0f39c                                         

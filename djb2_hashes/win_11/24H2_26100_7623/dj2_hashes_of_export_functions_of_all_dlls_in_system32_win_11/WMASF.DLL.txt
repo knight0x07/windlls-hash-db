@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\WMASF.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ASFAddPresDelta                                                                                      0x1e70a10c                                         
+ASFAddSendDelta                                                                                      0x0e5ce5fc                                         
+ASFCalculatePresDelta                                                                                0xeea67431                                         
+ASFCreateBitrateTracker                                                                              0x53f769ca                                         
+ASFCreateIOMonitor                                                                                   0x18a06ed3                                         
+ASFCreateIndexMaker                                                                                  0x953223bb                                         
+ASFCreateIndexMakerFileSink                                                                          0xf16eeef0                                         
+ASFCreateLibrary                                                                                     0x87977bc8                                         
+ASFCreateMediaObjectIndexMaker                                                                       0x61c5a512                                         
+ASFCreateStreamSelector                                                                              0xc79446c0                                         
+ASFFindHeaderObject                                                                                  0xe0cf4240                                         
+ASFFindRootObject                                                                                    0x1c5bb8bb                                         
+ASFFindStreamPropertiesObject                                                                        0x525281b0                                         
+ASFGUIDFromCodecID                                                                                   0xeb13b287                                         
+ASFGUIDToCodecID                                                                                     0x327fdeb6                                         
+ASFGetDataUnitInfo                                                                                   0x690ba305                                         
+ASFGetHeaderObject                                                                                   0x0d24d49f                                         
+ASFGetRootObject                                                                                     0x9b1b275a                                         
+ASFGetStreamPropertiesObject                                                                         0x09add6cf                                         
+ASFGetTimeBase                                                                                       0xb11d8dc9                                         
+ASFPresDeltaTimeToTime                                                                               0x0bba6724                                         
+ASFPresDeltaToFull                                                                                   0xaa132f19                                         
+ASFPresFullToDelta                                                                                   0xe6b3f499                                         
+ASFPresTimeToSendTime                                                                                0xbfcb65e4                                         
+ASFPresTimeToTime                                                                                    0x4d9bf3ba                                         
+ASFReadHeaderFromFile                                                                                0x1e15cf38                                         
+ASFReadHeaderFromFileHandle                                                                          0x76bf18c4                                         
+ASFSendTimeToPresTime                                                                                0x01acd1e4                                         
+ASFSendTimeToTime                                                                                    0xdfa8ceaa                                         
+ASFSetDataUnitInfo                                                                                   0x1064c811                                         
+ASFTimeToPresDeltaTime                                                                               0x901ff464                                         
+ASFTimeToPresTime                                                                                    0xb4e9393a                                         
+ASFTimeToSendTime                                                                                    0xa4e8a02a                                         
+ASFWriteHeaderToFile                                                                                 0x1a356096                                         
+CreateAsfCellPoolAllocator                                                                           0x4fda062e                                         

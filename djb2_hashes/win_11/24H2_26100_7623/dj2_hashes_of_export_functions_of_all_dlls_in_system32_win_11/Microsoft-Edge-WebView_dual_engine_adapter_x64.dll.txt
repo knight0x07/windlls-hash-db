@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\dual_engine_adapter_x64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DualEngineInit                                                                                       0xac8dc155                                         
+DualEngineInitialize                                                                                 0x5536a7b3                                         
+DualEngineReady                                                                                      0x3ee3b576                                         
+GetHandleVerifier                                                                                    0x54d1a1cd                                         

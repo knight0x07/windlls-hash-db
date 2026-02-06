@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\RemoteFileBrowse.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetFileName                                                                                          0x788ee386                                         
+GetFileNameAsUser                                                                                    0xf9d9d5b9                                         
+GetFolderPath                                                                                        0x7c90a4ae                                         
+GetFolderPathAsUser                                                                                  0xe981d4e1                                         
+GetSaveAsFileName                                                                                    0x000a8e89                                         
+GetSaveAsFileNameAsUser                                                                              0xff1876fc                                         

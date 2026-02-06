@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\shimgvw.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ImageView_Fullscreen                                                                                 0x8df4b5d5                                         
+ImageView_FullscreenA                                                                                0x4c8b70b6                                         
+ImageView_FullscreenW                                                                                0x4c8b70cc                                         
+ImageView_PrintTo                                                                                    0x3e676312                                         
+ImageView_PrintToA                                                                                   0x0b53c593                                         
+ImageView_PrintToW                                                                                   0x0b53c5a9                                         
+imageview_fullscreenW                                                                                0xa066252c                                         

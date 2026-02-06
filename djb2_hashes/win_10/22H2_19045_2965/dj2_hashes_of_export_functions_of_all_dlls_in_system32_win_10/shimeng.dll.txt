@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\shimeng.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SE_DllLoaded                                                                                         0x792fcca1                                         
+SE_DllUnloaded                                                                                       0xa0196064                                         
+SE_DynamicShim                                                                                       0x7bd72332                                         
+SE_GetHookAPIs                                                                                       0x0c10b0ba                                         
+SE_GetMaxShimCount                                                                                   0xc7bd431c                                         
+SE_GetProcAddressIgnoreIncExc                                                                        0x68edb294                                         
+SE_GetShimCount                                                                                      0x50b5a156                                         
+SE_InstallAfterInit                                                                                  0x7cc73519                                         
+SE_InstallBeforeInit                                                                                 0xbd4f2bfa                                         
+SE_IsShimDll                                                                                         0xf1e4d0e5                                         
+SE_ProcessDying                                                                                      0x4da28e56                                         

@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\RpcRtRemote.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DuplicateCertificate                                                                                 0xa7595ca3                                         
+FreeCertificate                                                                                      0x36ac0e2a                                         
+GeneratePrincipalName                                                                                0x484e5353                                         
+I_RpcExtInitializeExtensionPoint                                                                     0x4c29d05c                                         
+IndicatePortInUse                                                                                    0x2270e92f                                         
+IsMarshaledCredential                                                                                0x50f9574d                                         
+MatchPrincipalName                                                                                   0xf2fb4515                                         
+ProcessAndProvisionCertificate                                                                       0xcf5706a3                                         
+ResetIndicatedPortsInUse                                                                             0x9e0f5d89                                         
+ValidatePrincipalName                                                                                0x262da752                                         

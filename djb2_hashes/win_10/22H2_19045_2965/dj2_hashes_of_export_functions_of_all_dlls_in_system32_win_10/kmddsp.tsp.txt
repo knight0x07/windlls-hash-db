@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\kmddsp.tsp
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TSPI_lineAccept                                                                                      0xa04195fc                                         
+TSPI_lineAnswer                                                                                      0xa111b4bc                                         
+TSPI_lineClose                                                                                       0x1c4a59c2                                         
+TSPI_lineCloseCall                                                                                   0x89abd31e                                         
+TSPI_lineConditionalMediaDetection                                                                   0xffd7dbdf                                         
+TSPI_lineDevSpecific                                                                                 0x525eccd1                                         
+TSPI_lineDial                                                                                        0xab869f86                                         
+TSPI_lineDrop                                                                                        0xab86c7a1                                         
+TSPI_lineGetAddressCaps                                                                              0x1b3286f9                                         
+TSPI_lineGetAddressID                                                                                0xbae97b3f                                         
+TSPI_lineGetAddressStatus                                                                            0xd8925ef6                                         
+TSPI_lineGetCallAddressID                                                                            0x8262011b                                         
+TSPI_lineGetCallInfo                                                                                 0xc39abbb4                                         
+TSPI_lineGetCallStatus                                                                               0x2cf608ec                                         
+TSPI_lineGetDevCaps                                                                                  0x1ecba5d2                                         
+TSPI_lineGetDevConfig                                                                                0x01487741                                         
+TSPI_lineGetExtensionID                                                                              0x7e1773b6                                         
+TSPI_lineGetID                                                                                       0x1c8ef4d9                                         
+TSPI_lineGetLineDevStatus                                                                            0x2ec8d117                                         
+TSPI_lineGetNumAddressIDs                                                                            0x9b6d6362                                         
+TSPI_lineMakeCall                                                                                    0x42b0db86                                         
+TSPI_lineNegotiateExtVersion                                                                         0x02965483                                         
+TSPI_lineNegotiateTSPIVersion                                                                        0x8e678132                                         
+TSPI_lineOpen                                                                                        0xab8cc5fe                                         
+TSPI_lineSecureCall                                                                                  0x77f0606f                                         
+TSPI_lineSelectExtVersion                                                                            0x2c6fd223                                         
+TSPI_lineSendUserUserInfo                                                                            0x03961040                                         
+TSPI_lineSetAppSpecific                                                                              0x199c52ff                                         
+TSPI_lineSetCallParams                                                                               0xdd1c3018                                         
+TSPI_lineSetDefaultMediaDetection                                                                    0x8fe8719c                                         
+TSPI_lineSetDevConfig                                                                                0x4cb0d7cd                                         
+TSPI_lineSetMediaMode                                                                                0x530d493d                                         
+TSPI_lineSetStatusMessages                                                                           0xfcca7414                                         
+TSPI_providerCreateLineDevice                                                                        0x23fc9b5b                                         
+TSPI_providerEnumDevices                                                                             0xb50ea187                                         
+TSPI_providerInit                                                                                    0x28208d63                                         
+TSPI_providerShutdown                                                                                0xbf8a108b                                         

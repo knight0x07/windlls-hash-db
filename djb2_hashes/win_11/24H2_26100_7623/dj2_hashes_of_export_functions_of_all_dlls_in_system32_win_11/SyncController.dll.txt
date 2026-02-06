@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\SyncController.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AccountsMgmtAdviseAccount                                                                            0x593a5823                                         
+AccountsMgmtConvertWebAccountIdFromAppSpecificId                                                     0x06a48fbb                                         
+AccountsMgmtConvertWebAccountIdToAppSpecificId                                                       0x8a857c6a                                         
+AccountsMgmtCreateAccount                                                                            0x1e47651b                                         
+AccountsMgmtDeleteAccount                                                                            0xa6fde9fa                                         
+AccountsMgmtDiscoverExchangeServerConfig                                                             0xa2376649                                         
+AccountsMgmtEnumAccounts                                                                             0x251cb32f                                         
+AccountsMgmtGetNotifications                                                                         0x999cf934                                         
+AccountsMgmtMayIgnoreInvalidServerCertificate                                                        0xb0bcdae6                                         
+AccountsMgmtQueryAccountProperties                                                                   0x1912cfca                                         
+AccountsMgmtSaveAccountProperties                                                                    0x7ad01b63                                         
+AccountsMgmtSyncAccount                                                                              0x5c400964                                         
+AccountsMgmtSyncAccountAndWaitForCompletion                                                          0x727df14d                                         
+AccountsMgmtUnadviseAccount                                                                          0x0e4e3306                                         
+AccountsMgmtVerifyExchangeMailBoxTokenAuth                                                           0x99f5fc31                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

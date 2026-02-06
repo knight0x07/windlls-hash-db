@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-Eventing-Controller-L1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ControlTraceW                                                                                        0x24be56cc                                         
+EnableTraceEx2                                                                                       0x195289aa                                         
+EnumerateTraceGuidsEx                                                                                0x3a8e24d3                                         
+EventAccessControl                                                                                   0xf3ffcb9a                                         
+EventAccessQuery                                                                                     0x49dd73ef                                         
+EventAccessRemove                                                                                    0x86c3e8a7                                         
+QueryAllTracesW                                                                                      0xa6d8eecd                                         
+StartTraceW                                                                                          0x03549579                                         
+StopTraceW                                                                                           0x37bb24f1                                         
+TraceQueryInformation                                                                                0x29864c10                                         
+TraceSetInformation                                                                                  0xa8e15de6                                         

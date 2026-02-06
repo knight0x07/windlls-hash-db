@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\uireng.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+UirFreeRecordedActionInfo                                                                            0xf4432849                                         
+UirGetRecordedActionInfo                                                                             0xa833f7c7                                         
+UirGetScreenComment                                                                                  0xee560d28                                         
+UirInitializeEngine                                                                                  0x96f1183d                                         
+UirIsRecordingActive                                                                                 0xcd0a684a                                         
+UirOutCreateOutputFile                                                                               0xefecf352                                         
+UirPauseRecordingSession                                                                             0xde612a14                                         
+UirResumeRecordingSession                                                                            0xb66ec6e7                                         
+UirStartRecordingSession                                                                             0xd40ea9a4                                         
+UirStopRecordingSession                                                                              0xd463411c                                         
+UirUninitializeEngine                                                                                0x127d3700                                         
+UirUpdateRecordingSession                                                                            0x4541a479                                         
+UirWriteRecordedActionAndCommentListMht                                                              0xad12dc51                                         
+UirWriteRecordedActionListMht                                                                        0x4a7fb30b                                         
+UirWriteRecordedActionListXml                                                                        0x4a7fe273                                         
+UirWriteUserComments                                                                                 0x54cea225                                         

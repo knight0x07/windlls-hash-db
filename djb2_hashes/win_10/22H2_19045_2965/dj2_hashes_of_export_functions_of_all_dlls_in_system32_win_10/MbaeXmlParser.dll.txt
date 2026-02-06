@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\MbaeXmlParser.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0MbaeXmlParser@@QEAA@$$QEAV0@@Z                                                                    0xbd3c9ddd                                         
+??0MbaeXmlParser@@QEAA@AEBV0@@Z                                                                      0x6963ec26                                         
+??0MbaeXmlParser@@QEAA@XZ                                                                            0x287cec50                                         
+??4MbaeXmlParser@@QEAAAEAV0@$$QEAV0@@Z                                                               0x44e612ae                                         
+??4MbaeXmlParser@@QEAAAEAV0@AEBV0@@Z                                                                 0x83d7f8b7                                         
+??_7MbaeXmlParser@@6B@                                                                               0x8dff9c24                                         
+?Create@MbaeXmlParser@@SAJPEAPEAV1@@Z                                                                0x1d1ee516                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-security-sddl-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConvertSecurityDescriptorToStringSecurityDescriptorW                                                 0x4d86e905                                         
+ConvertSidToStringSidW                                                                               0x99a22dd7                                         
+ConvertStringSecurityDescriptorToSecurityDescriptorW                                                 0x8164c705                                         
+ConvertStringSidToSidW                                                                               0x3cb0ddf7                                         

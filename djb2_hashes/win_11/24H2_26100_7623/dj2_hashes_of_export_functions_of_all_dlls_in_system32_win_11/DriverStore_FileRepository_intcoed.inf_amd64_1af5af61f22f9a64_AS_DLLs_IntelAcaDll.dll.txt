@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_1af5af61f22f9a64\AS\DLLs\IntelAcaDll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ACAContextQuery                                                                                      0x3ee1ada5                                         
+ACADetectorGetCaps                                                                                   0xcd71d7ab                                         
+ACAGetIpParam                                                                                        0x60af64b4                                         
+ACARegisterNotificationHandle                                                                        0x1f27f5a2                                         
+ACASetIpParam                                                                                        0x912e3240                                         
+ACAStartSoundDetect                                                                                  0x163ae07a                                         
+ACAStopSoundDetect                                                                                   0x6f4bc652                                         
+ACAUnregisterNotificationHandle                                                                      0xfc977d65                                         
+GetApiVersion                                                                                        0xe276c185                                         
+GetLibraryVersion                                                                                    0x26ff5800                                         

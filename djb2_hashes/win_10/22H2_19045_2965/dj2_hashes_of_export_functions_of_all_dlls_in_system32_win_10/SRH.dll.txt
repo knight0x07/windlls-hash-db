@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\SRH.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateAndEnqueueNarratorCommandEvent                                                                 0x99a6eb4e                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+ExecuteNarratorFind                                                                                  0x7a703e62                                         
+GetControlAndState                                                                                   0xdc7accda                                         
+GetInputLearningHelper                                                                               0xab6f0805                                         
+IgnoreLeaksInCurrentlyTrackedMemory                                                                  0x9f6c5a4f                                         
+Initialize                                                                                           0x2e93a277                                         
+IsIgnoringLeaks                                                                                      0xf898e2ae                                         
+PostTestCheckForLeaks                                                                                0x4fc13bc0                                         
+RunNarrator                                                                                          0xc27ac903                                         
+SetBrailleBlinkingCursor                                                                             0x1fe39698                                         
+SetBrailleCursorRepresentation                                                                       0x2520621d                                         
+SetBrailleDeviceChangeFromReg                                                                        0x05a55af4                                         
+SetBrailleIsEnabledFromReg                                                                           0xf0ac40a5                                         
+SetBrailleTablesFromReg                                                                              0xdf002ef9                                         
+SetDictationRunning                                                                                  0x850bbeb1                                         
+SetFastKeyEntryEnabled                                                                               0x6aea6565                                         
+SetFollowInsertion                                                                                   0x793884bf                                         
+SetReadHints                                                                                         0x4923bf13                                         
+SetScriptingEnabledFromReg                                                                           0x81d79521                                         
+SetVoicePropertiesFromReg                                                                            0x1891af46                                         
+StartIgnoringLeaks                                                                                   0x7bd6a580                                         
+StopIgnoringLeaks                                                                                    0x86421df8                                         
+UpdateErrorLoggingCallback                                                                           0xe79da886                                         
+UpdateNarratorSettingsFromReg                                                                        0x5dda90f4                                         

@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\BthTelemetry.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BthCollectFingerprintInfo                                                                            0x50eeea3d                                         
+BthCollectRadioPerformanceInfo                                                                       0x3d80d0f6                                         
+BthProcessEventDataDword                                                                             0x04ed3a1e                                         
+BthProcessEventOccurrence                                                                            0x761c7e4d                                         
+BthProcessEventOccurrenceBthaddr                                                                     0x63dab446                                         
+BthProcessEventOccurrenceResult                                                                      0xb2f3022c                                         
+BthProcessEventOccurrenceResultBthaddr                                                               0x91384745                                         

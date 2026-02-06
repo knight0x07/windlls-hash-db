@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\deviceassociation.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DafAepExport                                                                                         0x9e591728                                         
+DafAepImport                                                                                         0xa6e6ac21                                         
+DafChallengeDevicePresence                                                                           0x2d26d198                                         
+DafCloseAssociationContext                                                                           0xe73ee488                                         
+DafCloseChallengeContext                                                                             0x836b970e                                         
+DafCloseImportExportContext                                                                          0xb2390e88                                         
+DafCloseInboundContext                                                                               0x115ce9fa                                         
+DafCreateAssociationContext                                                                          0x823279c6                                         
+DafCreateAssociationContextForApp                                                                    0x5b5598ce                                         
+DafCreateAssociationContextFromOobBlob                                                               0x8b92af99                                         
+DafCreateChallengeContext                                                                            0xdd5cc4cc                                         
+DafCreateDeviceChallengeContext                                                                      0xe108b5fc                                         
+DafCreateDeviceInterfaceChallengeContext                                                             0x4034514d                                         
+DafCreateImportExportContext                                                                         0xab9f4b86                                         
+DafCreateInboundContext                                                                              0xc50b9038                                         
+DafGetInboundAssociationResultForAppActivation                                                       0xfcbd6e55                                         
+DafMemFree                                                                                           0xa8982071                                         
+DafRegisterForInboundAssociationsAppActivation                                                       0xdf5434ee                                         
+DafSelectCeremony                                                                                    0x900045b2                                         
+DafStartAepExport                                                                                    0x399b5a76                                         
+DafStartAepImport                                                                                    0x4228ef6f                                         
+DafStartDeviceStatusNotification                                                                     0x69e19799                                         
+DafStartEnumCeremonies                                                                               0xf4e3d89d                                         
+DafStartFinalize                                                                                     0xb132e910                                         
+DafStartListenForInboundAssociations                                                                 0xa24ec8f3                                         
+DafStartReadCeremonyData                                                                             0x341fe0b6                                         
+DafStartRemoveAssociation                                                                            0xb5ea3e69                                         
+DafStartWriteCeremonyData                                                                            0x37098665                                         

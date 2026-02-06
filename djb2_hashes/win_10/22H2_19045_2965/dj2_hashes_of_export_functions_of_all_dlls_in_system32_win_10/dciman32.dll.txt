@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\dciman32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DCIBeginAccess                                                                                       0xf63b168c                                         
+DCICloseProvider                                                                                     0xca01bf76                                         
+DCICreateOffscreen                                                                                   0x5bbb1f24                                         
+DCICreateOverlay                                                                                     0x2ef8facb                                         
+DCICreatePrimary                                                                                     0x72e40c8d                                         
+DCIDestroy                                                                                           0x8a476fdf                                         
+DCIDraw                                                                                              0x17d19b43                                         
+DCIEndAccess                                                                                         0x01f8df3e                                         
+DCIEnum                                                                                              0x17d2192a                                         
+DCIOpenProvider                                                                                      0x5cd4da92                                         
+DCISetClipList                                                                                       0x6e27d605                                         
+DCISetDestination                                                                                    0xefd81023                                         
+DCISetSrcDestClip                                                                                    0x39aeea81                                         
+GetDCRegionData                                                                                      0x0db8aa4a                                         
+GetWindowRegionData                                                                                  0x72c0f27b                                         
+WinWatchClose                                                                                        0x14d8e260                                         
+WinWatchDidStatusChange                                                                              0x9ad215c5                                         
+WinWatchGetClipList                                                                                  0x296bd8ce                                         
+WinWatchNotify                                                                                       0xc9d6cac3                                         
+WinWatchOpen                                                                                         0x55fdb2dc                                         

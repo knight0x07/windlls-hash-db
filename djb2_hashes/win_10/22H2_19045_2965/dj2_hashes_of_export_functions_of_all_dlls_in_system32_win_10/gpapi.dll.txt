@@ -1,0 +1,57 @@
+DLL Path: C:\Windows\System32\gpapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AreThereVisibleLogoffScriptsInternal                                                                 0xd03de0e5                                         
+AreThereVisibleLogoffScriptsInternalWorker                                                           0xee07ff1f                                         
+AreThereVisibleShutdownScriptsInternal                                                               0x8c818484                                         
+AreThereVisibleShutdownScriptsInternalWorker                                                         0xb4a59dfe                                         
+EnterCriticalPolicySectionExStub                                                                     0x32f9394e                                         
+EnterCriticalPolicySectionInternal                                                                   0xd15720d0                                         
+EnterCriticalPolicySectionInternalWorker                                                             0xdc8a434a                                         
+ForceSyncFgPolicyInternal                                                                            0x5c00768b                                         
+ForceSyncFgPolicyInternalWorker                                                                      0x52e9b945                                         
+FreeGPOListInternalA                                                                                 0xbcdf5de7                                         
+FreeGPOListInternalAWorker                                                                           0xd907b5a1                                         
+FreeGPOListInternalW                                                                                 0xbcdf5dfd                                         
+FreeGPOListInternalWWorker                                                                           0x7688ee37                                         
+GenerateGPNotificationInternal                                                                       0x22aadd2b                                         
+GenerateGPNotificationInternalWorker                                                                 0xc1ae97e5                                         
+GetAppliedGPOListInternalA                                                                           0x1b4eef24                                         
+GetAppliedGPOListInternalAWorker                                                                     0x22c0809e                                         
+GetAppliedGPOListInternalW                                                                           0x1b4eef3a                                         
+GetAppliedGPOListInternalWWorker                                                                     0xc041b934                                         
+GetGPOListInternalA                                                                                  0x5e0223e5                                         
+GetGPOListInternalAWorker                                                                            0x3cb2821f                                         
+GetGPOListInternalW                                                                                  0x5e0223fb                                         
+GetGPOListInternalWWorker                                                                            0xda33bab5                                         
+GetNextFgPolicyRefreshInfoInternal                                                                   0x8f53b019                                         
+GetNextFgPolicyRefreshInfoInternalWorker                                                             0xe2d16553                                         
+GetPreviousFgPolicyRefreshInfoInternal                                                               0x275a2777                                         
+GetPreviousFgPolicyRefreshInfoInternalWorker                                                         0x7d776b31                                         
+HasPolicyForegroundProcessingCompletedInternal                                                       0x298508e3                                         
+HasPolicyForegroundProcessingCompletedInternalWorker                                                 0x6018ad9d                                         
+IsSyncForegroundPolicyRefreshWorker                                                                  0xc3d75d32                                         
+LeaveCriticalPolicySectionInternal                                                                   0x05f2689f                                         
+LeaveCriticalPolicySectionInternalWorker                                                             0x7e95ea59                                         
+RefreshPolicyExInternal                                                                              0x81bece9e                                         
+RefreshPolicyExInternalWorker                                                                        0x0a9c9398                                         
+RefreshPolicyInternal                                                                                0x8dfb9741                                         
+RefreshPolicyInternalWorker                                                                          0xd6a40a7b                                         
+RegisterGPNotificationInternal                                                                       0x77de2345                                         
+RegisterGPNotificationInternalWorker                                                                 0x2f28897f                                         
+RsopLoggingEnabledInternal                                                                           0x58af35b8                                         
+RsopLoggingEnabledInternalWorker                                                                     0xd5686632                                         
+UnregisterGPNotificationInternal                                                                     0x145b3f48                                         
+UnregisterGPNotificationInternalWorker                                                               0xbaf95bc2                                         
+WaitForMachinePolicyForegroundProcessingInternal                                                     0x3634ffbb                                         
+WaitForMachinePolicyForegroundProcessingInternalWorker                                               0x5d8c6675                                         
+WaitForUserPolicyForegroundProcessingInternal                                                        0x5c39e325                                         
+WaitForUserPolicyForegroundProcessingInternalWorker                                                  0xba0cb15f                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

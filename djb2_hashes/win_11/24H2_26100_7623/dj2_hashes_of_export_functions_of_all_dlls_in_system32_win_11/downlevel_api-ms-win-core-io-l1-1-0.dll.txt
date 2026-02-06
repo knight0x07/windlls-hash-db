@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-io-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CancelIoEx                                                                                           0xa40ceac0                                         
+CreateIoCompletionPort                                                                               0x825d7290                                         
+DeviceIoControl                                                                                      0x059440ce                                         
+GetOverlappedResult                                                                                  0x71d7cf76                                         
+GetQueuedCompletionStatus                                                                            0xf80f04cc                                         
+GetQueuedCompletionStatusEx                                                                          0x37e37129                                         
+PostQueuedCompletionStatus                                                                           0x735f0c32                                         

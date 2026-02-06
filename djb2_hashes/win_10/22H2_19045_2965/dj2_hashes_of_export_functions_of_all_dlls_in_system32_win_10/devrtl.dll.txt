@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\devrtl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DevRtlCloseTextLogSection                                                                            0x167fb0e8                                         
+DevRtlCreateTextLogSectionA                                                                          0xbd2064e7                                         
+DevRtlCreateTextLogSectionW                                                                          0xbd2064fd                                         
+DevRtlGetThreadLogToken                                                                              0x16dc6cd1                                         
+DevRtlSetThreadLogToken                                                                              0xf91304dd                                         
+DevRtlWriteTextLog                                                                                   0xb231d848                                         
+DevRtlWriteTextLogError                                                                              0x402d56f2                                         
+NdxTableAddObject                                                                                    0x4ee3d037                                         
+NdxTableAddObjectToList                                                                              0x54384cf6                                         
+NdxTableClose                                                                                        0x906bcc2d                                         
+NdxTableFirstObject                                                                                  0x08978eb6                                         
+NdxTableFirstObjectInList                                                                            0x17abd749                                         
+NdxTableGetObjectName                                                                                0x23546ecf                                         
+NdxTableGetObjectType                                                                                0x23581f90                                         
+NdxTableGetObjectTypeCount                                                                           0x9f25a1b9                                         
+NdxTableGetObjectTypeName                                                                            0x4aa9d831                                         
+NdxTableGetPropertyTypeClass                                                                         0x1e7e0cb4                                         
+NdxTableGetPropertyTypeCount                                                                         0x1e800647                                         
+NdxTableGetPropertyTypeName                                                                          0xc2e2e2ff                                         
+NdxTableGetPropertyValue                                                                             0x69655879                                         
+NdxTableNextObject                                                                                   0x3cd30ced                                         
+NdxTableObjectFromName                                                                               0x745139e3                                         
+NdxTableObjectFromPointer                                                                            0x38ca4da3                                         
+NdxTableOpen                                                                                         0x78c41709                                         
+NdxTableRemoveObject                                                                                 0xb47d365c                                         
+NdxTableRemoveObjectFromList                                                                         0xea479d4c                                         
+NdxTableSetObjectPointer                                                                             0xdc70319b                                         
+NdxTableSetPropertyValue                                                                             0xfbe31f05                                         
+NdxTableSetTypeDefinition                                                                            0x147d9e6e                                         

@@ -1,0 +1,52 @@
+DLL Path: C:\Windows\System32\StorageUsage.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseFindStorage                                                                                     0xfd1484f1                                         
+CloseFindStorageSearch                                                                               0xc3f1afa7                                         
+DismountVolume                                                                                       0x510f5fb0                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+FinalizeVolume                                                                                       0xa0edeccf                                         
+FindNextStorageType                                                                                  0x8333291c                                         
+FindNextStorageTypeEx                                                                                0x1ca1e979                                         
+FindNextStorageTypeExAsync                                                                           0xca5516b7                                         
+FormatVolume                                                                                         0x2b185226                                         
+GetAppSize                                                                                           0xf06e68e1                                         
+GetLastFailedSaveLocationPath                                                                        0x11dd4dd3                                         
+GetStorageDebugInfo                                                                                  0x383c7e8d                                         
+GetStorageDeviceInfo                                                                                 0x11c7fb96                                         
+GetStorageExecutionInfo                                                                              0xc319de9a                                         
+GetStorageInstanceCount                                                                              0x1b6feef8                                         
+GetStorageInstanceCountForMaps                                                                       0x33d270b0                                         
+GetStoragePolicySettings                                                                             0x1ddc6e3b                                         
+GetStorageSettings                                                                                   0x0b3e23ab                                         
+GetStorageStateName                                                                                  0x93f187dc                                         
+GetStorageUsageInfo                                                                                  0x7252fd5b                                         
+GetTopFolders                                                                                        0x77cad507                                         
+MIDL_user_allocate                                                                                   0x7a52738d                                         
+MIDL_user_free                                                                                       0x66f0cc8a                                         
+MountVolume                                                                                          0x3c1f5e70                                         
+MoveFileInheritSecurityW                                                                             0x2ccdb01e                                         
+OpenStorageTypeSearch                                                                                0x63e2c044                                         
+PredictStorageHealth                                                                                 0x4854887b                                         
+ProcessStorageCardChange                                                                             0x00fcb4f9                                         
+ProvisionForAppInstall                                                                               0xcfb8c04d                                         
+RebootToFlashingMode                                                                                 0xdb248244                                         
+RebootToUosFlashing                                                                                  0x8ef34696                                         
+ResetPhoneEx                                                                                         0x80b893bf                                         
+ResetStoragePolicySettings                                                                           0xa1b0121e                                         
+ScanVolume                                                                                           0xfa63e3a2                                         
+SelectStorageVolume                                                                                  0x26c5df92                                         
+SelectStorageVolumeEx                                                                                0xefbc156f                                         
+SetStoragePolicySettings                                                                             0xd0ce00c7                                         
+SetStorageSettings                                                                                   0x3447bd37                                         
+TriggerBlinkCleanup                                                                                  0x502f1071                                         
+TriggerDownloadsCleanup                                                                              0x4df3d04c                                         
+TriggerLowStorageNotification                                                                        0x66ff3a67                                         
+TriggerStorageCleanup                                                                                0x60a05c96                                         
+TriggerStoragePolicies                                                                               0x6bd11946                                         
+TriggerStorageTypeRefresh                                                                            0x6cf469ff                                         
+TriggerTempFileCleanup                                                                               0xe2801617                                         

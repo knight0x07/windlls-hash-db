@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\aeinv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateAppxPackageInventory                                                                           0xa9c6bbcc                                         
+CreateAppxPackageInventoryExtracted                                                                  0x0fbe2c70                                         
+CreateSoftwareInventory                                                                              0x7590d952                                         
+GetAppInfo                                                                                           0xf068ffd2                                         
+GetAppInventory                                                                                      0xef13f394                                         
+GetCachedAppInventory                                                                                0xa19c4bac                                         
+GetDetailedAppInventory                                                                              0x325014f0                                         
+GetDetailedAppInventoryFile                                                                          0x55593c70                                         
+UpdateSoftwareInventoryW                                                                             0xb0fed798                                         

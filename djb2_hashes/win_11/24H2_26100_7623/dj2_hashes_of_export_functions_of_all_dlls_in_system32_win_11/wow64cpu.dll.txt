@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\wow64cpu.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BTCpuGetBopCode                                                                                      0x4bb6833f                                         
+BTCpuGetContext                                                                                      0x98a745a8                                         
+BTCpuProcessInit                                                                                     0xdde9ecb6                                         
+BTCpuResetToConsistentState                                                                          0xa3522d94                                         
+BTCpuSetContext                                                                                      0xc9261334                                         
+BTCpuSimulate                                                                                        0x0ed854a7                                         
+BTCpuThreadInit                                                                                      0x69e9c16f                                         
+BTCpuTurboThunkControl                                                                               0xbbd51c5a                                         
+TurboDispatchJumpAddressEnd                                                                          0x2a91069a                                         
+TurboDispatchJumpAddressStart                                                                        0x13edb8d1                                         

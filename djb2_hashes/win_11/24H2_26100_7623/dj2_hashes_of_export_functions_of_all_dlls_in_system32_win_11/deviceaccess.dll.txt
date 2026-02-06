@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\deviceaccess.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BrokeredOpenCommPort                                                                                 0xe33cfc56                                         
+CreateDeviceAccessInstance                                                                           0xca0a7e30                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ProcessTrackerInsertOrWait                                                                           0x70c5c97b                                         
+ProcessTrackerRemove                                                                                 0xe4e9f8de                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

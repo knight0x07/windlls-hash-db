@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\linkinfo.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CompareLinkInfoReferents                                                                             0xe0220e54                                         
+CompareLinkInfoVolumes                                                                               0x0b7d2cd1                                         
+CreateLinkInfo                                                                                       0x470de1d3                                         
+CreateLinkInfoA                                                                                      0x28ca1c74                                         
+CreateLinkInfoW                                                                                      0x28ca1c8a                                         
+DestroyLinkInfo                                                                                      0x1f9b7309                                         
+DisconnectLinkInfo                                                                                   0x01335029                                         
+GetCanonicalPathInfo                                                                                 0x5910c186                                         
+GetCanonicalPathInfoA                                                                                0x7b28f287                                         
+GetCanonicalPathInfoW                                                                                0x7b28f29d                                         
+GetLinkInfoData                                                                                      0x4968ead9                                         
+IsValidLinkInfo                                                                                      0x270ed16b                                         
+ResolveLinkInfo                                                                                      0xfb2784ff                                         
+ResolveLinkInfoA                                                                                     0x60182520                                         
+ResolveLinkInfoW                                                                                     0x60182536                                         

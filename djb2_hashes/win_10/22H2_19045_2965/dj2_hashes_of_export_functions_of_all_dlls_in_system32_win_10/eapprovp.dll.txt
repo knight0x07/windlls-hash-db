@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\eapprovp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EapProvPlugGetInfo                                                                                   0xe3e2ea86                                         
+EapProvPluginDeinitialize                                                                            0x3d9b9ccc                                         
+EapProvPluginInitialize                                                                              0x9b22b003                                         
+EapProvPluginTestForAuthenticatingWlanInterfaces                                                     0xe8f19106                                         
+EapProvPluginWlanCloseHandle                                                                         0xb5b0efa5                                         
+EapProvPluginWlanOpenHandle                                                                          0xc4d0da01                                         
+EapProvPluginWlanRegisterNotification                                                                0x6e86752f                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\eapputil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+EapConvertHostToWireFormat16                                                                         0x71a6c684                                         
+EapConvertHostToWireFormat24                                                                         0x71a6c6a3                                         
+EapConvertHostToWireFormat32                                                                         0x71a6c6c2                                         
+EapConvertWireToHostFormat16                                                                         0x6fb1dd44                                         
+EapConvertWireToHostFormat24                                                                         0x6fb1dd63                                         
+EapConvertWireToHostFormat32                                                                         0x6fb1dd82                                         
+EapUseLegacyTlsStack                                                                                 0x54419a06                                         

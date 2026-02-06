@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\httpprxc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ProxyHelperClientAllocateMemory                                                                      0x8042a404                                         
+ProxyHelperClientConnectToServer                                                                     0x5fd0f2aa                                         
+ProxyHelperClientDisconnectFromServer                                                                0x463027fb                                         
+ProxyHelperClientFreeMemory                                                                          0x2a7d57c1                                         
+ProxyHelperClientGetAllProxiesForUrl                                                                 0x0997c003                                         
+ProxyHelperClientGetProxyCredentials                                                                 0x6935de96                                         
+ProxyHelperClientGetProxyForUrl                                                                      0x59ef9ce2                                         
+ProxyHelperClientInitialize                                                                          0xd9639498                                         
+ProxyHelperClientRegisterForEventNotification                                                        0x35437e5b                                         
+ProxyHelperClientUninitialize                                                                        0x00138d5b                                         
+ProxyHelperClientUnregisterEventNotification                                                         0xcbd9b537                                         

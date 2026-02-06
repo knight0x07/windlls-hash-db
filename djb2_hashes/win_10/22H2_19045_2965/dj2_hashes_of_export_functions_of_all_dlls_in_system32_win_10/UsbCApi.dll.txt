@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\UsbCApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+UsbCApi_DeregisterConsumer                                                                           0x60cdce65                                         
+UsbCApi_FreeProviders                                                                                0x6534dccb                                         
+UsbCApi_GetConnectorProperties                                                                       0x1c46eaa3                                         
+UsbCApi_GetConnectorState                                                                            0x39069ed7                                         
+UsbCApi_GetProviderInformation                                                                       0xddc2db3c                                         
+UsbCApi_GetProviders                                                                                 0xdc3bcbc9                                         
+UsbCApi_IsEqualChangeStamps                                                                          0xba9ba4dd                                         
+UsbCApi_RegisterConsumer                                                                             0x5152b85c                                         
+UsbCApi_SetConnectorDataRole                                                                         0x68b9a22e                                         
+UsbCApi_SetConnectorPowerRole                                                                        0xd3d36841                                         

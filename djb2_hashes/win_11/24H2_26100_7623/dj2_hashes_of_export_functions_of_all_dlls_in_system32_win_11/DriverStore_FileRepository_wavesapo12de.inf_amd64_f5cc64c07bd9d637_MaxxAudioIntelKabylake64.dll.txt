@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\MaxxAudioIntelKabylake64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WavesFX_GetParameter                                                                                 0xcf1ba1e9                                         
+WavesFX_Initialize                                                                                   0x9434eefa                                         
+WavesFX_IsConnectionActive                                                                           0x6ea6b810                                         
+WavesFX_SetChunk                                                                                     0x8021714d                                         
+WavesFX_SetParameter                                                                                 0x1a840275                                         
+WavesFX_SetParametersArray                                                                           0x21753467                                         
+WavesFX_Uninitialize                                                                                 0xb4a5083d                                         

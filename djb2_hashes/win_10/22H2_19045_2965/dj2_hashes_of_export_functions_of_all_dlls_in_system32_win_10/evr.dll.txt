@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\evr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+MFConvertColorInfoFromDXVA                                                                           0x4674ad2b                                         
+MFConvertColorInfoToDXVA                                                                             0x9fd420ba                                         
+MFConvertFromFP16Array                                                                               0x6a92fd69                                         
+MFConvertToFP16Array                                                                                 0x3e932918                                         
+MFCopyImage                                                                                          0xdd6e1136                                         
+MFCreateDXSurfaceBuffer                                                                              0x960380ab                                         
+MFCreateVideoMediaType                                                                               0xec6812e5                                         
+MFCreateVideoMediaTypeFromBitMapInfoHeader                                                           0x92f1eeab                                         
+MFCreateVideoMediaTypeFromSubtype                                                                    0xacf28085                                         
+MFCreateVideoMediaTypeFromVideoInfoHeader                                                            0x96965725                                         
+MFCreateVideoMediaTypeFromVideoInfoHeader2                                                           0x69613bf7                                         
+MFCreateVideoMixer                                                                                   0x1d702e28                                         
+MFCreateVideoMixerAndPresenter                                                                       0x9e513f13                                         
+MFCreateVideoOTA                                                                                     0x6cde4607                                         
+MFCreateVideoPresenter                                                                               0xadd9959b                                         
+MFCreateVideoPresenter2                                                                              0x690c492d                                         
+MFCreateVideoSampleAllocator                                                                         0x0e9ac906                                         
+MFCreateVideoSampleFromSurface                                                                       0xb74bc1c2                                         
+MFGetPlaneSize                                                                                       0xddf4aaa3                                         
+MFGetStrideForBitmapInfoHeader                                                                       0x245b5f9c                                         
+MFGetUncompressedVideoFormat                                                                         0xb6dbe150                                         
+MFInitVideoFormat                                                                                    0xf276f98c                                         
+MFInitVideoFormat_RGB                                                                                0xe1665dc6                                         
+MFIsFormatYUV                                                                                        0x1eab93e1                                         

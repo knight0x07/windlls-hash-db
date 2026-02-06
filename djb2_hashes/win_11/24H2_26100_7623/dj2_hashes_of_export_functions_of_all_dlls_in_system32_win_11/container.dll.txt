@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\container.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?AddRuntimeVirtualKeysToContainer@container@@YAXPEAXKPEAU_WC_VKEY_INFO@@@Z                           0xbbd330cf                                         
+?CleanupContainer@container@@YAXPEAXPEBG@Z                                                           0xf5c65cea                                         
+?CleanupFilesystemNamespace@container@@YAXPEAXPEBG@Z                                                 0xa5600059                                         
+?CreateContainer@container@@YAXPEAXAEBUContainer@Definition@Containers@Schema@@_N@Z                  0x318c6795                                         
+?GetComRegistryRoot@container@@YAPEAXPEAX@Z                                                          0x56347213                                         
+?GetContainerIdentifierString@container@@YA?AV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@PEAX@Z 0x94b4bb1a                                         
+?GetContainerObjectRootPath@container@@YAXPEAXAEAV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@@Z 0x671b58a7                                         
+?GetRegistryRootPath@container@@YAXPEAXAEBV?$basic_string@GU?$char_traits@G@std@@V?$allocator@G@2@@std@@AEAV23@@Z 0x4d474989                                         
+?IsContainerQuiescent@container@@YAEPEAX@Z                                                           0xa0188cde                                         
+?IsFirstBoot@container@@YAEPEAX@Z                                                                    0x5d985c66                                         
+?LaunchApplicationContainer@container@@YAPEAXPEAXPEBGK@Z                                             0x344923d2                                         
+?LaunchContainer@container@@YAXPEAX0@Z                                                               0x4cb6ebef                                         
+?RegisterForContainerTerminationNotification@container@@YAPEAU_WC_CONTAINER_NOTIFICATION@@PEAXP6AX0W4_WC_CONTAINER_TERMINATION_REASON@@PEAU2@0@Z0@Z 0x8a946291                                         
+?ReleaseContainerTerminationNotification@container@@YAXPEAU_WC_CONTAINER_NOTIFICATION@@@Z            0x8bdd1674                                         
+?SetRegistryFlushState@container@@YAXPEAXE@Z                                                         0x03c7c38e                                         
+?SetupFilesystemNamespace@container@@YAXPEAXAEBUFilesystemNamespace@Definition@Containers@Schema@@@Z 0x32504923                                         
+?ShutdownAppContainer@container@@YA_NPEAX@Z                                                          0xfde16636                                         
+?WaitForContainerTerminationNotification@container@@YAXPEAU_WC_CONTAINER_NOTIFICATION@@@Z            0x9bc651ef                                         
+WcAddRuntimeVirtualKeysToContainer                                                                   0xc36a6135                                         
+WcCleanupContainer                                                                                   0x70b4792a                                         
+WcCleanupFilesystemNamespace                                                                         0x80218379                                         
+WcCreateContainer                                                                                    0x2f52df16                                         
+WcCreateDescriptionFromXml                                                                           0xd1ac233c                                         
+WcDestroyDescription                                                                                 0xfc2f054d                                         
+WcGetComRegistryRoot                                                                                 0xec3531fb                                         
+WcGetContainerIdentifier                                                                             0x8a608c45                                         
+WcGetContainerObjectRootPath                                                                         0xdaec358a                                         
+WcGetContainerRegistryRootPath                                                                       0x03a0fc0c                                         
+WcGetContainerServiceSessionId                                                                       0x252ac9a4                                         
+WcIsContainerQuiescent                                                                               0x509a48ef                                         
+WcIsFirstBoot                                                                                        0x49a44517                                         
+WcLaunchApplicationContainer                                                                         0x12a81071                                         
+WcLaunchContainer                                                                                    0xa0d5e73d                                         
+WcRegisterForContainerTerminationNotification                                                        0xdc8c5a3f                                         
+WcReleaseContainerTerminationNotification                                                            0x8b1eb5d4                                         
+WcSetRegistryFlushState                                                                              0xcf3bea47                                         
+WcSetupFilesystemNamespace                                                                           0x530348a2                                         
+WcShutdownAppContainer                                                                               0xdb9fa5df                                         
+WcWaitForContainerTerminationNotification                                                            0x81086bef                                         

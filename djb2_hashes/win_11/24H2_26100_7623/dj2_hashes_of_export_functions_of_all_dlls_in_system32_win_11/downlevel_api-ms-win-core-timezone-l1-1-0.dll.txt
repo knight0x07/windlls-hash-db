@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-timezone-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EnumDynamicTimeZoneInformation                                                                       0xa1738b70                                         
+FileTimeToSystemTime                                                                                 0x1fb7928b                                         
+GetDynamicTimeZoneInformation                                                                        0x6b0cc07b                                         
+GetDynamicTimeZoneInformationEffectiveYears                                                          0x3954c4b0                                         
+GetTimeZoneInformation                                                                               0x0ced1f16                                         
+GetTimeZoneInformationForYear                                                                        0xfe5736ae                                         
+SetDynamicTimeZoneInformation                                                                        0x745bca87                                         
+SetTimeZoneInformation                                                                               0x6d009ea2                                         
+SystemTimeToFileTime                                                                                 0xbc59c04b                                         
+SystemTimeToTzSpecificLocalTime                                                                      0x99a3156a                                         
+SystemTimeToTzSpecificLocalTimeEx                                                                    0x8ebe2147                                         
+TzSpecificLocalTimeToSystemTime                                                                      0xfaf4528a                                         
+TzSpecificLocalTimeToSystemTimeEx                                                                    0x89532667                                         

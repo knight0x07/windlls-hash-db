@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\FXSCOMPOSE.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+FaxComposeFreeBuffer                                                                                 0x77c94f96                                         
+HrAddressBookPreTranslateAccelerator                                                                 0xc3a47c8a                                         
+HrDeInitAddressBook                                                                                  0x24c40a4d                                         
+HrDeinitComposeFormDll                                                                               0xe50a8ce2                                         
+HrFaxComposePreTranslateAccelerator                                                                  0xda999dce                                         
+HrFreeDraftsListViewInfo                                                                             0x04f7d508                                         
+HrGetDraftsListViewInfo                                                                              0x45c42b46                                         
+HrInitAddressBook                                                                                    0x8f400c84                                         
+HrInitComposeFormDll                                                                                 0x4c793399                                         
+HrInvokeAddressBook                                                                                  0x202de81c                                         
+HrNewFaxComposeUI                                                                                    0xca1991dc                                         
+HrNewFaxComposeUIFromFile                                                                            0x56442d90                                         
+HrNewTiffViewUIFromFile                                                                              0x8931cc5f                                         
+HrSelectEmailRecipient                                                                               0xb38bb44a                                         

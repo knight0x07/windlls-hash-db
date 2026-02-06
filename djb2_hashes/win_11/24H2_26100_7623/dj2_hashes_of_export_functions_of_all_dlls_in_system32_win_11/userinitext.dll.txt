@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\userinitext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateExplorerSessionKey                                                                             0xd58c7b97                                         
+DisplayMessageAndExitWindows                                                                         0x5af677f8                                         
+ImmWorker                                                                                            0x5b360c62                                         
+IsSubDesktopSession                                                                                  0xad5a3589                                         
+IsTSAppCompatOn                                                                                      0x842df74a                                         
+LoadRemoteFontsAndInitMiscWorker                                                                     0x6dc7c688                                         
+PerformXForestLogonCheck                                                                             0xe86d8968                                         
+ProcesRemoteSessionInitialCommand                                                                    0xc3a6628a                                         
+ProcessTermSrvIniFiles                                                                               0xd3de492a                                         
+SetShellDesktopSwitchEvent                                                                           0xbbc51857                                         
+SetupHotKeyForKeyboardLayout                                                                         0xd16df9c0                                         
+UserinitExt                                                                                          0xc941c889                                         

@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\efsext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EdpPlatform_QueryUserSessionState                                                                    0x133b777c                                         
+EdpPlatform_RegisterUserSessionNotification                                                          0x92fffc11                                         
+EdpPlatform_ShowDialog                                                                               0x01b3b413                                         
+EdpPlatform_ShowUI                                                                                   0x3ab79341                                         
+EdpPlatform_UnregisterUserSessionNotification                                                        0x420bcbb4                                         
+EfsPlatform_GetCallerID                                                                              0xcd5c1be7                                         
+EfsPlatform_IsCallerAutomaticallyDelegated                                                           0x43f636ce                                         
+EfsPlatform_LaunchPromptUI                                                                           0xf4beed02                                         
+EfsPlatform_SuspendNotificationsAndEncryptFile                                                       0x3db74f1b                                         
+EfsPlatform_UnpackSecurePin                                                                          0x2472f257                                         
+FVE_LaunchConsentPromptUI                                                                            0xf3ce48ba                                         
+FVE_LaunchSDCardUI                                                                                   0x98b81e0f                                         

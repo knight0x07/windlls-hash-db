@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-security-cryptoapi-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CryptAcquireContextA                                                                                 0x9fe6f447                                         
+CryptAcquireContextW                                                                                 0x9fe6f45d                                         
+CryptContextAddRef                                                                                   0x77379882                                         
+CryptCreateHash                                                                                      0x78b29a6f                                         
+CryptDecrypt                                                                                         0xde32a452                                         
+CryptDeriveKey                                                                                       0xa2db2fdf                                         
+CryptDestroyHash                                                                                     0x485206e5                                         
+CryptDestroyKey                                                                                      0x30bcb82a                                         
+CryptDuplicateHash                                                                                   0x07a29696                                         
+CryptDuplicateKey                                                                                    0xd97195bb                                         
+CryptEncrypt                                                                                         0x402b4ebc                                         
+CryptEnumProviderTypesA                                                                              0xcc55fe2d                                         
+CryptEnumProviderTypesW                                                                              0xcc55fe43                                         
+CryptEnumProvidersA                                                                                  0x84dbf8cb                                         
+CryptEnumProvidersW                                                                                  0x84dbf8e1                                         
+CryptExportKey                                                                                       0x1404bf82                                         
+CryptGenKey                                                                                          0x996379ba                                         
+CryptGenRandom                                                                                       0x954a41d2                                         
+CryptGetDefaultProviderA                                                                             0x41c94348                                         
+CryptGetDefaultProviderW                                                                             0x41c9435e                                         
+CryptGetHashParam                                                                                    0x4086fd4c                                         
+CryptGetKeyParam                                                                                     0xa2200ef1                                         
+CryptGetProvParam                                                                                    0x8188ee0f                                         
+CryptGetUserKey                                                                                      0xd86d41ff                                         
+CryptHashData                                                                                        0x4625d495                                         
+CryptHashSessionKey                                                                                  0x1ec4ce28                                         
+CryptImportKey                                                                                       0xbf225ddb                                         
+CryptReleaseContext                                                                                  0x10d332fd                                         
+CryptSetHashParam                                                                                    0x8bef5dd8                                         
+CryptSetKeyParam                                                                                     0xe2788dfd                                         
+CryptSetProvParam                                                                                    0xccf14e9b                                         
+CryptSetProviderA                                                                                    0xceb7230f                                         
+CryptSetProviderExA                                                                                  0x590c438c                                         
+CryptSetProviderExW                                                                                  0x590c43a2                                         
+CryptSetProviderW                                                                                    0xceb72325                                         
+CryptSignHashA                                                                                       0xe0d462ed                                         
+CryptSignHashW                                                                                       0xe0d46303                                         
+CryptVerifySignatureA                                                                                0xed92c5ff                                         
+CryptVerifySignatureW                                                                                0xed92c615                                         

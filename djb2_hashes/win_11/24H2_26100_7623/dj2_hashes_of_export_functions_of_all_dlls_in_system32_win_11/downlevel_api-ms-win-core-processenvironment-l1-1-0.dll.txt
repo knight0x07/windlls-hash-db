@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-processenvironment-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ExpandEnvironmentStringsA                                                                            0x74874945                                         
+ExpandEnvironmentStringsW                                                                            0x7487495b                                         
+FreeEnvironmentStringsA                                                                              0x38d10c27                                         
+FreeEnvironmentStringsW                                                                              0x38d10c3d                                         
+GetCommandLineA                                                                                      0xb511fc4d                                         
+GetCommandLineW                                                                                      0xb511fc63                                         
+GetCurrentDirectoryA                                                                                 0x2ced73de                                         
+GetCurrentDirectoryW                                                                                 0x2ced73f4                                         
+GetEnvironmentStrings                                                                                0xc43864a4                                         
+GetEnvironmentStringsW                                                                               0x4b44f97b                                         
+GetEnvironmentVariableA                                                                              0x87889701                                         
+GetEnvironmentVariableW                                                                              0x87889717                                         
+GetStdHandle                                                                                         0xf178843c                                         
+SearchPathW                                                                                          0xd6583fdf                                         
+SetCurrentDirectoryA                                                                                 0xbec3a06a                                         
+SetCurrentDirectoryW                                                                                 0xbec3a080                                         
+SetEnvironmentStringsW                                                                               0xab587907                                         
+SetEnvironmentVariableA                                                                              0xea0c080d                                         
+SetEnvironmentVariableW                                                                              0xea0c0823                                         
+SetStdHandle                                                                                         0x3ce0e4c8                                         
+SetStdHandleEx                                                                                       0xf8ad4025                                         

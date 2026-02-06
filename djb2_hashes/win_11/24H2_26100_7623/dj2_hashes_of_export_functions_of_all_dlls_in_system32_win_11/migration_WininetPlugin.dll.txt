@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\migration\WininetPlugin.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EnumerateCacheEntriesFromIndexDatFile                                                                0x66e0789e                                         
+EnumerateNewCacheForCurrentUser                                                                      0x2bd65ab2                                         
+EnumerateOldCacheForCurrentUser                                                                      0xaef50da7                                         
+MigrateCacheForCurrentUser                                                                           0x855e8dcb                                         
+MigrateCacheForUser                                                                                  0x215cb768                                         

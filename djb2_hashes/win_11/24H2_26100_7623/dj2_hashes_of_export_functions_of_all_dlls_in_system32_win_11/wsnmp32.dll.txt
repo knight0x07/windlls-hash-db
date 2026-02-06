@@ -1,0 +1,55 @@
+DLL Path: C:\Windows\System32\wsnmp32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SnmpCancelMsg                                                                                        0xc1ce7d10                                         
+SnmpCleanup                                                                                          0x0391f18b                                         
+SnmpCleanupEx                                                                                        0x2fd489a8                                         
+SnmpClose                                                                                            0x0b85d559                                         
+SnmpContextToStr                                                                                     0x57807324                                         
+SnmpConveyAgentAddress                                                                               0x44b54cec                                         
+SnmpCountVbl                                                                                         0x82ff66d0                                         
+SnmpCreatePdu                                                                                        0xb9c2cfc0                                         
+SnmpCreateSession                                                                                    0x63853a9b                                         
+SnmpCreateVbl                                                                                        0xb9c2e8fb                                         
+SnmpDecodeMsg                                                                                        0xb4799dae                                         
+SnmpDeleteVb                                                                                         0x57d9d02e                                         
+SnmpDuplicatePdu                                                                                     0x433d8387                                         
+SnmpDuplicateVbl                                                                                     0x433d9cc2                                         
+SnmpEncodeMsg                                                                                        0x77468a98                                         
+SnmpEntityToStr                                                                                      0x9493415c                                         
+SnmpFreeContext                                                                                      0xd468996a                                         
+SnmpFreeDescriptor                                                                                   0xc4a4cb24                                         
+SnmpFreeEntity                                                                                       0xc539a862                                         
+SnmpFreePdu                                                                                          0xf8814b4e                                         
+SnmpFreeVbl                                                                                          0xf8816489                                         
+SnmpGetLastError                                                                                     0x9784c841                                         
+SnmpGetPduData                                                                                       0xaefb1c86                                         
+SnmpGetRetransmitMode                                                                                0xb57ccdf1                                         
+SnmpGetRetry                                                                                         0x2de8cc19                                         
+SnmpGetTimeout                                                                                       0xee0f6aea                                         
+SnmpGetTranslateMode                                                                                 0x76bc4e36                                         
+SnmpGetVb                                                                                            0x0bca723b                                         
+SnmpGetVendorInfo                                                                                    0x776e74bd                                         
+SnmpListen                                                                                           0x910adad2                                         
+SnmpListenEx                                                                                         0xff2ce0af                                         
+SnmpOidCompare                                                                                       0x0d9f2106                                         
+SnmpOidCopy                                                                                          0x982ac87a                                         
+SnmpOidToStr                                                                                         0x9eb6fcbb                                         
+SnmpOpen                                                                                             0x2eebaab5                                         
+SnmpRecvMsg                                                                                          0x75ce2aba                                         
+SnmpRegister                                                                                         0x3811c0c8                                         
+SnmpSendMsg                                                                                          0xc3859634                                         
+SnmpSetAgentAddress                                                                                  0x43282324                                         
+SnmpSetPduData                                                                                       0xdf79ea12                                         
+SnmpSetPort                                                                                          0xc3e7c234                                         
+SnmpSetRetransmitMode                                                                                0x97b365fd                                         
+SnmpSetRetry                                                                                         0x40fec6a5                                         
+SnmpSetTimeout                                                                                       0x1e8e3876                                         
+SnmpSetTranslateMode                                                                                 0x093a14c2                                         
+SnmpSetVb                                                                                            0x0ca39847                                         
+SnmpStartup                                                                                          0xe5a00c96                                         
+SnmpStartupEx                                                                                        0xcdd59373                                         
+SnmpStrToContext                                                                                     0xc31571a4                                         
+SnmpStrToEntity                                                                                      0xb52f615c                                         
+SnmpStrToOid                                                                                         0xbf2712db                                         

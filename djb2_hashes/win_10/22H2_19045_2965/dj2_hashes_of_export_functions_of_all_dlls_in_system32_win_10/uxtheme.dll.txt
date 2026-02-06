@@ -1,0 +1,197 @@
+DLL Path: C:\Windows\System32\uxtheme.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BeginBufferedAnimation                                                                               0xed7026ad                                         
+BeginBufferedPaint                                                                                   0x14bf5aa9                                         
+BeginPanningFeedback                                                                                 0x297c2bba                                         
+BufferedPaintClear                                                                                   0x5f01378b                                         
+BufferedPaintInit                                                                                    0x67bd8b58                                         
+BufferedPaintRenderAnimation                                                                         0x2f0b2a24                                         
+BufferedPaintSetAlpha                                                                                0x73d4a5b6                                         
+BufferedPaintStopAllAnimations                                                                       0x39f87416                                         
+BufferedPaintUnInit                                                                                  0x693a113b                                         
+CloseThemeData                                                                                       0x5c7db1a8                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DrawThemeBackground                                                                                  0xa069fc86                                         
+DrawThemeBackgroundEx                                                                                0x62db3f63                                         
+DrawThemeEdge                                                                                        0x4f7ea11b                                         
+DrawThemeIcon                                                                                        0x4f80cf6f                                         
+DrawThemeParentBackground                                                                            0xefc54830                                         
+DrawThemeParentBackgroundEx                                                                          0xf6381d8d                                         
+DrawThemeText                                                                                        0x4f86e14b                                         
+DrawThemeTextEx                                                                                      0x4cc46968                                         
+EnableThemeDialogTexture                                                                             0x333ae7e0                                         
+EnableTheming                                                                                        0x84e59838                                         
+EndBufferedAnimation                                                                                 0xc3d4201f                                         
+EndBufferedPaint                                                                                     0x630c6b1b                                         
+EndPanningFeedback                                                                                   0x3f4f20ac                                         
+GetBufferedPaintBits                                                                                 0xdd5b6636                                         
+GetBufferedPaintDC                                                                                   0xcda9572b                                         
+GetBufferedPaintTargetDC                                                                             0x7bf48472                                         
+GetBufferedPaintTargetRect                                                                           0x4b2fb419                                         
+GetColorFromPreference                                                                               0x98686877                                         
+GetCurrentThemeName                                                                                  0x50977cbc                                         
+GetImmersiveColorFromColorSetEx                                                                      0x62f99611                                         
+GetImmersiveUserColorSetPreference                                                                   0x02190bdf                                         
+GetThemeAnimationProperty                                                                            0xd2bed35d                                         
+GetThemeAnimationTransform                                                                           0xc3280bf4                                         
+GetThemeAppProperties                                                                                0x25d1aac6                                         
+GetThemeBackgroundContentRect                                                                        0xc327e5e1                                         
+GetThemeBackgroundExtent                                                                             0xbbb1a790                                         
+GetThemeBackgroundRegion                                                                             0xd8a5d65c                                         
+GetThemeBitmap                                                                                       0xee2da455                                         
+GetThemeBool                                                                                         0xf6588744                                         
+GetThemeColor                                                                                        0xc17b7c57                                         
+GetThemeDocumentationProperty                                                                        0x54d44557                                         
+GetThemeEnumValue                                                                                    0x7c150c0a                                         
+GetThemeFilename                                                                                     0xcdfc4799                                         
+GetThemeFont                                                                                         0xf65ab8af                                         
+GetThemeInt                                                                                          0x07772983                                         
+GetThemeIntList                                                                                      0xda51adbf                                         
+GetThemeMargins                                                                                      0xefd22d29                                         
+GetThemeMetric                                                                                       0x078e177c                                         
+GetThemePartSize                                                                                     0xafbc6b2a                                         
+GetThemePosition                                                                                     0xe70befed                                         
+GetThemePropertyOrigin                                                                               0xfde31145                                         
+GetThemeRect                                                                                         0xf6612146                                         
+GetThemeStream                                                                                       0x169b29c4                                         
+GetThemeString                                                                                       0x169b3c6f                                         
+GetThemeSysBool                                                                                      0xf5a950e3                                         
+GetThemeSysColor                                                                                     0xaae579d6                                         
+GetThemeSysColorBrush                                                                                0x7a53e4fa                                         
+GetThemeSysFont                                                                                      0xf5ab824e                                         
+GetThemeSysInt                                                                                       0x16f5bb42                                         
+GetThemeSysSize                                                                                      0xf5b28b32                                         
+GetThemeSysString                                                                                    0x2d44e9ce                                         
+GetThemeTextExtent                                                                                   0xdc8ede95                                         
+GetThemeTextMetrics                                                                                  0xa9f19d34                                         
+GetThemeTimingFunction                                                                               0xdbac8bc6                                         
+GetThemeTransitionDuration                                                                           0x2806ca49                                         
+GetUserColorPreference                                                                               0x2287cac2                                         
+GetWindowTheme                                                                                       0xc842e390                                         
+HitTestThemeBackground                                                                               0xe1abe95d                                         
+IsAppThemed                                                                                          0x2cfd99f9                                         
+IsCompositionActive                                                                                  0x9ab301b1                                         
+IsThemeActive                                                                                        0xfdd8d290                                         
+IsThemeBackgroundPartiallyTransparent                                                                0x059f67f8                                         
+IsThemeDialogTextureEnabled                                                                          0x26a1d620                                         
+IsThemePartDefined                                                                                   0x94d9079a                                         
+OpenThemeData                                                                                        0x47c07244                                         
+OpenThemeDataEx                                                                                      0x39a61ca1                                         
+OpenThemeDataForDpi                                                                                  0xa4a78488                                         
+SetThemeAppProperties                                                                                0xf26d68d2                                         
+SetWindowTheme                                                                                       0x8f45971c                                         
+SetWindowThemeAttribute                                                                              0xce07e810                                         
+ThemeInitApiHook                                                                                     0xc14ba097                                         
+UpdatePanningFeedback                                                                                0x17a40cb8                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

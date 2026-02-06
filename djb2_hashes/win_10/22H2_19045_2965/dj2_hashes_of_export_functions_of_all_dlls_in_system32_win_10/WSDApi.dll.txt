@@ -1,0 +1,50 @@
+DLL Path: C:\Windows\System32\WSDApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WSDAddFirewallCheck                                                                                  0x6fd5b770                                         
+WSDAllocateLinkedMemory                                                                              0xeb7ecf08                                         
+WSDAttachLinkedMemory                                                                                0x4d18e778                                         
+WSDCancelNetworkChangeNotify                                                                         0xbe98d7a2                                         
+WSDCompareEndpoints                                                                                  0x0339ca0e                                         
+WSDCopyEndpoint                                                                                      0x8a83622f                                         
+WSDCopyNameList                                                                                      0x0442f7cb                                         
+WSDCreateDeviceHost                                                                                  0x16e099b5                                         
+WSDCreateDeviceHost2                                                                                 0xf2f3d087                                         
+WSDCreateDeviceHostAdvanced                                                                          0xdb364e8b                                         
+WSDCreateDeviceProxy                                                                                 0xf3862979                                         
+WSDCreateDeviceProxy2                                                                                0x644b58cb                                         
+WSDCreateDeviceProxyAdvanced                                                                         0x3f41624f                                         
+WSDCreateDiscoveryProvider                                                                           0xd5f7ca0a                                         
+WSDCreateDiscoveryProvider2                                                                          0x94f10b7c                                         
+WSDCreateDiscoveryPublisher                                                                          0x59b6230d                                         
+WSDCreateDiscoveryPublisher2                                                                         0x907a84df                                         
+WSDCreateHttpAddress                                                                                 0x9843f42d                                         
+WSDCreateHttpMessageParameters                                                                       0x89331360                                         
+WSDCreateHttpTransport                                                                               0x5aa01214                                         
+WSDCreateMetadataAgent                                                                               0xf8b3c397                                         
+WSDCreateOutboundAttachment                                                                          0x2ecb7740                                         
+WSDCreateUdpAddress                                                                                  0x58cd3df6                                         
+WSDCreateUdpMessageParameters                                                                        0x6e75ec69                                         
+WSDCreateUdpTransport                                                                                0x62a2f21d                                         
+WSDDetachLinkedMemory                                                                                0x7c970fcc                                         
+WSDFreeLinkedMemory                                                                                  0xe88f5e05                                         
+WSDGenerateFault                                                                                     0x00f64f9a                                         
+WSDGenerateFaultEx                                                                                   0x17c8a777                                         
+WSDGenerateRandomDelay                                                                               0x1a07b5ce                                         
+WSDGetConfigurationOption                                                                            0x94356e24                                         
+WSDNotifyNetworkChange                                                                               0xd954e07c                                         
+WSDProcessFault                                                                                      0xb954a64e                                         
+WSDRemoveFirewallCheck                                                                               0xbb830875                                         
+WSDSetConfigurationOption                                                                            0xf448edb0                                         
+WSDUriDecode                                                                                         0x6674b2a7                                         
+WSDUriEncode                                                                                         0x696cb7d1                                         
+WSDXMLAddChild                                                                                       0x8c5dd931                                         
+WSDXMLAddSibling                                                                                     0xecb35675                                         
+WSDXMLBuildAnyForSingleElement                                                                       0x3ae968af                                         
+WSDXMLCleanupElement                                                                                 0x2ae88f96                                         
+WSDXMLCompareNames                                                                                   0xb58eac9f                                         
+WSDXMLCreateContext                                                                                  0x4d4c02bd                                         
+WSDXMLGetNameFromBuiltinNamespace                                                                    0x137b67dd                                         
+WSDXMLGetValueFromAny                                                                                0x985d93dd                                         
+[Function Ordinal Only]                                                                              NA                                                 

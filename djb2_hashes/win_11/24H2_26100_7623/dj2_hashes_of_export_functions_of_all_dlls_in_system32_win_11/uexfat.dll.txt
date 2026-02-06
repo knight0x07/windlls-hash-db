@@ -1,0 +1,40 @@
+DLL Path: C:\Windows\System32\uexfat.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CLUSTER_CHAIN@@QEAA@XZ                                                                            0xb09211e1                                         
+??0EXFATDIR@@QEAA@XZ                                                                                 0x1442be54                                         
+??0EXFAT_DIRENT@@QEAA@XZ                                                                             0xa13b95ba                                         
+??0EXFAT_SA@@QEAA@XZ                                                                                 0x2ed908e8                                         
+??0EXFAT_VOL@@QEAA@XZ                                                                                0x0d157425                                         
+??1CLUSTER_CHAIN@@UEAA@XZ                                                                            0xacb0a3a6                                         
+??1EXFATDIR@@UEAA@XZ                                                                                 0x3641d379                                         
+??1EXFAT_DIRENT@@UEAA@XZ                                                                             0x47d0d35f                                         
+??1EXFAT_SA@@UEAA@XZ                                                                                 0x50d81e0d                                         
+??1EXFAT_VOL@@UEAA@XZ                                                                                0xf1d8cd6a                                         
+?AllocChain@FAT@@QEAAKPEAVEXFATBITMAP@@KPEAK@Z                                                       0xed9e9497                                         
+?FreeChain@FAT@@QEAAXPEAVEXFATBITMAP@@K@Z                                                            0x7667fa7a                                         
+?Initialize@CLUSTER_CHAIN@@QEAAEPEAVMEM@@PEAVLOG_IO_DP_DRIVE@@PEAVEXFAT_SA@@PEBVFAT@@KKE@Z           0xbd7a12c7                                         
+?Initialize@EXFATDIR@@QEAAEPEAVHMEM@@PEAVLOG_IO_DP_DRIVE@@PEAVEXFAT_SA@@PEBVFAT@@K_KE@Z              0x6714c241                                         
+?Initialize@EXFAT_DIRENT@@QEAAEPEAVEXFAT_SA@@PEAXPEAVEXFATDIR@@K@Z                                   0x0344a45d                                         
+?Initialize@EXFAT_SA@@QEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@@Z                                      0xf58ffe1a                                         
+?Initialize@EXFAT_VOL@@QEAA?AW4FORMAT_ERROR_CODE@@PEBVWSTRING@@PEAVMESSAGE@@EEW4_MEDIA_TYPE@@EEE@Z   0x21849617                                         
+?QueryAllocatedClusters@FAT@@QEBAKXZ                                                                 0x8dfbc5c9                                         
+?QueryFileSize@EXFAT_DIRENT@@QEAA_JXZ                                                                0x3981c085                                         
+?QueryLengthOfChain@FAT@@QEBAKKPEAK@Z                                                                0x486f20f9                                         
+?QueryNthCluster@FAT@@QEBAKKK@Z                                                                      0x6700ecb5                                         
+?QueryStartingCluster@EXFAT_DIRENT@@QEAAKXZ                                                          0x52e53f3a                                         
+?Read@CLUSTER_CHAIN@@UEAAEXZ                                                                         0xd92a2c77                                         
+?ReadAndRecordBadSectors@CLUSTER_CHAIN@@QEAAEPEAVEXFATSECRUNBITMAP@@@Z                               0x8b4facc8                                         
+?SetFileSize@EXFAT_DIRENT@@QEAAE_J@Z                                                                 0x9008d108                                         
+?SetStartingCluster@EXFAT_DIRENT@@QEAAEK@Z                                                           0xe0d0b1fd                                         
+?VerifyAndFixPhase2@EXFAT_DIRENT@@QEAAEPEAVEXFATBITMAP@@0PEAVWSTRING@@EEEW4FIX_LEVEL@@PEAEPEAVMESSAGE@@@Z 0x8283a719                                         
+?Write@CLUSTER_CHAIN@@UEAAEXZ                                                                        0xa4b43786                                         
+?WriteAndSkipBadSectors@CLUSTER_CHAIN@@QEAAEXZ                                                       0x5688ce96                                         
+Chkdsk                                                                                               0xabbf007d                                         
+ChkdskEx                                                                                             0x97811d1a                                         
+Format                                                                                               0xb341208e                                         
+FormatEx                                                                                             0x880b856b                                         
+GetFilesystemInformation                                                                             0x23f50610                                         
+GetFsFormatOptions                                                                                   0x2b670093                                         
+Recover                                                                                              0x9ebe761b                                         

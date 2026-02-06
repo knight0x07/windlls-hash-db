@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\D3D12.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+D3D12CoreCreateLayeredDevice                                                                         0x73432d16                                         
+D3D12CoreGetLayeredDeviceSize                                                                        0x856e98fd                                         
+D3D12CoreRegisterLayers                                                                              0xb38c4c21                                         
+D3D12CreateDevice                                                                                    0x1f659d07                                         
+D3D12CreateRootSignatureDeserializer                                                                 0xc4e23fb0                                         
+D3D12CreateVersionedRootSignatureDeserializer                                                        0xb942f61f                                         
+D3D12DeviceRemovedExtendedData                                                                       0xd9af7970                                         
+D3D12EnableExperimentalFeatures                                                                      0x788541b7                                         
+D3D12GetDebugInterface                                                                               0xf6195efb                                         
+D3D12GetInterface                                                                                    0xb56cec54                                         
+D3D12PIXEventsReplaceBlock                                                                           0xe8492b30                                         
+D3D12PIXGetThreadInfo                                                                                0x708b00d8                                         
+D3D12PIXNotifyWakeFromFenceSignal                                                                    0x21d9a8a8                                         
+D3D12PIXReportCounter                                                                                0x7f5f21d0                                         
+D3D12SerializeRootSignature                                                                          0x45ddba01                                         
+D3D12SerializeVersionedRootSignature                                                                 0x0c68d470                                         
+GetBehaviorValue                                                                                     0xea147212                                         
+SetAppCompatStringPointer                                                                            0x13a0a40e                                         
+[Function Ordinal Only]                                                                              NA                                                 

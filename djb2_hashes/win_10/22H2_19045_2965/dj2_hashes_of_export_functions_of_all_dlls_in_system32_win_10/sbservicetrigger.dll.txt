@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\sbservicetrigger.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ServiceTriggerEnumerateTransferredSockets                                                            0x4b551a8c                                         
+ServiceTriggerRetrieveSocketContext                                                                  0x96a8525e                                         
+ServiceTriggerRetrieveSockets                                                                        0xedb44ecc                                         
+ServiceTriggerTransferSocketOwnership                                                                0x7b4610b7                                         

@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\oobe\diagER.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CDwWinER@@QEAA@AEBV0@@Z                                                                           0x9dc582d6                                         
+??0CDwWinER@@QEAA@PEBGH@Z                                                                            0xec42dece                                         
+??0CWfpER@@QEAA@AEBV0@@Z                                                                             0x119dc21a                                         
+??0CWfpER@@QEAA@PEBGW4_DIAG_REPORT_TYPE@@H@Z                                                         0x76e85f8d                                         
+??0IDiagER@@QEAA@AEBV0@@Z                                                                            0x2522b748                                         
+??0IDiagER@@QEAA@PEBGH@Z                                                                             0x45b24d00                                         
+??1CDwWinER@@UEAA@XZ                                                                                 0xe9de5425                                         
+??1CWfpER@@UEAA@XZ                                                                                   0xfa787429                                         
+??1IDiagER@@UEAA@XZ                                                                                  0xfa955af7                                         
+??4CDiagERFactory@@QEAAAEAV0@$$QEAV0@@Z                                                              0x92bd0dc2                                         
+??4CDiagERFactory@@QEAAAEAV0@AEBV0@@Z                                                                0xffcd1ecb                                         
+??4CDwWinER@@QEAAAEAV0@AEBV0@@Z                                                                      0x94e1dae7                                         
+??4CWfpER@@QEAAAEAV0@AEBV0@@Z                                                                        0xb8ccf3ab                                         
+??4IDiagER@@QEAAAEAV0@AEBV0@@Z                                                                       0x468bf619                                         
+??_7CDwWinER@@6B@                                                                                    0xe127a714                                         
+??_7CWfpER@@6B@                                                                                      0xe5b56fd8                                         
+??_7IDiagER@@6B@                                                                                     0xb7169046                                         
+?AddBucketingParameters@CDwWinER@@UEAAKPEAPEBGI@Z                                                    0x589fb11e                                         
+?AddBucketingParameters@CWfpER@@UEAAKPEAPEBGI@Z                                                      0x0ee776e2                                         
+?AddBucketingParameters@IDiagER@@UEAAKPEAPEBGI@Z                                                     0x79fb88d0                                         
+?AddFiles@CDwWinER@@UEAAKPEAPEBGI@Z                                                                  0xfb3610c1                                         
+?AddFiles@CWfpER@@UEAAKPEAPEBGI@Z                                                                    0xd80b91c5                                         
+?AddFiles@IDiagER@@UEAAKPEAPEBGI@Z                                                                   0x67a30013                                         
+?CreateInstance@CDiagERFactory@@SAKPEBGW4_DIAG_REPORT_TYPE@@HPEAPEAVIDiagER@@@Z                      0xaa184dc5                                         
+?GetErrorReporter@CDiagERFactory@@SAPEAVIDiagER@@XZ                                                  0x060824cf                                         
+?Initialize@CDwWinER@@UEAAKXZ                                                                        0x100be512                                         
+?Initialize@CWfpER@@UEAAKXZ                                                                          0x84431496                                         
+?ReleaseInstance@CDiagERFactory@@SAXXZ                                                               0x8832253f                                         
+?SetHeader@CDwWinER@@UEAAKPEBG@Z                                                                     0x2a2e29fb                                         
+?SetHeader@CWfpER@@UEAAKPEBG@Z                                                                       0x337726bf                                         
+?SetHeader@IDiagER@@UEAAKPEBG@Z                                                                      0xb9e7fd2d                                         
+?Submit@CDwWinER@@UEAAKK@Z                                                                           0x71845687                                         
+?Submit@CWfpER@@UEAAKK@Z                                                                             0x8bad2e0b                                         
+?m_diagER@CDiagERFactory@@0PEAVIDiagER@@EA                                                           0x7a1fadda                                         
+DiagERAddBucketingParameters                                                                         0x49647dca                                         
+DiagERAddFiles                                                                                       0xef9194ed                                         
+DiagERInitialize                                                                                     0x38f83903                                         
+DiagERSetHeader                                                                                      0xd2c5a706                                         
+DiagERSubmit                                                                                         0x925f2f45                                         
+DiagERSubmitEx                                                                                       0xa6e81de2                                         
+DiagERTerminate                                                                                      0x03ebf5da                                         
+g_Kernel32                                                                                           0xb80b5c91                                         
+g_Shell32                                                                                            0x6bb6eb88                                         
+g_WerApi                                                                                             0xed609c53                                         

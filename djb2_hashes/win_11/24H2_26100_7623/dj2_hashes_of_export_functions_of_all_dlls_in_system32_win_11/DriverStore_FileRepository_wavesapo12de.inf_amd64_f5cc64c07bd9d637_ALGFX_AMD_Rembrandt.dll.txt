@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\ALGFX_AMD_Rembrandt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ALGFX_Coeficients_GetAllIDs                                                                          0x59f7301a                                         
+ALGFX_Coeficients_GetBuffer                                                                          0x5cec6a9b                                         
+ALGFX_Coeficients_GetMaxSizes                                                                        0x95a04eb5                                         
+ALGFX_Coeficients_SetParameter                                                                       0x458fc1ae                                         
+ALGFX_Coeficients_SetParametersArray                                                                 0xffcbba60                                         
+ALGFX_Dump                                                                                           0x3821454c                                         
+ALGFX_GetFXInfo                                                                                      0x7295ce20                                         
+ALGFX_GetInfo                                                                                        0x38882842                                         
+ALGFX_Initialize                                                                                     0xbd406708                                         
+ALGFX_Process                                                                                        0x0b5afdf5                                         
+ALGFX_SetCommand                                                                                     0x471120a1                                         
+ALGFX_Uninitialize                                                                                   0x4e6ebbcb                                         
+ALGMETERS_Float_Get                                                                                  0x43db7dfd                                         
+ALGMETERS_Float_GetAndReset                                                                          0xd08a6433                                         
+ALGMETERS_Float_GetAndSet                                                                            0x5eb1647c                                         
+ALGMETERS_Float_GetBuffer                                                                            0x6186a237                                         
+ALGMETERS_Float_Set                                                                                  0x43dbb109                                         
+ALGMETERS_GetSize                                                                                    0xeb7641e3                                         
+ALGMETERS_Initialize                                                                                 0xc7fb265a                                         
+ALGMETERS_Uninitialize                                                                               0xf2d6979d                                         

@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\computestorage.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HcsAttachLayerStorageFilter                                                                          0xc12b6b90                                         
+HcsDestroyLayer                                                                                      0x03c634ca                                         
+HcsDetachLayerStorageFilter                                                                          0x72c382e4                                         
+HcsExportLayer                                                                                       0xff136ca2                                         
+HcsExportLegacyWritableLayer                                                                         0xcac92631                                         
+HcsFormatWritableLayerVhd                                                                            0x6a68bf05                                         
+HcsGetLayerVhdMountPath                                                                              0x8c02a302                                         
+HcsImportLayer                                                                                       0xe812053b                                         
+HcsInitializeLegacyWritableLayer                                                                     0x6084c741                                         
+HcsInitializeWritableLayer                                                                           0x625df9cc                                         
+HcsSetupBaseOSLayer                                                                                  0xe20d284e                                         

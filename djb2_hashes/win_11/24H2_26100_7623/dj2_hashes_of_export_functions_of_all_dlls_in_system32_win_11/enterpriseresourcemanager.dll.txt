@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\enterpriseresourcemanager.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EnterpriseResourceManagerStore_DeleteResource                                                        0xe394c2f0                                         
+EnterpriseResourceManagerStore_DeleteTrackedResourcesForEnrollment                                   0x22a53b28                                         
+EnterpriseResourceManagerStore_GenerateWmiResourcePath                                               0x236b9cc2                                         
+EnterpriseResourceManagerStore_IsResourceProvisioned                                                 0xa2809e0b                                         
+EnterpriseResourceManagerStore_NormalizeURI                                                          0x9e2fb1f6                                         
+EnterpriseResourceManagerStore_RemoveAllIgnoredUri                                                   0x7bf3b654                                         
+EnterpriseResourceManagerStore_ReplaceResourceNodePath                                               0x845328cc                                         
+EnterpriseResourceManagerStore_SaveIgnoredURI                                                        0x1975defc                                         
+EnterpriseResourceManagerStore_WriteResourceNodePath                                                 0x2d90aa1b                                         
+EnterpriseResourceManager_ScopeData_IsValid                                                          0xd88472c7                                         

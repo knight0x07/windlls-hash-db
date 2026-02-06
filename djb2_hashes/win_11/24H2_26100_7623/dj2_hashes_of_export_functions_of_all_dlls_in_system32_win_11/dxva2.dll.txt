@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\dxva2.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CapabilitiesRequestAndCapabilitiesReply                                                              0x58c05561                                         
+DXVA2CreateDirect3DDeviceManager9                                                                    0x63d0b574                                         
+DXVA2CreateVideoService                                                                              0xfac9e6a6                                         
+DXVAHD_CreateDevice                                                                                  0x922b9ee7                                         
+DegaussMonitor                                                                                       0xd47ffbf9                                         
+DestroyPhysicalMonitor                                                                               0xecdc1334                                         
+DestroyPhysicalMonitors                                                                              0x885e7a27                                         
+GetCapabilitiesStringLength                                                                          0x33fc9aa8                                         
+GetMonitorBrightness                                                                                 0x323503a6                                         
+GetMonitorCapabilities                                                                               0x6e021197                                         
+GetMonitorColorTemperature                                                                           0x420a155a                                         
+GetMonitorContrast                                                                                   0x2799b05b                                         
+GetMonitorDisplayAreaPosition                                                                        0xc61eb891                                         
+GetMonitorDisplayAreaSize                                                                            0x8bc1d837                                         
+GetMonitorRedGreenOrBlueDrive                                                                        0xb20d5efc                                         
+GetMonitorRedGreenOrBlueGain                                                                         0x7201c481                                         
+GetMonitorTechnologyType                                                                             0xe8c631cb                                         
+GetNumberOfPhysicalMonitorsFromHMONITOR                                                              0x46d404bf                                         
+GetNumberOfPhysicalMonitorsFromIDirect3DDevice9                                                      0xffa83693                                         
+GetPhysicalMonitorFromTarget                                                                         0xda4ebf45                                         
+GetPhysicalMonitorsFromHMONITOR                                                                      0xde586641                                         
+GetPhysicalMonitorsFromIDirect3DDevice9                                                              0x292efa15                                         
+GetTimingReport                                                                                      0xbf68b869                                         
+GetVCPFeatureAndVCPFeatureReply                                                                      0x1ac7028e                                         
+OPMGetVideoOutputForTarget                                                                           0xb7114d07                                         
+OPMGetVideoOutputsFromHMONITOR                                                                       0x7f0d0830                                         
+OPMGetVideoOutputsFromIDirect3DDevice9Object                                                         0x6a64141b                                         
+RestoreMonitorFactoryColorDefaults                                                                   0x8768e0a0                                         
+RestoreMonitorFactoryDefaults                                                                        0x2bb11601                                         
+SaveCurrentMonitorSettings                                                                           0x8cc06a10                                         
+SaveCurrentSettings                                                                                  0x687ffaa8                                         
+SetMonitorBrightness                                                                                 0xc40b3032                                         
+SetMonitorColorTemperature                                                                           0x77aa7ae6                                         
+SetMonitorContrast                                                                                   0x50a349e7                                         
+SetMonitorDisplayAreaPosition                                                                        0xcf6dc29d                                         
+SetMonitorDisplayAreaSize                                                                            0x9ce5bc43                                         
+SetMonitorRedGreenOrBlueDrive                                                                        0xbb5c6908                                         
+SetMonitorRedGreenOrBlueGain                                                                         0x9151bd0d                                         
+SetVCPFeature                                                                                        0x92a4c746                                         

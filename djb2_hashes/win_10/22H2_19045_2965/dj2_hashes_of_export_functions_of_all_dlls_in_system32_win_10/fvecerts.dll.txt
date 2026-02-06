@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\fvecerts.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FveCertCanCertificateBeAdded                                                                         0xaa7dc5e2                                         
+FveCertCreateCertInfo                                                                                0xd7728ca2                                         
+FveCertCreateSelfSignedCertificate                                                                   0xb148054f                                         
+FveCertFilterForValidCertificates                                                                    0x0005c007                                         
+FveCertFindValidCertificates                                                                         0x27b2de3b                                         
+FveCertFreeCertInfo                                                                                  0xcd8ac8b0                                         
+FveCertGetCertContextFromCert                                                                        0x76350109                                         
+FveCertGetCertContextFromPfx                                                                         0x229cf969                                         
+FveCertGetCertHashFromCertContext                                                                    0xaf84c56d                                         
+FveCertGetPrivateKeyHandle                                                                           0x505dc744                                         
+FveCertGetPublicKeyHandle                                                                            0x88302b68                                         
+FveCertIsAlternateCert                                                                               0x5c36e2be                                         
+FveCertIsValidCertInfo                                                                               0xcc46d21a                                         
+FveCertSignData                                                                                      0x054f137f                                         
+FveCertWritePfxFromCertContext                                                                       0x9e270654                                         

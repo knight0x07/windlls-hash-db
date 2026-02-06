@@ -1,0 +1,40 @@
+DLL Path: C:\Windows\System32\samcli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetGetDisplayInformationIndex                                                                        0xee35f640                                         
+NetGroupAdd                                                                                          0xc758ed82                                         
+NetGroupAddUser                                                                                      0x7d687161                                         
+NetGroupDel                                                                                          0xc758fa6e                                         
+NetGroupDelUser                                                                                      0x673d144d                                         
+NetGroupEnum                                                                                         0xb278fc6e                                         
+NetGroupGetInfo                                                                                      0x4eb5e4e5                                         
+NetGroupGetUsers                                                                                     0x264e620b                                         
+NetGroupSetInfo                                                                                      0xea70bdf1                                         
+NetGroupSetUsers                                                                                     0x39645c97                                         
+NetLocalGroupAdd                                                                                     0x9c7dfa6d                                         
+NetLocalGroupAddMember                                                                               0x271baf25                                         
+NetLocalGroupAddMembers                                                                              0x0a919438                                         
+NetLocalGroupDel                                                                                     0x9c7e0759                                         
+NetLocalGroupDelMember                                                                               0xd8a4bd11                                         
+NetLocalGroupDelMembers                                                                              0xed3c5fa4                                         
+NetLocalGroupEnum                                                                                    0x2c3fa6b9                                         
+NetLocalGroupGetInfo                                                                                 0x181d6f50                                         
+NetLocalGroupGetMembers                                                                              0x5b6aba0f                                         
+NetLocalGroupSetInfo                                                                                 0xb3d8485c                                         
+NetLocalGroupSetMembers                                                                              0x8be9879b                                         
+NetQueryDisplayInformation                                                                           0x152566de                                         
+NetUserAdd                                                                                           0x168ddef4                                         
+NetUserChangePassword                                                                                0x8fb67144                                         
+NetUserDel                                                                                           0x168debe0                                         
+NetUserEnum                                                                                          0xe84c1c20                                         
+NetUserGetGroups                                                                                     0x903a99ab                                         
+NetUserGetInfo                                                                                       0x290a3f57                                         
+NetUserGetInternetIdentityInfo                                                                       0x272fafea                                         
+NetUserGetLocalGroups                                                                                0x4a1c1f36                                         
+NetUserModalsGet                                                                                     0xf24ebe2b                                         
+NetUserModalsSet                                                                                     0xf24ef137                                         
+NetUserSetGroups                                                                                     0x060fe5b7                                         
+NetUserSetInfo                                                                                       0xc4c51863                                         
+NetValidatePasswordPolicy                                                                            0xf63d9179                                         
+NetValidatePasswordPolicyFree                                                                        0x1553fadb                                         

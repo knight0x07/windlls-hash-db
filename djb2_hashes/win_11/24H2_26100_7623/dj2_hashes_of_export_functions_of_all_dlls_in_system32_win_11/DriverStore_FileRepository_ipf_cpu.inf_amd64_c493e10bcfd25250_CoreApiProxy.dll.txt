@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_c493e10bcfd25250\CoreApiProxy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CoreApiCreate                                                                                        0x8f6ea09c                                         
+CoreApiDestroy                                                                                       0xacf19c32                                         
+CoreApiR2Create                                                                                      0x70c18060                                         
+CoreApiR2Destroy                                                                                     0xb8a07476                                         
+CoreApiR2Revision                                                                                    0xbe8185db                                         
+CoreApiRevision                                                                                      0x3cf7a517                                         
+GetApplicationInterfaceV2                                                                            0x26f72cf2                                         
+GetDllBuildType                                                                                      0xc98f5cf3                                         
+GetDllProperties                                                                                     0x987eb4ee                                         
+GetDllVersion                                                                                        0xe16a2f87                                         

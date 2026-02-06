@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\pwlauncher.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ProcessHibernateGroupPolicy                                                                          0x09f1f713                                         
+ProcessLauncherGroupPolicy                                                                           0x4b2d9fd3                                         
+ShowPortableWorkspaceLauncherConfigurationUX                                                         0xf3b2fc05                                         

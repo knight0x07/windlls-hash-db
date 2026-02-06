@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\WaaSMedicCapsule.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+EnumeratePlugins                                                                                     0x5cea988d                                         
+GetPluginDefaultSettings                                                                             0xa976b2ca                                         
+GetSettingsName                                                                                      0x461aa4f7                                         
+Plugin_DetectCondition                                                                               0x7432a5f3                                         
+Plugin_Init                                                                                          0x324f53e7                                         
+Plugin_IsActionApplicable2                                                                           0x4709d80c                                         
+Plugin_IsEnabled                                                                                     0x75df649a                                         
+Plugin_IsInteractiveOnly                                                                             0xee7366cf                                         
+Plugin_PerformAction                                                                                 0x5530ef4c                                         
+Plugin_Uninit                                                                                        0x1f71c5aa                                         

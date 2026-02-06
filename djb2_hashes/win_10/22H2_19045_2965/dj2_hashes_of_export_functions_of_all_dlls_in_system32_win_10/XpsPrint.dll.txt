@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\XpsPrint.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+StartXpsPrintJob                                                                                     0xb2ae1f36                                         
+StartXpsPrintJob1                                                                                    0x08720627                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

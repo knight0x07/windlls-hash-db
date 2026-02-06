@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\RADCUI.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DUIRemoveSubscriptionDialogModal                                                                     0x6f49e737                                         
+DUISubscribeWizardModal                                                                              0x57e7ac27                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

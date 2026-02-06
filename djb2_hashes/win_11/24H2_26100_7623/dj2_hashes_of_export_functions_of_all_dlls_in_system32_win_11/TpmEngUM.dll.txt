@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\TpmEngUM.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+VTpmColdInitWithPersistentState                                                                      0xf6348630                                         
+VTpmExecuteCommand                                                                                   0x7d86169e                                         
+VTpmGetRuntimeState                                                                                  0x93e2a671                                         
+VTpmSetCancelFlag                                                                                    0x5fa9b278                                         
+VTpmSetTargetVersion                                                                                 0x9a6d53c5                                         
+VTpmShutdown                                                                                         0xe2c35588                                         
+VTpmWarmInit                                                                                         0x71660617                                         

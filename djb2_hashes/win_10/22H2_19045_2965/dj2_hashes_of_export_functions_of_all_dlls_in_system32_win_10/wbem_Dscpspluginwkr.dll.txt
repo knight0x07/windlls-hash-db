@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\wbem\Dscpspluginwkr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CALogFreeMemory                                                                                      0x1c2e50a6                                         
+CALogSetJobDeviceName                                                                                0x1f0e66a3                                         
+CAWhatIfEnabled                                                                                      0xba0de797                                         
+GetResourceIdFromContext                                                                             0x42712413                                         
+LogCADebugMessage                                                                                    0x4682c077                                         
+LogCAProgressMessage                                                                                 0x54c62205                                         
+LogCAVerboseMessage                                                                                  0x245985c6                                         
+LogCAWarningMessage                                                                                  0xdc4c2666                                         
+LogCAWhatIfMessage                                                                                   0x181fbc93                                         
+LogCAWriteMIError                                                                                    0x3900a456                                         

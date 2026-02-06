@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\ExecModelClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateForegroundTaskManager                                                                          0x1eea37e2                                         
+CreateModernVoipPolicy                                                                               0x0693622c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+TestHook_CancelShutdown                                                                              0x47eeeb57                                         

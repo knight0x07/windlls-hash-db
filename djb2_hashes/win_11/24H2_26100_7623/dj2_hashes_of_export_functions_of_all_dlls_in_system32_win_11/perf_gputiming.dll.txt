@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\perf_gputiming.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CleanUpViewerSyncObjects                                                                             0x30599fa6                                         
+CreateCallbackSync                                                                                   0xa7945ca3                                         
+CreateETWViewerSynchronizer                                                                          0x452ce569                                         
+CreateViewerSync                                                                                     0xf9704c88                                         
+DesktopDuplicationProvider                                                                           0xc4160906                                         
+DisplayFeatureSupport                                                                                0x7a53a184                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetFeatureSupport                                                                                    0x79b4b1ee                                         
+GetInfosourceVersion                                                                                 0x7e7fb608                                         
+GetMarkerNameTable                                                                                   0x622246b0                                         
+UpdateZoomInfo                                                                                       0x5dd0e939                                         

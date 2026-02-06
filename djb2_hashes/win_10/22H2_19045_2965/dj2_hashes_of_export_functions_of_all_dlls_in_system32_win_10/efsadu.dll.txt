@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\efsadu.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddUserToObjectW                                                                                     0xdd5aa85e                                         
+BackCurrentEfsCert                                                                                   0xbd5a54c5                                         
+EfsDetail                                                                                            0xb44ed876                                         
+EfsUIUtilCheckScardStatus                                                                            0x4f092e8e                                         
+EfsUIUtilCreateSelfSignedCertificate                                                                 0x4e232f1a                                         
+EfsUIUtilEncryptMyDocuments                                                                          0x81bece5c                                         
+EfsUIUtilEnrollEfsCertificate                                                                        0xbcad49ac                                         
+EfsUIUtilEnrollEfsCertificateEx                                                                      0x9d266e09                                         
+EfsUIUtilInstallDra                                                                                  0x6c0bdeed                                         
+EfsUIUtilKeyBackup                                                                                   0xef6332de                                         
+EfsUIUtilPromptForPin                                                                                0xb51b8fef                                         
+EfsUIUtilPromptForPinDialog                                                                          0x292b69bf                                         
+EfsUIUtilSelectCard                                                                                  0x88c444d9                                         
+EfsUIUtilShowBalloonAndWait                                                                          0x47fded8f                                         

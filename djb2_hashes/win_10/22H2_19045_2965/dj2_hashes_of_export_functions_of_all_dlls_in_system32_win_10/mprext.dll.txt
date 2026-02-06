@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\mprext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DoBroadcastSystemMessageWorker                                                                       0xb415a6ef                                         
+DoCommandLinePromptWorker                                                                            0xe5adf49b                                         
+DoPasswordDialogWorker                                                                               0x1d1d5f15                                         
+DoProfileErrorDialogWorker                                                                           0xef7e34dd                                         
+ShowReconnectDialogEndWorker                                                                         0x8afdf7e8                                         
+ShowReconnectDialogUIWorker                                                                          0xba15296f                                         
+ShowReconnectDialogWorker                                                                            0x1f166df1                                         
+WNetConnectionDialog1WWorker                                                                         0xdd3031e5                                         
+WNetConnectionDialogWorker                                                                           0x9ec5407d                                         
+WNetDisconnectDialog1WWorker                                                                         0xb0d34d9f                                         
+WNetDisconnectDialogWorker                                                                           0x699a25b7                                         

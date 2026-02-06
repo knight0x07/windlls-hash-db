@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\TimeBrokerClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TbCreateCEvent                                                                                       0xdc21dcb4                                         
+TbCreateEvent                                                                                        0x35761cb1                                         
+TbDeleteCEvent                                                                                       0x359bc1b3                                         
+TbDeleteEvent                                                                                        0x66b7ddd0                                         
+TbEnumerateEvents                                                                                    0x8c7b61d6                                         
+TbQueryCEventData                                                                                    0xf90827b0                                         
+TbQueryCEventTriggerTime                                                                             0x03effab9                                         
+TbQueryEventData                                                                                     0x962ebded                                         
+TbUpdateCEvent                                                                                       0x3e7a71e3                                         
+TbUpdateEvent                                                                                        0x19694800                                         

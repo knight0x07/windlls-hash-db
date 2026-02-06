@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\avrt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AvCreateTaskIndex                                                                                    0xb36a28db                                         
+AvQuerySystemResponsiveness                                                                          0x40fa001e                                         
+AvQueryTaskIndexValue                                                                                0x99bf1cda                                         
+AvRevertMmThreadCharacteristics                                                                      0x54fb3282                                         
+AvRtCreateThreadOrderingGroup                                                                        0x667b7b35                                         
+AvRtCreateThreadOrderingGroupExA                                                                     0x5c2be053                                         
+AvRtCreateThreadOrderingGroupExW                                                                     0x5c2be069                                         
+AvRtDeleteThreadOrderingGroup                                                                        0xd4e14694                                         
+AvRtJoinThreadOrderingGroup                                                                          0x3a09c591                                         
+AvRtLeaveThreadOrderingGroup                                                                         0x39f8ad4e                                         
+AvRtWaitOnThreadOrderingGroup                                                                        0x35018413                                         
+AvSetMmMaxThreadCharacteristicsA                                                                     0x5691a8dd                                         
+AvSetMmMaxThreadCharacteristicsW                                                                     0x5691a8f3                                         
+AvSetMmThreadCharacteristicsA                                                                        0x6d9de317                                         
+AvSetMmThreadCharacteristicsW                                                                        0x6d9de32d                                         
+AvSetMmThreadPriority                                                                                0x4ac9fa7c                                         
+AvSetMultimediaMode                                                                                  0xf5a12398                                         
+AvTaskIndexYield                                                                                     0x54bcdc7e                                         
+AvTaskIndexYieldCancel                                                                               0x847eb244                                         
+AvThreadOpenTaskIndex                                                                                0x9bbe7091                                         

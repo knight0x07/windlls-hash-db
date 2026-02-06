@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\esevss.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EseShadowCreateShadow                                                                                0xaf899102                                         
+EseShadowCreateSimpleShadow                                                                          0x8f26deac                                         
+EseShadowInit                                                                                        0xb0aba03c                                         
+EseShadowMountShadow                                                                                 0x171dcaa1                                         
+EseShadowMountSimpleShadow                                                                           0xdcad938b                                         
+EseShadowPurgeShadow                                                                                 0x69879cb1                                         
+EseShadowTerm                                                                                        0xb0b18340                                         
+VssIdToString                                                                                        0x54aa34a8                                         

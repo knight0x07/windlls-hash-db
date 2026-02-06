@@ -1,0 +1,55 @@
+DLL Path: C:\Windows\System32\wldp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WldpAddDeveloperCertificateForDynamicCodeTrust                                                       0x9357ef17                                         
+WldpCanExecuteBuffer                                                                                 0x39083e1b                                         
+WldpCanExecuteFile                                                                                   0x7b3db6e1                                         
+WldpCanExecuteFileFromDetachedSignature                                                              0x3f912d99                                         
+WldpCanExecuteStream                                                                                 0x60a4680d                                         
+WldpCheckDeviceEncryptionNotStarted                                                                  0x8a2ae63d                                         
+WldpCheckWcosDeviceEncryptionSecure                                                                  0x438df818                                         
+WldpGetApplicationSettingBoolean                                                                     0x6f8723ae                                         
+WldpGetApplicationSettingStringList                                                                  0xa80a7741                                         
+WldpGetApplicationSettingStringSet                                                                   0xa8006e71                                         
+WldpGetLockdownPolicy                                                                                0x3e3ac88d                                         
+WldpIsAllowedEntryPoint                                                                              0xe284481c                                         
+WldpIsAppApprovedByPolicy                                                                            0xb45bb8a5                                         
+WldpIsClassInApprovedList                                                                            0x3b0956a2                                         
+WldpIsDebugAllowed                                                                                   0x0214c227                                         
+WldpIsDynamicCodePolicyEnabled                                                                       0x64f8d1b3                                         
+WldpIsProductionConfiguration                                                                        0xea5b55f7                                         
+WldpIsWcosProductionConfiguration                                                                    0x38b9b353                                         
+WldpQueryDeviceSecurityInformation                                                                   0x936b1220                                         
+WldpQueryDynamicCodeTrust                                                                            0x1256c5b4                                         
+WldpQueryPolicySettingEnabled                                                                        0xc8aad8cb                                         
+WldpQueryPolicySettingEnabled2                                                                       0xde05f25d                                         
+WldpQuerySecurityPolicy                                                                              0x166418da                                         
+WldpQueryWindowsLockdownMode                                                                         0x954e2883                                         
+WldpQueryWindowsLockdownRestriction                                                                  0x61aaa994                                         
+WldpResetProductionConfiguration                                                                     0xfc7e68fe                                         
+WldpResetWcosProductionConfiguration                                                                 0xfcacf1da                                         
+WldpSendSmartAppControlBlockToast2                                                                   0x5bfaffb7                                         
+WldpSendSmartAppControlSwitchEnforceToast                                                            0x65673f0e                                         
+WldpSetDynamicCodeTrust                                                                              0x65911b4a                                         
+WldpSetWindowsLockdownRestriction                                                                    0x71e572aa                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

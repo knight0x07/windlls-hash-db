@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\VCardParser.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateCardParser                                                                                     0x1f6a3b80                                         
+CreateCardParserEx                                                                                   0xa2e724dd                                         
+CreateCardParserExA                                                                                  0xffcbc0be                                         
+CreateICalGen                                                                                        0xb9e7caec                                         
+CreateVCardGen                                                                                       0xf6b4f183                                         
+EncodeQP                                                                                             0x2bf7aa14                                         

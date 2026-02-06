@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\D3DCompiler_47.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+D3DAssemble                                                                                          0xbbf5928c                                         
+D3DCompile                                                                                           0x6f21a5a9                                         
+D3DCompile2                                                                                          0x53565afb                                         
+D3DCompileFromFile                                                                                   0x0755be5d                                         
+D3DCompressShaders                                                                                   0x1e4484b6                                         
+D3DCreateBlob                                                                                        0x142e09f3                                         
+D3DCreateFunctionLinkingGraph                                                                        0xaef24878                                         
+D3DCreateLinker                                                                                      0xeef546d9                                         
+D3DDecompressShaders                                                                                 0x9794f6df                                         
+D3DDisassemble                                                                                       0x2fe2bdec                                         
+D3DDisassemble10Effect                                                                               0x83f06d7a                                         
+D3DDisassemble11Trace                                                                                0xd8defb7d                                         
+D3DDisassembleRegion                                                                                 0x8d9175d0                                         
+D3DGetBlobPart                                                                                       0x63dfc336                                         
+D3DGetDebugInfo                                                                                      0x98342013                                         
+D3DGetInputAndOutputSignatureBlob                                                                    0xeeb6f585                                         
+D3DGetInputSignatureBlob                                                                             0x45ba0b21                                         
+D3DGetOutputSignatureBlob                                                                            0x8e8392e2                                         
+D3DGetTraceInstructionOffsets                                                                        0x7141c0eb                                         
+D3DLoadModule                                                                                        0xb6cdc326                                         
+D3DPreprocess                                                                                        0xc77d9706                                         
+D3DReadFileToBlob                                                                                    0xee874efe                                         
+D3DReflect                                                                                           0xd9f6af85                                         
+D3DReflectLibrary                                                                                    0xde54ab9a                                         
+D3DReturnFailure1                                                                                    0x4f31fbd9                                         
+D3DSetBlobPart                                                                                       0xa4384242                                         
+D3DStripShader                                                                                       0xe8f3c169                                         
+D3DWriteBlobToFile                                                                                   0x3944f46d                                         
+DebugSetMute                                                                                         0xb75cfe53                                         

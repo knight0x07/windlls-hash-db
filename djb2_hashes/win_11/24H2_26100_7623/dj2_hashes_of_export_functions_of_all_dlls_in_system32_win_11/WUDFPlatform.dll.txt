@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\WUDFPlatform.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClearPlatformTestingCallbacks                                                                        0x46a64faf                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+GetAndInitializePlatformObject                                                                       0x18547906                                         
+GetPlatformObject                                                                                    0xd2d98621                                         
+InitializePlatformLibrary                                                                            0xf4efe2d1                                         
+PlatformSimulateUnhandledException                                                                   0x5ecbc8d0                                         
+PlatformUnhandledExceptionFilter                                                                     0xd93fd712                                         
+SetPlatformErrorReportingCallbacks                                                                   0x6e52939a                                         
+SetPlatformTestingCallbacks                                                                          0x9e3bb2b4                                         
+ShutdownPlatformLibrary                                                                              0x88770a5b                                         
+WdfGetLpcInterface                                                                                   0x249cb0d6                                         
+WudfDebugBreakPoint                                                                                  0xcbd5c591                                         
+WudfIsAnyDebuggerPresent                                                                             0x52a4e845                                         
+WudfIsKernelDebuggerPresent                                                                          0x4a05c73e                                         
+WudfIsUserDebuggerPresent                                                                            0xa8b785fc                                         
+WudfWaitForDebugger                                                                                  0x29b7413c                                         

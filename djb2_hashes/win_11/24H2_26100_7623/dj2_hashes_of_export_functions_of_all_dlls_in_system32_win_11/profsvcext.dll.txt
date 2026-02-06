@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\profsvcext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConnectToRoamingVhdProfile                                                                           0x535fc732                                         
+CreateRoamingProviderInstance                                                                        0x50395266                                         
+InitializeSuspendFolderPolicyAndUploadTaskConfig                                                     0x7de83d46                                         
+RefreshSuspendFolderPolicyAndUploadTaskConfig                                                        0x210886c3                                         
+StartRoamingClassFactories                                                                           0x9f274716                                         
+StopRoamingClassFactories                                                                            0xd3dfb78e                                         
+WaitForNetworkForRoamingProfile                                                                      0x2ca26990                                         

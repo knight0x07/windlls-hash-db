@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\IpNatHlpClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IpNatHlpFree                                                                                         0xbd2c7887                                         
+IpNatHlpGetConnectedDevices                                                                          0x4866edfb                                         
+IpNatHlpStartDhcpServer                                                                              0x35172fe9                                         
+IpNatHlpStartSharing                                                                                 0x49aaf3bf                                         
+IpNatHlpStopDhcpServer                                                                               0x6bd13761                                         
+IpNatHlpStopSharing                                                                                  0x967d6e37                                         
+IpNatHlpUpdateSharingSettingsFromStorage                                                             0xd5df866e                                         
+V2IpNatHlpCreateStaticMapping                                                                        0x3b5547d5                                         
+V2IpNatHlpDeleteStaticMapping                                                                        0x09d9b7f4                                         
+V2IpNatHlpEnumDhcpState                                                                              0xfca96282                                         
+V2IpNatHlpEnumDnsState                                                                               0x74fc0c88                                         
+V2IpNatHlpStartDhcpServer                                                                            0x01ebb771                                         
+V2IpNatHlpStartDnsServer                                                                             0xe0976b17                                         
+V2IpNatHlpStartSharingInternalPrefix                                                                 0xea146732                                         
+V2IpNatHlpStopDhcpServer                                                                             0x14eeede9                                         
+V2IpNatHlpStopDnsServer                                                                              0x7c51b28f                                         
+V2IpNatHlpStopSharingInternalPrefix                                                                  0x7cfda2aa                                         

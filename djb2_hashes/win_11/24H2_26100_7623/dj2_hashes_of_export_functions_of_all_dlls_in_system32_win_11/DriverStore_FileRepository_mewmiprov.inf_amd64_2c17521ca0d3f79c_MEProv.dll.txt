@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\mewmiprov.inf_amd64_2c17521ca0d3f79c\MEProv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+_GetDriverVersion@8                                                                                  0x51f1882e                                         
+_TeeConnect@4                                                                                        0x2f6f9fc0                                         
+_TeeDisconnect@4                                                                                     0xa658dfe0                                         
+_TeeFWStatus@12                                                                                      0x2d472fa6                                         
+_TeeGetDeviceHandle@4                                                                                0x27fd0332                                         
+_TeeGetLogLevel@4                                                                                    0x16759f30                                         
+_TeeGetTRC@8                                                                                         0xcc524ea3                                         
+_TeeInit@12                                                                                          0xe2f9c3d9                                         
+_TeeInitFull@40                                                                                      0x004c1ced                                         
+_TeeInitGUID@12                                                                                      0x0011fc62                                         
+_TeeInitHandle@12                                                                                    0x421de065                                         
+_TeeRead@20                                                                                          0x822def00                                         
+_TeeSetLogCallback@8                                                                                 0x3d2ef9d5                                         
+_TeeSetLogLevel@8                                                                                    0xceea1140                                         
+_TeeWrite@20                                                                                         0x61c9604f                                         

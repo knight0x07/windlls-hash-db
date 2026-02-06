@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\kdcpw.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CredentialUpdateFree                                                                                 0x29971225                                         
+CredentialUpdateNotify                                                                               0xfe1f833c                                         
+CredentialUpdateNotify2                                                                              0xc20feaee                                         
+CredentialUpdateRegister                                                                             0x95023f28                                         
+CredentialUpdateRegister2                                                                            0x354a245a                                         
+InitializeChangeNotify                                                                               0x6a5bb396                                         
+PasswordChangeNotify                                                                                 0xfb1ccab7                                         
+RegisterMappedEntrypoints                                                                            0x858ad8f0                                         
+StrongNtowfFree                                                                                      0xeb891ab2                                         
+StrongNtowfNotify                                                                                    0x04b5e309                                         
+StrongNtowfRegister                                                                                  0x9aafc635                                         

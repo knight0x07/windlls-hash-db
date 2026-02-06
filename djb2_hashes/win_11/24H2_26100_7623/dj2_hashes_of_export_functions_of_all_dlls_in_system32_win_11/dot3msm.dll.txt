@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\dot3msm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+Dot3MsmConnect                                                                                       0x46f3f9d6                                         
+Dot3MsmCreateDefaultProfile                                                                          0x5eda18d6                                         
+Dot3MsmDeInit                                                                                        0x8f553f49                                         
+Dot3MsmDeInitAdapter                                                                                 0x6bc60d4a                                         
+Dot3MsmDisconnect                                                                                    0xfed43db6                                         
+Dot3MsmFreeMemory                                                                                    0x7db18c67                                         
+Dot3MsmFreeProfile                                                                                   0x3943f9bf                                         
+Dot3MsmIndicateSessionChange                                                                         0x4d412177                                         
+Dot3MsmInit                                                                                          0x2d8356a0                                         
+Dot3MsmInitAdapter                                                                                   0xbeb39cc1                                         
+Dot3MsmOnMediaStateChange                                                                            0x547be270                                         
+Dot3MsmQueryMediaState                                                                               0x428bad23                                         
+Dot3MsmQueryPendingUIRequest                                                                         0xc490158e                                         
+Dot3MsmQueryState                                                                                    0x55b10f83                                         
+Dot3MsmReAuthenticate                                                                                0x5d6a1c42                                         
+Dot3MsmSetRuntimeState                                                                               0x7af80e3d                                         
+Dot3MsmUIResponse                                                                                    0xe2eb5179                                         
+Dot3MsmValidateProfile                                                                               0x09e71d47                                         
+Dot3ReasonCodeMsmToString                                                                            0x1ac35c89                                         
+Dot3SetPortAuthenticationState                                                                       0xff2c93f1                                         

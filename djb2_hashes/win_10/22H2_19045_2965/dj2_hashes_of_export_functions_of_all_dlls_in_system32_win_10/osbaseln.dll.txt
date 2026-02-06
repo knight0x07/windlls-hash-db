@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\osbaseln.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseOsBaseline                                                                                      0x13a03520                                         
+EnumOsBaselineComponentsA                                                                            0x53b02486                                         
+EnumOsBaselineComponentsW                                                                            0x53b0249c                                         
+EnumOsOutOfDateComponentsA                                                                           0x967316ee                                         
+EnumOsOutOfDateComponentsW                                                                           0x96731704                                         
+GetOsBaselineComponentInfoA                                                                          0x7dfbfd6a                                         
+GetOsBaselineComponentInfoW                                                                          0x7dfbfd80                                         
+GetOsInstalledComponentInfoA                                                                         0x5b87dcc7                                         
+GetOsInstalledComponentInfoW                                                                         0x5b87dcdd                                         
+GetOsLatestBaselineServicePack                                                                       0x415a1de7                                         
+OpenOsBaseline                                                                                       0x673b093c                                         
+pGetOsBaselineCurrentVersion                                                                         0xf5b5dcc3                                         
+pGetOsCurrentBaselineServicePack                                                                     0xe2fe918d                                         
+pOpenOsBaselineByVersion                                                                             0x3e78132d                                         
+[Function Ordinal Only]                                                                              NA                                                 

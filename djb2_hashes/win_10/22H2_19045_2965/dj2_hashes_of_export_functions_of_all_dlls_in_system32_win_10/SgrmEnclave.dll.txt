@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\SgrmEnclave.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EngHostAttest                                                                                        0xca6faf32                                         
+EngHostCreateAttestationClient                                                                       0x4078f520                                         
+EngHostDestroyAttestationClient                                                                      0x0db7ea16                                         
+EngHostDispatchThread                                                                                0x939bc605                                         
+EngHostGetRuntimeReport                                                                              0xbc2dc9dd                                         
+EngHostGetSessionCertificate                                                                         0xda413b84                                         
+EngHostGetSessionReport                                                                              0x206bc2fd                                         
+EngHostInitialize                                                                                    0x7508e4af                                         
+EngHostNotify                                                                                        0xe8685436                                         
+EngHostReinitialize                                                                                  0xd730c7c6                                         
+EngHostShutdown                                                                                      0x295abb79                                         

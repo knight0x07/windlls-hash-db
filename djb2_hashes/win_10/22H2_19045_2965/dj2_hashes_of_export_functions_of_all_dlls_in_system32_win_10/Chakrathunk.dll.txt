@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\Chakrathunk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+JsThunk_AllocateData                                                                                 0x5d94b20a                                         
+JsThunk_Cleanup                                                                                      0x8cd21493                                         
+JsThunk_CleanupDefer                                                                                 0x632c8c59                                         
+JsThunk_CleanupFinish                                                                                0xcdb53f54                                         
+JsThunk_DataToCode                                                                                   0xdc3de403                                         
+JsThunk_GetSize                                                                                      0xb16e98c6                                         
+JsThunk_InitData                                                                                     0x552935b9                                         
+JsThunk_Is                                                                                           0x98d38207                                         

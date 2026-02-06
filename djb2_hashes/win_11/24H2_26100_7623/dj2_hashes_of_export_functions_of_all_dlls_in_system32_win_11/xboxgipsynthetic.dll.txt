@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\xboxgipsynthetic.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+SyntheticController_AddAudioHeadset                                                                  0x8cc3bc1c                                         
+SyntheticController_Connect                                                                          0x5591f2ad                                         
+SyntheticController_CreateController                                                                 0xca60f13b                                         
+SyntheticController_Disconnect                                                                       0xecc51b2d                                         
+SyntheticController_GetDeviceId                                                                      0xee5f5b60                                         
+SyntheticController_RegisterReportCallback                                                           0x11713eb1                                         
+SyntheticController_RemoveAudioHeadset                                                               0x2f31ee81                                         
+SyntheticController_RemoveController                                                                 0xc9f8a375                                         
+SyntheticController_SendAudio                                                                        0xf538b17f                                         
+SyntheticController_SendReport                                                                       0xc2dbbae9                                         
+SyntheticController_SetControllerFwVersion                                                           0xc83099d6                                         
+SyntheticController_SetTargetProcess                                                                 0x929d4cd5                                         
+SyntheticController_UnregisterReportCallback                                                         0xd2d94f34                                         

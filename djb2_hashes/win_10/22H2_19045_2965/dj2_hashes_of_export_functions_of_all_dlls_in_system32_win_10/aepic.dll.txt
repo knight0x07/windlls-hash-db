@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\aepic.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+GetAppInventoryCore                                                                                  0x7872423d                                         
+GetPrivacyLevel                                                                                      0xabf3381b                                         
+PicAmiClose                                                                                          0x0a01c58e                                         
+PicAmiInitialize                                                                                     0x1b35e9aa                                         
+PicFreeFileInfo                                                                                      0x2185be2f                                         
+PicRetrieveFileInfo                                                                                  0x22032173                                         
+PicRetrieveFileInfoAppx                                                                              0xc8f232ec                                         
+PicRetrieveFileLastRunTime                                                                           0xa2d7b45f                                         
+PicUpdateFileLastRunTime                                                                             0x5dfc769c                                         
+UpdateSoftwareInventoryTC2                                                                           0xec1319aa                                         

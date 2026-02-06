@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\csrsrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CsrAddStaticServerThread                                                                             0x871bf80d                                         
+CsrCallServerFromServer                                                                              0x0f4cc16b                                         
+CsrConnectToUser                                                                                     0xb5158fb9                                         
+CsrCreateProcess                                                                                     0x81c3de00                                         
+CsrCreateRemoteThread                                                                                0x5846bb85                                         
+CsrCreateThread                                                                                      0x71693a79                                         
+CsrDeferredCreateProcess                                                                             0x37303921                                         
+CsrDereferenceProcess                                                                                0x8a499384                                         
+CsrDereferenceThread                                                                                 0xf58c4f7d                                         
+CsrDestroyProcess                                                                                    0xaaca8576                                         
+CsrDestroyThread                                                                                     0x4bddcb2f                                         
+CsrExecServerThread                                                                                  0xff17bca1                                         
+CsrGetProcessLuid                                                                                    0xd1e4f3ba                                         
+CsrImpersonateClient                                                                                 0x879dbc53                                         
+CsrIsClientSandboxed                                                                                 0xf0b03260                                         
+CsrLockProcessByClientId                                                                             0xa46deddc                                         
+CsrLockThreadByClientId                                                                              0x031b92f5                                         
+CsrLockedReferenceProcess                                                                            0x0c9c3c8d                                         
+CsrQueryApiPort                                                                                      0x767aa5e2                                         
+CsrReferenceThread                                                                                   0x43be8614                                         
+CsrRegisterClientThreadSetup                                                                         0x40c0851a                                         
+CsrReplyToMessage                                                                                    0xbe34f521                                         
+CsrRevertToSelf                                                                                      0x4b2f78d2                                         
+CsrServerInitialization                                                                              0x16050d2c                                         
+CsrSetBackgroundPriority                                                                             0x28bb9a7b                                         
+CsrSetForegroundPriority                                                                             0xcc6f24b6                                         
+CsrShutdownProcesses                                                                                 0x77505b20                                         
+CsrUnhandledExceptionFilter                                                                          0x294fe815                                         
+CsrUnlockProcess                                                                                     0xfe097458                                         
+CsrUnlockThread                                                                                      0x65a965d1                                         
+CsrValidateMessageBuffer                                                                             0xd1617096                                         
+CsrValidateMessageString                                                                             0xf8fdad33                                         

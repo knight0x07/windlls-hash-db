@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\unimdmat.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+UmAbortCurrentModemCommand                                                                           0x6103b593                                         
+UmAnswerModem                                                                                        0xcd135c89                                         
+UmCloseModem                                                                                         0x8b6b2def                                         
+UmDeinitializeModemDriver                                                                            0x00a12b40                                         
+UmDialModem                                                                                          0xf02e32d3                                         
+UmDuplicateDeviceHandle                                                                              0xcda9881e                                         
+UmGenerateDigit                                                                                      0x79f82fe3                                         
+UmGetDiagnostics                                                                                     0xa3de1f9f                                         
+UmHangupModem                                                                                        0xfe80ea5c                                         
+UmInitModem                                                                                          0x4e60bb4d                                         
+UmInitializeModemDriver                                                                              0xef692097                                         
+UmIssueCommand                                                                                       0xd62f6ccf                                         
+UmLogDiagnostics                                                                                     0x6979e0e1                                         
+UmLogStringA                                                                                         0x31812861                                         
+UmMonitorModem                                                                                       0x121b6421                                         
+UmOpenModem                                                                                          0x9fe7244b                                         
+UmSetPassthroughMode                                                                                 0x0c1c0f30                                         
+UmSetSpeakerPhoneState                                                                               0x7bc6a6b9                                         
+UmWaveAction                                                                                         0xc89a61f8                                         

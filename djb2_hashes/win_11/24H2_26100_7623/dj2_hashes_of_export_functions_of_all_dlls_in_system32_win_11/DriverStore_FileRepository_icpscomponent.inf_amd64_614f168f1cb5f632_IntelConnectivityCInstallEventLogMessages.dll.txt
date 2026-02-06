@@ -1,0 +1,6 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\icpscomponent.inf_amd64_614f168f1cb5f632\IntelConnectivityCInstallEventLogMessages.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

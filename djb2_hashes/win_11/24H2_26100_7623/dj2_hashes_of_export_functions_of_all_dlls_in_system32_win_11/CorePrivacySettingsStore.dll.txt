@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\CorePrivacySettingsStore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CPSSFreeComponentArray                                                                               0x30231532                                         
+CPSSFreeKeyArray                                                                                     0xefddc828                                         
+CPSSFreeStringSetting                                                                                0x47b9b915                                         
+CPSSGetBoolSetting                                                                                   0x9ee78068                                         
+CPSSGetBoolSettingByKey                                                                              0x931df90c                                         
+CPSSGetDwordSetting                                                                                  0xe75e085c                                         
+CPSSGetDwordSettingByKey                                                                             0xb6eb9980                                         
+CPSSGetStringSetting                                                                                 0xc7fee8b3                                         
+CPSSGetStringSettingByKey                                                                            0x4a094837                                         
+CPSSPeekBoolSetting                                                                                  0xdbca5ced                                         
+CPSSPeekBoolSettingByKey                                                                             0x926870b1                                         
+CPSSPeekDwordSetting                                                                                 0xc09c7581                                         
+CPSSPeekDwordSettingByKey                                                                            0x9f8505c5                                         
+CPSSPeekStringSetting                                                                                0xc90afa78                                         
+CPSSPeekStringSettingByKey                                                                           0x45d03d1c                                         
+CPSSPutBoolSetting                                                                                   0xaa1a1f21                                         
+CPSSPutBoolSettingByKey                                                                              0xac2db365                                         
+CPSSPutDwordSetting                                                                                  0x58e47e35                                         
+CPSSPutDwordSettingByKey                                                                             0xf1f29ef9                                         
+CPSSPutStringSetting                                                                                 0x6a5419ac                                         
+CPSSPutStringSettingByKey                                                                            0xe5f0fcd0                                         
+CPSSQueryAllComponents                                                                               0x1a82f9b3                                         
+CPSSQueryKeysForComponent                                                                            0x22366cca                                         
+CPSSRemoveSetting                                                                                    0xf2dfee8a                                         
+CPSSRemoveSettingByKey                                                                               0x08da8c6e                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         

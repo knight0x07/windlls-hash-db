@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\NaturalAuthClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CdfPluginRegisterDevice                                                                              0x9309abf6                                         
+CdfPluginUnregisterDevice                                                                            0xb00788f9                                         
+CdfPluginUpdatePresenceState                                                                         0x2c51deda                                         
+NaDeviceUnlockStart                                                                                  0x0f3ae39e                                         
+NaDeviceUnlockStop                                                                                   0x007627b6                                         
+NaDynamicLockForceEvaluate                                                                           0xb39acd08                                         
+NaDynamicLockShouldIgnoreDisplayRequestActivity                                                      0x1ed82bc1                                         
+NaDynamicLockShouldIgnoreUserActivity                                                                0x18f6a781                                         
+NaDynamicLockShouldSkipGracePeriod                                                                   0xdd94ba4d                                         
+NaDynamicLockStart                                                                                   0x662570d0                                         
+NaDynamicLockStop                                                                                    0xcccad6a8                                         
+NaRuleQuery                                                                                          0xcac2cb42                                         
+NaRuleRegister                                                                                       0x7b9b4a31                                         
+NaRuleUnregister                                                                                     0xca4447b4                                         
+NaRuleValidate                                                                                       0x045aed36                                         

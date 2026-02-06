@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\rdvgwddmdx11.inf_amd64_e8336336d081cc11\rdvgocl64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+clGetExtensionFunctionAddress                                                                        0x1c8a90bd                                         
+clIcdGetPlatformIDsKHR                                                                               0xc0f863ee                                         

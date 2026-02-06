@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\InprocLogger.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EnableInProcTracingForProvider                                                                       0xc597ecf1                                         
+FlushInProcTraceSession                                                                              0xf7376245                                         
+InitializeInProcLogger                                                                               0x00e2f6e2                                         
+InitializeInProcTraceFlushTrigger                                                                    0xd166fe87                                         
+InitializeInProcTraceSession                                                                         0xdcda8375                                         
+IsInProcTraceSessionStarted                                                                          0xc3213536                                         
+ShutdownInProcLogger                                                                                 0x951e3aac                                         
+ShutdownInProcTraceFlushTrigger                                                                      0xbc3a1011                                         
+ShutdownInProcTraceSession                                                                           0xacaff6bf                                         
+StartInProcTraceSession                                                                              0xe064d1b1                                         
+StopInProcTraceSession                                                                               0x28a65529                                         

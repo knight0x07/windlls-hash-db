@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\smartscreen.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckAppxPackageReputation                                                                           0x1cffc5f3                                         
+CheckFileReputation                                                                                  0x0439d0ae                                         
+CheckReputation                                                                                      0x44a307ae                                         
+ClearCache                                                                                           0xd89aee60                                         
+EventLogger                                                                                          0xce660b87                                         
+FreeExperience                                                                                       0x0425ea0f                                         
+GetAppControlEnforcementLevel                                                                        0xe4fa5355                                         
+GetAppReputationEnforcementLevel                                                                     0xe8ad7dff                                         
+GetEnforcementLevel                                                                                  0x2079c573                                         
+GetEnforcementPolicy                                                                                 0x39b69feb                                         
+RegisterEventLogger                                                                                  0x11c38fcc                                         
+ReportLaunch                                                                                         0xb9d863dc                                         
+ResetLogger                                                                                          0x5fe54ec8                                         
+SetAppControlEnforcementLevel                                                                        0xee495d61                                         
+SetAppReputationEnforcementLevel                                                                     0xa91edc8b                                         
+SetEnforcementLevel                                                                                  0x6ab6907f                                         
+UriReputationFactory                                                                                 0xcb50e898                                         

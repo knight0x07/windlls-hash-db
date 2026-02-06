@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-Core-Kernel32-Private-L1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BaseSetLastNTError                                                                                   0xbf23c2ec                                         
+CheckElevation                                                                                       0xea812c4a                                         
+CheckElevationEnabled                                                                                0x521be915                                         
+CompareCalendarDates                                                                                 0xd6196b57                                         
+DosPathToSessionPathW                                                                                0x90fb0443                                         
+EnumerateLocalComputerNamesW                                                                         0x5f981d50                                         
+GetCalendarMonthsInYear                                                                              0xa77a1680                                         
+RegisterWaitForInputIdle                                                                             0xfab34fb4                                         
+RemoveLocalAlternateComputerNameW                                                                    0x2e0350a5                                         
+SetLocalPrimaryComputerNameW                                                                         0x141aea47                                         
+Wow64EnableWow64FsRedirection                                                                        0x79fbe6ab                                         
+_lclose                                                                                              0x97c5e726                                         
+_lcreat                                                                                              0x97c9049f                                         
+_llseek                                                                                              0x986c6e04                                         
+_lopen                                                                                               0xed5a36e2                                         
+_lread                                                                                               0xed5bacac                                         
+_lwrite                                                                                              0x9933021b                                         

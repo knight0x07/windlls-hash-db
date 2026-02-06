@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\cscapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CscNetApiGetInterface                                                                                0x38d93db0                                         
+CscSearchApiGetInterface                                                                             0xec5825bf                                         
+OfflineFilesEnable                                                                                   0x894f42a2                                         
+OfflineFilesGetShareCachingMode                                                                      0x70338d80                                         
+OfflineFilesQueryStatus                                                                              0xdae04395                                         
+OfflineFilesQueryStatusEx                                                                            0x13ff8632                                         
+OfflineFilesStart                                                                                    0xe6221209                                         

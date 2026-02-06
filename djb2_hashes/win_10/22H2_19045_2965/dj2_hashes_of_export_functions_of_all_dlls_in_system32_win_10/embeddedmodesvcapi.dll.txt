@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\embeddedmodesvcapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ActivatePackage                                                                                      0xf9cbe1a2                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+IsEmbeddedModeAllowed                                                                                0xc4657858                                         

@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\mstask.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConvertAtJobsToTasks                                                                                 0xc7c16752                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetNetScheduleAccountInformation                                                                     0xa9dffd6c                                         
+NetrJobAdd                                                                                           0x6fef6e02                                         
+NetrJobDel                                                                                           0x6fef7aee                                         
+NetrJobEnum                                                                                          0x6ddf8cee                                         
+NetrJobGetInfo                                                                                       0x6798a565                                         
+SAGetAccountInformation                                                                              0x6c3cc42c                                         
+SAGetNSAccountInformation                                                                            0x2dc9070d                                         
+SASetAccountInformation                                                                              0x38d88238                                         
+SASetNSAccountInformation                                                                            0x904c7819                                         
+SetNetScheduleAccountInformation                                                                     0x6a515bf8                                         

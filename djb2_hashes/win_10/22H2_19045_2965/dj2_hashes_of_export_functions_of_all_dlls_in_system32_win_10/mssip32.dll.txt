@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\mssip32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CryptSIPCreateIndirectData                                                                           0x14de8c63                                         
+CryptSIPGetInfo                                                                                      0xbcafc16f                                         
+CryptSIPGetRegWorkingFlags                                                                           0x64ed896f                                         
+CryptSIPGetSignedDataMsg                                                                             0x6bcb661e                                         
+CryptSIPPutSignedDataMsg                                                                             0x0e209717                                         
+CryptSIPRemoveSignedDataMsg                                                                          0xf613de0c                                         
+CryptSIPVerifyIndirectData                                                                           0xfa4a8c84                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

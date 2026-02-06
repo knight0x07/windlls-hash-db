@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\psapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EmptyWorkingSet                                                                                      0x06cd12a1                                         
+EnumDeviceDrivers                                                                                    0x71481ce9                                         
+EnumPageFilesA                                                                                       0xc5db5a8b                                         
+EnumPageFilesW                                                                                       0xc5db5aa1                                         
+EnumProcessModules                                                                                   0xa5de9f92                                         
+EnumProcessModulesEx                                                                                 0x9804d56f                                         
+EnumProcesses                                                                                        0x711181f1                                         
+GetDeviceDriverBaseNameA                                                                             0xe7e9f75e                                         
+GetDeviceDriverBaseNameW                                                                             0xe7e9f774                                         
+GetDeviceDriverFileNameA                                                                             0x0112b923                                         
+GetDeviceDriverFileNameW                                                                             0x0112b939                                         
+GetMappedFileNameA                                                                                   0xf05593be                                         
+GetMappedFileNameW                                                                                   0xf05593d4                                         
+GetModuleBaseNameA                                                                                   0xfa8fdf88                                         
+GetModuleBaseNameW                                                                                   0xfa8fdf9e                                         
+GetModuleFileNameExA                                                                                 0xe466494a                                         
+GetModuleFileNameExW                                                                                 0xe4664960                                         
+GetModuleInformation                                                                                 0xf6b707f1                                         
+GetPerformanceInfo                                                                                   0xde5ffc83                                         
+GetProcessImageFileNameA                                                                             0x1e538469                                         
+GetProcessImageFileNameW                                                                             0x1e53847f                                         
+GetProcessMemoryInfo                                                                                 0x64566fc9                                         
+GetWsChanges                                                                                         0x358bbe88                                         
+GetWsChangesEx                                                                                       0xc77589e5                                         
+InitializeProcessForWsWatch                                                                          0x82b01c3e                                         
+QueryWorkingSet                                                                                      0xbd2be168                                         
+QueryWorkingSetEx                                                                                    0xb7a9e4c5                                         

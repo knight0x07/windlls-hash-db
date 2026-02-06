@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\provpackageapidll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreatePackageBuilder                                                                                 0x2bf2daec                                         
+CreatePackageSecurity                                                                                0x7db5371d                                         
+OpenProvisioningPackage                                                                              0xd6bee30a                                         
+OpenProvisioningPackageForRead                                                                       0xc6eaa96d                                         

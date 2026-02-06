@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\oemlicense.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddDemoAppLicense                                                                                    0x35f4b437                                         
+HrAddAppxLicense                                                                                     0x3af308e4                                         
+HrInstallClipLicense                                                                                 0x745a7ae1                                         
+HrNotifyPhoneLicenseReady                                                                            0xb42a330a                                         
+HrRemoveAppxLicense                                                                                  0x1a984929                                         
+RemoveDemoAppLicense                                                                                 0xd0d53c9c                                         

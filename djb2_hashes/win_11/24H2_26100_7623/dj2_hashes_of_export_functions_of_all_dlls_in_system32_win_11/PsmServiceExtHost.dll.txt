@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\PsmServiceExtHost.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BiHamExtHostQueryResourceUsage                                                                       0x9d9007e8                                         
+CrmpInProcActivityAllocate                                                                           0x5a64e234                                         
+CrmpInProcActivityFree                                                                               0xc9dfffb1                                         
+CrmpInProcActivityQueryWindowClosedReasons                                                           0x30607b92                                         
+CrmpInProcActivityStart                                                                              0x06cc3e3d                                         
+CrmpInProcActivityStop                                                                               0xc9e72a75                                         
+CrmpInProcActivityWindowClosedReasonSubscribe                                                        0x173de9ab                                         
+CrmpInProcActivityWindowClosedReasonUnsubscribe                                                      0x168cdace                                         
+HampInProcCloseActivity                                                                              0x6a089db9                                         
+HampInProcCompleteConnection                                                                         0xa5b0791f                                         
+HampInProcCreateActivity                                                                             0x76d6b237                                         
+HampInProcCreateActivityForProcess                                                                   0x89a157fd                                         
+HampInProcIsHostBeingDebugged                                                                        0x35eb476c                                         
+HampInProcQueryActivityPendDiagnostics                                                               0x443cfad8                                         
+HampInProcResetExternalResourcePriority                                                              0x45a823e6                                         
+HampInProcSetExternalResourcePriority                                                                0xac5945af                                         
+HampInProcStartActivityAsync                                                                         0x801b856f                                         
+HampInProcStopActivity                                                                               0x5451d489                                         
+HampInProcTerminateActivityHost                                                                      0xaebf008a                                         
+HampInProcTerminateApplicationHost                                                                   0xcda28631                                         
+HampInProcTerminateHostOnProcessExit                                                                 0xfb0b78b3                                         
+HampInProcUpdateActivityProperties                                                                   0x5541de73                                         
+PsmApplicationStateNotification                                                                      0x28f74511                                         
+PsmCrmCleanup                                                                                        0xaf76281f                                         
+PsmCrmSessionUserNotification                                                                        0xc641f361                                         
+PsmCrmStart                                                                                          0x23290665                                         
+PsmCrmSuspendNotification                                                                            0x1946e540                                         
+PsmHamDereferenceHostId                                                                              0xe33802ae                                         
+PsmHamGetPackageDebugMode                                                                            0x6fe115c3                                         
+PsmHamReferenceHostId                                                                                0x95ce19c5                                         
+PsmHamRegisterProcess                                                                                0x3bd9fd4f                                         
+PsmHamTerminateApplication                                                                           0xb0f30288                                         
+PsmHamTerminateHost                                                                                  0x7ce7ecd2                                         
+PsmHamTerminatePackage                                                                               0x6f6873a0                                         
+PsmHangNotification                                                                                  0xa077805a                                         
+PsmHangNotification2                                                                                 0xaf678bcc                                         
+PsmHostStateNotification                                                                             0x94f017bb                                         
+PsmHostStateNotification2                                                                            0x32f30f4d                                         
+PsmInitializeServiceExtension                                                                        0xcd8b9735                                         
+PsmInitializeServiceExtension2                                                                       0x7efe7e07                                         
+PsmInitializeServiceExtension3                                                                       0x7efe7e08                                         
+PsmInitializeServiceExtension4                                                                       0x7efe7e09                                         
+PsmMemoryLimitNotification                                                                           0x9b2be694                                         
+PsmMemoryLimitNotification2                                                                          0x00a8b946                                         

@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\vmvirtio.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+VirtioCompleteWorkCallbackAsync                                                                      0x4fb85369                                         
+VirtioCreateInstance                                                                                 0x2605236b                                         
+VirtioDeleteInstance                                                                                 0xc58c442a                                         
+VirtioDisableQueues                                                                                  0xdb8ebb2e                                         
+VirtioEnableQueues                                                                                   0x280c5cc1                                         
+VirtioGetDriverFeatures                                                                              0x5f6e216d                                         
+VirtioGetPciPnpId                                                                                    0x16137fd9                                         
+VirtioMemoryStreamAdvance                                                                            0x1b0aafd9                                         
+VirtioMemoryStreamGetCurrentReadSpanLength                                                           0xb9d8981a                                         
+VirtioMemoryStreamGetCurrentWriteSpanLength                                                          0x6f52cb89                                         
+VirtioMemoryStreamGetNextReadBuffer                                                                  0xafb225dc                                         
+VirtioMemoryStreamGetNextWriteBuffer                                                                 0xed9f494b                                         
+VirtioMemoryStreamRead                                                                               0x9a27e1a3                                         
+VirtioMemoryStreamWrite                                                                              0xdf85d5f2                                         
+VirtioPauseQueues                                                                                    0xdc3984f8                                         
+VirtioReadConfigSpace                                                                                0xbf76f5a0                                         
+VirtioReadInterceptedBar                                                                             0x6a65792a                                         
+VirtioRestoreQueues                                                                                  0x2f994a7e                                         
+VirtioResumeQueues                                                                                   0xce6227ab                                         
+VirtioSaveQueues                                                                                     0x8db67f29                                         
+VirtioWriteConfigSpace                                                                               0x441549ef                                         
+VirtioWriteInterceptedBar                                                                            0x407e9f19                                         

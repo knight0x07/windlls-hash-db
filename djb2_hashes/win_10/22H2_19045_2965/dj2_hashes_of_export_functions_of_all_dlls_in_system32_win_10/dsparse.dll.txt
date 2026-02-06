@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\dsparse.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DsCrackSpn2A                                                                                         0x7987a6a4                                         
+DsCrackSpn2W                                                                                         0x7987a6ba                                         
+DsCrackSpn3W                                                                                         0x7987a6db                                         
+DsCrackSpn4W                                                                                         0x7987a6fc                                         
+DsCrackSpnA                                                                                          0xf42ae612                                         
+DsCrackSpnW                                                                                          0xf42ae628                                         
+DsCrackUnquotedMangledRdnA                                                                           0x41763e72                                         
+DsCrackUnquotedMangledRdnW                                                                           0x41763e88                                         
+DsGetRdnW                                                                                            0x521eda77                                         
+DsIsMangledDnA                                                                                       0x29c6d163                                         
+DsIsMangledDnW                                                                                       0x29c6d179                                         
+DsIsMangledRdnValueA                                                                                 0x7291c1b2                                         
+DsIsMangledRdnValueW                                                                                 0x7291c1c8                                         
+DsMakeSpn2W                                                                                          0xd57668b4                                         
+DsMakeSpnA                                                                                           0xd7ec50cc                                         
+DsMakeSpnW                                                                                           0xd7ec50e2                                         
+DsQuoteRdnValueA                                                                                     0x1741ecec                                         
+DsQuoteRdnValueW                                                                                     0x1741ed02                                         
+DsUnquoteRdnValueA                                                                                   0xf508ecaf                                         
+DsUnquoteRdnValueW                                                                                   0xf508ecc5                                         

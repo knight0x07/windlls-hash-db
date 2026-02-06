@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\vbsapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HvciGetConfig                                                                                        0x9552d9e5                                         
+HvciGetConfigFromVBSKey                                                                              0xc43e30ad                                         
+HvciIncompatibilityScanCancel                                                                        0xf20deeeb                                         
+HvciIncompatibilityScanFree                                                                          0x90552747                                         
+HvciIncompatibilityScanGetResult                                                                     0x7f24b324                                         
+HvciIncompatibilityScanInitialize                                                                    0x9ea20d57                                         
+HvciIncompatibilityScanInitialize2                                                                   0x72e3b869                                         
+HvciIncompatibilityScanOverrideDriverCompatDatabase                                                  0x8136bcca                                         
+HvciIncompatibilityScanOverrideServicesKey                                                           0x9e2d06f2                                         
+HvciIncompatibilityScanStart                                                                         0x9be65893                                         
+HvciIsActive                                                                                         0x7f0040c7                                         
+HvciIsRecommended                                                                                    0x0f1e528e                                         
+KernelShadowStacksGetConfig                                                                          0x85fbdfeb                                         
+KernelShadowStacksGetConfigFromVBSKey                                                                0xa892f633                                         
+KernelShadowStacksIsActive                                                                           0x4ffd9e0d                                         
+KernelShadowStacksIsCapable                                                                          0xe4ae6f19                                         
+VbsGetIssues                                                                                         0xc12b39ec                                         
+VbsGetIssuesForWindowsPath                                                                           0x984439cb                                         
+VbsIsCapable                                                                                         0x11937614                                         
+VbsIsRecommended                                                                                     0x2efcf80f                                         
+VbsIsScenarioEnabled                                                                                 0xc51c65eb                                         
+VbsIsVbsRecommended                                                                                  0x6d880a9a                                         
+VbsSetKernelShadowStacksScenarioEnable                                                               0x30def747                                         
+VbsSetKernelShadowStacksScenarioEnableToVBSKey                                                       0x41f8471e                                         
+VbsSetScenarioEnable                                                                                 0x29c7e357                                         
+VbsSetScenarioEnableToVBSKey                                                                         0xa2d4432e                                         

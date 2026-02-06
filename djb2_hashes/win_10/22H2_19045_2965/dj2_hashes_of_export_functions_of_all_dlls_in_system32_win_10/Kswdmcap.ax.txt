@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\Kswdmcap.ax
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+FilterHandleFromPin                                                                                  0xb9f51172                                         
+PerformDataIntersection                                                                              0x7cbed9f1                                         
+PinFactoryIDFromPin                                                                                  0xeb38842c                                         
+RedundantKsGetMultiplePinFactoryItems                                                                0xbe205c55                                         

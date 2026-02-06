@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\profsvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetExclusionListFromRegistry                                                                         0xd981d848                                         
+GetUserChoiceForSlowLink                                                                             0xd1a6e589                                         
+GetUserPreferenceValue                                                                               0x7986b460                                         
+UserProfileServiceMain                                                                               0x7295aeab                                         

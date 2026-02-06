@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\DMPushRouterCore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitializePushRouter                                                                                 0x19e87938                                         
+PrAreAllClientsHandled                                                                               0xfaf209da                                         
+PrSvcDecMessageCount                                                                                 0x2827ed4d                                         
+PrSvcGetMessageCount                                                                                 0x574dd821                                         
+PrSvcIncMessageCount                                                                                 0x6dcf18bb                                         
+PrSvcSetMessageCount                                                                                 0xfea6fd2d                                         
+PushRouter_SubmitPushLocal                                                                           0xdafb79e4                                         
+RegisterRPCInterface                                                                                 0x026c1d40                                         
+ShutDownPushRouter                                                                                   0xae050e62                                         
+ShutDownPushRouterSynchronously                                                                      0x6db65852                                         
+UnregisterRPCInterface                                                                               0x175ec983                                         

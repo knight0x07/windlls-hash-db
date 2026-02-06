@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\html.iec
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AbortForeignToRtf                                                                                    0x7088b256                                         
+AbortRtfToForeign                                                                                    0x0bb66316                                         
+CchFetchLpszError                                                                                    0x852c0990                                         
+CchFetchMainStream                                                                                   0xa5ec414e                                         
+ConvertForeignToRtf                                                                                  0x154a251f                                         
+ConvertRtfToForeign                                                                                  0xb077d5df                                         
+DllMain                                                                                              0x79f31ec6                                         
+FFetchSzzClasses                                                                                     0xbfab5c2a                                         
+FFileRecognized32                                                                                    0xba9651ba                                         
+FPrivateRetryMemError                                                                                0xe2ca9b25                                         
+FRegisterConverter                                                                                   0xae136248                                         
+ForeignToRtf32                                                                                       0x69e42443                                         
+GetReadNames                                                                                         0xfe238855                                         
+GetWriteNames                                                                                        0x2715f9c4                                         
+InitConverter32                                                                                      0x6718fb36                                         
+IsFormatCorrect32                                                                                    0xfc4d3301                                         
+RegisterApp                                                                                          0xaabbe58b                                         
+RtfToForeign32                                                                                       0x87410503                                         
+UninitConverter                                                                                      0x7f1a65d4                                         
+_AbortProcessing                                                                                     0x59d7aff9                                         

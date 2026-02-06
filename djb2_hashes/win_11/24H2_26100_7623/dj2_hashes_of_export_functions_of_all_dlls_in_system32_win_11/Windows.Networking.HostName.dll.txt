@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\Windows.Networking.HostName.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateEndpointPairFromSockAddrs                                                                      0x6fc00038                                         
+CreateHostNameFromSockAddr                                                                           0x792bd457                                         
+CreateHostNameFromString                                                                             0x923ec443                                         
+CreateNetworkAdapterFromGuid                                                                         0x26b72d21                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetAllHostNames                                                                                      0x7afd6390                                         
+GetSortedEndpointPairs                                                                               0x837981d6                                         

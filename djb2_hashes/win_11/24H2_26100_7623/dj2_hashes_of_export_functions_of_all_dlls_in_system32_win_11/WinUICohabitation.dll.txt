@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\WinUICohabitation.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WinAppSDKCohabitation_EnsureWASDKFrameworkPackageRegistered                                          0x0b47583e                                         
+WinAppSDKCohabitation_RegisterWASDKThread                                                            0x96b66cc1                                         
+WinAppSDKCohabitation_UnregisterWASDKThread                                                          0xbc4c11e4                                         
+WinUICohabitation_DesktopWindowXamlSourceNative_AttachToWindow                                       0x08086970                                         
+WinUICohabitation_DesktopWindowXamlSourceNative_get_WindowHandle                                     0x706d01e3                                         
+WinUICohabitation_GetWinUI2XamlControlsResources                                                     0xbde62b64                                         

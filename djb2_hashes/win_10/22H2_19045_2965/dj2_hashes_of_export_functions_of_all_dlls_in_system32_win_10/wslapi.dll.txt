@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\wslapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+WslConfigureDistribution                                                                             0x0cd10bbd                                         
+WslGetDistributionConfiguration                                                                      0x8df97033                                         
+WslIsDistributionRegistered                                                                          0xad3e8c25                                         
+WslLaunch                                                                                            0xdbf09696                                         
+WslLaunchInteractive                                                                                 0xc08a20d4                                         
+WslRegisterDistribution                                                                              0x542cb4a0                                         
+WslUnregisterDistribution                                                                            0x7995c663                                         

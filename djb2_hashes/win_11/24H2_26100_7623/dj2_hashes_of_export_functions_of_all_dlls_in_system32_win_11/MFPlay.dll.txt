@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\MFPlay.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+MFPCreateMediaPlayer                                                                                 0xde73e429                                         
+MFPCreateMediaPlayerEx                                                                               0x4afd9bc6                                         

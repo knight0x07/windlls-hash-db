@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\dmutil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddEntryBootFileGpt                                                                                  0xfbb9a45f                                         
+AddEntryBootFileMbr                                                                                  0xfbb9bc15                                         
+CoDisableDynamicVolumes                                                                              0x9aa15dfb                                         
+DisplayError                                                                                         0xc976a605                                         
+DisplayErrorRgszw                                                                                    0x6d3e7ee2                                         
+DllMain                                                                                              0x79f31ec6                                         
+DmCommonNtOpenFile                                                                                   0x3b488553                                         
+DynamicSupport                                                                                       0xc94a59a7                                         
+FTrace                                                                                               0xb158581a                                         
+FTraceValist                                                                                         0xf958796d                                         
+FreeRgszw                                                                                            0x51cd8a84                                         
+GetErrorData                                                                                         0x4bebbc69                                         
+GetInstallDirectoryPath                                                                              0x96b7255e                                         
+GetSystemVolume                                                                                      0x876d6062                                         
+IsPersonalSKU                                                                                        0xbab89118                                         
+LowAcquirePrivilege                                                                                  0x3835f388                                         
+LowGetPartitionInfo                                                                                  0xdea99b5d                                         
+LowNtAddBootEntry                                                                                    0x4cc41428                                         
+LowNtReadFile                                                                                        0x2db9a155                                         
+LowNtReadOnlyAttributeOff                                                                            0x84956b26                                         
+LowNtWriteFile                                                                                       0xb9f5fb64                                         
+RgszwDupRgszw                                                                                        0x82007408                                         
+RgszwFromArgs                                                                                        0x7313f763                                         
+RgszwFromValist                                                                                      0xb7bab369                                         
+SafeLoadVdsService                                                                                   0x093980a2                                         
+ShowMessage                                                                                          0x3c917ecb                                         
+ShowMessageValist                                                                                    0xa95a20de                                         
+SzwDupSzw                                                                                            0xbd49b856                                         
+SzwFromSza                                                                                           0xf97146eb                                         
+TranslateError                                                                                       0xfc2589dd                                         

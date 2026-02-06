@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-comm-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClearCommBreak                                                                                       0x65fbd17d                                         
+ClearCommError                                                                                       0x66325422                                         
+EscapeCommFunction                                                                                   0x1a4b8248                                         
+GetCommConfig                                                                                        0xc209c147                                         
+GetCommMask                                                                                          0x848c327d                                         
+GetCommModemStatus                                                                                   0x131589e7                                         
+GetCommProperties                                                                                    0xbfc1c5fe                                         
+GetCommState                                                                                         0x16893552                                         
+GetCommTimeouts                                                                                      0x4b9d398b                                         
+PurgeComm                                                                                            0x9212db74                                         
+SetCommBreak                                                                                         0x60bceb22                                         
+SetCommConfig                                                                                        0x7a7e3353                                         
+SetCommMask                                                                                          0xc4e4b189                                         
+SetCommState                                                                                         0x61f195de                                         
+SetCommTimeouts                                                                                      0xf2f65e97                                         
+SetupComm                                                                                            0xe6cea042                                         
+TransmitCommChar                                                                                     0x7593e141                                         
+WaitCommEvent                                                                                        0x315c23a8                                         

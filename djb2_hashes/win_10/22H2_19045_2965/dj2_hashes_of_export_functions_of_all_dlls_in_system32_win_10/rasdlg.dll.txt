@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\rasdlg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DwTerminalDlg                                                                                        0xafb506d3                                         
+GetRasDialOutProtocols                                                                               0x8968b422                                         
+RasAutodialQueryDlgA                                                                                 0x243790cc                                         
+RasAutodialQueryDlgW                                                                                 0x243790e2                                         
+RasDialDlgA                                                                                          0xbd30ecbd                                         
+RasDialDlgW                                                                                          0xbd30ecd3                                         
+RasEntryDlgA                                                                                         0x3d4ed1d5                                         
+RasEntryDlgW                                                                                         0x3d4ed1eb                                         
+RasHandleDiagnostics                                                                                 0x6dc91e4f                                         
+RasPhonebookDlgA                                                                                     0x347a5f48                                         
+RasPhonebookDlgW                                                                                     0x347a5f5e                                         
+RasSrvAddPropPages                                                                                   0xccb49540                                         
+RasSrvAllowConnectionsConfig                                                                         0xcbf1c8fe                                         
+RasSrvCleanupService                                                                                 0x6597081f                                         
+RasSrvEnumConnections                                                                                0x76e5ae9e                                         
+RasSrvHangupConnection                                                                               0x07e363b9                                         
+RasSrvInitializeService                                                                              0x7716d8c9                                         
+RasSrvIsConnectionConnected                                                                          0x8195ecc5                                         
+RasSrvIsICConfigured                                                                                 0x77213154                                         
+RasSrvIsServiceRunning                                                                               0xce0fac94                                         
+RasUserEnableManualDial                                                                              0x417e2689                                         
+RasUserGetManualDial                                                                                 0xc5778ec2                                         
+RasUserPrefsDlg                                                                                      0xb1271561                                         
+RouterEntryDlgA                                                                                      0x53b56710                                         
+RouterEntryDlgW                                                                                      0x53b56726                                         

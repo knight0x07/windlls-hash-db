@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-synch-l1-2-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DeleteSynchronizationBarrier                                                                         0x18d21f91                                         
+EnterSynchronizationBarrier                                                                          0x571e80fc                                         
+InitOnceBeginInitialize                                                                              0x8d633df5                                         
+InitOnceComplete                                                                                     0xd04fd817                                         
+InitOnceExecuteOnce                                                                                  0xfafa8756                                         
+InitOnceInitialize                                                                                   0x42feb150                                         
+InitializeConditionVariable                                                                          0x14819484                                         
+InitializeSynchronizationBarrier                                                                     0x8ec70af0                                         
+SignalObjectAndWait                                                                                  0x1c821902                                         
+Sleep                                                                                                0x0e19e5fe                                         
+SleepConditionVariableCS                                                                             0xeacba6a1                                         
+SleepConditionVariableSRW                                                                            0x4440bf07                                         
+WaitOnAddress                                                                                        0x6d1d82bd                                         
+WakeAllConditionVariable                                                                             0x342b6cf3                                         
+WakeByAddressAll                                                                                     0x8a3df907                                         
+WakeByAddressSingle                                                                                  0x6f749eb0                                         
+WakeConditionVariable                                                                                0xff6e681a                                         

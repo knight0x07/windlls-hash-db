@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\shutdownext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ShutdownExAnnotate                                                                                   0x315ec7f8                                         
+ShutdownExDirtyDialog                                                                                0xb1d7cc1a                                         
+ShutdownExPrintReasons                                                                               0x9847aea6                                         
+ShutdownExReasonCommentRequired                                                                      0xf0a5c5fa                                         
+ShutdownExRemoteDialog                                                                               0x233f08ba                                         

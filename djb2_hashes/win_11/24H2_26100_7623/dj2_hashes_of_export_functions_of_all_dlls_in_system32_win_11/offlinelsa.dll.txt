@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\offlinelsa.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LsaOfflineAddAccountRights                                                                           0x888bb20f                                         
+LsaOfflineAddPrivilegesToAccount                                                                     0xa53cc33b                                         
+LsaOfflineClose                                                                                      0xad0eca1e                                         
+LsaOfflineCreateAccount                                                                              0xdd1f06e9                                         
+LsaOfflineDelete                                                                                     0x50bcac9b                                         
+LsaOfflineEnumerateAccountRights                                                                     0xe799422c                                         
+LsaOfflineEnumerateAccounts                                                                          0x79e2b86e                                         
+LsaOfflineEnumeratePrivilegesOfAccount                                                               0x3fd0842a                                         
+LsaOfflineFreeMemory                                                                                 0xa4060b63                                         
+LsaOfflineGetSystemAccessAccount                                                                     0xebcc6ccc                                         
+LsaOfflineOpenAccount                                                                                0x7a2b1d27                                         
+LsaOfflineOpenPolicy                                                                                 0x9bec2d6a                                         
+LsaOfflineOpenPolicyExternal                                                                         0xbc554a6d                                         
+LsaOfflineOpenPolicyForInstaller                                                                     0xd8421d1f                                         
+LsaOfflineQueryInformationPolicy                                                                     0x0f7d59b4                                         
+LsaOfflineRemoveAccountRights                                                                        0x7a6c66f4                                         
+LsaOfflineRemovePrivilegesFromAccount                                                                0xff9d9db1                                         
+LsaOfflineSetSystemAccessAccount                                                                     0x4bdfec58                                         
+LsaOfflineSyskeyRequest                                                                              0x61557bf9                                         

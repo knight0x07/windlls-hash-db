@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\spp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+SppFreeBadWritersArray                                                                               0xf8594770                                         
+SppFreeClientPropArray                                                                               0x28789c79                                         
+SppFreeExternalGroupPropArray                                                                        0x5e05894a                                         
+SppFreeGroupPropArray                                                                                0xd2121307                                         
+SppFreeMetadataProp                                                                                  0x896e68bc                                         
+SxTracerDebuggerBreak                                                                                0x372b6ffb                                         
+SxTracerGetThreadContextDebug                                                                        0xa810a375                                         
+SxTracerGetThreadContextRetail                                                                       0xcad6d54f                                         
+SxTracerShouldTrackFailure                                                                           0xea28409d                                         

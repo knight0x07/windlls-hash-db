@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\NetSetupApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetSetupClose                                                                                        0xe4e960f3                                         
+NetSetupCloseObjectQuery                                                                             0x19cdd580                                         
+NetSetupCommit                                                                                       0x824a9786                                         
+NetSetupCreateObject                                                                                 0xd4234b28                                         
+NetSetupCreateObjectQuery                                                                            0x38342a1e                                         
+NetSetupDeleteObject                                                                                 0x2d9d3027                                         
+NetSetupFreeObjectProperties                                                                         0x75e018c3                                         
+NetSetupFreeObjects                                                                                  0x96a814a9                                         
+NetSetupFreeSerializedFilter                                                                         0x04e415f1                                         
+NetSetupGetObjectProperties                                                                          0x763bc7c1                                         
+NetSetupGetObjectPropertyKeys                                                                        0xf55fd6b5                                         
+NetSetupGetObjects                                                                                   0x302e7de7                                         
+NetSetupInitialize                                                                                   0x59af6c2f                                         
+NetSetupOpenAdvancedPropertyKey                                                                      0x7ee2b853                                         
+NetSetupRollback                                                                                     0x14beaec7                                         
+NetSetupSerializeFilter                                                                              0xd88ab28b                                         
+NetSetupSetObjectProperties                                                                          0xc07892cd                                         
+NetSetupSynchronizeDevices                                                                           0x9a910fbc                                         
+NetSetupValidateTransaction                                                                          0x0ce111cd                                         
+OnMachineUILanguageInit                                                                              0x145abfed                                         
+OnMachineUILanguageSwitch                                                                            0xae00ef2b                                         

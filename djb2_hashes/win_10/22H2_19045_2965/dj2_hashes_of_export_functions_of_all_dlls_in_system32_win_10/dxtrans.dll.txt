@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\dxtrans.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?DXConstOverArray@@YAXPEAVDXPMSAMPLE@@AEBV1@K@Z                                                      0x1737cd2f                                         
+?DXConstUnderArray@@YAXPEAVDXPMSAMPLE@@AEBV1@K@Z                                                     0xc0e6a8d1                                         
+?DXDitherArray@@YAXPEBUDXDITHERDESC@@@Z                                                              0xc1588792                                         
+?DXLinearInterpolateArray@@YAXPEBVDXBASESAMPLE@@PEAUDXLIMAPINFO@@PEAV1@K@Z                           0x99ef6581                                         
+?DXOverArray@@YAXPEAVDXPMSAMPLE@@PEBV1@K@Z                                                           0xcd28f317                                         
+?DXOverArrayMMX@@YAXPEAVDXPMSAMPLE@@PEBV1@K@Z                                                        0x95d7f289                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllEnumClassObjects                                                                                  0xa37e58d6                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

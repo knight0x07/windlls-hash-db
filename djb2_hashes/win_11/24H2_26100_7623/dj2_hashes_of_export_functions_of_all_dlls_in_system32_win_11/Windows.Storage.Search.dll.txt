@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\Windows.Storage.Search.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateDefaultProviderResolver                                                                        0x624b7b7b                                         
+CreateResultSetFactory                                                                               0x5f9bf97c                                         
+CreateSingleVisibleInList                                                                            0x8eef32dc                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetGatherAdmin                                                                                       0xaf4af3c9                                         
+GetScopeFolderType                                                                                   0x794cc5bd                                         
+IsMSSearchEnabled                                                                                    0x542fa582                                         
+IsShellItemInSearchIndex                                                                             0xa2e2a88d                                         
+SEARCH_RemoteLocationsCscStateCache_IsRemoteLocationInCsc                                            0x49cf24b0                                         
+SEARCH_WriteAutoListContents                                                                         0x0cd47ee8                                         
+SHCreateAutoList                                                                                     0x5cf52809                                         
+SHCreateAutoListWithID                                                                               0x219d8672                                         
+SHCreateScope                                                                                        0xee52adee                                         
+SHCreateScopeFromIDListsEx                                                                           0x7cdafa3b                                         
+SHCreateScopeFromShellItemArray                                                                      0xe3a9d4a8                                         
+SHCreateScopeItemFromIDList                                                                          0x7ceaf7da                                         
+SHCreateScopeItemFromKnownFolder                                                                     0xeed9547a                                         
+SHCreateScopeItemFromShellItem                                                                       0x258c9f18                                         
+SHCreateSearchIDListFromAutoList                                                                     0xf19cce1c                                         
+SHCreateTransientVFolderIDList                                                                       0xe589bee7                                         
+SHSaveBinaryAutoListToStream                                                                         0x9fec57f8                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\laps.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LAPSExtAcceptDSRMPasswordModification                                                                0x889b1c55                                         
+LAPSExtAcceptPasswordModification                                                                    0x0181349f                                         
+LAPSExtInitialize                                                                                    0x23274b78                                         
+LAPSExtNotifyLocalAccountAuthentication                                                              0xc9cd4317                                         
+LAPSExtUninitialize                                                                                  0xc9a07c3b                                         

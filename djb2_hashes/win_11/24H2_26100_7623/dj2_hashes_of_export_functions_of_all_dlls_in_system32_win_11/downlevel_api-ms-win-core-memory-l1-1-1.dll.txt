@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-memory-l1-1-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateFileMappingFromApp                                                                             0x582d991a                                         
+CreateFileMappingNumaW                                                                               0x558412ed                                         
+CreateMemoryResourceNotification                                                                     0xdf5ac5a1                                         
+GetLargePageMinimum                                                                                  0x468441a9                                         
+GetProcessWorkingSetSize                                                                             0x3981026c                                         
+GetProcessWorkingSetSizeEx                                                                           0x9dcb56c9                                         
+GetSystemFileCacheSize                                                                               0x00c62339                                         
+GetWriteWatch                                                                                        0x27b8f3c7                                         
+MapViewOfFileFromApp                                                                                 0x1eeec668                                         
+PrefetchVirtualMemory                                                                                0xdaee31f6                                         
+QueryMemoryResourceNotification                                                                      0x3c855ba3                                         
+ResetWriteWatch                                                                                      0xa570578a                                         
+SetProcessWorkingSetSize                                                                             0xec7294f8                                         
+SetProcessWorkingSetSizeEx                                                                           0xd36bbc55                                         
+SetSystemFileCacheSize                                                                               0x60d9a2c5                                         
+UnmapViewOfFileEx                                                                                    0x4c7fe933                                         
+VirtualLock                                                                                          0x66930c75                                         
+VirtualUnlock                                                                                        0x6c796078                                         

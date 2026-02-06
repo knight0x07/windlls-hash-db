@@ -1,0 +1,47 @@
+DLL Path: C:\Windows\System32\rtmpltfm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreatePlatformInterface                                                                              0x569e9d4f                                         
+CreatePlatformInterfaceEx                                                                            0x78bb366c                                         
+CreatePlatformInterfaceEx2                                                                           0x9022041e                                         
+CreatePlatformInterfaceEx3                                                                           0x9022041f                                         
+CreatePlatformInterfaceEx4                                                                           0x90220420                                         
+CreateVideoTranscoderInterface                                                                       0x7d781d36                                         
+CreateVideoTranscoderInterfaceEx                                                                     0xbbf44c13                                         
+opus_decode                                                                                          0x632a686f                                         
+opus_decode_float                                                                                    0x88e5b4e4                                         
+opus_decoder_create                                                                                  0xb26b6d34                                         
+opus_decoder_ctl                                                                                     0x911cbbc3                                         
+opus_decoder_destroy                                                                                 0x2f87fbca                                         
+opus_decoder_get_nb_samples                                                                          0x00e08203                                         
+opus_decoder_get_size                                                                                0xe6268d1a                                         
+opus_decoder_init                                                                                    0xb4b764f4                                         
+opus_encode                                                                                          0x66226d99                                         
+opus_encode_float                                                                                    0x6a1b718e                                         
+opus_encoder_create                                                                                  0xb802fc5e                                         
+opus_encoder_ctl                                                                                     0x3ad88b2d                                         
+opus_encoder_destroy                                                                                 0xe8117034                                         
+opus_encoder_get_size                                                                                0xafde8ec4                                         
+opus_encoder_init                                                                                    0x95ed219e                                         
+opus_get_version_string                                                                              0x113cd966                                         
+opus_multistream_packet_pad                                                                          0x7c67e60d                                         
+opus_multistream_packet_unpad                                                                        0x365b78b0                                         
+opus_packet_get_bandwidth                                                                            0xe1aa3df6                                         
+opus_packet_get_nb_channels                                                                          0xe56707bc                                         
+opus_packet_get_nb_frames                                                                            0xc56367ae                                         
+opus_packet_get_nb_samples                                                                           0x33b8a825                                         
+opus_packet_get_samples_per_frame                                                                    0xbb688d06                                         
+opus_packet_pad                                                                                      0x7835b7f7                                         
+opus_packet_parse                                                                                    0x5c83dc7d                                         
+opus_packet_unpad                                                                                    0x5ce56d1a                                         
+opus_pcm_soft_clip                                                                                   0x398b37cd                                         
+opus_repacketizer_cat                                                                                0x8c5dd18b                                         
+opus_repacketizer_create                                                                             0x7f517c87                                         
+opus_repacketizer_destroy                                                                            0x992ff57d                                         
+opus_repacketizer_get_nb_frames                                                                      0x04dfb1bf                                         
+opus_repacketizer_get_size                                                                           0x84cdbd2d                                         
+opus_repacketizer_init                                                                               0x181b8387                                         
+opus_repacketizer_out                                                                                0x8c5e072b                                         
+opus_repacketizer_out_range                                                                          0x866f8af7                                         
+opus_strerror                                                                                        0x543ba86e                                         

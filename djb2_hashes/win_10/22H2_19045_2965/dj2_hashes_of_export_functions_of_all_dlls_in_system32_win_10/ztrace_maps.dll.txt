@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\ztrace_maps.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ZTraceClose                                                                                          0x3b2d2b84                                         
+ZTraceEnabledHelper                                                                                  0xa6a5bab9                                         
+ZTraceHelper                                                                                         0xabfc0a2e                                         
+ZTraceHelperNoThis                                                                                   0x124d4de3                                         
+ZTraceHelperV                                                                                        0x2b7d5044                                         
+ZTraceHelperVC                                                                                       0x9b275907                                         
+ZTraceInit                                                                                           0x28981542                                         
+ZTraceReportIgnore                                                                                   0x249ce1ae                                         
+ZTraceReportIgnoreC                                                                                  0xb83917b1                                         
+ZTraceReportIgnoreNoThis                                                                             0x2911c563                                         
+ZTraceReportOrigination                                                                              0xe025bb6d                                         
+ZTraceReportOriginationC                                                                             0xe4dd2950                                         
+ZTraceReportOriginationNoThis                                                                        0xf6ccb262                                         
+ZTraceReportPropagation                                                                              0xf697902e                                         
+ZTraceReportPropagationC                                                                             0xc9899631                                         
+ZTraceReportPropagationNoThis                                                                        0xa0f553e3                                         
+ZTraceTestCopyTrace                                                                                  0xdd6734d8                                         
+ZTraceTestForceClose                                                                                 0xf5cb64d3                                         
+ZTraceTestInit                                                                                       0xbeca6902                                         

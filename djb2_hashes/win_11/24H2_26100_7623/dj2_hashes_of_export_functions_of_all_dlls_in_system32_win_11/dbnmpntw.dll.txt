@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\dbnmpntw.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConnectionCheckForData                                                                               0xab3f2c34                                         
+ConnectionClose                                                                                      0x6c369beb                                         
+ConnectionError                                                                                      0x6c5e237f                                         
+ConnectionErrorW                                                                                     0xf82293b6                                         
+ConnectionMode                                                                                       0x9e73c9da                                         
+ConnectionObjectSize                                                                                 0x061dcac7                                         
+ConnectionOpen                                                                                       0x9e74e707                                         
+ConnectionOpenW                                                                                      0x6d11c83e                                         
+ConnectionRead                                                                                       0x9e765cd1                                         
+ConnectionServerEnum                                                                                 0xf6e899c1                                         
+ConnectionServerEnumW                                                                                0xd3fbd238                                         
+ConnectionStatus                                                                                     0x18e5c0d9                                         
+ConnectionTransact                                                                                   0x3b38cb55                                         
+ConnectionVer                                                                                        0xa7b613e2                                         
+ConnectionWrite                                                                                      0x6da3b6e0                                         
+ConnectionWriteOOB                                                                                   0x130c2560                                         

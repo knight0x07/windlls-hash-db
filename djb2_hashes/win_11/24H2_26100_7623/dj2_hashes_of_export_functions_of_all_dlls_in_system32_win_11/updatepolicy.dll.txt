@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\updatepolicy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetAutoUpdatePolicy                                                                                  0x35f2b0b1                                         
+GetEnterprisePolicyName                                                                              0xe4288b77                                         
+GetSkuUpdateManagementGroup                                                                          0xcfa9b425                                         
+GetUpdatePolicyName                                                                                  0x2dc66f99                                         
+ReadPolicy                                                                                           0xcf8cacf1                                         
+ReadPolicyWithFallback                                                                               0x5a11795d                                         
+ReleaseAutoUpdatePolicy                                                                              0xb065e392                                         
+ReleaseEnterprisePolicyValue                                                                         0x12e5e414                                         
+ReleaseUpdatePolicyValue                                                                             0xaffeb3f6                                         

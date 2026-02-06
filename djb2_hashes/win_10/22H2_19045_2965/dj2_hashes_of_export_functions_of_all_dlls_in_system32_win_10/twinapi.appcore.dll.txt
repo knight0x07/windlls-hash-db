@@ -1,0 +1,150 @@
+DLL Path: C:\Windows\System32\twinapi.appcore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BiActivateWorkItemForUser                                                                            0x38746a59                                         
+BiChangeApplicationStateForPackageName                                                               0xa2761b5f                                         
+BiChangeApplicationStateForPackageNameForUser                                                        0x37307165                                         
+BiChangeApplicationStateForPsmKey                                                                    0xc8b2218b                                         
+BiChangeApplicationStateForPsmKeyForUser                                                             0xa83a4e11                                         
+BiChangeSessionState                                                                                 0xa94ca65b                                         
+BiChangeUserState                                                                                    0xbcb3a8d6                                         
+BiEnumerateWorkItemsForPackageNameAndUser                                                            0x5c5f7c61                                         
+BiGetActiveBackgroundTasksEvent                                                                      0x287f65d4                                         
+BiGetActiveBackgroundTasksEventForUser                                                               0x7ab8c63a                                         
+BiGetCancellationTimeoutInMs                                                                         0xb758523b                                         
+BiIsApplicationTerminateSensitive                                                                    0xae33e743                                         
+BiIsApplicationTerminateSensitiveForUser                                                             0xaabd74c9                                         
+BiNotifyNewSession                                                                                   0x5cc932b7                                         
+BiNotifyNewSessionComplete                                                                           0xe4f50330                                         
+BiNotifyNewUser                                                                                      0xfadd5172                                         
+BiPlmFreeMemory                                                                                      0x85be3174                                         
+BiPtActivateDeferredWorkItem                                                                         0x8b2ad818                                         
+BiPtActivateInBackground                                                                             0x54e0467c                                         
+BiPtActivateInBackgroundEx                                                                           0x0e0bded9                                         
+BiPtActivateWorkItem                                                                                 0x07099d97                                         
+BiPtAssociateActivationProxy                                                                         0x88cba424                                         
+BiPtAssociateApplicationEntryPoint                                                                   0x6c5276e0                                         
+BiPtAssociateApplicationExtensionClass                                                               0x021bebb7                                         
+BiPtCancelWorkItem                                                                                   0x7222428c                                         
+BiPtCancelWorkItemEx                                                                                 0x83bd1ee9                                         
+BiPtCreateEvent                                                                                      0xfb02538a                                         
+BiPtCreateEventForApp                                                                                0x007ab592                                         
+BiPtCreateEventForPackageName                                                                        0xd0befbde                                         
+BiPtDeleteEvent                                                                                      0x2c4414a9                                         
+BiPtDisableWorkItem                                                                                  0x32e9aefa                                         
+BiPtDisassociateWorkItem                                                                             0x1796dc22                                         
+BiPtDisassociateWorkItemEx                                                                           0x58be75ff                                         
+BiPtEnableWorkItem                                                                                   0xdba09f0d                                         
+BiPtEnumerateBrokeredEvents                                                                          0xd3c019fd                                         
+BiPtEnumerateBrokeredEventsEx                                                                        0xc42e969a                                         
+BiPtEnumerateWorkItemsForPackageName                                                                 0x089c5a93                                         
+BiPtEnumerateWorkItemsForPackageNameEx                                                               0xa11d54b0                                         
+BiPtFreeMemory                                                                                       0xe4fe914f                                         
+BiPtGetStatusStateNameFromBrokerEventId                                                              0x6a6f5042                                         
+BiPtQueryBrokerEventId                                                                               0xd2b79cbe                                         
+BiPtQueryBrokeredEvent                                                                               0x45c3717a                                         
+BiPtQuerySystemStateBroadcastChannels                                                                0xcdd8d20f                                         
+BiPtQueryWorkItem                                                                                    0xe68bdabc                                         
+BiPtQueryWorkItemEx                                                                                  0xb8ed8319                                         
+BiPtQueryWorkItemStatusStateName                                                                     0xd202b302                                         
+BiPtSignalEvent                                                                                      0x6e80d8f4                                         
+BiPtSignalEventEx                                                                                    0x121aef51                                         
+BiPtSignalMultipleEvents                                                                             0x027e3bb3                                         
+BiPtSignalTriggerEvent                                                                               0xf0e0dbc8                                         
+BiPtSignalTriggerEventEx                                                                             0xac86f725                                         
+BiQueryWorkItemForUser                                                                               0x2003455e                                         
+BiResetActiveSessionForPackage                                                                       0x43eed146                                         
+BiResetActiveUserForPackage                                                                          0x91f30b41                                         
+BiSetActiveSessionForPackage                                                                         0x6cb9e76f                                         
+BiSetActiveUserForPackage                                                                            0x164caa0a                                         
+BiTerminateApplicationHost                                                                           0xa1469deb                                         
+BiTerminateApplicationHost2                                                                          0xca1a5b7d                                         
+BiTerminateApplicationHostForUser                                                                    0x0e1b1e71                                         
+BiUpdateBackgroundAccessApplicationsForUser                                                          0x95c83512                                         
+BiUpdateLockScreenApplications                                                                       0x75fadbe3                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+PsmApplyTaskCompletion                                                                               0x36c6cbc8                                         
+PsmBlockAppStateChangeCompletion                                                                     0x088f08c2                                         
+PsmDisconnect                                                                                        0xcb9ca45f                                         
+PsmGetSessionInfo                                                                                    0x32642ee5                                         
+PsmInitializeExtension                                                                               0x14f835e4                                         
+PsmIsProcessInApplication                                                                            0xa3a23d3b                                         
+PsmIsProcessInApplication2                                                                           0x17e9e4cd                                         
+PsmQueryApplicationInformation                                                                       0x886cc2a5                                         
+PsmQueryApplicationInformation2                                                                      0x96051777                                         
+PsmQueryApplicationInterferenceCount                                                                 0xa07b6a42                                         
+PsmQueryApplicationInterferenceCount2                                                                0xafe8b2b4                                         
+PsmQueryApplicationList                                                                              0x2029e9db                                         
+PsmQueryApplicationList2                                                                             0x2567256d                                         
+PsmQueryApplicationProperties                                                                        0xadc9f22c                                         
+PsmQueryApplicationProperties2                                                                       0x670837de                                         
+PsmQueryApplicationProperties3                                                                       0x670837df                                         
+PsmQueryApplicationPropertiesByUser                                                                  0x8bac8486                                         
+PsmQueryApplicationResourceUsage                                                                     0x9e73f29c                                         
+PsmQueryApplicationResourceUsage2                                                                    0x6cf2464e                                         
+PsmQueryApplicationResourceUsageForTimer                                                             0x0ab2eec4                                         
+PsmQueryCurrentAppState                                                                              0x19e693f0                                         
+PsmQueryMaxMemoryUsage                                                                               0xc9f769df                                         
+PsmQueryMaxMemoryUsage2                                                                              0x08e4a5f1                                         
+PsmQueryMemoryUsage                                                                                  0x7135f0f9                                         
+PsmQueryMemoryUsage2                                                                                 0x97f4104b                                         
+PsmQueryMemoryUsageByUser                                                                            0xe001a913                                         
+PsmQueryProcessList                                                                                  0x170ded46                                         
+PsmQueryProcessList2                                                                                 0xf8cb9638                                         
+PsmQuerySharedCommitByUser                                                                           0xa083c9a5                                         
+PsmQueryTaskCompletionInformation                                                                    0x735f311e                                         
+PsmQueryTaskCompletionInformation2                                                                   0xdf455510                                         
+PsmRegisterAppPriorityNotification                                                                   0x79438b64                                         
+PsmRegisterAppStateChangeNotification                                                                0xd177bce9                                         
+PsmRegisterApplicationNotification                                                                   0x80839ff5                                         
+PsmRegisterApplicationNotification2                                                                  0x90f79ec7                                         
+PsmRegisterDynamicProcess                                                                            0xf4a3d53e                                         
+PsmRegisterKeyNotification                                                                           0x94ede30a                                         
+PsmRegisterManagerType                                                                               0x99763557                                         
+PsmResetMaxMemoryUsage                                                                               0xd241f8ec                                         
+PsmResetMaxMemoryUsage2                                                                              0x1a81169e                                         
+PsmResetMaxMemoryUsageByUser                                                                         0xc33e9b46                                         
+PsmSetApplicationPriority                                                                            0x9bd329b7                                         
+PsmSetApplicationPriority2                                                                           0x163860c9                                         
+PsmSetApplicationProperties                                                                          0x96194342                                         
+PsmSetApplicationProperties2                                                                         0x5941abb4                                         
+PsmSetApplicationProperties3                                                                         0x5941abb5                                         
+PsmSetApplicationPropertiesByUser                                                                    0xfdf5ce1c                                         
+PsmSetApplicationState                                                                               0x80e85816                                         
+PsmSetApplicationState2                                                                              0x9df35b08                                         
+PsmShutdownApplication                                                                               0x5a717f05                                         
+PsmTimerCleanup                                                                                      0xd7585f9e                                         
+PsmTimerElapsedResourceTimeGet                                                                       0x059ff16b                                         
+PsmTimerInitialize                                                                                   0x4884a988                                         
+PsmTimerRemainingResourceTimeGet                                                                     0x537f6fa7                                         
+PsmTimerStart                                                                                        0x21c95224                                         
+PsmUnblockAppStateChangeCompletion                                                                   0x23d2cc65                                         
+PsmUnregisterAppStateChangeNotification                                                              0xc8c63e6c                                         
+PsmWaitForAppResume                                                                                  0xa20fae43                                         
+RegisterAppConstrainedChangeNotification                                                             0x00484832                                         
+RegisterAppStateChangeNotification                                                                   0x324fdf79                                         
+UnregisterAppConstrainedChangeNotification                                                           0xd0ee83f5                                         
+UnregisterAppStateChangeNotification                                                                 0xc03144fc                                         
+ValidateSystemShutdown                                                                               0x1c039990                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

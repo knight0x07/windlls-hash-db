@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\dpx.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DpxCheckJobExists                                                                                    0xeb852c8a                                         
+DpxCheckJobExistsEx                                                                                  0xe1828067                                         
+DpxDeleteJob                                                                                         0x2b68565f                                         
+DpxDeleteJobEx                                                                                       0xa6d7737c                                         
+DpxFreeMemory                                                                                        0xba2732ac                                         
+DpxNewJob                                                                                            0x129cc256                                         
+DpxNewJobEx                                                                                          0x2cd6b933                                         
+DpxRestoreJob                                                                                        0xbecd19d0                                         
+DpxRestoreJobEx                                                                                      0xa67ad72d                                         
+DpxRestoreOrNewJob                                                                                   0x9a0ca35b                                         
+DpxRestoreOrNewJobEx                                                                                 0x4fc2ef78                                         

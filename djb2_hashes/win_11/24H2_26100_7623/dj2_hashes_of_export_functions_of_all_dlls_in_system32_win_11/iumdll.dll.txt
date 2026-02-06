@@ -1,0 +1,29 @@
+DLL Path: C:\Windows\System32\iumdll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IumAssignMemoryToSocDomain                                                                           0x46774f6e                                         
+IumAwaitSmc                                                                                          0x13a4b129                                         
+IumCreateSecureDevice                                                                                0x2809159b                                         
+IumCreateSecureSection                                                                               0xaa83aa20                                         
+IumCreateSecureSectionSpecifyPages                                                                   0x1dc8b863                                         
+IumCrypto                                                                                            0x8ed7be31                                         
+IumDmaMapMemory                                                                                      0x504ca3d9                                         
+IumEmitSmc                                                                                           0xf6fa4fe2                                         
+IumEnclaveUsesAttestedKeys                                                                           0xf1e20e08                                         
+IumFlushSecureSectionBuffers                                                                         0x7d86f89b                                         
+IumGetDmaEnabler                                                                                     0xcc2ba1fb                                         
+IumGetExposedSecureSection                                                                           0x4487dae4                                         
+IumGetIdk                                                                                            0x973dbc48                                         
+IumMapSecureIo                                                                                       0x929f966d                                         
+IumOpenCurrentExtension                                                                              0x94651742                                         
+IumOpenSecureSection                                                                                 0x0e5c9cde                                         
+IumPostMailbox                                                                                       0xf03eee82                                         
+IumProtectSecureIo                                                                                   0x7226d7b0                                         
+IumQuerySecureDeviceInformation                                                                      0x90fa2303                                         
+IumSecureStorageGet                                                                                  0xaceda36c                                         
+IumSecureStoragePut                                                                                  0xacedcbc5                                         
+IumSetDmaTargetProperties                                                                            0x72958cc2                                         
+IumSetPolicyExtension                                                                                0x7ca5b529                                         
+IumUnmapSecureIo                                                                                     0xa4830210                                         
+IumUpdateSecureDeviceState                                                                           0xdf0ca20b                                         

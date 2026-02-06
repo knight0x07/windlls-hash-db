@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\VAN.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+HideVAN                                                                                              0xa658c8e4                                         
+RunVANW                                                                                              0xc4c973b6                                         
+ShowVAN                                                                                              0xf39528eb                                         
+ShutdownVAN                                                                                          0x34cb2226                                         
+VanUIManager_CreateInstance                                                                          0x3192fb0b                                         

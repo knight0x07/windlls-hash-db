@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\serialui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+drvCommConfigDialogA                                                                                 0x8bda96c4                                         
+drvCommConfigDialogW                                                                                 0x8bda96da                                         
+drvGetDefaultCommConfigA                                                                             0x0bdfce99                                         
+drvGetDefaultCommConfigW                                                                             0x0bdfceaf                                         
+drvSetDefaultCommConfigA                                                                             0xd87b8ca5                                         
+drvSetDefaultCommConfigW                                                                             0xd87b8cbb                                         

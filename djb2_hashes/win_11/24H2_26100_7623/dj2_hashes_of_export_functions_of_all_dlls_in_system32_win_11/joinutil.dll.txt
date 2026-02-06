@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\joinutil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetpAvoidNetlogonSpnSet                                                                              0x526905d2                                         
+NetpClearFullJoinState                                                                               0x30fb43a7                                         
+NetpCompatibilityMode                                                                                0xb23e123b                                         
+NetpControlServices                                                                                  0xef6889a1                                         
+NetpDNSNameResolutionRequired                                                                        0x5a8a3537                                         
+NetpDoDomainJoinLicensingCheck                                                                       0xa4cd7e91                                         
+NetpFreeJoinStateContents                                                                            0x2839c77d                                         
+NetpGenerateDefaultPassword                                                                          0x489ad71f                                         
+NetpGetLsaHandle                                                                                     0x0a17b9a8                                         
+NetpGetLsaMachineAccountInfo                                                                         0xdf4f19ca                                         
+NetpGetLsaPrimaryDomain                                                                              0xd3ece238                                         
+NetpHandleJoinedStateInfo                                                                            0x62129cce                                         
+NetpLoadFullJoinState                                                                                0x9112b560                                         
+NetpLoadParameters                                                                                   0x42a1ca30                                         
+NetpLsaOpenSecret                                                                                    0x4ce2f674                                         
+NetpManageLocalGroups                                                                                0xa12952b0                                         
+NetpManageMachineSecret                                                                              0xc48698e0                                         
+NetpManageMachineSecret2                                                                             0x5559b512                                         
+NetpMarkLastFullJoinAttempt                                                                          0xc86559fd                                         
+NetpQueryService                                                                                     0xeff85563                                         
+NetpRemoveInitialDcRecord                                                                            0xb2cf29ba                                         
+NetpSaveFullJoinStateInternal                                                                        0xf8e0718c                                         
+NetpSetLsaHandle                                                                                     0x55801a34                                         
+NetpSetLsaMachineAccountInfo                                                                         0x9240ac56                                         
+NetpSetLsaPrimaryDomain                                                                              0x1e29ad44                                         
+NetpSetWinlogonCAD                                                                                   0x923816dd                                         
+NetpStopService                                                                                      0xf46f5593                                         
+NetpStoreInitialDcRecord                                                                             0x0237e9d9                                         
+NetpStoreInitialDcRecordEx                                                                           0x6fd9cd76                                         
+NetpUpdateW32timeConfig                                                                              0xb3a5a900                                         

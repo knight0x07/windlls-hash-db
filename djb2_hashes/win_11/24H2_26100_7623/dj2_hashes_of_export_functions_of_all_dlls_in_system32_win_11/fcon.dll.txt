@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\fcon.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+FeatureTuning_FreeSchemas                                                                            0x57f2a58b                                         
+FeatureTuning_GetSchemaForModule                                                                     0xd024cf63                                         
+FeatureTuning_WriteConfig                                                                            0xfc5e9ba6                                         
+GetAllFeatureIds                                                                                     0x053f46ea                                         
+GetAllFeatures                                                                                       0x92edb8fd                                         
+GetCtacPropertyAlloc                                                                                 0x08a660b0                                         
+GetFeatureConfigurationInfo                                                                          0x5c25aef5                                         
+GetFeatureDependencies                                                                               0x44208318                                         
+GetFeatureDescendents                                                                                0x087a8721                                         
+ModifyStagingControlVariants                                                                         0xf23c71e3                                         
+ModifyStagingControls                                                                                0x644c154e                                         
+SubscribeFeatureReporting                                                                            0xedb3992d                                         
+UnsubscribeFeatureReporting                                                                          0xbd7b6750                                         

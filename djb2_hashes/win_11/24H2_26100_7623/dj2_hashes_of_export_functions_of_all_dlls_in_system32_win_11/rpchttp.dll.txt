@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\rpchttp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CompareHttpTransportCredentials                                                                      0x653e83e7                                         
+ConvertToUnicodeHttpTransportCredentials                                                             0x29c9bd8b                                         
+DuplicateHttpTransportCredentials                                                                    0x2f5ecd9b                                         
+FreeHttpTransportCredentials                                                                         0x3aa78282                                         
+HTTP2GetRpcConnectionTransport                                                                       0x66f00cf9                                         
+HTTP2ProcessComplexTReceive                                                                          0xf8118005                                         
+HTTP2ProcessComplexTSend                                                                             0xed02af2c                                         
+HTTP2ProcessRuntimePostedEvent                                                                       0x155d974b                                         
+HTTP2TestHook                                                                                        0x8e891a08                                         
+HttpParseNetworkOptions                                                                              0x010f18f6                                         
+HttpSendIdentifyResponse                                                                             0xbd4514ba                                         
+I_RpcExtInitializeExtensionPoint                                                                     0x4c29d05c                                         
+I_RpcGetRpcProxy                                                                                     0x17650b39                                         
+I_RpcProxyNewConnection                                                                              0xbc92b32e                                         
+I_RpcReplyToClientWithStatus                                                                         0x1e4066c0                                         
+I_RpcTransFreeHttpCredentials                                                                        0x307147aa                                         
+I_RpcTransGetHttpCredentials                                                                         0xfdf1eb48                                         
+WS_HTTP2_CONNECTION__Initialize                                                                      0x0e11ebff                                         
+WS_HTTP2_INITIAL_CONNECTION__new                                                                     0xaed27840                                         

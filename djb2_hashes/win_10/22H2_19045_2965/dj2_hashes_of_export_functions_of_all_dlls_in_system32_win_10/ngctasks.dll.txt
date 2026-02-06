@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\ngctasks.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetRetryTimeStamp                                                                                    0x9cb7134f                                         
+NgcTriggerTaskForOobe                                                                                0x3a9fcf30                                         
+SetAikTimeTrigger                                                                                    0x7d9b4f29                                         

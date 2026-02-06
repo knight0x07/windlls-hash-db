@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\autopilot.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AutoPilotGetOobeSettingsOverride                                                                     0xdc11299c                                         
+AutoPilotGetPolicyDwordByName                                                                        0xa8115b92                                         
+AutoPilotGetPolicyStringByName                                                                       0xc999c009                                         
+AutoPilotIsLocalProfileAvailable                                                                     0xe239547f                                         
+AutoPilotIsNetworkRequired                                                                           0xe5c6f4ed                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

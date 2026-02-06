@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\drtprov.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DrtCreateDerivedKey                                                                                  0xcf8cf52f                                         
+DrtCreateDerivedKeySecurityProvider                                                                  0xfe088af2                                         
+DrtCreateDnsBootstrapResolver                                                                        0xa8215578                                         
+DrtCreateNullSecurityProvider                                                                        0x5fff0f41                                         
+DrtCreatePnrpBootstrapResolver                                                                       0x6d2fe8b3                                         
+DrtDeleteDerivedKeySecurityProvider                                                                  0x8909f571                                         
+DrtDeleteDnsBootstrapResolver                                                                        0xe3408cb7                                         
+DrtDeleteNullSecurityProvider                                                                        0x9b1e4680                                         
+DrtDeletePnrpBootstrapResolver                                                                       0x0c3607d2                                         

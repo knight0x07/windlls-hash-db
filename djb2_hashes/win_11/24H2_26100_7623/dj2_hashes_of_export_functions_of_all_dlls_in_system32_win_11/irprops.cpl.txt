@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\irprops.cpl
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BluetoothAuthenticateDevice                                                                          0x0ac6548a                                         
+BluetoothAuthenticateMultipleDevices                                                                 0xaed90b89                                         
+BluetoothAuthenticationAgent                                                                         0x13deba0a                                         
+BluetoothDisconnectDevice                                                                            0x479ac2f5                                         
+BluetoothDisplayDeviceProperties                                                                     0xa874194e                                         
+BluetoothEnableDiscovery                                                                             0xf82207da                                         
+BluetoothEnableIncomingConnections                                                                   0x8a0bf699                                         
+BluetoothEnumerateInstalledServices                                                                  0x6727dfc5                                         
+BluetoothFindDeviceClose                                                                             0xf89949a2                                         
+BluetoothFindFirstDevice                                                                             0x4e2df2d4                                         
+BluetoothFindFirstRadio                                                                              0x50ecb993                                         
+BluetoothFindFirstService                                                                            0x9654b535                                         
+BluetoothFindNextDevice                                                                              0x0740846b                                         
+BluetoothFindNextRadio                                                                               0x9497f44a                                         
+BluetoothFindNextService                                                                             0x71b979ac                                         
+BluetoothFindRadioClose                                                                              0xe374f8c1                                         
+BluetoothFindServiceClose                                                                            0x002ab7a3                                         
+BluetoothGetDeviceInfo                                                                               0x3d8a7e57                                         
+BluetoothGetRadioInfo                                                                                0xcab75db6                                         
+BluetoothIsConnectable                                                                               0x34242115                                         
+BluetoothIsDiscoverable                                                                              0xaba5b8ca                                         
+BluetoothRegisterForAuthentication                                                                   0xe0ae2a07                                         
+BluetoothRemoveDevice                                                                                0x5270ac59                                         
+BluetoothSdpEnumAttributes                                                                           0x46ebffde                                         
+BluetoothSdpGetAttributeValue                                                                        0x5e2078d3                                         
+BluetoothSdpGetContainerElementData                                                                  0xff2f4769                                         
+BluetoothSdpGetElementData                                                                           0x74739e46                                         
+BluetoothSdpGetString                                                                                0xcd0a6cf9                                         
+BluetoothSelectDevices                                                                               0x74bdf6fe                                         
+BluetoothSelectDevicesFree                                                                           0x00e59ae0                                         
+BluetoothSendAuthenticationResponse                                                                  0xe0a98ef4                                         
+BluetoothSetServiceState                                                                             0x58ec6739                                         
+BluetoothUnregisterAuthentication                                                                    0x29c4d7c3                                         
+BluetoothUpdateDeviceRecord                                                                          0x583bfe0d                                         
+CPlApplet                                                                                            0x5c9b924a                                         

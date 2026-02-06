@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\fmapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseFileRestoreContext                                                                              0x3c42d5c4                                         
+CreateFileRestoreContext                                                                             0x89e975a2                                         
+DetectBootSector                                                                                     0x94655282                                         
+DetectEncryptedVolume                                                                                0x7aa60da4                                         
+DetectEncryptedVolumeEx                                                                              0xbc601001                                         
+RestoreFile                                                                                          0x0eba9be9                                         
+ScanRestorableFiles                                                                                  0xa21ee950                                         
+SupplyDecryptionInfo                                                                                 0x503b435f                                         

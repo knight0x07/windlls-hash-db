@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\rdsxvmaudio.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+SetDVCCallbackInformation                                                                            0xa9fd1141                                         
+VirtualChannelGetInstance                                                                            0xa44bb0ba                                         

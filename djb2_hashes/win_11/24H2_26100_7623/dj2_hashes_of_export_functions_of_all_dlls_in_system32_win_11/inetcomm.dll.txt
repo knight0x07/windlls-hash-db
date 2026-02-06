@@ -1,0 +1,120 @@
+DLL Path: C:\Windows\System32\inetcomm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateCommunityTransport                                                                             0xd653254b                                         
+CreateIMAPTransport                                                                                  0x8c76a98d                                         
+CreateIMAPTransport2                                                                                 0x1b4bdb5f                                         
+CreateNNTPTransport                                                                                  0x3026aa46                                         
+CreatePOP3Transport                                                                                  0x7532d4e8                                         
+CreateRASTransport                                                                                   0x67f3f6ec                                         
+CreateRangeList                                                                                      0x7a398fa2                                         
+CreateSMTPTransport                                                                                  0x8c0e7c6a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+EssContentHintDecodeEx                                                                               0x5fda30bf                                         
+EssContentHintEncodeEx                                                                               0x00e82869                                         
+EssKeyExchPreferenceDecodeEx                                                                         0x9025fb81                                         
+EssKeyExchPreferenceEncodeEx                                                                         0x3133f32b                                         
+EssMLHistoryDecodeEx                                                                                 0xab0f955c                                         
+EssMLHistoryEncodeEx                                                                                 0x4c1d8d06                                         
+EssReceiptDecodeEx                                                                                   0xfc9aebbd                                         
+EssReceiptEncodeEx                                                                                   0x9da8e367                                         
+EssReceiptRequestDecodeEx                                                                            0x42516cc6                                         
+EssReceiptRequestEncodeEx                                                                            0xe35f6470                                         
+EssSecurityLabelDecodeEx                                                                             0xf54750a9                                         
+EssSecurityLabelEncodeEx                                                                             0x96554853                                         
+EssSignCertificateDecodeEx                                                                           0x23be0005                                         
+EssSignCertificateEncodeEx                                                                           0xc4cbf7af                                         
+GetDllMajorVersion                                                                                   0x2df27740                                         
+HrAthGetFileName                                                                                     0x54ef019d                                         
+HrAthGetFileNameW                                                                                    0xf2cf3594                                         
+HrAttachDataFromBodyPart                                                                             0x2f30eee7                                         
+HrAttachDataFromFile                                                                                 0xcbf395c2                                         
+HrCreateDisplayNameWithSizeForFile                                                                   0xad097e88                                         
+HrDoAttachmentVerb                                                                                   0x5f253f6a                                         
+HrFreeAttachData                                                                                     0x522d86f0                                         
+HrGetAttachIcon                                                                                      0x9f6144fd                                         
+HrGetAttachIconByFile                                                                                0x123c8cb8                                         
+HrGetDisplayNameWithSizeForFile                                                                      0x8126e794                                         
+HrGetLastOpenFileDirectory                                                                           0x885e4b7a                                         
+HrGetLastOpenFileDirectoryW                                                                          0x9427bb11                                         
+HrSaveAttachToFile                                                                                   0x701a5146                                         
+HrSaveAttachmentAs                                                                                   0xa9cc6c6b                                         
+MimeEditCreateMimeDocument                                                                           0x537c5cee                                         
+MimeEditDocumentFromStream                                                                           0xda366332                                         
+MimeEditGetBackgroundImageUrl                                                                        0x88f0e189                                         
+MimeEditIsSafeToRun                                                                                  0x06a0d706                                         
+MimeEditViewSource                                                                                   0x3a58a11f                                         
+MimeGetAddressFormatW                                                                                0xf40429d3                                         
+MimeOleAlgNameFromSMimeCap                                                                           0xb6c2e745                                         
+MimeOleAlgStrengthFromSMimeCap                                                                       0x3de41a53                                         
+MimeOleClearDirtyTree                                                                                0x7497af90                                         
+MimeOleConvertEnrichedToHTML                                                                         0xa0beecc8                                         
+MimeOleCreateBody                                                                                    0xb1bcabaf                                         
+MimeOleCreateByteStream                                                                              0xebdcf061                                         
+MimeOleCreateHashTable                                                                               0xd21019ad                                         
+MimeOleCreateHeaderTable                                                                             0x082295b2                                         
+MimeOleCreateMessage                                                                                 0xbedb96e6                                         
+MimeOleCreateMessageParts                                                                            0x43eaa410                                         
+MimeOleCreatePropertySet                                                                             0xdbc5bf92                                         
+MimeOleCreateSecurity                                                                                0xfeb47539                                         
+MimeOleCreateVirtualStream                                                                           0x816e56d4                                         
+MimeOleDecodeHeader                                                                                  0x1eb847fa                                         
+MimeOleEncodeHeader                                                                                  0xffee04a4                                         
+MimeOleFileTimeToInetDate                                                                            0x62e4168d                                         
+MimeOleFindCharset                                                                                   0x7f7b5238                                         
+MimeOleGenerateCID                                                                                   0xf3dc8388                                         
+MimeOleGenerateFileName                                                                              0x570f83f9                                         
+MimeOleGenerateMID                                                                                   0xf3dcae12                                         
+MimeOleGetAllocator                                                                                  0xdfa54a4e                                         
+MimeOleGetBodyPropA                                                                                  0xc71a55bd                                         
+MimeOleGetBodyPropW                                                                                  0xc71a55d3                                         
+MimeOleGetCertsFromThumbprints                                                                       0x0742eac2                                         
+MimeOleGetCharsetInfo                                                                                0xf5007423                                         
+MimeOleGetCodePageCharset                                                                            0x72067e6f                                         
+MimeOleGetCodePageInfo                                                                               0xbf104b11                                         
+MimeOleGetContentTypeExt                                                                             0x1043a35b                                         
+MimeOleGetDefaultCharset                                                                             0xd6b4063c                                         
+MimeOleGetExtContentType                                                                             0x1bafcbdb                                         
+MimeOleGetFileExtension                                                                              0xb84ef42a                                         
+MimeOleGetFileInfo                                                                                   0x768cef19                                         
+MimeOleGetFileInfoW                                                                                  0x482ad290                                         
+MimeOleGetInternat                                                                                   0xcef55d72                                         
+MimeOleGetPropA                                                                                      0xe917f7ef                                         
+MimeOleGetPropW                                                                                      0xe917f805                                         
+MimeOleGetPropertySchema                                                                             0xb4b3a6a3                                         
+MimeOleGetRelatedSection                                                                             0x0b25d9c3                                         
+MimeOleInetDateToFileTime                                                                            0x3873d94d                                         
+MimeOleObjectFromMoniker                                                                             0x77b429cd                                         
+MimeOleOpenFileStream                                                                                0xf1c30e0b                                         
+MimeOleParseMhtmlUrl                                                                                 0xdc73e1fd                                         
+MimeOleParseRfc822Address                                                                            0xc45f3f45                                         
+MimeOleParseRfc822AddressW                                                                           0x5047283c                                         
+MimeOleSMimeCapAddCert                                                                               0xcc2c6733                                         
+MimeOleSMimeCapAddSMimeCap                                                                           0xc505d7b4                                         
+MimeOleSMimeCapGetEncAlg                                                                             0x04f77066                                         
+MimeOleSMimeCapGetHashAlg                                                                            0x6db75834                                         
+MimeOleSMimeCapInit                                                                                  0x99a111d0                                         
+MimeOleSMimeCapRelease                                                                               0xebc2f09d                                         
+MimeOleSMimeCapsFromDlg                                                                              0x9509d09a                                         
+MimeOleSMimeCapsFull                                                                                 0xd0a59442                                         
+MimeOleSMimeCapsToDlg                                                                                0xe6517f89                                         
+MimeOleSetBodyPropA                                                                                  0x1282b649                                         
+MimeOleSetBodyPropW                                                                                  0x1282b65f                                         
+MimeOleSetCompatMode                                                                                 0x2821a922                                         
+MimeOleSetDefaultCharset                                                                             0xb8ea9e48                                         
+MimeOleSetPropA                                                                                      0xfc2df27b                                         
+MimeOleSetPropW                                                                                      0xfc2df291                                         
+MimeOleStripHeaders                                                                                  0xed39365b                                         
+MimeOleUnEscapeStringInPlace                                                                         0xcae85214                                         
+MimeOleUnEscapeStringInPlaceW                                                                        0x27f294eb                                         
+RichMimeEdit_CreateInstance                                                                          0xdfa27841                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

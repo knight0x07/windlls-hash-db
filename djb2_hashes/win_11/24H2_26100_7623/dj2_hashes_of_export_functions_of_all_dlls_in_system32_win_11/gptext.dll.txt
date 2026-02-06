@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\gptext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ProcessConnectivityPlatformPolicy                                                                    0xb3212938                                         
+ProcessEQoSPolicy                                                                                    0xd1db132c                                         
+ProcessPSCHEDPolicy                                                                                  0xd135af0b                                         
+ProcessTCPIPPolicy                                                                                   0x075c4214                                         

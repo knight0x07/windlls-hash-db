@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\setup\comsetup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ComPlusCompleteCbbSetup                                                                              0x3a9963d9                                         
+ComPlusGetWebApplicationServerRole                                                                   0x14420563                                         
+ComPlusSetWebApplicationServerRole                                                                   0xfdef1c6f                                         
+InstallOnReboot                                                                                      0x97a28964                                         
+RunComPlusSetWebApplicationServerRoleW                                                               0xe66e98bb                                         
+SetupPrintLog                                                                                        0xcf0ddae5                                         
+UpgradeDSSchema                                                                                      0x0860ddd5                                         

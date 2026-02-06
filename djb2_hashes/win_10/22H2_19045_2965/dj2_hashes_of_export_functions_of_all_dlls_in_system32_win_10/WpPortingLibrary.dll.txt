@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\WpPortingLibrary.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CmAcquireConnection                                                                                  0x1839702f                                         
+CmApiDeinit                                                                                          0xb433ad2c                                         
+CmApiInit                                                                                            0x9f16eba3                                         
+CmCloseSession                                                                                       0xa00b492f                                         
+CmCreateSession                                                                                      0x2e7bd1cd                                         
+CmGetFirstCandidateConnection                                                                        0x573b86ca                                         
+CmReleaseConnection                                                                                  0xc2ae1086                                         
+CmSetDataActivityState                                                                               0x85027629                                         
+GetAppStorageFolder                                                                                  0xf42ba9d7                                         
+GetDeviceUniqueID                                                                                    0x577d0599                                         
+GetPhoneBuildInfo                                                                                    0x792a329b                                         
+GetStorageDeviceInfo                                                                                 0x11c7fb96                                         
+Is_AppXExecutionServiceReady_Available                                                               0x0a38e753                                         
+Is_BatterySaverState_Available                                                                       0xae1a6ebd                                         
+Is_CmNet_Available                                                                                   0xc70a5777                                         
+Is_GrantWPNoNetworkingRegistryAccess_Hack_Available                                                  0xea224ca9                                         
+Is_OsBeginPostBootWorkState_Available                                                                0x391f9ce5                                         
+Is_ProvisioningCompleteState_Available                                                               0x432966c1                                         
+Is_ShellReadyInternalState_Available                                                                 0x930061eb                                         
+Is_ShellStartReady_Available                                                                         0xdf653f3b                                         
+Is_TaskScheduler_Available                                                                           0xcac501d2                                         
+Is_VoIPActiveCallState_Available                                                                     0x673cc1f7                                         
+PackageFullNameFromProductIdAndVersion                                                               0xa9b10c00                                         
+PackageFullNameFromProductInfo                                                                       0x3e6be6a6                                         
+ProductInfoFromPackageFullName                                                                       0x8d19f786                                         
+QueryPhoneInformation                                                                                0xb3bd3ebb                                         
+TaskSchedulerCreateSchedule                                                                          0x527b39f8                                         
+TaskSchedulerDeinit                                                                                  0x25450ab4                                         
+TaskSchedulerDeleteSchedule                                                                          0xf2025ab7                                         
+TaskSchedulerEnableSchedule                                                                          0x2cba3deb                                         
+TaskSchedulerFreeSchedule                                                                            0xba17a146                                         
+TaskSchedulerFreeScheduleStatistics                                                                  0xc3a3f771                                         
+TaskSchedulerGetPublishStateName                                                                     0x9912b310                                         
+TaskSchedulerGetSchedule                                                                             0xf3da8f04                                         
+TaskSchedulerInit                                                                                    0xbba3472b                                         

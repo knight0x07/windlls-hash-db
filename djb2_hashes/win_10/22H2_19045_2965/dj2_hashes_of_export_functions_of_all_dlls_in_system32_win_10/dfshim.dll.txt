@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\dfshim.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CleanOnlineAppCache                                                                                  0xca3ef522                                         
+CreateActContext                                                                                     0x35cbd9d6                                         
+CreateCMSFromXml                                                                                     0xb4af0e41                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetCurrentActContext                                                                                 0x20be8dc5                                         
+GetDeploymentDataFromManifest                                                                        0xb5b7b86b                                         
+GetUserStateManager                                                                                  0xbdcbaf40                                         
+GetUserStore                                                                                         0x9c289b51                                         
+KillService                                                                                          0x5f3a07e2                                         
+LaunchApplication                                                                                    0x1df971d4                                         
+ParseManifest                                                                                        0x32e067d7                                         
+ShArpMaintain                                                                                        0xe2ecf4d4                                         
+ShArpMaintainW                                                                                       0x408b8fab                                         
+ShOpenVerbApplication                                                                                0x965e53d5                                         
+ShOpenVerbApplicationW                                                                               0x6228cecc                                         
+ShOpenVerbExtension                                                                                  0xaf52c2be                                         
+ShOpenVerbExtensionW                                                                                 0x99ab1ad5                                         
+ShOpenVerbShortcut                                                                                   0x45160bbd                                         
+ShOpenVerbShortcutW                                                                                  0xe7d783b4                                         

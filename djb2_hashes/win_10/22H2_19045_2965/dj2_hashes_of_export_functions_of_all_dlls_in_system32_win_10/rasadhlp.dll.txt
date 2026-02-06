@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\rasadhlp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AcsHlpNbConnection                                                                                   0xd0320fa0                                         
+WSAttemptAutodialAddr                                                                                0x27a955bc                                         
+WSAttemptAutodialName                                                                                0x27b06b02                                         
+WSNoteSuccessfulHostentLookup                                                                        0xd5ad9284                                         

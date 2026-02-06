@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\bcmnfcser.inf_amd64_ac97f31e5da4d6ad\bcmnfctusb.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Close                                                                                                0x0cf88a3b                                         
+Deinitialize                                                                                         0x7112fc40                                         
+EnableRadio                                                                                          0x9978b87b                                         
+GetDeviceParameter                                                                                   0x90414496                                         
+Initialize                                                                                           0x2e93a277                                         
+InstallScr                                                                                           0x57435b44                                         
+Open                                                                                                 0x7c8a4b57                                         
+SetDeviceParameter                                                                                   0xb94ade22                                         
+Snooze                                                                                               0xd1807ec3                                         
+Wakeup                                                                                               0xd9e78612                                         
+Write                                                                                                0x0e65a530                                         

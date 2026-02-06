@@ -1,0 +1,39 @@
+DLL Path: C:\Windows\System32\tdh.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+TdhAggregatePayloadFilters                                                                           0xeb694e2f                                         
+TdhApplyPayloadFilter                                                                                0x583f2d1b                                         
+TdhCleanupPayloadEventFilterDescriptor                                                               0x7d647c9e                                         
+TdhCloseDecodingHandle                                                                               0x2cab0c84                                         
+TdhCreatePayloadFilter                                                                               0x9f321049                                         
+TdhDeletePayloadFilter                                                                               0x6db68068                                         
+TdhEnumerateManifestProviderEvents                                                                   0x19dc3dc2                                         
+TdhEnumerateProviderFieldInformation                                                                 0x7b09f800                                         
+TdhEnumerateProviderFilters                                                                          0x844ee84f                                         
+TdhEnumerateProviders                                                                                0x51b76a49                                         
+TdhEnumerateRemoteWBEMProviderFieldInformation                                                       0xa88526f7                                         
+TdhEnumerateRemoteWBEMProviders                                                                      0x6efdaa20                                         
+TdhFormatProperty                                                                                    0x6a950033                                         
+TdhGetAllEventsInformation                                                                           0x6773b119                                         
+TdhGetDecodingParameter                                                                              0xab586003                                         
+TdhGetEventInformation                                                                               0x303ab3cd                                         
+TdhGetEventMapInformation                                                                            0x7dee982b                                         
+TdhGetManifestEventInformation                                                                       0x92bb1144                                         
+TdhGetProperty                                                                                       0xe5cd850a                                         
+TdhGetPropertyOffsetAndSize                                                                          0x62a9449f                                         
+TdhGetPropertySize                                                                                   0x6bec4c45                                         
+TdhGetWppMessage                                                                                     0x28b0bfa1                                         
+TdhGetWppProperty                                                                                    0xe2babee1                                         
+TdhLoadManifest                                                                                      0x3732415c                                         
+TdhLoadManifestFromBinary                                                                            0xa80c5575                                         
+TdhLoadManifestFromMemory                                                                            0xc16c6189                                         
+TdhOpenDecodingHandle                                                                                0x97a47ea0                                         
+TdhQueryProviderFieldInformation                                                                     0x43330ab0                                         
+TdhQueryRemoteWBEMProviderFieldInformation                                                           0xac6955a7                                         
+TdhSetDecodingParameter                                                                              0x3d2e8c8f                                         
+TdhUnloadManifest                                                                                    0x4d007a9f                                         
+TdhUnloadManifestFromMemory                                                                          0x7c594a8c                                         
+TdhValidatePayloadFilter                                                                             0x17fd02df                                         

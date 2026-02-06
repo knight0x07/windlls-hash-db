@@ -1,0 +1,51 @@
+DLL Path: C:\Windows\System32\UserDataTypeHelperUtil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BytesToDigits                                                                                        0xecf66473                                         
+ComparePropVals                                                                                      0xac9770e3                                         
+CompressWhitespaceNW                                                                                 0x99b320e3                                         
+ConvertUnicodeToUtf8                                                                                 0xbd302297                                         
+ConvertUnicodeToUtf8Sz                                                                               0xc9c32f84                                         
+ConvertUtf8ToUnicode                                                                                 0xef596657                                         
+CopyPropValue                                                                                        0xb62fb59e                                         
+CopyStream                                                                                           0x4f8a386c                                         
+CreateTempFileStm                                                                                    0xd51a1823                                         
+CreateWrapFileNameStm                                                                                0x0d87d508                                         
+CreateWrapFileStm                                                                                    0x23e44a87                                         
+CreateWrapFileStreamFromDssToken                                                                     0xbb1e0e1e                                         
+DupString                                                                                            0x54cb0545                                         
+DupStringA                                                                                           0xee2bae26                                         
+DupStringNA                                                                                          0xb3a174d4                                         
+DupStringRes                                                                                         0x27d0256f                                         
+DuplicateCEPROPVALArray                                                                              0xc2901e4b                                         
+DuplicateCEPROPVALArrayNoAlloc                                                                       0xaacc2853                                         
+EcGlobalObjIdToUid                                                                                   0x0943f84b                                         
+EcUidToGlobalObjId                                                                                   0x957ce2eb                                         
+EscapeURL                                                                                            0x286713c9                                         
+FileTimeToISO8601String                                                                              0xefd02308                                         
+FindProp                                                                                             0xb02d4447                                         
+FormatPoomIdToString                                                                                 0x98671b70                                         
+GetFilePathFromStream                                                                                0x5e005552                                         
+GetPropMemSize                                                                                       0x6d2b7ae0                                         
+GetStreamSize                                                                                        0xc4601d4c                                         
+ISO8601StringToFileTime                                                                              0xc852f648                                         
+ISO8601StringToSystemTime                                                                            0xc592f72d                                         
+MapiIdToEmailUdmId                                                                                   0x8279f757                                         
+ParseDelimitedString                                                                                 0xddb3cb48                                         
+ParsePoomIdFromString                                                                                0xd5823573                                         
+ReadStreamContent                                                                                    0x265005a8                                         
+ReadStreamContentA                                                                                   0xf050bae9                                         
+RemoveLeadingAndTrailingSpace                                                                        0xf57cb7e0                                         
+ReplaceChar                                                                                          0xf688431f                                         
+SafeLPWSTR                                                                                           0xe0576170                                         
+SafeStrDup                                                                                           0xf34582c6                                         
+SplitString                                                                                          0xa40b25a8                                         
+StreamCopyTo                                                                                         0x5738a46f                                         
+StreamFromStringW                                                                                    0x06c91693                                         
+StringToBytes                                                                                        0xc89c5f86                                         
+SystemTimeToISO8601String                                                                            0x63ce604d                                         
+TrimWhiteSpaces                                                                                      0xe8eba5a1                                         
+UsOidToCalendarUdmId                                                                                 0x5daf12d9                                         
+UsOidToContactUdmId                                                                                  0x5c994f4b                                         
+UsOidToTaskUdmId                                                                                     0xef67c552                                         

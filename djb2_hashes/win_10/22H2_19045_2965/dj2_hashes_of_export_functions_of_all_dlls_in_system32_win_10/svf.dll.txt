@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\svf.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SVFAttrib_BBoxFull                                                                                   0x938869b7                                         
+SVFAttrib_BBoxMaxX                                                                                   0x938becc2                                         
+SVFAttrib_BBoxMaxY                                                                                   0x938becc3                                         
+SVFAttrib_BBoxMaxZ                                                                                   0x938becc4                                         
+SVFAttrib_BBoxMinX                                                                                   0x938c0d80                                         
+SVFAttrib_BBoxMinY                                                                                   0x938c0d81                                         
+SVFAttrib_BBoxMinZ                                                                                   0x938c0d82                                         
+SVFAttrib_BitrateMbps                                                                                0xf680ba56                                         
+SVFAttrib_Duration100ns                                                                              0xfde01011                                         
+SVFAttrib_FrameCount                                                                                 0x8937e3ed                                         
+SVFAttrib_FrameId                                                                                    0x71089c11                                         
+SVFAttrib_FrameTimestamp                                                                             0x1f497118                                         
+SVFAttrib_H264Wrapper                                                                                0xc3ad379e                                         
+SVFAttrib_HasAudio                                                                                   0x74eb9e47                                         
+SVFAttrib_Height                                                                                     0xc920b6d2                                         
+SVFAttrib_Inverted                                                                                   0x536c135a                                         
+SVFAttrib_LocalFullPath                                                                              0x5f430884                                         
+SVFAttrib_MaxIndexCount                                                                              0x73259140                                         
+SVFAttrib_MaxVertexCount                                                                             0x71c6fea6                                         
+SVFAttrib_NumFaces                                                                                   0xf453e50b                                         
+SVFAttrib_NumIndices                                                                                 0x5e372da8                                         
+SVFAttrib_NumVertices                                                                                0x911b160e                                         
+SVFAttrib_Stride                                                                                     0xe3dddca4                                         
+SVFAttrib_UseTriList                                                                                 0x87d98a31                                         
+SVFAttrib_UseUnsignedUVs                                                                             0xb013c9c1                                         
+SVFAttrib_Version                                                                                    0x239058bf                                         
+SVFAttrib_VertHasNormals                                                                             0x25cda092                                         
+SVFAttrib_VertexFormatFlags                                                                          0x8c7d858d                                         
+SVFAttrib_Width                                                                                      0xf7a5f019                                         
+SVFCreateBufferAllocator                                                                             0x0126fd23                                         
+SVFCreateDashServer                                                                                  0x3a80457f                                         
+SVFCreateEvent                                                                                       0x4ed34cea                                         
+SVFCreateEventQueue                                                                                  0xfa95956f                                         
+SVFCreateReader                                                                                      0x4659fc3b                                         
+SVFCreateReaderWithConfig                                                                            0xe6e1e58d                                         
+SVFMediaType_IndexStream                                                                             0x4a6f4b59                                         
+SVFMediaType_VertexStream                                                                            0xbac9c43f                                         

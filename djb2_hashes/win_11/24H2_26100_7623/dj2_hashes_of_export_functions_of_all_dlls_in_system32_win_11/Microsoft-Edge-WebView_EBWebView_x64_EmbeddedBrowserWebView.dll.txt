@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\EBWebView\x64\EmbeddedBrowserWebView.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0IDataFieldVisitor@telemetry_client@@QEAA@AEBV01@@Z                                                0xe518a654                                         
+??0IDataFieldVisitor@telemetry_client@@QEAA@XZ                                                       0x3a03350d                                         
+??1IDataFieldVisitor@telemetry_client@@UEAA@XZ                                                       0x7334c972                                         
+??4IDataFieldVisitor@telemetry_client@@QEAAAEAV01@AEBV01@@Z                                          0xa80f9c96                                         
+??_7IDataFieldVisitor@telemetry_client@@6B@                                                          0x48886221                                         
+CreateWebViewEnvironmentWithOptionsInternal                                                          0x2b57b4cc                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+GetHandleVerifier                                                                                    0x54d1a1cd                                         

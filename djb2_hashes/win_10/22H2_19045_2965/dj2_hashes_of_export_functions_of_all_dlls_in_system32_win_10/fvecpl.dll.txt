@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\fvecpl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0VolumeFveStatus@@IEAA@XZ                                                                          0xa4c4f5b2                                         
+??0VolumeFveStatus@@QEAA@K_KJW4_FVE_WIPING_STATE@@@Z                                                 0xc9b20eb9                                         
+??4BuiVolume@@QEAAAEAV0@AEBV0@@Z                                                                     0x01ed73dc                                         
+??4VolumeFveStatus@@QEAAAEAV0@$$QEAV0@@Z                                                             0x36daaf58                                         
+??4VolumeFveStatus@@QEAAAEAV0@AEBV0@@Z                                                               0xb3c962e1                                         
+?FailedDryRun@VolumeFveStatus@@QEBA_NXZ                                                              0x5f249862                                         
+?GetExtendedFlags@VolumeFveStatus@@QEBA_KXZ                                                          0x71bf2a54                                         
+?GetLastConvertStatus@VolumeFveStatus@@QEBAJXZ                                                       0x6e924c6f                                         
+?GetStatusFlags@VolumeFveStatus@@QEBAKXZ                                                             0x36e86688                                         
+?HasExternalKey@VolumeFveStatus@@QEBA_NXZ                                                            0xae36c4e1                                         
+?HasPBKDF2RecoveryPassword@VolumeFveStatus@@QEBA_NXZ                                                 0xe4f54e70                                         
+?HasPassphraseProtector@VolumeFveStatus@@QEBA_NXZ                                                    0x0f67b091                                         
+?HasPinProtector@VolumeFveStatus@@QEBA_NXZ                                                           0xdf9a2e5e                                         
+?HasRecoveryData@VolumeFveStatus@@QEBA_NXZ                                                           0xdf68d39e                                         
+?HasRecoveryPassword@VolumeFveStatus@@QEBA_NXZ                                                       0x3910b8b7                                         
+?HasSmartCardProtector@VolumeFveStatus@@QEBA_NXZ                                                     0x4ff64158                                         
+?HasStartupKeyProtector@VolumeFveStatus@@QEBA_NXZ                                                    0x297cb033                                         
+?HasTpmProtector@VolumeFveStatus@@QEBA_NXZ                                                           0x2b391808                                         
+?IsConverting@VolumeFveStatus@@QEBA_NXZ                                                              0xed5b7af4                                         
+?IsCsvMetadataVolume@VolumeFveStatus@@QEBA_NXZ                                                       0x53a1e03a                                         
+?IsDEAutoProvisioned@VolumeFveStatus@@QEBA_NXZ                                                       0xef889649                                         
+?IsDecrypted@VolumeFveStatus@@QEBA_NXZ                                                               0xc4c889f9                                         
+?IsDecrypting@VolumeFveStatus@@QEBA_NXZ                                                              0x2761796e                                         
+?IsDisabled@VolumeFveStatus@@QEBA_NXZ                                                                0xf872ff6d                                         
+?IsEDriveVolume@VolumeFveStatus@@QEBA_NXZ                                                            0x24080b8c                                         
+?IsEncrypted@VolumeFveStatus@@QEBA_NXZ                                                               0xfcb3b763                                         
+?IsEncrypting@VolumeFveStatus@@QEBA_NXZ                                                              0x5cb25418                                         
+?IsLocked@VolumeFveStatus@@QEBA_NXZ                                                                  0xf6bcaba7                                         
+?IsOn@VolumeFveStatus@@QEBA_NXZ                                                                      0xf915f832                                         
+?IsOsCriticalVolume@VolumeFveStatus@@QEBA_NXZ                                                        0x716a383a                                         
+?IsOsVolume@VolumeFveStatus@@QEBA_NXZ                                                                0x750c3b0f                                         
+?IsPartiallyConverted@VolumeFveStatus@@QEBA_NXZ                                                      0x0d9b6d71                                         
+?IsPaused@VolumeFveStatus@@QEBA_NXZ                                                                  0xd71c3bf7                                         
+?IsPreProvisioned@VolumeFveStatus@@QEBA_NXZ                                                          0x0132598e                                         
+?IsRoamingDevice@VolumeFveStatus@@QEBA_NXZ                                                           0xb8ede892                                         
+?IsSecure@VolumeFveStatus@@QEBA_NXZ                                                                  0xcf20477c                                         
+?IsUnknownFveVersion@VolumeFveStatus@@QEBA_NXZ                                                       0xded3afec                                         
+?IsWiping@VolumeFveStatus@@QEBA_NXZ                                                                  0x77ab7423                                         
+?NO_DRIVE_LETTER@BuiVolume@@2IB                                                                      0x6cd2de9e                                         
+?NeedsRestart@VolumeFveStatus@@QEBA_NXZ                                                              0x51dd012d                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\MapConfiguration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConfigurationManager_Create                                                                          0x84e728cb                                         
+ConfigurationManager_GetLocaleMapConfiguration                                                       0x0c62db7d                                         
+ConfigurationManager_SetCustomStorageFolder                                                          0x84ed8d2f                                         
+ConfigurationManager_SetServiceCallbacks                                                             0xb3777d74                                         

@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\winbrand.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BrandingFormatString                                                                                 0x46e30e2a                                         
+BrandingFormatStringForEdition                                                                       0xf44f7a7d                                         
+BrandingLoadBitmap                                                                                   0x3f9336e7                                         
+BrandingLoadCursor                                                                                   0x42c08828                                         
+BrandingLoadIcon                                                                                     0x01b7f0f3                                         
+BrandingLoadImage                                                                                    0x38bb4f0d                                         
+BrandingLoadNeutralStringForEdition                                                                  0x8bca39ef                                         
+BrandingLoadString                                                                                   0x6800cf01                                         
+BrandingLoadStringForEdition                                                                         0x66797414                                         
+EulaFreeBuffer                                                                                       0xab653d88                                         
+GetEULAFile                                                                                          0x3b8b882c                                         
+GetEULAInCurrentUILanguage                                                                           0x7dcf6388                                         
+GetHinstanceByNameSpace                                                                              0xcd8c4d8a                                         
+GetInstalledEULAPath                                                                                 0x467984d9                                         
+InstallEULA                                                                                          0x3fa6d643                                         

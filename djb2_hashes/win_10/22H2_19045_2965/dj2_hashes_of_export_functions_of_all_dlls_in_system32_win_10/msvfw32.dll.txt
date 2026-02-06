@@ -1,0 +1,51 @@
+DLL Path: C:\Windows\System32\msvfw32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DrawDibBegin                                                                                         0xa8064a67                                         
+DrawDibChangePalette                                                                                 0xf9e875b7                                         
+DrawDibClose                                                                                         0xa81c5cd8                                         
+DrawDibDraw                                                                                          0x88f9be30                                         
+DrawDibEnd                                                                                           0x1b6c6e59                                         
+DrawDibGetBuffer                                                                                     0x524599bc                                         
+DrawDibGetPalette                                                                                    0xa26d3e51                                         
+DrawDibOpen                                                                                          0x88ffbe54                                         
+DrawDibProfileDisplay                                                                                0xafdf4189                                         
+DrawDibRealize                                                                                       0x91fb592e                                         
+DrawDibSetPalette                                                                                    0xd2ec0bdd                                         
+DrawDibStart                                                                                         0xa9420c50                                         
+DrawDibStop                                                                                          0x89020228                                         
+DrawDibTime                                                                                          0x89025f71                                         
+GetOpenFileNamePreview                                                                               0x5c51789a                                         
+GetOpenFileNamePreviewA                                                                              0xe6808c1b                                         
+GetOpenFileNamePreviewW                                                                              0xe6808c31                                         
+GetSaveFileNamePreviewA                                                                              0x602099f8                                         
+GetSaveFileNamePreviewW                                                                              0x60209a0e                                         
+ICClose                                                                                              0x985e1ca7                                         
+ICCompress                                                                                           0x156b289d                                         
+ICCompressorChoose                                                                                   0x8e412d1f                                         
+ICCompressorFree                                                                                     0x93c44680                                         
+ICDecompress                                                                                         0x0195e726                                         
+ICDraw                                                                                               0xb70b401f                                         
+ICDrawBegin                                                                                          0x6d46a324                                         
+ICGetDisplayFormat                                                                                   0xe67207d0                                         
+ICGetInfo                                                                                            0x4c305f7d                                         
+ICImageCompress                                                                                      0x7dad06a0                                         
+ICImageDecompress                                                                                    0x81c751e9                                         
+ICInfo                                                                                               0xb70ded9d                                         
+ICInstall                                                                                            0xfb288be8                                         
+ICLocate                                                                                             0xb94f89e9                                         
+ICMThunk32                                                                                           0x26479fed                                         
+ICOpen                                                                                               0xb7114043                                         
+ICOpenFunction                                                                                       0xa1192569                                         
+ICRemove                                                                                             0xc69f403f                                         
+ICSendMessage                                                                                        0x266f4120                                         
+ICSeqCompressFrame                                                                                   0x817e9bd1                                         
+ICSeqCompressFrameEnd                                                                                0x4e308a48                                         
+ICSeqCompressFrameStart                                                                              0x9d7cdfff                                         
+MCIWndCreate                                                                                         0xf101e25b                                         
+MCIWndCreateA                                                                                        0x113e2dfc                                         
+MCIWndCreateW                                                                                        0x113e2e12                                         
+MCIWndRegisterClass                                                                                  0xe57878c2                                         
+StretchDIB                                                                                           0xf758faf1                                         
+VideoForWindowsVersion                                                                               0xa655cfb4                                         

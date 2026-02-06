@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\xmllite.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateXmlReader                                                                                      0x7d54ce5d                                         
+CreateXmlReaderInputWithEncodingCodePage                                                             0x746bfb48                                         
+CreateXmlReaderInputWithEncodingName                                                                 0xa257a2f1                                         
+CreateXmlWriter                                                                                      0x89ee7f27                                         
+CreateXmlWriterOutputWithEncodingCodePage                                                            0xef9e78d3                                         
+CreateXmlWriterOutputWithEncodingName                                                                0x508b12fc                                         

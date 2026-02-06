@@ -1,0 +1,45 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-synch-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AcquireSRWLockExclusive                                                                              0x53260d8c                                         
+AcquireSRWLockShared                                                                                 0xf218f3ab                                         
+CancelWaitableTimer                                                                                  0xfc9418d5                                         
+CreateEventA                                                                                         0x5d01f19c                                         
+CreateEventExA                                                                                       0xa544e959                                         
+CreateEventExW                                                                                       0xa544e96f                                         
+CreateEventW                                                                                         0x5d01f1b2                                         
+CreateMutexA                                                                                         0x6fa1320d                                         
+CreateMutexExA                                                                                       0xdcb60a0a                                         
+CreateMutexExW                                                                                       0xdcb60a20                                         
+CreateMutexW                                                                                         0x6fa13223                                         
+CreateSemaphoreExW                                                                                   0xf1e5a151                                         
+CreateWaitableTimerExW                                                                               0x73d12097                                         
+DeleteCriticalSection                                                                                0x2d86c378                                         
+EnterCriticalSection                                                                                 0xc06eb743                                         
+InitializeCriticalSection                                                                            0x51714bb7                                         
+InitializeCriticalSectionAndSpinCount                                                                0xa0c64ced                                         
+InitializeCriticalSectionEx                                                                          0x72f31ed4                                         
+InitializeSRWLock                                                                                    0xe13df2bc                                         
+LeaveCriticalSection                                                                                 0x93f3f0d2                                         
+OpenEventA                                                                                           0x5e65b4da                                         
+OpenEventW                                                                                           0x5e65b4f0                                         
+OpenMutexW                                                                                           0x7104f561                                         
+OpenSemaphoreW                                                                                       0xc0de7b52                                         
+OpenWaitableTimerW                                                                                   0xbde06018                                         
+ReleaseMutex                                                                                         0x585f7d19                                         
+ReleaseSRWLockExclusive                                                                              0x939d5323                                         
+ReleaseSRWLockShared                                                                                 0x4ff948a2                                         
+ReleaseSemaphore                                                                                     0x19e5986a                                         
+ResetEvent                                                                                           0x0a2eff2a                                         
+SetCriticalSectionSpinCount                                                                          0x378e64d4                                         
+SetEvent                                                                                             0x877ebbd3                                         
+SetWaitableTimer                                                                                     0x04525bfb                                         
+SetWaitableTimerEx                                                                                   0x62595018                                         
+SleepEx                                                                                              0xfc2b66db                                         
+TryAcquireSRWLockExclusive                                                                           0x58acfd0b                                         
+TryAcquireSRWLockShared                                                                              0x8f0efb8a                                         
+TryEnterCriticalSection                                                                              0x5d64bf22                                         
+WaitForMultipleObjectsEx                                                                             0x579e5b14                                         
+WaitForSingleObject                                                                                  0xeccda1ba                                         
+WaitForSingleObjectEx                                                                                0x56bd0197                                         

@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\nshdnsclient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitHelperDll                                                                                        0x1ea6cfd5                                         
+NshDnsAddDnsServer                                                                                   0x40042cd8                                         
+NshDnsDeleteDnsServer                                                                                0xd77ed502                                         
+NshDnsSetDnsServer                                                                                   0x772684fb                                         
+NshDnsShowDnsServers                                                                                 0x75961f83                                         
+NshDnsShowInterfaceDnsServers                                                                        0x8d889614                                         

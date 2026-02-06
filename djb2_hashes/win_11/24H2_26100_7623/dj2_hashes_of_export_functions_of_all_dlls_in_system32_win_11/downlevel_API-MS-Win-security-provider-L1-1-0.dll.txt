@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-security-provider-L1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetExplicitEntriesFromAclW                                                                           0x7de1449c                                         
+GetNamedSecurityInfoW                                                                                0xb9ac8485                                         
+GetSecurityInfo                                                                                      0x620ddaa9                                         
+SetEntriesInAclW                                                                                     0xe2d6b8e9                                         
+SetNamedSecurityInfoW                                                                                0x86484291                                         
+SetSecurityInfo                                                                                      0x0966ffb5                                         

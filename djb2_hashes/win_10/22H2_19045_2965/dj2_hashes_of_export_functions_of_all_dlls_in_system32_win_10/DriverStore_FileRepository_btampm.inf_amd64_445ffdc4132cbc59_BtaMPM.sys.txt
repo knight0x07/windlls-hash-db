@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\btampm.inf_amd64_445ffdc4132cbc59\BtaMPM.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BtaMpmBuildIndirectStringFromMessageWithSingleUTF8Arg                                                0x5c408b77                                         
+BtaMpmConnectionRequest                                                                              0xf16e579f                                         
+BtaMpmGetRemoteDeviceProfileVersionAndAttribute                                                      0xf27c7140                                         
+BtaMpmGetStatus                                                                                      0x97d4b28a                                         
+BtaMpmRegister                                                                                       0x547a3e4b                                         
+BtaMpmRegisterPnp                                                                                    0xdc640159                                         
+BtaMpmSuspendRequest                                                                                 0x06f26c71                                         
+BtaMpmUnregister                                                                                     0x56b0aa4e                                         
+BtaMpmUnregisterPnp                                                                                  0x7614927c                                         
+BtaMpmUpdateConnectionStatus                                                                         0xd46c1ffd                                         
+BtaMpmUpdatePlayStatus                                                                               0x70408f03                                         
+BtaMpmUpdateSuspendStatus                                                                            0xfa8c516f                                         
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         

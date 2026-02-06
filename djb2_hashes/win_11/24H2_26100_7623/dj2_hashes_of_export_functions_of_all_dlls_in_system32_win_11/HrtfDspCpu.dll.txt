@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\HrtfDspCpu.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateHrtfDataHelper                                                                                 0xcd65c327                                         
+CreateHrtfDspFactory                                                                                 0x68eb208c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

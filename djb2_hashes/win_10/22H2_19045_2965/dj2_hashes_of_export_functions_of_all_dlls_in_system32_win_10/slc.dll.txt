@@ -1,0 +1,44 @@
+DLL Path: C:\Windows\System32\slc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SLClose                                                                                              0xaf22e9da                                         
+SLConsumeRight                                                                                       0x3807041c                                         
+SLConsumeWindowsRight                                                                                0x65185a27                                         
+SLDepositOfflineConfirmationId                                                                       0xc781a875                                         
+SLDepositOfflineConfirmationIdEx                                                                     0xae8da312                                         
+SLFireEvent                                                                                          0x54cdf98c                                         
+SLGenerateOfflineInstallationId                                                                      0xcb5884f1                                         
+SLGenerateOfflineInstallationIdEx                                                                    0x038d8e8e                                         
+SLGetApplicationInformation                                                                          0xf648481e                                         
+SLGetGenuineInformation                                                                              0xc88c90d5                                         
+SLGetInstalledProductKeyIds                                                                          0x307232ce                                         
+SLGetLicense                                                                                         0xc75b9867                                         
+SLGetLicenseFileId                                                                                   0xd74e22f4                                         
+SLGetLicenseInformation                                                                              0xb4bf966d                                         
+SLGetLicensingStatusInformation                                                                      0x4eb3800a                                         
+SLGetPKeyId                                                                                          0x819ecc2a                                         
+SLGetPKeyInformation                                                                                 0x98182763                                         
+SLGetPolicyInformation                                                                               0xf224643a                                         
+SLGetPolicyInformationDWORD                                                                          0xb8cdaa9a                                         
+SLGetProductSkuInformation                                                                           0x71bdf51e                                         
+SLGetSLIDList                                                                                        0x31347f6c                                         
+SLGetServiceInformation                                                                              0x5c9cc71b                                         
+SLGetWindowsInformation                                                                              0xf8bfbbb5                                         
+SLGetWindowsInformationDWORD                                                                         0x2801e6f5                                         
+SLInstallLicense                                                                                     0xc66de01e                                         
+SLInstallProofOfPurchase                                                                             0x7d69e151                                         
+SLIsWindowsGenuineLocal                                                                              0xac92ace1                                         
+SLOpen                                                                                               0xcf07b316                                         
+SLReArmWindows                                                                                       0xc20f4b86                                         
+SLRegisterEvent                                                                                      0xfcfa8f0b                                         
+SLRegisterWindowsEvent                                                                               0xcbcf42b6                                         
+SLSetCurrentProductKey                                                                               0x05a901bd                                         
+SLSetGenuineInformation                                                                              0x95284ee1                                         
+SLUninstallLicense                                                                                   0x6113f1e1                                         
+SLUninstallProofOfPurchase                                                                           0x5c5b0614                                         
+SLUnregisterEvent                                                                                    0x2873f46e                                         
+SLUnregisterWindowsEvent                                                                             0x8b9a5ab9                                         
+SLpCheckProductKey                                                                                   0x07177adc                                         
+SLpGetGenuineLocal                                                                                   0x36343e8a                                         
+SLpUpdateComponentTokens                                                                             0x47223b3e                                         

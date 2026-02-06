@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\popkeycli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NgcCreateTokenBindingAik                                                                             0x384cf902                                         
+NgcDecryptWithSymmetricGcmPopKey                                                                     0x976127a0                                         
+NgcDecryptWithSymmetricPopKey                                                                        0x3dedfcc9                                         
+NgcDeleteSymmetricPopKeyTransportKey                                                                 0x8de1603b                                         
+NgcDeleteTokenBindingAik                                                                             0xb9adece1                                         
+NgcEncryptWithSymmetricGcmPopKey                                                                     0x04f90d8a                                         
+NgcEncryptWithSymmetricPopKey                                                                        0x79eb9af3                                         
+NgcGetPkcs7ChainBlobFromCertificateBlob                                                              0xc4030cfd                                         
+NgcGetSymmetricPopKeyTransportKey                                                                    0xb2af7528                                         
+NgcGetSymmetricPopKeyTransportKeyName                                                                0xba6239c9                                         
+NgcGetTokenBindingAikName                                                                            0x09ea5def                                         
+NgcImportSymmetricPopKey                                                                             0x331d3ecd                                         
+NgcRenewKeyAttestation                                                                               0x5d8ed477                                         
+NgcSignWithSymmetricPopKey                                                                           0xcc80247f                                         
+NgcVerifyWithSymmetricPopKey                                                                         0x57860de3                                         

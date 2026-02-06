@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\WofUtil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WofEnumEntries                                                                                       0x6651a200                                         
+WofFileEnumFiles                                                                                     0x0a22a979                                         
+WofGetDriverVersion                                                                                  0x1f1f51e3                                         
+WofIsExternalFile                                                                                    0xf79f5550                                         
+WofSetFileDataLocation                                                                               0x2559dcd0                                         
+WofShouldCompressBinaries                                                                            0x0353cd59                                         
+WofWimAddEntry                                                                                       0xab12b099                                         
+WofWimEnumFiles                                                                                      0x90ff4286                                         
+WofWimRemoveEntry                                                                                    0x06aa40be                                         
+WofWimSuspendEntry                                                                                   0x39409e32                                         
+WofWimUpdateEntry                                                                                    0x25468613                                         

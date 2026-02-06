@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\wuuhosdeployment.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+WUCreateExpressionEvaluator                                                                          0x4566d568                                         
+WUCreateUpdateHandler                                                                                0xe3f9d466                                         

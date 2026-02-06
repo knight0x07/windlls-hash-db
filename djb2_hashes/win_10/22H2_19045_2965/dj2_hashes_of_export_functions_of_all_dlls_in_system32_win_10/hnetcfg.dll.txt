@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\hnetcfg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+HNetDeleteRasConnection                                                                              0xf3c8b8bd                                         
+HNetFreeSharingServicesPage                                                                          0x475a73c3                                         
+HNetGetFirewallSettingsPage                                                                          0xba8e3878                                         
+HNetGetSharingServicesPage                                                                           0xc0e2d721                                         
+HNetSharedAccessSettingsDlg                                                                          0x2e9f5005                                         
+HNetSharingAndFirewallSettingsDlg                                                                    0xbcc8e891                                         
+RegisterClassObjects                                                                                 0xc582a4aa                                         
+ReleaseSingletons                                                                                    0xd92171cc                                         
+RevokeClassObjects                                                                                   0xd0552311                                         
+WinBomConfigureWindowsFirewall                                                                       0xc033a834                                         

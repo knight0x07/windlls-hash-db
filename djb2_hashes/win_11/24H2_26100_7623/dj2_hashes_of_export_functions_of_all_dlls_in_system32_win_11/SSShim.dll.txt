@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\SSShim.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SssBindServicingStack                                                                                0xe302117b                                         
+SssGetServicingStackFilePath                                                                         0xbd89c00b                                         
+SssGetServicingStackFilePathLength                                                                   0xb5442e2d                                         
+SssGetServicingStackVersion                                                                          0x8e72ad44                                         
+SssPreloadDownlevelDependencies                                                                      0xb73e153c                                         
+SssReleaseServicingStack                                                                             0xed59f35f                                         

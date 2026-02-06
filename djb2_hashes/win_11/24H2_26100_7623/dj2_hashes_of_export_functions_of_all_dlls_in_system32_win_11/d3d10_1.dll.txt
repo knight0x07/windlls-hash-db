@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\d3d10_1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+D3D10CompileEffectFromMemory                                                                         0xb7bc66c4                                         
+D3D10CompileShader                                                                                   0x9ffa18c1                                         
+D3D10CreateBlob                                                                                      0x9ff7a5b4                                         
+D3D10CreateDevice1                                                                                   0x9598cad6                                         
+D3D10CreateDeviceAndSwapChain1                                                                       0x72cfa827                                         
+D3D10CreateEffectFromMemory                                                                          0xccbac3cf                                         
+D3D10CreateEffectPoolFromMemory                                                                      0x032a5a89                                         
+D3D10CreateStateBlock                                                                                0x3d686041                                         
+D3D10DisassembleEffect                                                                               0xb87e97da                                         
+D3D10DisassembleShader                                                                               0xd9483fc4                                         
+D3D10GetGeometryShaderProfile                                                                        0x8e462995                                         
+D3D10GetInputAndOutputSignatureBlob                                                                  0x9f74ebc6                                         
+D3D10GetInputSignatureBlob                                                                           0x82e62c42                                         
+D3D10GetOutputSignatureBlob                                                                          0x7133d823                                         
+D3D10GetPixelShaderProfile                                                                           0xdaf2e6cb                                         
+D3D10GetShaderDebugInfo                                                                              0xd1c002eb                                         
+D3D10GetVersion                                                                                      0x2cf3b907                                         
+D3D10GetVertexShaderProfile                                                                          0x89f80f87                                         
+D3D10PreprocessShader                                                                                0xec16f43e                                         
+D3D10ReflectShader                                                                                   0x09be179d                                         
+D3D10RegisterLayers                                                                                  0x1062aeb6                                         
+D3D10StateBlockMaskDifference                                                                        0x5f921084                                         
+D3D10StateBlockMaskDisableAll                                                                        0xd699e506                                         
+D3D10StateBlockMaskDisableCapture                                                                    0x2c46b161                                         
+D3D10StateBlockMaskEnableAll                                                                         0xb975c099                                         
+D3D10StateBlockMaskEnableCapture                                                                     0x89fc1e74                                         
+D3D10StateBlockMaskGetSetting                                                                        0xcef378b7                                         
+D3D10StateBlockMaskIntersect                                                                         0x496e592a                                         
+D3D10StateBlockMaskUnion                                                                             0xa74e61c2                                         

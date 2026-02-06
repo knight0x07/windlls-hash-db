@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\netdiagfx.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HelperTraceEvent                                                                                     0x713aa676                                         
+HelperTraceInitialize                                                                                0x69ae2e66                                         
+HelperTraceUninitialize                                                                              0xcd6bd2a9                                         
+WdiDiagnosticModuleMain                                                                              0xd00a7939                                         
+WdiGetDiagnosticModuleInterfaceVersion                                                               0xca326acb                                         
+WdiHandleInstance                                                                                    0x2ab6c54a                                         

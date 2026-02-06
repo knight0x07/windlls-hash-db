@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-processthreads-l1-1-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FlushInstructionCache                                                                                0xb7dceddd                                         
+GetCurrentProcessorNumber                                                                            0x1c970f51                                         
+GetCurrentProcessorNumberEx                                                                          0x9e9830ee                                         
+GetCurrentThreadStackLimits                                                                          0x7407d0e8                                         
+GetProcessHandleCount                                                                                0x94e285d9                                         
+GetProcessMitigationPolicy                                                                           0x9d873469                                         
+GetThreadContext                                                                                     0xeba2cfc2                                         
+GetThreadIdealProcessorEx                                                                            0xd3f68d39                                         
+GetThreadTimes                                                                                       0x9055227f                                         
+IsProcessorFeaturePresent                                                                            0xc24a5f0e                                         
+OpenProcess                                                                                          0x7136fdd6                                         
+SetProcessMitigationPolicy                                                                           0xd32799f5                                         
+SetThreadContext                                                                                     0x7e20964e                                         
+SetThreadIdealProcessorEx                                                                            0xe51a7145                                         

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-string-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CompareStringEx                                                                                      0x11df7500                                         
+CompareStringOrdinal                                                                                 0xfbe507cc                                         
+CompareStringW                                                                                       0xd1ff039a                                         
+FoldStringW                                                                                          0x9d919398                                         
+GetStringTypeExW                                                                                     0xdafab532                                         
+GetStringTypeW                                                                                       0xdc3bf0b5                                         
+MultiByteToWideChar                                                                                  0xe2fdda8e                                         
+WideCharToMultiByte                                                                                  0xe65d31ce                                         

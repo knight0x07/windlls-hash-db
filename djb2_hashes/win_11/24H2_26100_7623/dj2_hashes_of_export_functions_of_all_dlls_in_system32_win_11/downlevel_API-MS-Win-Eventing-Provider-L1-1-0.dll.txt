@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-Eventing-Provider-L1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EventActivityIdControl                                                                               0xfcae0262                                         
+EventEnabled                                                                                         0x7d8b7612                                         
+EventProviderEnabled                                                                                 0x5d7316dd                                         
+EventRegister                                                                                        0x88079b4c                                         
+EventSetInformation                                                                                  0x674d7f99                                         
+EventUnregister                                                                                      0xa3094b8f                                         
+EventWrite                                                                                           0x5c5f3952                                         
+EventWriteEx                                                                                         0xf112df2f                                         
+EventWriteString                                                                                     0x115d05e9                                         
+EventWriteTransfer                                                                                   0x07b90e77                                         

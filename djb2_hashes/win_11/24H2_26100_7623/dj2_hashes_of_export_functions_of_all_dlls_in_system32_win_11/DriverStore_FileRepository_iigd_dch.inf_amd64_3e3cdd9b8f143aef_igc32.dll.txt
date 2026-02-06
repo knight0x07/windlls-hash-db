@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igc32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CIFCreateMain                                                                                        0x047849f0                                         
+Create                                                                                               0xac709e99                                         
+Delete                                                                                               0xadde7058                                         
+DeleteParseShader                                                                                    0x317e1f0a                                         
+JITCompile                                                                                           0x4e301095                                         
+JITCompile_v2                                                                                        0xe94967fc                                         
+OpenCompiler10                                                                                       0x7faa2593                                         
+OpenCompiler12                                                                                       0x7faa2595                                         
+OpenCompiler9                                                                                        0x7079850b                                         
+OpenOGLCompiler                                                                                      0x58f962b4                                         
+OpenVulkanCompiler                                                                                   0x7482bee3                                         
+ParseShader                                                                                          0x49475d97                                         
+Register                                                                                             0x7f73e26a                                         
+freeBlock                                                                                            0xe03ccc72                                         
+getJITVersion                                                                                        0xd25b5e32                                         

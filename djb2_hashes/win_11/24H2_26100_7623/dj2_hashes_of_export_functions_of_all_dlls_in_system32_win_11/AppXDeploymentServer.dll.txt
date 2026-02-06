@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\AppXDeploymentServer.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddToPurgeList                                                                                       0x5ae05a10                                         
+AppXApplyTrustLabelToFolder                                                                          0x4611cd85                                         
+AppXSetTrustLabelOnPackage                                                                           0x6008ba55                                         
+CancelDeploymentImplementation                                                                       0x37f39432                                         
+CreateCanonicalPriFileImplementation                                                                 0x03867e92                                         
+CreateWnfStateNameImplementation                                                                     0x398a518c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+EnumPackagesByUserSidInternal                                                                        0xfeca7750                                         
+EnumPackagesByUserSidNamePublisherInternal                                                           0x27cf603f                                         
+EnumPackagesByUserSidPackageFamilyNameInternal                                                       0x63f2709f                                         
+EnumProvisionedPackagesInternal                                                                      0x974d62c8                                         
+EnumVisibilityByPackageFullNameInternal                                                              0x8d31fc7a                                         
+FindPackageByUserSidPackageFullNameInternal                                                          0xffc39529                                         
+GenerateBytecodeForPackageImplementation                                                             0x84da5dd8                                         
+GenerateBytecodeForPackagesImplementation                                                            0xa27085cb                                         
+GetApplicability5Implementation                                                                      0xe26522a7                                         
+GetApplicabilityImplementation                                                                       0xb98ec432                                         
+GetDeploymentError                                                                                   0xb0c97070                                         
+GetPackageFilesDiskUsageImplementation                                                               0xcd813d2a                                         
+GetPackageFilesDiskUsagePerVolumeImplementation                                                      0x23300a09                                         
+GetSessionIdsOwnedByUser                                                                             0x7d4094c0                                         
+IsPackageInstalledInternal                                                                           0x2edf79ea                                         
+IsPackagingExtensionBeingServiced                                                                    0x4f3e23fd                                         
+MergeSystemResourceFilesImplementation                                                               0xb09f1d1b                                         
+PackageRepositoryAllocate                                                                            0xc6681636                                         
+PackageRepositoryFree                                                                                0x90b582b3                                         
+PackageStatusOperationImplementation                                                                 0xc0e8018c                                         
+PackageVolumeStatusImplementation                                                                    0x95c00033                                         
+RDSRecoverRequestsImplementation                                                                     0x20ff4de6                                         
+RepairResourcesPriAclsImplementation                                                                 0xf59ed617                                         
+RequestPackageOperationImplementation                                                                0x34977691                                         
+ServerSideRequestContentGroupsImplementation                                                         0xb397894b                                         
+ServiceMain                                                                                          0x0747703b                                         
+SetDeploymentError                                                                                   0xd9d309fc                                         
+SetPackageStatusBlockingForUserImplementation                                                        0x37b00d16                                         
+SetPackageStatusBlockingImplementation                                                               0x2fa986f0                                         
+StartDeploymentImplementation                                                                        0x6d2551da                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

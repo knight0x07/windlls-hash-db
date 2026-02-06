@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\nduprov.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CommitStatsHelperCollectContainerData                                                                0x5a1c1be0                                         
+CommitStatsHelperDedupHostData                                                                       0x0f985f27                                         
+DedupDoubleCountedData                                                                               0x203b785e                                         
+NduProvPopulateStatsFromRecord                                                                       0x7dc19abf                                         
+OverflowCheckOnBytesFromContainers                                                                   0xc666fec5                                         
+PopulateUserName                                                                                     0x7fb0404f                                         
+SruInitializeProvider                                                                                0x23bce23c                                         
+SruUninitializeProvider                                                                              0x7fc0303f                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

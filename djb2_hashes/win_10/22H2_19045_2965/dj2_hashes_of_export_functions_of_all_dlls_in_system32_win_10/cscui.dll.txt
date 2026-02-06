@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\cscui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CPlApplet                                                                                            0x5c9b924a                                         
+CSCOptions_RunDLL                                                                                    0xc3277c1a                                         
+CSCOptions_RunDLLA                                                                                   0x2816ff9b                                         
+CSCOptions_RunDLLW                                                                                   0x2816ffb1                                         
+CSCUIInitialize                                                                                      0x91ac8bce                                         
+CSCUIOptionsPropertySheet                                                                            0x67095ec6                                         
+CSCUIRemoveFolderFromCache                                                                           0x20bff04e                                         
+CSCUISetState                                                                                        0x94cb9169                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

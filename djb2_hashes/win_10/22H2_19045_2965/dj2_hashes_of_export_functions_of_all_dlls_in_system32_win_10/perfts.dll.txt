@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\perfts.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseLagPerfData                                                                                     0xbc9262d6                                         
+CloseTSObject                                                                                        0xacbce7b9                                         
+CollectLagPerfData                                                                                   0xe604d686                                         
+CollectTSObjectData                                                                                  0x63d3fba3                                         
+OpenLagPerfData                                                                                      0x8387ba72                                         
+OpenTSObject                                                                                         0xac1c04d5                                         

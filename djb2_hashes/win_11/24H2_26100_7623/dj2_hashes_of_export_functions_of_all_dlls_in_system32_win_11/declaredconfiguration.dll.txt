@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\declaredconfiguration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DMOrchestratorConfig                                                                                 0x43a9df4c                                         
+DMOrchestratorDelete                                                                                 0x4548f749                                         
+DMOrchestratorDeletePerEnrollmentScenario                                                            0x3a6ddec4                                         
+DMOrchestratorGetStatus                                                                              0xc32bc7da                                         
+DMOrchestratorProcessPreviouslyRanDocs                                                               0xa7844501                                         
+DMOrchestratorRefresh                                                                                0x23b18345                                         
+DMOrchestratorRefreshPerDocument                                                                     0xc36e552b                                         
+DMOrchestratorRefreshPerEnrollment                                                                   0xf00d3e0c                                         
+DMOrchestratorSvcDeinit                                                                              0xa8b9a4ff                                         
+DMOrchestratorSvcInit                                                                                0x9806d2b6                                         
+DMOrchestratorUpdate                                                                                 0x6db34379                                         
+DMOrchestratorUpdateDocStatus                                                                        0x24728073                                         

@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\netrndis.inf_amd64_be4ba6237d385e2e\rndismp6.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+RndisMIndicateReceiveEx                                                                              0xc2a9a113                                         
+RndisMInitializeWrapperEx                                                                            0x7fa87dc2                                         
+RndisMSendCompleteEx                                                                                 0x5d390432                                         

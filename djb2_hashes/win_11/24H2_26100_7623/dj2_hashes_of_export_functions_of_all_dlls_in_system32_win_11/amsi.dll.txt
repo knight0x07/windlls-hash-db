@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\amsi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AmsiCloseSession                                                                                     0xcee7cfe9                                         
+AmsiInitialize                                                                                       0x8c6ab501                                         
+AmsiNotifyOperation                                                                                  0xba830859                                         
+AmsiOpenSession                                                                                      0x52dd4045                                         
+AmsiScanBuffer                                                                                       0x29fcd18e                                         
+AmsiScanString                                                                                       0x51990e2b                                         
+AmsiUacInitialize                                                                                    0x0c21385a                                         
+AmsiUacScan                                                                                          0x33e3ecad                                         
+AmsiUacUninitialize                                                                                  0xd8c9299d                                         
+AmsiUninitialize                                                                                     0x91646c04                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\msvcp140_atomic_wait.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+__std_acquire_shared_mutex_for_instance                                                              0x981a84b9                                         
+__std_atomic_compare_exchange_128                                                                    0x716dcc4c                                         
+__std_atomic_get_mutex                                                                               0x6349f4db                                         
+__std_atomic_has_cmpxchg16b                                                                          0xdf21d977                                         
+__std_atomic_notify_all_direct                                                                       0xfc29d174                                         
+__std_atomic_notify_all_indirect                                                                     0xabb886eb                                         
+__std_atomic_notify_one_direct                                                                       0xa7e9d11d                                         
+__std_atomic_notify_one_indirect                                                                     0x477714d4                                         
+__std_atomic_set_api_level                                                                           0x76959785                                         
+__std_atomic_wait_direct                                                                             0xa5320d18                                         
+__std_atomic_wait_get_deadline                                                                       0x4cfa8192                                         
+__std_atomic_wait_get_remaining_timeout                                                              0x1dd6e19c                                         
+__std_atomic_wait_indirect                                                                           0xb7be3b8f                                         
+__std_bulk_submit_threadpool_work                                                                    0x7b56c621                                         
+__std_calloc_crt                                                                                     0xf11e7c63                                         
+__std_close_threadpool_work                                                                          0x14b84d76                                         
+__std_create_threadpool_work                                                                         0x672b36d4                                         
+__std_execution_wait_on_uchar                                                                        0x48882623                                         
+__std_execution_wake_by_address_all                                                                  0xb248b1ff                                         
+__std_free_crt                                                                                       0x13bff5f7                                         
+__std_parallel_algorithms_hw_threads                                                                 0xe2139e3b                                         
+__std_release_shared_mutex_for_instance                                                              0xbfdaf310                                         
+__std_submit_threadpool_work                                                                         0xcaaed6f4                                         
+__std_tzdb_delete_current_zone                                                                       0xa56a1730                                         
+__std_tzdb_delete_leap_seconds                                                                       0xaf1dabc2                                         
+__std_tzdb_delete_sys_info                                                                           0x8ad6181c                                         
+__std_tzdb_delete_time_zones                                                                         0x82dd07cf                                         
+__std_tzdb_get_current_zone                                                                          0x3034e03d                                         
+__std_tzdb_get_leap_seconds                                                                          0x39e874cf                                         
+__std_tzdb_get_sys_info                                                                              0xa19462a9                                         
+__std_tzdb_get_time_zones                                                                            0x4258299c                                         
+__std_wait_for_threadpool_work_callbacks                                                             0x4dd4557a                                         

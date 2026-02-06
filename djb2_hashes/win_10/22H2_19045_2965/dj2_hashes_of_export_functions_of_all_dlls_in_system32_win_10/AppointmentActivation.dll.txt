@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\AppointmentActivation.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AwaitAppointmentActivation                                                                           0x881fdadc                                         
+DeserializeActivationArgs                                                                            0x54837915                                         
+DeserializeAppointment                                                                               0x12ae9085                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetAddAppointmentArgument                                                                            0x97274100                                         
+GetCalendarChooserArgument                                                                           0xc1e99055                                         
+GetLegacyAppointmentDetailsArgumentString                                                            0x3e0a06a9                                         
+GetProxyDllInfo                                                                                      0x64ea9e0f                                         
+GetRemoveAppointmentArgument                                                                         0x9502d485                                         
+GetReplaceAppointmentArgument                                                                        0xda696f53                                         
+GetWindowIdOfHost                                                                                    0xe72fb7fd                                         
+ReleaseActivationArgs                                                                                0x41478c65                                         
+SerializeAppointmentIdsResult                                                                        0xefd43cfb                                         
+SerializeCalendarIdResult                                                                            0x486827d3                                         
+ShowAddAppointment                                                                                   0x38e7b71e                                         
+ShowAddAppointmentAsync                                                                              0x0c26337c                                         
+ShowAppointmentDetails                                                                               0x73c1fc1b                                         
+ShowCalendarChooser                                                                                  0xf24bf193                                         
+ShowCalendarChooserAsync                                                                             0xa02a3f11                                         
+ShowRemoveAppointment                                                                                0x8c417203                                         
+ShowRemoveAppointmentAsync                                                                           0x54d18581                                         
+ShowReplaceAppointment                                                                               0xaa121af1                                         
+ShowReplaceAppointmentAsync                                                                          0xa276f32f                                         
+ShowTimeFrame                                                                                        0x96f292c0                                         

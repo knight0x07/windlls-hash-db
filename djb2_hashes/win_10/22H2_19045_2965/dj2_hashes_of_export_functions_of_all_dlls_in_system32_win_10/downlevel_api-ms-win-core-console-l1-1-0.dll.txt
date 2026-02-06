@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-console-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AllocConsole                                                                                         0xcddb7fc3                                         
+GetConsoleCP                                                                                         0x7378bb8b                                         
+GetConsoleMode                                                                                       0x349bd73d                                         
+GetConsoleOutputCP                                                                                   0x0dbbfa5c                                         
+GetNumberOfConsoleInputEvents                                                                        0x2fb6b97b                                         
+PeekConsoleInputA                                                                                    0xb80db1ee                                         
+ReadConsoleA                                                                                         0xeb798e95                                         
+ReadConsoleInputA                                                                                    0xb1e22b85                                         
+ReadConsoleInputW                                                                                    0xb1e22b9b                                         
+ReadConsoleW                                                                                         0xeb798eab                                         
+SetConsoleCtrlHandler                                                                                0x3e24e177                                         
+SetConsoleMode                                                                                       0xfb9e8ac9                                         
+WriteConsoleA                                                                                        0xee4211a4                                         
+WriteConsoleW                                                                                        0xee4211ba                                         

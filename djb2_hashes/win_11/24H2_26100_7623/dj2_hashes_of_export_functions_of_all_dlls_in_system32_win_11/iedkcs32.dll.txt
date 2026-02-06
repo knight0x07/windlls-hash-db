@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\iedkcs32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BrandCleanInstallStubs                                                                               0xbc54cf17                                         
+BrandICW                                                                                             0x965e3bcf                                         
+BrandICW2                                                                                            0x6225b5e1                                         
+BrandIE4                                                                                             0x965e3bee                                         
+BrandIEActiveSetup                                                                                   0x700bafc7                                         
+BrandInternetExplorer                                                                                0xf40b20c6                                         
+BrandIntra                                                                                           0xa6f48a4a                                         
+BrandMe                                                                                              0xed48ad1e                                         
+Clear                                                                                                0x0cf85d6c                                         
+CloseRASConnections                                                                                  0x09e52324                                         
+InternetInitializeAutoProxyDll                                                                       0x562a04f7                                         
+ProcessGroupPolicyForActivities                                                                      0x01b5ecbd                                         
+ProcessGroupPolicyForActivitiesEx                                                                    0x46e4195a                                         
+ProcessGroupPolicyForZoneMap                                                                         0x3868e882                                         

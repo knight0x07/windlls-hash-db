@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\dabapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DabApiBufferFree                                                                                     0xd6892cc2                                         
+DabGetLastScheduledRunTime                                                                           0x1f0b2635                                         
+DabRegisterTriggerConsumer                                                                           0x3fd10f11                                         
+DabUnregisterTriggerConsumer                                                                         0xa94c9e34                                         

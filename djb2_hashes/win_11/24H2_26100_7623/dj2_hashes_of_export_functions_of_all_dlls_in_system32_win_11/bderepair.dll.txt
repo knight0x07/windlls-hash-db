@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\bderepair.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FveAuthWithClearKey                                                                                  0xcce0b064                                         
+FveAuthWithKey                                                                                       0xc4adbbfd                                         
+FveAuthWithPassphraseW                                                                               0xc0dad065                                         
+FveAuthWithPasswordW                                                                                 0x8c8eef3e                                         
+FveCreateRestoreContext                                                                              0x38639363                                         
+FveDecryptData                                                                                       0xdbe6693b                                         
+FveDestroyRestoreContext                                                                             0x7680ed39                                         
+FveGetConvLogOffset                                                                                  0xcc75e2a5                                         
+FveGetInterruptedRangeOffset                                                                         0xd6fc7770                                         
+FveGetMetadataFromRestoreContext                                                                     0x1cae9bc4                                         
+FveLoadConvLog                                                                                       0x1b33bcde                                         
+FveRecoverBlock                                                                                      0x903eaf47                                         
+FveSupplyInformationBlock                                                                            0xcf79cee4                                         
+FveSupplyKeyPackage                                                                                  0xee808368                                         
+FveSupplyWatermark                                                                                   0x3f4ac0a1                                         

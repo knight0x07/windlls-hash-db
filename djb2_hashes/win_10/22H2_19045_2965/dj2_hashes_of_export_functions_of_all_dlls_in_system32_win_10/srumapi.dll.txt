@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\srumapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+SruCreateCheckpoint                                                                                  0x328d327b                                         
+SruCreateEnergyNotificationServer                                                                    0x301a3adb                                         
+SruDeleteStatsByAppName                                                                              0xcf6c793e                                         
+SruFreeRecordSet                                                                                     0x89196a0c                                         
+SruQueryStats                                                                                        0x0a88df64                                         
+SruQueryStatsBySeqNumber                                                                             0x8110c531                                         
+SruQueryStatsEx                                                                                      0xd03e51c1                                         
+SruRegisterRealTimeStats                                                                             0x710baf46                                         
+SruRetrieveEnergyRecord                                                                              0xe39d4bce                                         
+SruUnregisterRealTimeStats                                                                           0x1cf5e269                                         
+SruUpdateStats                                                                                       0xded5d531                                         

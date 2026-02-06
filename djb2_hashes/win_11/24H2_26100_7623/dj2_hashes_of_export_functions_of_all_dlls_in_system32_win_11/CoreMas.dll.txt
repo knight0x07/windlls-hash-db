@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\CoreMas.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateUnimicFilter                                                                                   0x12c7fee4                                         
+CreateUnimicProcessor                                                                                0x17a2b23e                                         
+DeleteUnimicFilter                                                                                   0x6e5f6723                                         
+DeleteUnimicProcessor                                                                                0x9903a61d                                         
+GetUnimicFilterInputPortCount                                                                        0xab442a0e                                         
+GetUnimicFilterOutputPort                                                                            0x83bbe766                                         
+GetUnimicFilterOutputPortCount                                                                       0xdb2dbf4f                                         
+GetUnimicProcessorDelay                                                                              0xf105f3b9                                         
+GetUnimicProcessorInputChannelCount                                                                  0x965f93dc                                         
+GetUnimicProcessorOutputChannelCount                                                                 0x557c90bd                                         
+RunUnimicProcessor                                                                                   0x3e3704bf                                         
+SetUnimicFilterInputPort                                                                             0x6d577151                                         

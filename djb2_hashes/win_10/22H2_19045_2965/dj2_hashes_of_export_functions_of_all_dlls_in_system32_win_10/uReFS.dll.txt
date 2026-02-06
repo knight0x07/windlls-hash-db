@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\uReFS.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0REFS_SA@@QEAA@XZ                                                                                  0x52c13de0                                         
+??0REFS_UPCASE_TABLE@@QEAA@XZ                                                                        0x9dddd4d4                                         
+??1REFS_SA@@UEAA@XZ                                                                                  0x198412e5                                         
+??1REFS_UPCASE_TABLE@@UEAA@XZ                                                                        0xe53fdf19                                         
+?Initialize@REFS_SA@@QEAAEPEAVLOG_IO_DP_DRIVE@@PEAVMESSAGE@@@Z                                       0x166c1cb2                                         
+Chkdsk                                                                                               0xabbf007d                                         
+ChkdskEx                                                                                             0x97811d1a                                         
+Extend                                                                                               0xb18fcccd                                         
+Format                                                                                               0xb341208e                                         
+FormatEx                                                                                             0x880b856b                                         
+GetFilesystemInformation                                                                             0x23f50610                                         
+Recover                                                                                              0x9ebe761b                                         
+SetOriginalVolumeName                                                                                0xdb3aaf9f                                         

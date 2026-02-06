@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\dssvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DSSCreateSharedFileTokenEx                                                                           0x9debbc18                                         
+DSSFreeToken                                                                                         0x459cd332                                         
+InitializeService                                                                                    0x0f8f7aa8                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

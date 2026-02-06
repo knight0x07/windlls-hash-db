@@ -1,0 +1,49 @@
+DLL Path: C:\Windows\System32\rastapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddPorts                                                                                             0x79546c26                                         
+CheckRasmanDependency                                                                                0x955c8504                                         
+DeviceConnect                                                                                        0x65d68d9f                                         
+DeviceDone                                                                                           0xa4c99dfb                                         
+DeviceEnum                                                                                           0xa4ca270a                                         
+DeviceGetDevConfig                                                                                   0xac3a938a                                         
+DeviceGetDevConfigEx                                                                                 0xa52da767                                         
+DeviceGetInfo                                                                                        0x82c45a01                                         
+DeviceListen                                                                                         0x0fe8c5e4                                         
+DeviceSetDevConfig                                                                                   0xf7a2f416                                         
+DeviceSetInfo                                                                                        0x1e7f330d                                         
+DeviceWork                                                                                           0xa4d409b8                                         
+EnableDeviceForDialIn                                                                                0xa92741b4                                         
+GetConnectInfo                                                                                       0x819b1bbb                                         
+GetZeroDeviceInfo                                                                                    0x32c26161                                         
+InitializeDriverIoControl                                                                            0x9f5d04bc                                         
+PortChangeCallback                                                                                   0x11b662dd                                         
+PortClearStatistics                                                                                  0x16c3d49c                                         
+PortClose                                                                                            0x248a2980                                         
+PortCompressionSetInfo                                                                               0x24d472b4                                         
+PortConnect                                                                                          0x76a53a34                                         
+PortDisconnect                                                                                       0x00310954                                         
+PortEnum                                                                                             0xc30d13bf                                         
+PortGetIOHandle                                                                                      0x0338f5ae                                         
+PortGetInfo                                                                                          0x93930696                                         
+PortGetPortState                                                                                     0xed795e30                                         
+PortGetStatistics                                                                                    0x721d8b95                                         
+PortInit                                                                                             0xc30f43be                                         
+PortOpen                                                                                             0xc31295fc                                         
+PortOpenExternal                                                                                     0xa65c24ff                                         
+PortReceive                                                                                          0xe12f49ad                                         
+PortReceiveComplete                                                                                  0x10a5b026                                         
+PortSend                                                                                             0xc31499d4                                         
+PortSetFraming                                                                                       0xa4da7a9a                                         
+PortSetInfo                                                                                          0x2f4ddfa2                                         
+PortSetIoCompletionPort                                                                              0x9ccc196d                                         
+PortTestSignalState                                                                                  0xdee15e29                                         
+RasTapiIsPulseDial                                                                                   0x5c9e5658                                         
+RastapiGetCalledID                                                                                   0x605ef72b                                         
+RastapiSetCalledID                                                                                   0xa0b77637                                         
+RefreshDevices                                                                                       0x892b5857                                         
+RemovePort                                                                                           0x89431778                                         
+SetCommSettings                                                                                      0xe42bb8ee                                         
+UnloadRastapiDll                                                                                     0x5dc630f8                                         
+UpdateTapiService                                                                                    0x240f3327                                         

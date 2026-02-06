@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\appsruprov.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+LogMemoryPerfCounters                                                                                0xfc896e80                                         
+LogMemoryPerfCountersPeriodically                                                                    0x93721101                                         
+PsmQueryApplicationPerformanceInformation                                                            0xb44af897                                         
+PsmQueryApplicationPerformanceInformation2                                                           0x3daa0ba9                                         
+PsmQueryQuotaInformation                                                                             0x8b33025b                                         
+SruInitializeProvider                                                                                0x23bce23c                                         
+SruUninitializeProvider                                                                              0x7fc0303f                                         

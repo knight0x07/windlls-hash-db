@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\es.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+LCEControlServer                                                                                     0xc6203d91                                         
+NotifyLogoffUser                                                                                     0x4c3d1d5a                                         
+NotifyLogonUser                                                                                      0x29a10f5c                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

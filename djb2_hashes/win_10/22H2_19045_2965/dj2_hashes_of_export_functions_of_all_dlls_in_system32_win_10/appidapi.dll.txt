@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\appidapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppIDConstructAppxAttributes                                                                         0x4613c118                                         
+AppIDDecodeAttributeString                                                                           0x4b328702                                         
+AppIDEncodeAttributeString                                                                           0xc9a022ec                                         
+AppIDFreeAttributeString                                                                             0xe53f72c0                                         
+AppIDGetAppxFileAttributes                                                                           0x88daaa73                                         
+AppIDGetFileAttributes                                                                               0x8dcaa93a                                         
+AppIDGetMsiVersionInfo                                                                               0xf92f536e                                         
+AppIDReleaseAppxFileAttributes                                                                       0x6a210094                                         
+AppIDReleaseFileAttributes                                                                           0x644116db                                         
+CompareToSystemCIPolicy                                                                              0xcb35c4f0                                         
+UpdateSystemCIPolicy                                                                                 0x48570c29                                         

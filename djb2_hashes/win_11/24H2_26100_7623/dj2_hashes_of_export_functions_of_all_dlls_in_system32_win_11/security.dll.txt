@@ -1,0 +1,40 @@
+DLL Path: C:\Windows\System32\security.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AcceptSecurityContext                                                                                0x129362d2                                         
+AcquireCredentialsHandleA                                                                            0x3a10078a                                         
+AcquireCredentialsHandleW                                                                            0x3a1007a0                                         
+AddSecurityPackageA                                                                                  0x5a913413                                         
+AddSecurityPackageW                                                                                  0x5a913429                                         
+ApplyControlToken                                                                                    0xc9d0c3ad                                         
+CompleteAuthToken                                                                                    0xdcf2e331                                         
+DecryptMessage                                                                                       0x73dd6445                                         
+DeleteSecurityContext                                                                                0x6a009735                                         
+DeleteSecurityPackageA                                                                               0x596de3bd                                         
+DeleteSecurityPackageW                                                                               0x596de3d3                                         
+EncryptMessage                                                                                       0x7974f36f                                         
+EnumerateSecurityPackagesA                                                                           0xa3e93d83                                         
+EnumerateSecurityPackagesW                                                                           0xa3e93d99                                         
+ExportSecurityContext                                                                                0x83a66564                                         
+FreeContextBuffer                                                                                    0x33cef346                                         
+FreeCredentialsHandle                                                                                0x1822a5e1                                         
+ImpersonateSecurityContext                                                                           0x2a5513e9                                         
+ImportSecurityContextA                                                                               0x4795791e                                         
+ImportSecurityContextW                                                                               0x47957934                                         
+InitSecurityInterfaceA                                                                               0x0834e823                                         
+InitSecurityInterfaceW                                                                               0x0834e839                                         
+InitializeSecurityContextA                                                                           0x4b4f0e35                                         
+InitializeSecurityContextW                                                                           0x4b4f0e4b                                         
+MakeSignature                                                                                        0xda6e56f5                                         
+QueryContextAttributesA                                                                              0x973d2c88                                         
+QueryContextAttributesW                                                                              0x973d2c9e                                         
+QueryCredentialsAttributesA                                                                          0x17fe91b1                                         
+QueryCredentialsAttributesW                                                                          0x17fe91c7                                         
+QuerySecurityContextToken                                                                            0x99a2a299                                         
+QuerySecurityPackageInfoA                                                                            0x94add5ac                                         
+QuerySecurityPackageInfoW                                                                            0x94add5c2                                         
+RevertSecurityContext                                                                                0x52a7bcfa                                         
+SealMessage                                                                                          0xaacf77af                                         
+UnsealMessage                                                                                        0x3b17f492                                         
+VerifySignature                                                                                      0xf748e68c                                         

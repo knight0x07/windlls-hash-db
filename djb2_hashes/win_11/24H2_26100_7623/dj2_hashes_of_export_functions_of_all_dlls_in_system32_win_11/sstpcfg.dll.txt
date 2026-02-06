@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\sstpcfg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckIfCertificateAllowed                                                                            0x175ae2fd                                         
+ClearSstpCfgParams                                                                                   0xf8f7744a                                         
+FreeSstpCertList                                                                                     0x53ff78db                                         
+FreeSstpCertNode                                                                                     0x5400a925                                         
+GetCertificateFromHash                                                                               0x0bf1fcc0                                         
+GetCertificateFromSha256Hash                                                                         0x8e39d359                                         
+GetCertificateFromStoreForSha256Hash                                                                 0x14ebfecd                                         
+GetCryptoBindingInfo                                                                                 0x111828ad                                         
+GetCryptoBindingSupportedAlgoInfo                                                                    0x056e4696                                         
+GetHashFromCertificate                                                                               0xb8da3ac0                                         
+GetSstpCertListRemote                                                                                0x796009e5                                         
+GetSstpConfiguration                                                                                 0xec369e47                                         
+GetSstpProxyConfig                                                                                   0x8f86da47                                         
+GetSstpServerConfig                                                                                  0xb6edd1fc                                         
+GetUrlForConfig                                                                                      0xc8493555                                         
+IsCertificateEKUServerAuth                                                                           0x8ce7c0d2                                         
+SetSstpCfgParams                                                                                     0x3c46d86f                                         
+SetSstpConfiguration                                                                                 0x7e0ccad3                                         
+SetSstpProxyConfig                                                                                   0xb89073d3                                         
+SetupSstpServerConfig                                                                                0x61e1b6cd                                         

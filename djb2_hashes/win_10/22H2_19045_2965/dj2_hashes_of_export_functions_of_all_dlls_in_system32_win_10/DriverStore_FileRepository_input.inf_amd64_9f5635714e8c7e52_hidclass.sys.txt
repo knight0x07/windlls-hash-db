@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\input.inf_amd64_9f5635714e8c7e52\hidclass.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+HidNotifyPresence                                                                                    0xa245cbe8                                         
+HidRegisterMinidriver                                                                                0x6029f3f8                                         

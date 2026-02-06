@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\camext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CamCleanupDisardedCandidateAccounts                                                                  0xa410053b                                         
+CamConnectCandidateUser                                                                              0x6577a2dc                                         
+CamFreeAuthBuffer                                                                                    0xbec6f064                                         
+CamFreeBuffer                                                                                        0xb8feb132                                         
+CamGetCandidateAccountCredz                                                                          0xb58f6698                                         
+CamGetCandidateUserSessionIds                                                                        0xac92efb6                                         
+CamGetNonCandidateUserSessionIds                                                                     0x9a848e21                                         
+CamIsCandidateUser                                                                                   0x3863d3ee                                         
+CamIsEphemeralCandidateUser                                                                          0xbacd6fc1                                         
+CamRefreshCandidateUser                                                                              0xbb65fb81                                         

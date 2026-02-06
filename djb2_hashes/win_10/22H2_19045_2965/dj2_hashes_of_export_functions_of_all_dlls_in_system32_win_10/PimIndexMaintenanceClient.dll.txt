@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\PimIndexMaintenanceClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateIndexedFilterClient                                                                            0x31442a1f                                         
+CreatePOOMSortedAggregateDataSource                                                                  0x07b1a897                                         
+GetDefaultContactsFilterSupplierSortOrder                                                            0xde9fb3e7                                         
+PimIMClient_CacheAggregateCacheFileMapping                                                           0x165bdc3a                                         
+PimIMClient_Free                                                                                     0xde109fc1                                         
+PimIMClient_LoadAggregateCache                                                                       0x94ccbbda                                         
+PimIMClient_RebuildAggregateCache                                                                    0x41f115e1                                         
+PimIMClient_ResetInprocService                                                                       0x8076255e                                         
+PimIMClient_Resume                                                                                   0xbfd23cd0                                         
+PimIMClient_Suspend                                                                                  0x2c63bf41                                         
+PimIMClient_UpdateItems                                                                              0xe225d884                                         
+PimIMClient_UpdateStores                                                                             0x3e3a0f02                                         
+PimIM_RpcConnect                                                                                     0x69784a6f                                         
+PimIM_RpcDisconnect                                                                                  0x6f0a73af                                         
+WaitForCookie                                                                                        0xb0b0435b                                         
+WaitForCookieValueToSet                                                                              0x42b2f527                                         

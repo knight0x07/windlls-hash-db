@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-privateprofile-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetPrivateProfileIntA                                                                                0x0750eb3d                                         
+GetPrivateProfileIntW                                                                                0x0750eb53                                         
+GetPrivateProfileSectionW                                                                            0x3213193d                                         
+GetPrivateProfileStringA                                                                             0x16077109                                         
+GetPrivateProfileStringW                                                                             0x1607711f                                         
+GetProfileIntA                                                                                       0xadb5c022                                         
+GetProfileIntW                                                                                       0xadb5c038                                         
+GetProfileSectionA                                                                                   0x76f1d88c                                         
+GetProfileSectionW                                                                                   0x76f1d8a2                                         
+GetProfileStringA                                                                                    0x46a957ce                                         
+GetProfileStringW                                                                                    0x46a957e4                                         
+WritePrivateProfileSectionA                                                                          0xa2123232                                         
+WritePrivateProfileStringA                                                                           0x30b214b4                                         
+WritePrivateProfileStringW                                                                           0x30b214ca                                         

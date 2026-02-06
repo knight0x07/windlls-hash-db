@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\msutb.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClosePopupTipbar                                                                                     0x51912ab1                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetChildTipbar                                                                                       0xd5b5c86b                                         
+GetPopupTipbar                                                                                       0xd127609b                                         
+SetRegisterLangBand                                                                                  0xf629760d                                         

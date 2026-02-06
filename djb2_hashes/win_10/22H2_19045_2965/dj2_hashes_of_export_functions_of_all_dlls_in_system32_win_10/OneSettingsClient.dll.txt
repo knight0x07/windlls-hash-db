@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\OneSettingsClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OneSettingsCreateDownloadConfig                                                                      0x97b6f09a                                         
+OneSettingsDownloadEndpoint                                                                          0xa651f071                                         
+OneSettingsEndDownloadSession                                                                        0xf091cd6b                                         
+OneSettingsFreeDownloadConfig                                                                        0xf1ebee28                                         
+OneSettingsFreeDownloadResponse                                                                      0xff176941                                         
+OneSettingsGetResponseDwordProperty                                                                  0xa573344c                                         
+OneSettingsGetResponseStringProperty                                                                 0xe54ab8a3                                         
+OneSettingsGetResponseWideStringProperty                                                             0xc69b78cc                                         
+OneSettingsSetConfigBoolProperty                                                                     0x71ce1cab                                         
+OneSettingsSetConfigDwordProperty                                                                    0x887e169f                                         
+OneSettingsSetConfigHandleProperty                                                                   0x6a36b2cb                                         
+OneSettingsSetConfigWideStringProperty                                                               0x0f5fc6ff                                         
+OneSettingsStartDownloadSession                                                                      0x0856cc02                                         

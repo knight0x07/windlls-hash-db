@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\WebRuntimeManager.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateMessagePortEventDispatcher                                                                     0xe2971aec                                         
+CreateServiceWorkerClientMessageDispatcher                                                           0x21c0c0af                                         
+CreateWebRuntimeFactory                                                                              0x6de93613                                         
+CreateWebRuntimeNotificationFromEventArg                                                             0x51c2c9b2                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+EnsureServiceWorkerManagerComponent                                                                  0xb9b6c130                                         

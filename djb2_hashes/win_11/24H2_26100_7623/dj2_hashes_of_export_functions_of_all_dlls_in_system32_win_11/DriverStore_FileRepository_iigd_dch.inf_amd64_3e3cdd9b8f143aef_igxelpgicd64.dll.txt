@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igxelpgicd64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DrvCopyContext                                                                                       0x2bce6011                                         
+DrvCreateContext                                                                                     0xe7f5278a                                         
+DrvCreateLayerContext                                                                                0x36babb47                                         
+DrvDeleteContext                                                                                     0x70abac69                                         
+DrvDescribeLayerPlane                                                                                0xdea7a19f                                         
+DrvDescribePixelFormat                                                                               0x8ff5575d                                         
+DrvGetLayerPaletteEntries                                                                            0x4f1e8e77                                         
+DrvGetProcAddress                                                                                    0xee7e9e6b                                         
+DrvPresentBuffers                                                                                    0xe5174edf                                         
+DrvRealizeLayerPalette                                                                               0xf7d93709                                         
+DrvReleaseContext                                                                                    0xfd561d17                                         
+DrvSetCallbackProcs                                                                                  0x47e41db1                                         
+DrvSetContext                                                                                        0x4a217ae2                                         
+DrvSetLayerPaletteEntries                                                                            0xaf320e03                                         
+DrvSetPixelFormat                                                                                    0x2ada7968                                         
+DrvShareLists                                                                                        0x26e48413                                         
+DrvSwapBuffers                                                                                       0x40bf6719                                         
+DrvSwapLayerBuffers                                                                                  0x00debb36                                         
+DrvValidateVersion                                                                                   0xedd9b621                                         
+DumpRegistryKeyDefinitions                                                                           0xe0d20e79                                         
+RegisterProcTableCallback                                                                            0x2ef1f1b3                                         
+SetDllRedirectionEnabled                                                                             0x1d5533f0                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\onexui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OneXGetUserFriendlyText                                                                              0x0addc700                                         
+OneXMapEAPHostInteractiveUIToOneXUIResponse                                                          0xb1b94037                                         
+OneXShowUI                                                                                           0xf79c1a1e                                         
+OneXShowUIFromEAPCreds                                                                               0x4dfca939                                         

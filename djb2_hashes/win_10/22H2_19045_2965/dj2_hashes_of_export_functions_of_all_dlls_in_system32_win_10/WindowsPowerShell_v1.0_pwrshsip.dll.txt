@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\WindowsPowerShell\v1.0\pwrshsip.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+PsCreateHash                                                                                         0xf230ea00                                         
+PsDelSignature                                                                                       0x36928b6f                                         
+PsGetSignature                                                                                       0xe9c12c9a                                         
+PsIsMyFileType                                                                                       0x8c176f2c                                         
+PsPutSignature                                                                                       0xf81ac913                                         
+PsVerifyHash                                                                                         0x9c935921                                         

@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\wecapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EcClose                                                                                              0xaf1a3dc3                                         
+EcDeleteSubscription                                                                                 0x4e1380e5                                         
+EcEnumNextSubscription                                                                               0x1f92f546                                         
+EcGetObjectArrayProperty                                                                             0x4010c048                                         
+EcGetObjectArraySize                                                                                 0x32fdb7de                                         
+EcGetSubscriptionProperty                                                                            0x16839a97                                         
+EcGetSubscriptionRunTimeStatus                                                                       0xd7e7b3da                                         
+EcInsertObjectArrayElement                                                                           0x5cb36d82                                         
+EcIsConfigRequired                                                                                   0xe2f46260                                         
+EcOpenSubscription                                                                                   0x57eb1064                                         
+EcOpenSubscriptionEnum                                                                               0x7e2c5bf9                                         
+EcQuickConfig                                                                                        0xc05713c0                                         
+EcRemoveObjectArrayElement                                                                           0xe74ecb9b                                         
+EcRetrySubscription                                                                                  0x02da7468                                         
+EcSaveSubscription                                                                                   0x1c7cb7c1                                         
+EcSetObjectArrayProperty                                                                             0xa0243fd4                                         
+EcSetSubscriptionProperty                                                                            0x79070ba3                                         

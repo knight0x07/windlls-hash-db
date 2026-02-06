@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\cryptbase.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SystemFunction001                                                                                    0xcccf3521                                         
+SystemFunction002                                                                                    0xcccf3522                                         
+SystemFunction003                                                                                    0xcccf3523                                         
+SystemFunction004                                                                                    0xcccf3524                                         
+SystemFunction005                                                                                    0xcccf3525                                         
+SystemFunction028                                                                                    0xcccf356a                                         
+SystemFunction029                                                                                    0xcccf356b                                         
+SystemFunction034                                                                                    0xcccf3587                                         
+SystemFunction036                                                                                    0xcccf3589                                         
+SystemFunction040                                                                                    0xcccf35a4                                         
+SystemFunction041                                                                                    0xcccf35a5                                         

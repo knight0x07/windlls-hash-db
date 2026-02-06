@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\prxyqry.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConvertMultiSzToSzA                                                                                  0x5f9a57ef                                         
+ConvertSzToMultiSzA                                                                                  0xbc52986f                                         
+GetLinkSpeedForAddress                                                                               0xd7be9031                                         
+GetSstpDestinationInfo                                                                               0x98c95e7d                                         
+GetSstpGroupIDFromQueryString                                                                        0x7343bdca                                         
+GetSstpUrlForDestination                                                                             0x79ddd02b                                         
+ValidateMultiSzA                                                                                     0xf6639388                                         

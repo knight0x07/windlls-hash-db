@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\cryptdlg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CertConfigureTrustA                                                                                  0x515d6a78                                         
+CertConfigureTrustW                                                                                  0x515d6a8e                                         
+CertModifyCertificatesToTrust                                                                        0xa2a58e76                                         
+CertSelectCertificateA                                                                               0x7d8b0017                                         
+CertSelectCertificateW                                                                               0x7d8b002d                                         
+CertTrustCertPolicy                                                                                  0xdda33a13                                         
+CertTrustCleanup                                                                                     0x8b055ffd                                         
+CertTrustFinalPolicy                                                                                 0xfabd0f6f                                         
+CertTrustInit                                                                                        0x6c130c29                                         
+CertViewPropertiesA                                                                                  0x5b0b70dc                                         
+CertViewPropertiesW                                                                                  0x5b0b70f2                                         
+DecodeAttrSequence                                                                                   0x1ec25ddd                                         
+DecodeRecipientID                                                                                    0x5d76dc79                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EncodeAttrSequence                                                                                   0x36817207                                         
+EncodeRecipientID                                                                                    0x5e2f1363                                         
+FormatPKIXEmailProtection                                                                            0xe2552e99                                         
+FormatVerisignExtension                                                                              0xd5007c92                                         
+GetFriendlyNameOfCertA                                                                               0xa0dc1967                                         
+GetFriendlyNameOfCertW                                                                               0xa0dc197d                                         

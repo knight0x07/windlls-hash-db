@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\MsiCofire.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+WdiDiagnosticModuleMain                                                                              0xd00a7939                                         
+WdiGetDiagnosticModuleInterfaceVersion                                                               0xca326acb                                         
+WdiHandleInstance                                                                                    0x2ab6c54a                                         

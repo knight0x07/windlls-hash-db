@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-memory-l1-1-2.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AllocateUserPhysicalPages                                                                            0x9c2b3fd6                                         
+AllocateUserPhysicalPagesNuma                                                                        0x3d000087                                         
+DiscardVirtualMemory                                                                                 0x8f38ac5f                                         
+FreeUserPhysicalPages                                                                                0x0e9fdbf3                                         
+GetMemoryErrorHandlingCapabilities                                                                   0x804a6037                                         
+MapUserPhysicalPages                                                                                 0x2144566f                                         
+OfferVirtualMemory                                                                                   0xf1736f77                                         
+ReclaimVirtualMemory                                                                                 0x95f99782                                         
+RegisterBadMemoryNotification                                                                        0xbde0bbf1                                         
+UnregisterBadMemoryNotification                                                                      0xab58e394                                         
+VirtualAllocExNuma                                                                                   0x63f15a65                                         

@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\WindowsPowerShell\v1.0\Modules\PersistentMemory\scmbridge.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ScmDeleteAllSimulatedPmemDisks                                                                       0xb5209d69                                         
+ScmDeletePmemDisk                                                                                    0xfc194855                                         
+ScmDeletePmemDm                                                                                      0xb57a075b                                         
+ScmGetDiskNumberFromDiskGuid                                                                         0x719f3924                                         
+ScmGetLogicalPmemDiskByDiskNumber                                                                    0xcb15d2ec                                         
+ScmGetLogicalPmemDisks                                                                               0xa3e03130                                         
+ScmGetLogicalPmemDmByDeviceNumber                                                                    0x86d936b7                                         
+ScmGetLogicalPmemDms                                                                                 0xfb36bef6                                         
+ScmGetPhysicalNvdimmByNfitHandle                                                                     0x9423a008                                         
+ScmGetPhysicalNvdimms                                                                                0xa182a603                                         
+ScmGetUnusedPmemRegionById                                                                           0x3a40ef17                                         
+ScmGetUnusedPmemRegions                                                                              0x79028462                                         
+ScmInitializePmemPhysicalDevice                                                                      0x775a6316                                         
+ScmNewPmemDiskFromUnusedRegion                                                                       0xf56493f8                                         
+ScmNewPmemDmFromUnusedRegion                                                                         0xd558453e                                         
+ScmNewSimulatedPmemDisk                                                                              0xf21ddbb4                                         
+ScmRebuildStacks                                                                                     0x035b6a38                                         
+ScmRefreshNamespace                                                                                  0x06285e44                                         
+ScmSetPmemDmState                                                                                    0x6fe11855                                         

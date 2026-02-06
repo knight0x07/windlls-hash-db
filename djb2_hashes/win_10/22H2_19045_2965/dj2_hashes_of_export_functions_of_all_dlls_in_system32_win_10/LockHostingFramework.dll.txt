@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\LockHostingFramework.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ShutdownLockAppHostServer                                                                            0xee04e5c0                                         
+StartLockAppHostServer                                                                               0x5c312a72                                         

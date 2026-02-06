@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\pkeyhelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetBootPolicySetForEdition                                                                           0x9f1f8ea8                                         
+GetCompositionEditionForVirtualEdition                                                               0x58e4995f                                         
+GetDefaultProductKeyForPfn                                                                           0x4fbcffff                                         
+GetEditionIdFromName                                                                                 0xc0f288d3                                         
+GetEditionNameFromId                                                                                 0x2dcda393                                         
+GetProductKeyFromContentId                                                                           0x23918beb                                         
+GetVirtualEditionsForCompositionEdition                                                              0x2718d012                                         
+IsDefaultPKey                                                                                        0x326541df                                         
+SkuGetProductKeyForEdition                                                                           0x6a9154b5                                         
+SkuGetUpgradeProductKey                                                                              0x157848ea                                         
+SkuGetUpgradeProductKeyEx                                                                            0x54ae34c7                                         
+SkuGetUpgradeProductKeyFromDownlevelEdition                                                          0x3646ec1a                                         

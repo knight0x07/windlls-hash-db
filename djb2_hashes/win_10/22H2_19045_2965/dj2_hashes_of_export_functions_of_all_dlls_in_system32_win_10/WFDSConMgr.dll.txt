@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\WFDSConMgr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WFDSConMgrCloseSessionContext                                                                        0xe889271e                                         
+WFDSConMgrConfigureFirewallForInfraCast                                                              0xe2a4e299                                         
+WFDSConMgrConnect                                                                                    0x12d53e89                                         
+WFDSConMgrConnectTransport                                                                           0x6d315736                                         
+WFDSConMgrDisconnect                                                                                 0x70c12989                                         
+WFDSConMgrDisconnectTransport                                                                        0x56b5a236                                         
+WFDSConMgrFreeMemory                                                                                 0xef9e783a                                         
+WFDSConMgrGetOpenSessionList                                                                         0x12ff16b1                                         
+WFDSConMgrGetTransportBitmaskFromMultistring                                                         0xad749bcd                                         
+WFDSConMgrIntCompleteInfracastConnection                                                             0xed3aca8e                                         
+WFDSConMgrIntGetInfracastBackchannelParams                                                           0xaed97093                                         
+WFDSConMgrNewDiscoveredEntryOverwritesOld                                                            0xcf1dd91c                                         
+WFDSConMgrOpenSessionContext                                                                         0xff8715fa                                         
+WFDSConMgrOpenSessionContextForMacAddress                                                            0x690d3338                                         
+WFDSConMgrOpenSessionContextForNotification                                                          0x0b72fa28                                         
+WFDSConMgrQueryCorrelationId                                                                         0x0e707324                                         
+WFDSConMgrQueryStatus                                                                                0xbb5d6899                                         
+WFDSConMgrReadCeremonyData                                                                           0x7edabd37                                         
+WFDSConMgrSetAllowRemoteInput                                                                        0x714ecb06                                         
+WFDSConMgrWriteCeremonyData                                                                          0xd91ff306                                         

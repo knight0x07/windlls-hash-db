@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\ksproxy.ax
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+KsGetMediaType                                                                                       0x62e41625                                         
+KsGetMediaTypeCount                                                                                  0x7e2bfd6e                                         
+KsGetMultiplePinFactoryItems                                                                         0x8b82e890                                         
+KsOpenDefaultDevice                                                                                  0x01050cca                                         
+KsResolveRequiredAttributes                                                                          0x1af3082b                                         
+KsSynchronousDeviceControl                                                                           0x4b41905f                                         

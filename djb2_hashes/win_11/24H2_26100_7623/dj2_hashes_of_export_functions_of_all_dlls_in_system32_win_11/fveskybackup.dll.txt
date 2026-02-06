@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\fveskybackup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FveBackupRecoveryPasswordToCloudDomain                                                               0x0bdf56b0                                         
+FveBackupRecoveryPasswordToSkyDrive                                                                  0xf5efa592                                         
+FveDeleteRecoveryPasswordsFromCloudDomain                                                            0x5fe35d51                                         
+FveGetAllRecoveryPasswordsFromCloudDomain                                                            0x64903817                                         
+FveGetSkyDriveRecoveryPasswordBackupAccount                                                          0xa7cf2a7c                                         
+FveRecoveryPasswordAccountStrToBufObfuscate                                                          0xd2044caa                                         
+FveUploadRecoveryPasswordToPDRWrapper                                                                0x05494757                                         

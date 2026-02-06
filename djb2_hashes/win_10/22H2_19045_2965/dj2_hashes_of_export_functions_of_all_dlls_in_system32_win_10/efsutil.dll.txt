@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\efsutil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EfsUtilApplyGroupPolicy                                                                              0x91d002e4                                         
+EfsUtilCheckCurrentKeyCapabilities                                                                   0x0de905b5                                         
+EfsUtilCreateSelfSignedCertificate                                                                   0xbac226dc                                         
+EfsUtilFreeParsedRecoveryPolicy                                                                      0x0624f981                                         
+EfsUtilGetCertContextFromCertHash                                                                    0x8c5f289a                                         
+EfsUtilGetCertDisplayInformation                                                                     0x9a78382b                                         
+EfsUtilGetCertNameFromCertContext                                                                    0x2fae1137                                         
+EfsUtilGetCurrentKey                                                                                 0xd68a22ed                                         
+EfsUtilGetCurrentKey_Deprecated                                                                      0x2c58977d                                         
+EfsUtilGetCurrentUserInformation                                                                     0x31f1a249                                         
+EfsUtilGetProvider                                                                                   0x528bf42c                                         
+EfsUtilGetPublicKeyType                                                                              0x04414deb                                         
+EfsUtilGetSmartcardProviderName                                                                      0x9980290e                                         
+EfsUtilGetUserKey                                                                                    0x012016e9                                         
+EfsUtilIsSmartcardKey                                                                                0xd6aa0947                                         
+EfsUtilIsSmartcardProvider                                                                           0xac332ba9                                         
+EfsUtilParseDataRecoveryPolicy_1_1                                                                   0x41b630d5                                         
+EfsUtilReleaseProvider                                                                               0x2369c40d                                         
+EfsUtilReleaseUserKey                                                                                0xc1a2eeaa                                         
+EfsUtilSetCurrentKey                                                                                 0x8efe94f9                                         
+EfsUtilSetSmartcardPin                                                                               0x481da7d5                                         
+EfsUtilSmartcardCredsNeededError                                                                     0xe938a502                                         

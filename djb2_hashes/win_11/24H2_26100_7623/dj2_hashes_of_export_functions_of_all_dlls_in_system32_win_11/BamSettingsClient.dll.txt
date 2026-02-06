@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\BamSettingsClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BamCreateSettingsClientLib                                                                           0xa48a03d0                                         
+BamDestroySettingsClientLib                                                                          0xd30d83c6                                         
+BamFreeQueriedApplications                                                                           0xdf5b37cd                                         
+BamQueryKnownApplications                                                                            0xecd537df                                         
+BamSetUserManagementState                                                                            0xec48f19e                                         

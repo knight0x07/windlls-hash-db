@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\pcacli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PcaGetFileInfoFromPath                                                                               0x49de8e66                                         
+PcaIsPcaDisabled                                                                                     0x8d7270e1                                         
+PcaLinkChildProcessToParent                                                                          0x62420397                                         
+PcaMonitorProcess                                                                                    0x964e70c0                                         
+PcaMonitorProcess2                                                                                   0x601c88f2                                         
+PcaNotifyMsiInstall                                                                                  0x12617692                                         
+PcaNotifyStatusIcon                                                                                  0x3b536cbf                                         
+PcaSendToService                                                                                     0xa693a1d7                                         

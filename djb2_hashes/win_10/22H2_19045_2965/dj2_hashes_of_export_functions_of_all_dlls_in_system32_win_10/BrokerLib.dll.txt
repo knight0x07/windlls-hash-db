@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\BrokerLib.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BrBufferFree                                                                                         0x6401ead5                                         
+BrCheckCallerCapabilities                                                                            0x17cb2bf4                                         
+BrCheckCallerCapabilities2                                                                           0x1130aaa6                                         
+BrCheckCallerIsAppContainer                                                                          0x366bb58a                                         
+BrCreateBrokerInstance                                                                               0x42081ce7                                         
+BrCreateBrokerInstance2                                                                              0x830bb9f9                                         
+BrCreateBrokeredEvent                                                                                0xa82165bd                                         
+BrCreateBrokeredEvent2                                                                               0xac4e1d8f                                         
+BrDecQuota                                                                                           0x2cf2a70f                                         
+BrDeleteBrokerInstance                                                                               0xe11a90e6                                         
+BrDeleteBrokeredEvent                                                                                0x76a5d5dc                                         
+BrDeleteBrokeredEvent2                                                                               0x4b60918e                                         
+BrFindBrokeredEvent                                                                                  0x86eafa8a                                         
+BrFindBrokeredEvent2                                                                                 0x644a4bfc                                         
+BrGetBrokeredAppState                                                                                0xef0b5229                                         
+BrGetBrokeredAppState2                                                                               0xd075977b                                         
+BrGetBrokeredAppStateName                                                                            0x4b76af4a                                         
+BrGetBrokeredEventInfo2                                                                              0xa0182a07                                         
+BrGetBrokeredEventState                                                                              0xa0d054ea                                         
+BrGetPackageFullNameForBrokeredEvent                                                                 0x0c4ca070                                         
+BrGetQuota                                                                                           0x195fd863                                         
+BrIncQuota                                                                                           0x7f07f23d                                         
+BrInitializeBrokerInstance                                                                           0x20f28745                                         
+BrInitializeBrokerInstance2                                                                          0x3f437017                                         
+BrLockBroker                                                                                         0x3c107107                                         
+BrQueryBrokeredApplicationState                                                                      0x4e19e752                                         
+BrQueryBrokeredEvents                                                                                0x7edcea52                                         
+BrQueryBrokeredEvents2                                                                               0x5a7a34c4                                         
+BrRegisterBrokeredEvent                                                                              0xbc31d22e                                         
+BrRegisterStateChangeCallbacks                                                                       0xb732ca45                                         
+BrSendActivatorControl                                                                               0x12c50251                                         
+BrSetBrokeredAppStateName                                                                            0xadfa2056                                         
+BrSignalBrokerEvent                                                                                  0x2f0d971e                                         
+BrSignalBrokerEvent2                                                                                 0x10c07b10                                         
+BrSignalBrokerEvent2Ex                                                                               0x42cb886d                                         
+BrUnlockBroker                                                                                       0x9ca3fa8a                                         
+BrUnregisterBrokeredEvent                                                                            0x046683d1                                         

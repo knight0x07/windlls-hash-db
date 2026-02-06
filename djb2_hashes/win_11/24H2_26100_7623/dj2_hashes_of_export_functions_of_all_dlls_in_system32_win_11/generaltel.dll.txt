@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\generaltel.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CalculateCensusId                                                                                    0xce6a7b31                                         
+DoCensusRun                                                                                          0xf376749e                                         
+EnumerateOfficeAddins                                                                                0x87bce2ea                                         
+EnumerateOfficeDocuments                                                                             0x0ddf33a9                                         
+GetCITDataApr                                                                                        0x575cf642                                         
+GetCITTelemetryPoints                                                                                0xfd111ddd                                         
+RunGeneralTelemetry                                                                                  0x3c22a973                                         
+RunGeneralTelemetryTCEx                                                                              0x779f6127                                         
+RunInUserCxtW                                                                                        0xb50b9616                                         
+SysprepCleanupEnableCustomTrigger                                                                    0x0eb2c859                                         

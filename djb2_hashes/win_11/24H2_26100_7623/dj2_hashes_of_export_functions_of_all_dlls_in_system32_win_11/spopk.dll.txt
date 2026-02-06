@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\spopk.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sysprep_Clean_Opk                                                                                    0x10510986                                         
+Sysprep_Clean_Validate_Opk                                                                           0x53d8b16f                                         
+Sysprep_Generalize_Opk                                                                               0x7d71cca9                                         
+Sysprep_Offline_Specialize_Opk                                                                       0xd64dd32e                                         
+Sysprep_Online_Specialize_Opk                                                                        0x057561b0                                         

@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\Microsoft.Uev.CommonBridge.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetAssociatedTemplateList                                                                            0x5925e91d                                         
+GetOriginalRepositoryPath                                                                            0x1ce4c9c7                                         
+GetProfileRepositoryBasePath                                                                         0xd391cd1e                                         
+GetProfileRepositoryBasePathForMachine                                                               0xfdbfbeda                                         
+GetRepositoryPathForWin8Apps                                                                         0xc8efb753                                         
+GetRepositoryPathFromTemplate                                                                        0xd64da322                                         
+GetShellTemplatePackageIds                                                                           0xa9c77145                                         
+GetTemplatePackageIds                                                                                0xf1d6ceed                                         
+RunSyncController                                                                                    0x9b93665b                                         
+RunSyncControllerAsync                                                                               0x96c1f0d9                                         
+StartProcessWatcherDriver                                                                            0x4eb55a4c                                         
+StopProcessWatcherDriver                                                                             0xad659bc4                                         

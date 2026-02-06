@@ -1,0 +1,47 @@
+DLL Path: C:\Windows\System32\SystemSettingsThresholdAdminFlowUI.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddDomainUserPage_CreateInstance                                                                     0xa5bd6aaa                                         
+ChangeKbLayoutPage_CreateInstance                                                                    0x21f4021b                                         
+DeletePartitionConfirmPage_CreateInstance                                                            0x48e46125                                         
+DeveloperModePage_CreateInstance                                                                     0x3b0327d5                                         
+DeviceDiscoveryUnpairAllDevicesPage_CreateInstance                                                   0xde9f71bd                                         
+DeviceEncryptionPage_CreateInstance                                                                  0xa1cf1f85                                         
+DevicePortalAuthenticationPage_CreateInstance                                                        0xc2cf60cc                                         
+DevicePortalSetAuthenticationPage_CreateInstance                                                     0xc2c26b78                                         
+DisableUserPage_CreateInstance                                                                       0xf45a781d                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+EditUserPage_CreateInstance                                                                          0x369eb84f                                         
+EnableUserPage_CreateInstance                                                                        0xee4521b0                                         
+EnterProductKeyPage_CreateInstance                                                                   0xe75be6f2                                         
+FeaturedResetPCPage_CreateInstance                                                                   0x8b37f710                                         
+FlightingCustomOptionPage_CreateInstance                                                             0x22d4387a                                         
+HolographicUninstallPage_CreateInstance                                                              0x55040014                                         
+InPlaceUpgradePage_CreateInstance                                                                    0x9eb9358e                                         
+InitializeXamlIslandsRuntimeEnvironment                                                              0xd449c170                                         
+InitializeXamlRuntime                                                                                0x34a6fa2d                                         
+IsolationEnvironmentPage_CreateInstance                                                              0x327c2051                                         
+JoinDomainPage_CreateInstance                                                                        0x6aa85a12                                         
+LeaveDomainPage_CreateInstance                                                                       0x59e733ef                                         
+LockdownUserPage_CreateInstance                                                                      0x58ce9f6a                                         
+ManageExclusionPage_CreateInstance                                                                   0x43811d2d                                         
+PhoneActivationPage_CreateInstance                                                                   0x52f51b36                                         
+PreinitializeXamlIslandsEnvironment                                                                  0x43c44d53                                         
+RemoteDesktopPage_CreateInstance                                                                     0xb8e0a1b0                                         
+RemoveUserPage_CreateInstance                                                                        0x3d978a97                                         
+RenamePCPage_CreateInstance                                                                          0xc26622f5                                         
+RenamePrinterPage_CreateInstance                                                                     0xaeda8866                                         
+RetailDemoConfirmPage_CreateInstance                                                                 0x19587efe                                         
+SetDateTimePage_CreateInstance                                                                       0x02e55a83                                         
+SetFindMyDevicePage_CreateInstance                                                                   0x7fef0aed                                         
+SetGeolocationMasterPage_CreateInstance                                                              0x6a00c176                                         
+SetTimeServerDialog_CreateInstance                                                                   0x9469edaf                                         
+SetWindowsProtectedPrintModePage_CreateInstance                                                      0x2c38c5fd                                         
+StorageOpConfirmPage_CreateInstance                                                                  0x691a514c                                         
+TroubleshootActivationPage_CreateInstance                                                            0xba680006                                         
+UninitializeXamlRuntime                                                                              0xe7ef2ed0                                         
+UninstallOSPage_CreateInstance                                                                       0xa9cd11a6                                         
+UninstallUpdatePage_CreateInstance                                                                   0xad05ecc7                                         
+ViewWifiPasswordPage_CreateInstance                                                                  0xf5ebce67                                         

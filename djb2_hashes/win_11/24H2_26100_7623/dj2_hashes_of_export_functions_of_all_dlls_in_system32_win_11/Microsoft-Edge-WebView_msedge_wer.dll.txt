@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\msedge_wer.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OutOfProcessExceptionEventCallback                                                                   0xa11d834f                                         
+OutOfProcessExceptionEventDebuggerLaunchCallback                                                     0x9999cbcf                                         
+OutOfProcessExceptionEventSignatureCallback                                                          0x771117a1                                         

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\dmpushproxy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PushRouter_Close                                                                                     0x8cdbef9b                                         
+PushRouter_FreeGetMessageEventName                                                                   0x5027be4f                                         
+PushRouter_FreeMessage                                                                               0xabba814c                                         
+PushRouter_FreeMessageEx                                                                             0x84600da9                                         
+PushRouter_GetMessage                                                                                0xd181f58a                                         
+PushRouter_GetMessageEx                                                                              0x39d58967                                         
+PushRouter_Open                                                                                      0x70e684b7                                         
+PushRouter_SubmitPush                                                                                0x55c253d9                                         

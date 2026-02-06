@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\diagnosticdataquery.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DdqCancelDiagnosticRecordOperation                                                                   0xa6ada039                                         
+DdqCloseSession                                                                                      0x6c873cd8                                         
+DdqCreateSession                                                                                     0x8a763a96                                         
+DdqExtractDiagnosticReport                                                                           0xdef435da                                         
+DdqFreeDiagnosticRecordLocaleTags                                                                    0xbd2cb8e3                                         
+DdqFreeDiagnosticRecordPage                                                                          0x3f4cb821                                         
+DdqFreeDiagnosticRecordProducerCategories                                                            0x067ab60e                                         
+DdqFreeDiagnosticRecordProducers                                                                     0x4f530e5b                                         
+DdqFreeDiagnosticReport                                                                              0xe4932e81                                         
+DdqGetDiagnosticDataAccessLevelAllowed                                                               0x9dc1dd8f                                         
+DdqGetDiagnosticRecordAtIndex                                                                        0x4fff316f                                         
+DdqGetDiagnosticRecordBinaryDistribution                                                             0x5988ed47                                         
+DdqGetDiagnosticRecordCategoryAtIndex                                                                0xf801b3ed                                         
+DdqGetDiagnosticRecordCategoryCount                                                                  0x81a778c9                                         
+DdqGetDiagnosticRecordCount                                                                          0x61c3adcb                                         
+DdqGetDiagnosticRecordLocaleTagAtIndex                                                               0x9f19ee9b                                         
+DdqGetDiagnosticRecordLocaleTagCount                                                                 0xbe752ff7                                         
+DdqGetDiagnosticRecordLocaleTags                                                                     0xed523141                                         
+DdqGetDiagnosticRecordPage                                                                           0x48cec1ff                                         
+DdqGetDiagnosticRecordPayload                                                                        0xa9ba6a6c                                         
+DdqGetDiagnosticRecordProducerAtIndex                                                                0x2e8c1a53                                         
+DdqGetDiagnosticRecordProducerCategories                                                             0xa649ac6c                                         
+DdqGetDiagnosticRecordProducerCount                                                                  0x7d790daf                                         
+DdqGetDiagnosticRecordProducers                                                                      0x9e5bf2f9                                         
+DdqGetDiagnosticRecordStats                                                                          0x62e79f71                                         
+DdqGetDiagnosticRecordSummary                                                                        0xbe777a50                                         
+DdqGetDiagnosticRecordTagDistribution                                                                0xe6d9715e                                         
+DdqGetDiagnosticReport                                                                               0x918ef95f                                         
+DdqGetDiagnosticReportAtIndex                                                                        0xd9d1b3cc                                         
+DdqGetDiagnosticReportCount                                                                          0x7167f4e8                                         
+DdqGetDiagnosticReportStoreReportCount                                                               0xb5deb831                                         
+DdqGetSessionAccessLevel                                                                             0x5884d2ac                                         
+DdqGetTranscriptConfiguration                                                                        0x2e9bb820                                         
+DdqIsDiagnosticRecordSampledIn                                                                       0xd6d659db                                         
+DdqSetTranscriptConfiguration                                                                        0x643c1dac                                         
+UtcSendTraceLogging                                                                                  0x91779031                                         
+UtcSendTraceLogging2                                                                                 0xc0699683                                         

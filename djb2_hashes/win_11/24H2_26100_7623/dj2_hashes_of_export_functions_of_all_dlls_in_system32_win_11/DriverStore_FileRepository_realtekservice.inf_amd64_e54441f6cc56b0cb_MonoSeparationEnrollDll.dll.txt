@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\realtekservice.inf_amd64_e54441f6cc56b0cb\MonoSeparationEnrollDll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MSE_AB48_Destroy                                                                                     0xf675e7c1                                         
+MSE_AB48_GetTrainDataReady                                                                           0x6c119904                                         
+MSE_AB48_Init                                                                                        0x4648fc4b                                         
+MSE_AB48_Process                                                                                     0xb031e5b6                                         
+MSE_AB48_SaveTrainDataToMemory                                                                       0x04e2417a                                         

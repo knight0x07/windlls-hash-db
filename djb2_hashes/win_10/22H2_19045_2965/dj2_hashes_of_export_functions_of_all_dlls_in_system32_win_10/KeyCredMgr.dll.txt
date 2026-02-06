@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\KeyCredMgr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+KeyCredentialManagerFreeInformation                                                                  0xaf5ba7ec                                         
+KeyCredentialManagerGetInformation                                                                   0xf09b034a                                         
+KeyCredentialManagerGetOperationErrorStates                                                          0x88875213                                         
+KeyCredentialManagerShowUIOperation                                                                  0x7726d2b4                                         

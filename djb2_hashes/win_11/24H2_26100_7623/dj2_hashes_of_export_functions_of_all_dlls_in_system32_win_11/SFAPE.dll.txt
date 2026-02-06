@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\SFAPE.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CharactersInput                                                                                      0xb5fb0bb5                                         
+ClearCc                                                                                              0x2c857172                                         
+ClipboardInput                                                                                       0x3fba0925                                         
+CloseCcHandle                                                                                        0xbb9d8a4d                                         
+GetCcAttributes                                                                                      0xbc59f6d2                                         
+Initialize                                                                                           0x2e93a277                                         
+MeasurePerformance                                                                                   0x5a50ce69                                         
+SealUnsealCredentials                                                                                0x750f4160                                         
+SetCcTimeStamps                                                                                      0x1e8a459e                                         
+UserCredentials                                                                                      0xe51c7072                                         

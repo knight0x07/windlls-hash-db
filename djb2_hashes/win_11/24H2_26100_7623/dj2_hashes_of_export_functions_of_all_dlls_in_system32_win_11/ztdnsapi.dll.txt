@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\ztdnsapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ZtSetExceptions                                                                                      0xce3fafc1                                         
+ZtSetGlobalProperties                                                                                0x8c26f5fd                                         
+ZtSetServiceData                                                                                     0xd54904ea                                         
+ZtStartDriver                                                                                        0x7547f3ed                                         
+ZtStopDriver                                                                                         0xd8f329a5                                         
+ZtUpdateAddresses                                                                                    0x569e7e74                                         

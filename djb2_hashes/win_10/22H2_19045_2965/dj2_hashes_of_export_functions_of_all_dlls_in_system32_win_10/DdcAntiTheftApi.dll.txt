@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\DdcAntiTheftApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AntiTheftAckProtectionEnabled                                                                        0x0009694d                                         
+AntiTheftCheckProtectionStatus                                                                       0x6a3564b5                                         
+AntiTheftProtectDevice                                                                               0xe80d943d                                         
+AntiTheftUnprotectDevice                                                                             0xa36acba0                                         
+AntiTheftUnprotectDeviceFromOOBE                                                                     0xd5096699                                         

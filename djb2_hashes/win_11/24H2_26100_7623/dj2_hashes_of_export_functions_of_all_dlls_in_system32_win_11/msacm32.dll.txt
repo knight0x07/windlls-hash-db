@@ -1,0 +1,46 @@
+DLL Path: C:\Windows\System32\msacm32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+acmDriverAddA                                                                                        0x7ef2b4cc                                         
+acmDriverAddW                                                                                        0x7ef2b4e2                                         
+acmDriverClose                                                                                       0x5d7217f8                                         
+acmDriverDetailsA                                                                                    0xa928fea9                                         
+acmDriverDetailsW                                                                                    0xa928febf                                         
+acmDriverEnum                                                                                        0x7ef51337                                         
+acmDriverID                                                                                          0xa30692cf                                         
+acmDriverMessage                                                                                     0x741297c7                                         
+acmDriverOpen                                                                                        0x7efa9574                                         
+acmDriverPriority                                                                                    0x8c4d8a24                                         
+acmDriverRemove                                                                                      0x2e32a5b0                                         
+acmFilterChooseA                                                                                     0xe73232de                                         
+acmFilterChooseW                                                                                     0xe73232f4                                         
+acmFilterDetailsA                                                                                    0xdd72ca03                                         
+acmFilterDetailsW                                                                                    0xdd72ca19                                         
+acmFilterEnumA                                                                                       0xc8e373f2                                         
+acmFilterEnumW                                                                                       0xc8e37408                                         
+acmFilterTagDetailsA                                                                                 0x2464c6bf                                         
+acmFilterTagDetailsW                                                                                 0x2464c6d5                                         
+acmFilterTagEnumA                                                                                    0x4d5c4a2e                                         
+acmFilterTagEnumW                                                                                    0x4d5c4a44                                         
+acmFormatChooseA                                                                                     0x175a9081                                         
+acmFormatChooseW                                                                                     0x175a9097                                         
+acmFormatDetailsA                                                                                    0x12a6dc06                                         
+acmFormatDetailsW                                                                                    0x12a6dc1c                                         
+acmFormatEnumA                                                                                       0xf7020cd5                                         
+acmFormatEnumW                                                                                       0xf7020ceb                                         
+acmFormatSuggest                                                                                     0x04bc0c21                                         
+acmFormatTagDetailsA                                                                                 0xc6f93de2                                         
+acmFormatTagDetailsW                                                                                 0xc6f93df8                                         
+acmFormatTagEnumA                                                                                    0x82905c31                                         
+acmFormatTagEnumW                                                                                    0x82905c47                                         
+acmGetVersion                                                                                        0x2868ba7c                                         
+acmMetrics                                                                                           0x7d26eb0d                                         
+acmStreamClose                                                                                       0x5e63f0f8                                         
+acmStreamConvert                                                                                     0x8e1324a3                                         
+acmStreamMessage                                                                                     0x78deb0c7                                         
+acmStreamOpen                                                                                        0xcc954e74                                         
+acmStreamPrepareHeader                                                                               0xf1114cfa                                         
+acmStreamReset                                                                                       0x5f6f9925                                         
+acmStreamSize                                                                                        0xcc9764dd                                         
+acmStreamUnprepareHeader                                                                             0x4cf071dd                                         

@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\ConstraintIndex.Search.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BuildConstraintIndex                                                                                 0x6c8f7972                                         
+BuildConstraintIndexInMemory                                                                         0x69ad2a82                                         
+BuildFilterTrie                                                                                      0x75b63f6f                                         
+BuildFilterTrieInMemory                                                                              0x1ac49d7f                                         
+CSGGetBestEntityScore                                                                                0x01b4a1a9                                         
+CreateCSGSuggest                                                                                     0x4ba47338                                         
+CreateCSGSuggestInMemory                                                                             0x3eea8a48                                         
+CreateConstraintIndex                                                                                0xc8a9acd6                                         
+CreateConstraintIndexInMemory                                                                        0x8ae681e6                                         
+DeleteCSGSuggest                                                                                     0xe976bfb7                                         
+DeleteConstraintIndex                                                                                0x4a0aa0b5                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+GetAttributeRank                                                                                     0x71743845                                         
+GetEntitySuggestions                                                                                 0x9a15295d                                         
+GetSegmentRank                                                                                       0xad0150a4                                         

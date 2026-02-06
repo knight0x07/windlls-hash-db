@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\edpauditapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EdpAuditHarden                                                                                       0x1dbb58e7                                         
+EdpAuditLogApplicationGenerated                                                                      0x47e3855a                                         
+EdpAuditLogApplicationLearning                                                                       0x7a4b04bb                                         
+EdpAuditLogDataCopied                                                                                0x03387965                                         
+EdpAuditLogProtectionRemoved                                                                         0x26b8d410                                         
+EdpAuditLogSiteLearning                                                                              0xb88af81c                                         
+EdpAuditLoggerRegister                                                                               0x1b64347a                                         
+EdpAuditLoggerUnregister                                                                             0x7ff0e83d                                         
+EdpAuditRead                                                                                         0x03cf6911                                         
+EdpFlushTraces                                                                                       0x0c6ef342                                         
+EdpGetLogFullPathFromRelativePath                                                                    0xff94a3dd                                         
+ReadAuditLogByCount                                                                                  0xf957bdfe                                         
+ReadAuditLogByTimeRange                                                                              0xee9a8e51                                         

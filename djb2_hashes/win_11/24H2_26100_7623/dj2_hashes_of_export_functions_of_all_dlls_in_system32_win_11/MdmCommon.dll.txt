@@ -1,0 +1,29 @@
+DLL Path: C:\Windows\System32\MdmCommon.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MdmClearAllHashes                                                                                    0xf7b0cd5f                                         
+MdmConnectedAccountsChanged                                                                          0x7e434c40                                         
+MdmEnumerateUsers                                                                                    0xf79014bb                                         
+MdmGetLocation                                                                                       0x86d1765c                                         
+MdmGetServiceTarget                                                                                  0x2df52a9b                                         
+MdmGetSidsByConnectedCids                                                                            0x048c8687                                         
+MdmHandlePushNotification                                                                            0x08569736                                         
+MdmIsFindMyDeviceEnabled                                                                             0x00aa7601                                         
+MdmIsRegisteredWithService                                                                           0x2030019a                                         
+MdmMobileNetworksChanged                                                                             0x0e3de162                                         
+MdmParseCommandData                                                                                  0x01258117                                         
+MdmParseEncryptedRequest                                                                             0xd43b2935                                         
+MdmParseLocateCommand                                                                                0x1490d995                                         
+MdmParseLockCommand                                                                                  0x49c32de6                                         
+MdmParseNonEncryptedRequest                                                                          0x86bcb500                                         
+MdmProtectionStateChanged                                                                            0x26cdffb5                                         
+MdmRegisterDevice                                                                                    0x59826758                                         
+MdmRegisterUserDevice                                                                                0xf877b977                                         
+MdmSendRequestToCS                                                                                   0x3db2a3cf                                         
+MdmSendRequestToCSWithDelegation                                                                     0xe55b0447                                         
+MdmSetFindMyDevice                                                                                   0x3d6db7c6                                         
+MdmShouldRegisterDevice                                                                              0x74c36287                                         
+MdmUpdateStatus                                                                                      0x2d6876aa                                         
+MdmUsersAuthorizedToSeeLocation                                                                      0x889e380d                                         
+MdmUsersAuthorizedToSeeLocationAsString                                                              0xc4d7e3f8                                         

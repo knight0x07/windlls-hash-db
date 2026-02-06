@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\dataclen.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CDataDrivenCleaner@@QEAA@AEBV0@@Z                                                                 0x3c79c5d2                                         
+??0CDataDrivenCleaner@@QEAA@XZ                                                                       0x924bf4fc                                         
+??1CDataDrivenCleaner@@QEAA@XZ                                                                       0x14e7f45d                                         
+??4CDataDrivenCleaner@@QEAAAEAV0@AEBV0@@Z                                                            0x73c7b063                                         
+??_7CDataDrivenCleaner@@6B@                                                                          0x47457690                                         
+?AddFileToList@CDataDrivenCleaner@@IEAAHPEBGT_ULARGE_INTEGER@@U_FILETIME@@HH@Z                       0xc97d0d0e                                         
+?AddFolders@CDataDrivenCleaner@@QEAAHPEBG@Z                                                          0xb0c3f4b3                                         
+?AddRef@CDataDrivenCleaner@@UEAAKXZ                                                                  0x84db6f02                                         
+?Deactivate@CDataDrivenCleaner@@UEAAJPEAK@Z                                                          0xd5d4271e                                         
+?DeleteIfPathNotChanged@CDataDrivenCleaner@@IEAAJPEBG@Z                                              0xe5c6747f                                         
+?ExecuteCmd@CDataDrivenCleaner@@IEAAXPEAGH@Z                                                         0xcbd538b1                                         
+?FreeList@CDataDrivenCleaner@@IEAAXPEAUtag_CleanFileStruct@@@Z                                       0xfc2ce8d1                                         
+?GetSpaceUsed@CDataDrivenCleaner@@UEAAJPEA_KPEAUIEmptyVolumeCacheCallBack@@@Z                        0x778d8d9c                                         
+?Initialize@CDataDrivenCleaner@@UEAAJPEAUHKEY__@@PEBGPEAPEAG2PEAK@Z                                  0xe07c81d3                                         
+?LastAccessisOK@CDataDrivenCleaner@@IEAAHU_FILETIME@@@Z                                              0xdca93e94                                         
+?MergeSortList@CDataDrivenCleaner@@IEAAPEAUtag_CleanFileStruct@@PEAU2@@Z                             0xbae39c6c                                         
+?Purge@CDataDrivenCleaner@@UEAAJ_KPEAUIEmptyVolumeCacheCallBack@@@Z                                  0x831c8ccc                                         
+?PurgeFiles@CDataDrivenCleaner@@IEAAXPEAUIEmptyVolumeCacheCallBack@@_K@Z                             0xcff8c901                                         
+?QueryInterface@CDataDrivenCleaner@@UEAAJAEBU_GUID@@PEAPEAX@Z                                        0xa16b7dd3                                         
+?Release@CDataDrivenCleaner@@UEAAKXZ                                                                 0xee0b307d                                         
+?ShowProperties@CDataDrivenCleaner@@UEAAJPEAUHWND__@@@Z                                              0x51cd134b                                         
+?WalkForUsedSpace@CDataDrivenCleaner@@IEAAHPEBGPEAUIEmptyVolumeCacheCallBack@@H@Z                    0x428ddd6a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

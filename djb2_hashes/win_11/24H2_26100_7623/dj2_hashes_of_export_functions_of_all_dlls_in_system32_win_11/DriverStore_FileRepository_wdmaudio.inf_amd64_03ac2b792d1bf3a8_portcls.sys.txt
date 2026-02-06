@@ -1,0 +1,44 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wdmaudio.inf_amd64_03ac2b792d1bf3a8\portcls.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+PcAddAdapterDevice                                                                                   0x1512aa72                                         
+PcAddContentHandlers                                                                                 0xe962524d                                         
+PcAddStreamResource                                                                                  0x385c64d5                                         
+PcAssignPowerFrameworkSettings                                                                       0xb122d689                                         
+PcCompleteIrp                                                                                        0x3403727c                                         
+PcCompletePendingPropertyRequest                                                                     0x784b0204                                         
+PcCreateContentMixed                                                                                 0xe988921e                                         
+PcDestroyContent                                                                                     0x56238c1d                                         
+PcDispatchIrp                                                                                        0x2f1630b3                                         
+PcForwardContentToDeviceObject                                                                       0xcfa0a832                                         
+PcForwardContentToFileObject                                                                         0x5ff4a6c2                                         
+PcForwardContentToInterface                                                                          0x8ebdda9c                                         
+PcForwardIrpSynchronous                                                                              0xa3aa03e3                                         
+PcGetContentRights                                                                                   0x7a91da04                                         
+PcGetDeviceProperty                                                                                  0x0f26c6cd                                         
+PcGetPhysicalDeviceObject                                                                            0x07e63ddc                                         
+PcGetTimeInterval                                                                                    0xacd5e66c                                         
+PcInitializeAdapterDriver                                                                            0x135e9cb7                                         
+PcNewDmaChannel                                                                                      0x564afd0d                                         
+PcNewInterruptSync                                                                                   0x3fa597ec                                         
+PcNewMiniport                                                                                        0x33c133f4                                         
+PcNewPort                                                                                            0x1ee3e1e7                                         
+PcNewRegistryKey                                                                                     0x9278da04                                         
+PcNewResourceList                                                                                    0xe7260fe6                                         
+PcNewResourceSublist                                                                                 0x9bbd2950                                         
+PcNewServiceGroup                                                                                    0xb056cba0                                         
+PcRegisterAdapterPnpManagement                                                                       0xeaf48d69                                         
+PcRegisterAdapterPowerManagement                                                                     0x01a74ac8                                         
+PcRegisterIoTimeout                                                                                  0x8b76b71c                                         
+PcRegisterPhysicalConnection                                                                         0xcf833cea                                         
+PcRegisterPhysicalConnectionFromExternal                                                             0xf7868921                                         
+PcRegisterPhysicalConnectionToExternal                                                               0x9eeddab0                                         
+PcRegisterSubdevice                                                                                  0xcb5c1857                                         
+PcRemoveStreamResource                                                                               0x9737f05a                                         
+PcRequestNewPowerState                                                                               0x63d9a0d9                                         
+PcUnregisterAdapterPnpManagement                                                                     0x13a9356c                                         
+PcUnregisterAdapterPowerManagement                                                                   0x2a25ff8b                                         
+PcUnregisterIoTimeout                                                                                0x090a72ff                                         

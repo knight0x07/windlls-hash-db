@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\quartz.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AMGetErrorTextA                                                                                      0x3e252783                                         
+AMGetErrorTextW                                                                                      0x3e252799                                         
+AmpFactorToDB                                                                                        0x4c59a0cb                                         
+DBToAmpFactor                                                                                        0x276fe92b                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

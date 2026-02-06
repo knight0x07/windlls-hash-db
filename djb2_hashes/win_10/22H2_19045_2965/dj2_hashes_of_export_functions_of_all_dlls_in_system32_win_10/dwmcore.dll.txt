@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\dwmcore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MilCompositionEngine_GetComposedEventId                                                              0x7dd3c3d9                                         
+MilCompositionEngine_Initialize                                                                      0x7ecf3a82                                         
+MilCompositionEngine_Uninitialize                                                                    0xaf0055c5                                         
+MilConnection_CreateChannel                                                                          0x8720b4c3                                         
+MilTransport_AddRef                                                                                  0x7928d359                                         
+MilTransport_Release                                                                                 0xbdd19034                                         

@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\EventAggregation.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BriAllocateRpcBuffer                                                                                 0x0afd3e66                                         
+BriCleanup                                                                                           0x2f97b60a                                         
+BriCreateBrokeredEvent                                                                               0x2d303ea6                                         
+BriCreateBrokeredEventEx                                                                             0x3a3a8983                                         
+BriDeleteBrokeredEvent                                                                               0xfbb4aec5                                         
+BriFreeRpcBuffer                                                                                     0xb0a2e703                                         
+BriGetBrokerAvailabilityChangeStamp                                                                  0x9211eb0d                                         
+BriIsBrokerRegistered                                                                                0xf6b59411                                         
+BriRegisterToBrokerAvailability                                                                      0x839a0fea                                         
+BriResolveBrokerIdByEventId                                                                          0x92e718be                                         
+BriUnregisterFromBrokerAvailability                                                                  0x36a6121e                                         
+EACreateAggregateEvent                                                                               0x5eea9ee8                                         
+EADeleteAggregateEvent                                                                               0xfdfd12e7                                         
+EAEnumerateAggregateEvents                                                                           0xcb79692d                                         
+EAQueryAggregateEventData                                                                            0xaab507e4                                         
+EaCreateAggregatedEvent                                                                              0xd6aa36ac                                         
+EaCreateAggregation                                                                                  0xff6258c7                                         
+EaDecodeBrokeredEvent                                                                                0xf7265d9f                                         
+EaDeleteAggregatedEvent                                                                              0x580b2a8b                                         
+EaDeleteAggregatedEventParameters                                                                    0x8d1b617f                                         
+EaDeleteAggregation                                                                                  0x577e3526                                         
+EaDisableAggregatedEvent                                                                             0x15daed6c                                         
+EaEnableAggregatedEvent                                                                              0xdc04eb3f                                         
+EaEncodeBrokeredEvent                                                                                0x06c7f709                                         
+EaFreeAggregatedEventParameters                                                                      0x4eef2aee                                         
+EaFreeBuffer                                                                                         0x43cfee27                                         
+EaGetAggregation                                                                                     0xba0b06d3                                         
+EaQueryAggregateEventConditionState                                                                  0xebc805d2                                         
+EaQueryAggregatedEvent                                                                               0x360ae92e                                         
+EaQueryAggregatedEventParameters                                                                     0xee6807e2                                         
+EaSignalAggregatedEvent                                                                              0xa2360896                                         
+EaStoreAggregatedEventParameters                                                                     0xb6e0ced9                                         

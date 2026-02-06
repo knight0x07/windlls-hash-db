@@ -1,0 +1,49 @@
+DLL Path: C:\Windows\System32\ManageCI.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BeginRemoveCIPolicy                                                                                  0x4de5bbd4                                         
+BeginRemoveSBCPToken                                                                                 0xa9e39101                                         
+BeginSetSBCPToken                                                                                    0x2329ddff                                         
+BeginTransaction                                                                                     0x7090bc90                                         
+BeginUpsertCIPolicy                                                                                  0x1bf14789                                         
+Commit                                                                                               0xac3ee9ce                                         
+End                                                                                                  0x0b87e6fc                                         
+GetAllCIPolicies                                                                                     0xf49f0a02                                         
+GetAllSBCPTokens                                                                                     0x7cb0f15a                                         
+GetCIPolicyByID                                                                                      0x03ca6a49                                         
+GetPoliciesAuthorizedBySBCPToken                                                                     0xc94033c0                                         
+GetPolicyInformation                                                                                 0x0b295e7b                                         
+GetSBCPTokenByID                                                                                     0xb36def96                                         
+GetSBCPTokensForPolicyID                                                                             0xcc862705                                         
+GetSModeUnlockID                                                                                     0xbfa01ad6                                         
+GetTenantID                                                                                          0x34b35c3c                                         
+GetTokenInformation                                                                                  0x8ed47f2c                                         
+IsInProgress                                                                                         0x91a0104d                                         
+ManageCI                                                                                             0xbdfe467a                                         
+ManageCI_BeginRemoveCIPolicy                                                                         0xd28abc68                                         
+ManageCI_BeginRemoveSBCPToken                                                                        0xc328a415                                         
+ManageCI_BeginSetSBCPToken                                                                           0x77ada993                                         
+ManageCI_BeginTransaction                                                                            0xef3f65a4                                         
+ManageCI_BeginUpsertCIPolicy                                                                         0xa096481d                                         
+ManageCI_Commit                                                                                      0x210f69e2                                         
+ManageCI_End                                                                                         0x88863f90                                         
+ManageCI_GetAllCIPolicies                                                                            0x734db316                                         
+ManageCI_GetAllSBCPTokens                                                                            0xfb5f9a6e                                         
+ManageCI_GetCIPolicyByID                                                                             0x7bfe40dd                                         
+ManageCI_GetPoliciesAuthorizedBySBCPToken                                                            0x332684d4                                         
+ManageCI_GetPolicyInformation                                                                        0x246e718f                                         
+ManageCI_GetSBCPTokenByID                                                                            0x321c98aa                                         
+ManageCI_GetSBCPTokensForPolicyID                                                                    0x5986a419                                         
+ManageCI_GetSModeUnlockID                                                                            0x3e4ec3ea                                         
+ManageCI_GetTenantID                                                                                 0xee7b08d0                                         
+ManageCI_GetTokenInformation                                                                         0x13797fc0                                         
+ManageCI_IsInProgress                                                                                0x845d4f61                                         
+ManageCI_ParsePolicy                                                                                 0xfc945904                                         
+ManageCI_Rollback                                                                                    0x78018823                                         
+ManageCI_Start                                                                                       0xc4150747                                         
+ManageCI_ValidateState                                                                               0xb19f9e24                                         
+ParsePolicy                                                                                          0x42ccac70                                         
+Rollback                                                                                             0x8d10b30f                                         
+Start                                                                                                0x0e1e39b3                                         
+ValidateState                                                                                        0x673a7c90                                         

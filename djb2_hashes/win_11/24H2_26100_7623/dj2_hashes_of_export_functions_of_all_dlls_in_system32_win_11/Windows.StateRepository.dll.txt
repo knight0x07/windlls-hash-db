@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\Windows.StateRepository.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ServiceMain                                                                                          0x0747703b                                         
+StateRepository_DataAccessLayer_DatabaseCache_Add                                                    0x6572cffe                                         
+StateRepository_DataAccessLayer_DatabaseCache_Get                                                    0x6572e9b5                                         
+StateRepository_Initialize                                                                           0xa5942497                                         
+StateRepository_Service_UpdateStatus                                                                 0xcbd7d49c                                         
+StateRepository_Shutdown                                                                             0x56c4e161                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

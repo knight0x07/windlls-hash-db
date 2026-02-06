@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\uwfservicingapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetServicingModeState                                                                                0xdaada055                                         
+SetServicingModeState                                                                                0xa7495e61                                         
+UwfServicingCleanup                                                                                  0x07bd4469                                         
+UwfServicingInitialize                                                                               0xcbde5e73                                         
+UwfServicingWinUpdateApply                                                                           0x259086b8                                         
+UwfServicingWinupdateCleanup                                                                         0x4780e6da                                         
+UwfServicingWinupdateInitialize                                                                      0xf1d4b744                                         

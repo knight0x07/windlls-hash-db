@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\BCP47mrm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Bcp47GetDistanceCString                                                                              0x8d1aefca                                         
+Bcp47GetNeutralFormCString                                                                           0xc843ac0e                                         
+Bcp47IsValid                                                                                         0xc02df771                                         
+CompareBcp47Tags                                                                                     0xc7a8549b                                         
+FormatLanguageList                                                                                   0x4c1e6dee                                         
+FormatLanguageTag                                                                                    0x6ee9c72e                                         
+GetApplicationLanguagesWithUserLanguagesFallback                                                     0x7e7683b2                                         
+GetApplicationLayoutDirection                                                                        0x853f5858                                         
+GetClosenessOfUnIsoRegionTags                                                                        0x253acf0a                                         
+GetCompositeRegionCode                                                                               0xab9d74b7                                         
+GetDistanceOfClosestLanguageInList                                                                   0x12eba6f9                                         
+GetLanguageDirectionality                                                                            0xa130088d                                         
+GetMrtDisplayLanguageList                                                                            0x81f2ff6e                                         
+GetParentCompositeRegionCode                                                                         0xb8c21ae1                                         
+IsValidTag                                                                                           0x3d1806cd                                         
+IsValidUnIsoRegionTag                                                                                0x707ad89f                                         
+IsWellFormedTag                                                                                      0x9edea68e                                         

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\wiatrace.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WIATRACE_DecrementIndentLevel                                                                        0x253a9a65                                         
+WIATRACE_GetIndentLevel                                                                              0x7a18bf6e                                         
+WIATRACE_GetTraceSettings                                                                            0x126cebf4                                         
+WIATRACE_IncrementIndentLevel                                                                        0x59ac1a93                                         
+WIATRACE_Init                                                                                        0xa594efc8                                         
+WIATRACE_OutputString                                                                                0xf3953e9c                                         
+WIATRACE_SetTraceSettings                                                                            0xa4eab280                                         
+WIATRACE_Term                                                                                        0xa59ad2cc                                         

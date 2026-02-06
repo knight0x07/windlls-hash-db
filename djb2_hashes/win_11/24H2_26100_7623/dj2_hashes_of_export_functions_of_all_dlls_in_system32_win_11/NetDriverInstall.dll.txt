@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\NetDriverInstall.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NetDriverInstallClose                                                                                0x3bee4e25                                         
+NetDriverInstallCommit                                                                               0xb9ed2af8                                         
+NetDriverInstallInitialize                                                                           0xfe7268a1                                         
+NetDriverInstallProcessAdditions                                                                     0x870d658d                                         
+NetDriverInstallProcessRemovals                                                                      0xd8cd8097                                         
+NetDriverInstallSync                                                                                 0xac8492ec                                         

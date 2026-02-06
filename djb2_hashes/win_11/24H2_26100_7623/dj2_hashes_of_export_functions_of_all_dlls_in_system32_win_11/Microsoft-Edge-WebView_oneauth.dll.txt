@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\oneauth.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LaunchAccountTransferFlow                                                                            0x35da5c4a                                         
+OneAuthAcquireAccessTokenInteractively                                                               0x30d2f619                                         
+OneAuthAcquireAccessTokenSilently                                                                    0x13ef6eea                                         
+OneAuthAcquireCredentialSilently                                                                     0xc19a61d2                                         
+OneAuthAssociateAccount                                                                              0x8a2c8142                                         
+OneAuthDisassociateAccount                                                                           0x9429de02                                         
+OneAuthDiscoverAccounts                                                                              0xceb2a3f8                                         
+OneAuthExecuteBrowserNativeRequest                                                                   0x13162100                                         
+OneAuthGetAccountProperty                                                                            0xb24e4c2b                                         
+OneAuthGetBrowserSupportedNativeContracts                                                            0x8f43b75b                                         
+OneAuthGetDeviceInfo                                                                                 0xaf0a1a35                                         
+OneAuthGetProfileImage                                                                               0x1470fbad                                         
+OneAuthGetProofOfPossessionCookieInfo                                                                0x90847cd0                                         
+OneAuthGetVersion                                                                                    0x11ff203f                                         
+OneAuthInitialize                                                                                    0x1910612b                                         
+OneAuthIsAccountAssociated                                                                           0x1a8177a2                                         
+OneAuthIsBrokerEnabled                                                                               0x2e64cf05                                         
+OneAuthReadAccountById                                                                               0x490df14a                                         
+OneAuthReadAllAccounts                                                                               0x8e79132e                                         
+OneAuthSignInInteractively                                                                           0xa04c6ae4                                         
+OneAuthSignInSilently                                                                                0x771ef8d5                                         
+OneAuthSignOutInteractively                                                                          0x3b338b85                                         
+OneAuthSignOutSilently                                                                               0x7695f0d6                                         
+OneAuthTestDeleteAllAccounts                                                                         0x89293845                                         
+OneAuthTestSetLogPiiEnabled                                                                          0x14b21c94                                         
+OneAuthTrackAccountChangeForEdgeClient                                                               0xf7378f1c                                         
+OneAuthUninitialize                                                                                  0xde25caae                                         
+OneAuthUntrackAccountChangeForEdgeClient                                                             0x5432c87f                                         
+OneAuthUntrackAllAccountChangeForEdgeClient                                                          0x482522f8                                         

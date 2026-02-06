@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\JHI64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+JHI_CloseSession                                                                                     0xd1337479                                         
+JHI_CreateSession                                                                                    0x84a96657                                         
+JHI_Deinit                                                                                           0xb95bc63c                                         
+JHI_ForceCloseSession                                                                                0xa9e241c8                                         
+JHI_GetAppletProperty                                                                                0x829c20ca                                         
+JHI_GetSessionInfo                                                                                   0x66c6b98f                                         
+JHI_GetSessionsCount                                                                                 0x924efd9f                                         
+JHI_GetVersionInfo                                                                                   0x82606851                                         
+JHI_Initialize                                                                                       0xeb63f591                                         
+JHI_Install2                                                                                         0xe93742c8                                         
+JHI_RegisterEvents                                                                                   0x010f5e79                                         
+JHI_SendAndRecv2                                                                                     0x43fb86de                                         
+JHI_UnRegisterEvents                                                                                 0x70200edc                                         
+JHI_Uninstall                                                                                        0x777989b9                                         

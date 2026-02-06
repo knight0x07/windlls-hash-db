@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-crt-environment-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+__p__environ                                                                                         0x13795c32                                         
+__p__wenviron                                                                                        0x58b6cee9                                         
+_dupenv_s                                                                                            0xb1032bc8                                         
+_putenv                                                                                              0xa2647aa6                                         
+_putenv_s                                                                                            0xcd6dc8d8                                         
+_searchenv                                                                                           0x7b70d523                                         
+_searchenv_s                                                                                         0x1afab695                                         
+_wdupenv_s                                                                                           0x602af3bf                                         
+_wgetcwd                                                                                             0xe81bdbb9                                         
+_wgetdcwd                                                                                            0xeb978cfd                                         
+_wgetenv                                                                                             0xe81be324                                         
+_wgetenv_s                                                                                           0x5ea148d6                                         
+_wputenv                                                                                             0xfe3bd8dd                                         
+_wputenv_s                                                                                           0x7c9590cf                                         
+_wsearchenv                                                                                          0x0f919bfa                                         
+_wsearchenv_s                                                                                        0x3a688f2c                                         
+getenv                                                                                               0xff8760ae                                         
+getenv_s                                                                                             0xfee250e0                                         

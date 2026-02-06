@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\WindowsPowerShell\v1.0\pspluginwkr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitPlugin                                                                                           0xf50e9d08                                         
+WSManPluginCommand                                                                                   0x6824bfd9                                         
+WSManPluginReceive                                                                                   0xd2c183dd                                         
+WSManPluginReleaseCommandContext                                                                     0xaa52d55f                                         
+WSManPluginReleaseShellContext                                                                       0x264a19f8                                         
+WSManPluginSend                                                                                      0x5d558204                                         
+WSManPluginShell                                                                                     0x080742d2                                         
+WSManPluginSignal                                                                                    0x0902d5d8                                         

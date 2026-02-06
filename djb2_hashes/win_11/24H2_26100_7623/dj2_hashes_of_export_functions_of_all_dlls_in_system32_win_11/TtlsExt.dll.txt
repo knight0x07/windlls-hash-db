@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\TtlsExt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+TtlsExt_EapPeerInvokeConfigUI                                                                        0xc59b79be                                         
+TtlsExt_FreeMemoryExt                                                                                0x17b80488                                         
+TtlsExt_GetConfigCacheOnlyCertValidation                                                             0xfcf17701                                         
+TtlsExt_GetConfigForceNotDomainJoined                                                                0x1f719c83                                         
+TtlsExt_GetContextData                                                                               0x8d88f71b                                         
+TtlsExt_GetUserCredentials                                                                           0xd2bb2da9                                         
+TtlsExt_InvokeNonEapMethodUI                                                                         0x9b02a688                                         
+TtlsExt_InvokeServerAuthentication                                                                   0x992ffebf                                         
+TtlsExt_ShowHelp                                                                                     0x10e7fd86                                         

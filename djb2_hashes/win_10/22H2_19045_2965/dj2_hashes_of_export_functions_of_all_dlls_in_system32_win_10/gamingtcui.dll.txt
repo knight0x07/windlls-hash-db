@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\gamingtcui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckGamingPrivilegeSilently                                                                         0x66947bb1                                         
+CheckGamingPrivilegeSilentlyForUser                                                                  0xca790177                                         
+CheckGamingPrivilegeWithUI                                                                           0x7d19b937                                         
+CheckGamingPrivilegeWithUIForUser                                                                    0x138d0c3d                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ProcessPendingGameUI                                                                                 0xf1778821                                         
+ShowChangeFriendRelationshipUI                                                                       0x46218c14                                         
+ShowChangeFriendRelationshipUIForUser                                                                0x8429647a                                         
+ShowCustomizeUserProfileUI                                                                           0xda259817                                         
+ShowCustomizeUserProfileUIForUser                                                                    0xc66d6f1d                                         
+ShowFindFriendsUI                                                                                    0x9fa1d9b0                                         
+ShowFindFriendsUIForUser                                                                             0xf2ceca96                                         
+ShowGameInfoUI                                                                                       0xa391e08a                                         
+ShowGameInfoUIForUser                                                                                0xe3cb5830                                         
+ShowGameInviteUI                                                                                     0xf483a42d                                         
+ShowGameInviteUIForUser                                                                              0x2eae4673                                         
+ShowGameInviteUIWithContext                                                                          0xada7c2ce                                         
+ShowGameInviteUIWithContextForUser                                                                   0x03ab85f4                                         
+ShowPlayerPickerUI                                                                                   0xcc4d056f                                         
+ShowPlayerPickerUIForUser                                                                            0x24f96975                                         
+ShowProfileCardUI                                                                                    0xdeb4a50f                                         
+ShowProfileCardUIForUser                                                                             0x29dd3515                                         
+ShowTitleAchievementsUI                                                                              0x133ae462                                         
+ShowTitleAchievementsUIForUser                                                                       0x185e9908                                         
+ShowUserSettingsUI                                                                                   0xa194ddb4                                         
+ShowUserSettingsUIForUser                                                                            0x9dbca21a                                         
+TryCancelPendingGameUI                                                                               0x324ca7c7                                         

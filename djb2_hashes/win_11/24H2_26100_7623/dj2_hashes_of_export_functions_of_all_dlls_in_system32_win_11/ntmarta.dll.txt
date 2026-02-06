@@ -1,0 +1,54 @@
+DLL Path: C:\Windows\System32\ntmarta.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AccConvertAccessMaskToActrlAccess                                                                    0x18ac0596                                         
+AccConvertAccessToSD                                                                                 0x9392cdb9                                         
+AccConvertAccessToSecurityDescriptor                                                                 0x7ecd6979                                         
+AccConvertAclToAccess                                                                                0xc66ba692                                         
+AccConvertSDToAccess                                                                                 0x756ed539                                         
+AccFreeIndexArray                                                                                    0x10e4fb25                                         
+AccGetAccessForTrustee                                                                               0xc3282351                                         
+AccGetExplicitEntries                                                                                0xd4a736a8                                         
+AccGetInheritanceSource                                                                              0xc87af147                                         
+AccLookupAccountName                                                                                 0x37d84cf4                                         
+AccLookupAccountSid                                                                                  0xe2a98cf3                                         
+AccLookupAccountTrustee                                                                              0x692a23df                                         
+AccProvCancelOperation                                                                               0x980a8e0a                                         
+AccProvGetAccessInfoPerObjectType                                                                    0x4e865f71                                         
+AccProvGetAllRights                                                                                  0x4aa3237d                                         
+AccProvGetCapabilities                                                                               0x365037bd                                         
+AccProvGetOperationResults                                                                           0x71391a56                                         
+AccProvGetTrusteesAccess                                                                             0x20772f44                                         
+AccProvGrantAccessRights                                                                             0xcbe31d32                                         
+AccProvHandleGetAccessInfoPerObjectType                                                              0x5f7ac83d                                         
+AccProvHandleGetAllRights                                                                            0x55aed749                                         
+AccProvHandleGetTrusteesAccess                                                                       0x31a72290                                         
+AccProvHandleGrantAccessRights                                                                       0xdd13107e                                         
+AccProvHandleIsAccessAudited                                                                         0x6b8a906d                                         
+AccProvHandleIsObjectAccessible                                                                      0x50c74e00                                         
+AccProvHandleRevokeAccessRights                                                                      0xcc9fdfae                                         
+AccProvHandleRevokeAuditRights                                                                       0x76147d53                                         
+AccProvHandleSetAccessRights                                                                         0x2f1f610e                                         
+AccProvIsAccessAudited                                                                               0xd5c7e021                                         
+AccProvIsObjectAccessible                                                                            0x1998f134                                         
+AccProvRevokeAccessRights                                                                            0x957182e2                                         
+AccProvRevokeAuditRights                                                                             0x64e48a07                                         
+AccProvSetAccessRights                                                                               0x995cb0c2                                         
+AccRewriteGetExplicitEntriesFromAcl                                                                  0xd934884e                                         
+AccRewriteGetHandleRights                                                                            0x427bdd2b                                         
+AccRewriteGetNamedRights                                                                             0x5503ffc4                                         
+AccRewriteSetEntriesInAcl                                                                            0x19b28fbb                                         
+AccRewriteSetHandleRights                                                                            0xe9d50237                                         
+AccRewriteSetNamedRights                                                                             0x1c06b350                                         
+AccSetEntriesInAList                                                                                 0xb92acf06                                         
+AccTreeResetNamedSecurityInfo                                                                        0x366fc3c8                                         
+EventGuidToName                                                                                      0xd297af54                                         
+EventNameFree                                                                                        0xb0b530ea                                         
+GetExplicitEntriesFromAclW                                                                           0x7de1449c                                         
+GetMartaExtensionInterface                                                                           0x993a1168                                         
+GetNamedSecurityInfoW                                                                                0xb9ac8485                                         
+GetSecurityInfo                                                                                      0x620ddaa9                                         
+SetEntriesInAclW                                                                                     0xe2d6b8e9                                         
+SetNamedSecurityInfoW                                                                                0x86484291                                         
+SetSecurityInfo                                                                                      0x0966ffb5                                         

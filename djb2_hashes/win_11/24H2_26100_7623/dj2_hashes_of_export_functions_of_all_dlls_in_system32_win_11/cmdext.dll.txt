@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\cmdext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CmdBatNotificationStub                                                                               0x6b3d99b5                                         
+DoSHChangeNotify                                                                                     0x0e872792                                         
+FindFirstStreamWStub                                                                                 0x8ac1a5af                                         
+FindNextStreamWStub                                                                                  0xee51a866                                         
+GetBinaryTypeWStub                                                                                   0xbb47f821                                         
+GetVDMCurrentDirectoriesStub                                                                         0xfe377b8a                                         
+LookupAccountSidWStub                                                                                0x793bf721                                         
+MessageBeepStub                                                                                      0x13dbeb44                                         
+QueryFullProcessImageNameWStub                                                                       0x872e98c6                                         
+SaferWorker                                                                                          0x6a806110                                         
+ShellExecuteWorker                                                                                   0xeb5d962a                                         
+WNetAddConnection2WStub                                                                              0xf92875c3                                         
+WNetCancelConnection2WStub                                                                           0xe3e21660                                         
+WNetGetConnectionWStub                                                                               0xfc9bbfa8                                         

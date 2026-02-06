@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-processenvironment-l1-2-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NeedCurrentDirectoryForExePathA                                                                      0x0adc6e70                                         
+NeedCurrentDirectoryForExePathW                                                                      0x0adc6e86                                         
+SearchPathA                                                                                          0xd6583fc9                                         

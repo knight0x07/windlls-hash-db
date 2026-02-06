@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\easwrt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+EasClientSecurityPolicyApply                                                                         0x5ec9790b                                         
+EasClientSecurityPolicyCheckCompliance                                                               0x94536cbe                                         
+EasGetClientDeviceInformation                                                                        0x00b59973                                         
+EasRegisterEncryptionProvider                                                                        0xb2e8c4d9                                         
+EasShowConsentDialog                                                                                 0xab1f9d09                                         
+EasUnRegisterEncryptionProvider                                                                      0x3c23bd7c                                         

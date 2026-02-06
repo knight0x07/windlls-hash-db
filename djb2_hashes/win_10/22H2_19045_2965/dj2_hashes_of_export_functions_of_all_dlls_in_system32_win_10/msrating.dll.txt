@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\msrating.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ChangeSupervisorPassword                                                                             0xc30c6f20                                         
+ClickedOnPRF                                                                                         0x2d3af7f9                                         
+ClickedOnRAT                                                                                         0x2d3afe58                                         
+RatingAccessDeniedDialog                                                                             0x4a6b5dd5                                         
+RatingAccessDeniedDialog2                                                                            0x97d718a7                                         
+RatingAccessDeniedDialog2W                                                                           0x92ba2dde                                         
+RatingAccessDeniedDialogW                                                                            0x97d718cc                                         
+RatingAddPropertyPages                                                                               0x92faabc8                                         
+RatingAddToApprovedSites                                                                             0xda84f7bf                                         
+RatingCheckUserAccess                                                                                0x0f55b9f9                                         
+RatingCheckUserAccessW                                                                               0xfa0cf970                                         
+RatingClickedOnPRFInternal                                                                           0x686821db                                         
+RatingClickedOnRATInternal                                                                           0x8d3c173a                                         
+RatingCustomAddRatingHelper                                                                          0xc62b17d3                                         
+RatingCustomAddRatingSystem                                                                          0xe141a878                                         
+RatingCustomCrackData                                                                                0x7a987ee3                                         
+RatingCustomDeleteCrackedData                                                                        0x78ea187f                                         
+RatingCustomInit                                                                                     0xf63b06d9                                         
+RatingCustomRemoveRatingHelper                                                                       0xa9756af8                                         
+RatingCustomSetDefaultBureau                                                                         0x767c57da                                         
+RatingCustomSetUserOptions                                                                           0xb847d39c                                         
+RatingEnable                                                                                         0x5074bcb1                                         
+RatingEnableW                                                                                        0x5f0c5328                                         
+RatingEnabledQuery                                                                                   0xc455424b                                         
+RatingFreeDetails                                                                                    0x0d3a29d2                                         
+RatingInit                                                                                           0x4cb7c8fe                                         
+RatingObtainCancel                                                                                   0xe9f4cc0d                                         
+RatingObtainQuery                                                                                    0xd1d185dd                                         
+RatingObtainQueryW                                                                                   0x0c0241d4                                         
+RatingSetupUI                                                                                        0x811f83b9                                         
+RatingSetupUIW                                                                                       0xa50ffb30                                         
+VerifySupervisorPassword                                                                             0xd2d8446f                                         

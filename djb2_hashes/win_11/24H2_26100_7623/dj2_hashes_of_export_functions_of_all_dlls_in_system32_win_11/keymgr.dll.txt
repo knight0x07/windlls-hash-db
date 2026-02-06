@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\keymgr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CPlApplet                                                                                            0x5c9b924a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+KRShowKeyMgr                                                                                         0xf8d3f152                                         
+PRShowRestoreFromMsginaW                                                                             0x989ce196                                         
+PRShowRestoreWizardExW                                                                               0xd88f0951                                         
+PRShowRestoreWizardW                                                                                 0xd61eb114                                         
+PRShowSaveFromMsginaW                                                                                0x6376bae1                                         
+PRShowSaveWizardExW                                                                                  0x13fc13dc                                         

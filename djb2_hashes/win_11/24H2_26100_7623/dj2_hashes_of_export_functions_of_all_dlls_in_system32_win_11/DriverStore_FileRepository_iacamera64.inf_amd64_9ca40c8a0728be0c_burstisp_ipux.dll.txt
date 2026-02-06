@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iacamera64.inf_amd64_9ca40c8a0728be0c\burstisp_ipux.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+burstisp_config_log                                                                                  0xafec4937                                         
+burstisp_enqueue_input_frame                                                                         0xe1ba0b11                                         
+burstisp_ipu3                                                                                        0xb29fbbe1                                         
+burstisp_ipu4                                                                                        0xb29fbbe2                                         
+burstisp_ipu4_e2e                                                                                    0x3234a95d                                         
+burstisp_ipu4_run                                                                                    0x3234e956                                         
+burstisp_opencl_handler_init                                                                         0xa9607871                                         
+burstisp_opencl_handler_release                                                                      0x8f68df9e                                         
+burstisp_wrapper_init                                                                                0x1ecbe934                                         
+burstisp_wrapper_release                                                                             0xcec93d81                                         

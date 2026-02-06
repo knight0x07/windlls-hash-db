@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\wlanutil.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WlanIsActiveConsoleUser                                                                              0xd93e7281                                         
+WlanSignalValueToBar                                                                                 0xec69108a                                         
+WlanSignalValueToBarEx                                                                               0xaaef6467                                         
+WlanSsidToDisplayName                                                                                0x0085d044                                         
+WlanStringToSsid                                                                                     0x7dc35304                                         
+WlanStringToUtf8Ssid                                                                                 0xa10ee60b                                         
+WlanUtf8SsidToDisplayName                                                                            0x493c39ab                                         

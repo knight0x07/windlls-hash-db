@@ -1,0 +1,29 @@
+DLL Path: C:\Windows\System32\offlinesam.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SamOfflineAddMemberToAlias                                                                           0x91f86837                                         
+SamOfflineCloseHandle                                                                                0x0eb489eb                                         
+SamOfflineConnect                                                                                    0x02662393                                         
+SamOfflineConnectExternal                                                                            0xc8535996                                         
+SamOfflineConnectForInstaller                                                                        0xc59598c8                                         
+SamOfflineCreateAliasInDomain                                                                        0xe586c416                                         
+SamOfflineCreateUserInDomain                                                                         0xfb7c6f0b                                         
+SamOfflineDeleteAlias                                                                                0xf2c36486                                         
+SamOfflineDeleteUser                                                                                 0xd118c29b                                         
+SamOfflineEnumerateAliasesInDomain                                                                   0xc8cadb60                                         
+SamOfflineEnumerateDomainsInSamServer                                                                0xf913ed69                                         
+SamOfflineEnumerateUsersInDomain2                                                                    0xc5e53fc2                                         
+SamOfflineFreeMemory                                                                                 0xf2c6b904                                         
+SamOfflineGetMembersInAlias                                                                          0x17904b95                                         
+SamOfflineLookupDomainInSamServer                                                                    0x34f744ca                                         
+SamOfflineLookupNamesInDomain                                                                        0xcb8dbe66                                         
+SamOfflineOpenAlias                                                                                  0xdf41ade5                                         
+SamOfflineOpenDomain                                                                                 0xceaf5e93                                         
+SamOfflineOpenUser                                                                                   0x9a33dc1a                                         
+SamOfflineQueryInformationAlias                                                                      0x1b20c26f                                         
+SamOfflineQueryInformationUser                                                                       0x00dd8764                                         
+SamOfflineRemoveMemberFromAlias                                                                      0x8591d6cd                                         
+SamOfflineRidToSid                                                                                   0x4003c5eb                                         
+SamOfflineSetInformationAlias                                                                        0xe00da0c5                                         
+SamOfflineSetInformationUser                                                                         0x25dcf2fa                                         

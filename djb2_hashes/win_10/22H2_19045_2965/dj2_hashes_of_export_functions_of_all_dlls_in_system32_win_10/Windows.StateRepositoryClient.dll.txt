@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\Windows.StateRepositoryClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+SRCheckIntegrity                                                                                     0xe3e5e6a7                                         
+SRDictionaryFree                                                                                     0x931866c2                                         
+SRDictionaryToPropertySet                                                                            0x2c1322d4                                         
+SRGetEffectivePackageStatusForUserFromToken                                                          0xb0ca91e6                                         
+SRGetEffectivePackageStatusForUserSid                                                                0x55505c71                                         
+SRGetExternalLocation                                                                                0xc77b9186                                         
+SRGetIsEffectiveSupportedUsersMultiple                                                               0x4da8711b                                         
+SRGetPackageOriginForUser                                                                            0x4b821c04                                         
+SRGetPackageStatus                                                                                   0x3836b43a                                         
+SRGetPackageStatusForUserFromToken                                                                   0x1808d595                                         
+SRGetPackageStatusForUserSid                                                                         0x4f0d48e0                                         
+SRGetStagedPackageOrigin                                                                             0x20f94856                                         
+SRPropertySetToDictionary                                                                            0x4a7bb034                                         
+SRRemovePackageStatus                                                                                0x0c94eec8                                         
+SRRemovePackageStatusForUserFromToken                                                                0xba766c23                                         
+SRRemovePackageStatusForUserSid                                                                      0xab688cee                                         
+SRRepair                                                                                             0x83dc884d                                         
+SRUpdatePackageStatus                                                                                0x3ef7b91d                                         
+SRUpdatePackageStatusForUserFromToken                                                                0x1f854078                                         
+SRUpdatePackageStatusForUserSid                                                                      0x2f180583                                         
+StateRepositoryDoMaintenanceTasks                                                                    0x6d488782                                         

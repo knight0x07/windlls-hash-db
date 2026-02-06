@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\msdtctm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ASCDefer                                                                                             0x0edd4fc2                                         
+ASCDeliverDeferred                                                                                   0xf5e656c8                                         
+ASCGetSafeReference                                                                                  0x8acb7eaa                                         
+ASCWrapClassFactory                                                                                  0xca3c1104                                         
+ASCWrapObject                                                                                        0x8b261dcd                                         
+CreateInstance                                                                                       0x0f85634e                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DtcMainExt                                                                                           0x7f873296                                         
+GetTipFunctionalityWorking                                                                           0x6400f4dc                                         
+SetTipFunctionalityWorking                                                                           0x99a15a68                                         

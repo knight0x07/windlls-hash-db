@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\wininitext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetLoggedOnUserCount                                                                                 0xe96705bc                                         
+LaunchUmfdHostWithVirtualAccountWorker                                                               0x6e239e14                                         
+PrimaryTerminalAndHookWorker                                                                         0x4bad3a03                                         
+StartLoadingFontsWorker                                                                              0x6af42f75                                         
+UIStartupWorker                                                                                      0x37169fb0                                         
+WaitForWinstationShutdown                                                                            0x7b935f0d                                         
+WinStationSystemShutdownStartedWorker                                                                0x0c78e5e7                                         

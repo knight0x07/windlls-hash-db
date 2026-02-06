@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\UdiApiClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CleanDownloaderSession                                                                               0xed78efbb                                         
+CleanUpdate                                                                                          0xe31c832b                                         
+CreateDownloaderSession                                                                              0x9cd7d90c                                         
+CreateUpdate                                                                                         0x81e7251c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllMain                                                                                              0x79f31ec6                                         
+ETW_TRACE_LOGGING_METADATA                                                                           0x78251709                                         
+GetDeviceInfo                                                                                        0x9d7b6801                                         
+InPlaceCreateUpdate                                                                                  0x3b884ab8                                         
+IsHotpatchRecipeValid                                                                                0x3aeffd44                                         
+LoadUpdate                                                                                           0x4fe110e8                                         

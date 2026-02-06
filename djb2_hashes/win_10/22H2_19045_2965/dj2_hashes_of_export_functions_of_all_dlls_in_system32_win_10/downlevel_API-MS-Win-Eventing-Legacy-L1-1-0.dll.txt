@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-Eventing-Legacy-L1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ControlTraceA                                                                                        0x24be56b6                                         
+EnableTrace                                                                                          0x99a62e5b                                         
+EnableTraceEx                                                                                        0x9beb3a78                                         
+EnumerateTraceGuids                                                                                  0x9644c5f6                                         
+FlushTraceA                                                                                          0x878aa7f7                                         
+FlushTraceW                                                                                          0x878aa80d                                         
+OpenTraceA                                                                                           0x81185207                                         
+QueryAllTracesA                                                                                      0xa6d8eeb7                                         
+QueryTraceA                                                                                          0x4f7aafcb                                         
+QueryTraceW                                                                                          0x4f7aafe1                                         
+StartTraceA                                                                                          0x03549563                                         
+StopTraceA                                                                                           0x37bb24db                                         
+UpdateTraceA                                                                                         0xe20d23f8                                         
+UpdateTraceW                                                                                         0xe20d240e                                         

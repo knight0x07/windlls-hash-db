@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\appraiser.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DoProcessRestoreApps                                                                                 0xf32d76ef                                         
+DoScheduledTelemetryRun                                                                              0xb3b97a19                                         
+DoScheduledTelemetryRunTC                                                                            0x88006f70                                         
+GetCtacProvider                                                                                      0x32b0b8cb                                         
+GetProvider                                                                                          0x702f4b90                                         
+GetTargetVersionList                                                                                 0xcbb86bae                                         
+ProcessRestoreApps                                                                                   0xc2eca9bc                                         
+RunTest                                                                                              0xc4c8f8fa                                         
+RunXml                                                                                               0xcfa911cb                                         
+Sgd                                                                                                  0x0b8821a3                                         
+UpdateAvStatus                                                                                       0x25764703                                         
+UpdateCacheCompatStatuses                                                                            0xd8c7479c                                         
+UpdateExperienceIndicators                                                                           0x556e31c0                                         

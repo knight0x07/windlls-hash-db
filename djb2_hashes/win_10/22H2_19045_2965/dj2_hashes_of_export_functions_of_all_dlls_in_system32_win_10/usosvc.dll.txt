@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\usosvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetDefaultConfiguration                                                                              0x7fe19f02                                         
+GetNextAcceptableTime                                                                                0x8e3e0ab7                                         
+GetNextAcceptableTimeEx                                                                              0x15eb9dd4                                         
+GetSmartActiveHours                                                                                  0xb677f299                                         
+GetSmartActiveHoursEx                                                                                0x343f0636                                         
+GetSmartBusyCheckVelocityFeature                                                                     0x2d9bb468                                         
+GetTimeIntervalConfidence                                                                            0xe116be87                                         
+GetUserActivityPredictionEx                                                                          0x2469517f                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

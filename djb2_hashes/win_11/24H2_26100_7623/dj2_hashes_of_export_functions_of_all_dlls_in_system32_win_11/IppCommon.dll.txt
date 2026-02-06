@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\IppCommon.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClearIppPrinterConfigCache                                                                           0xe8f53063                                         
+ClearIppPrinterInfoCache                                                                             0xa4227979                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetModernPrinterType                                                                                 0x86d033d0                                         
+InstallVirtualPrintersForSessionId                                                                   0x995e7e92                                         
+IppAddPcXmlToCache                                                                                   0x462a8a92                                         
+IppGetPdcStream                                                                                      0x137c8411                                         
+IppGetPdcXmlObject                                                                                   0x49ebfd2d                                         
+IppTryGetPcFromCache                                                                                 0xcfd2b888                                         
+IppTryGetPcXmlFromCache                                                                              0xb1755c79                                         
+IsIppPrinterConnection                                                                               0xb2d53f1e                                         
+IsIppPrinterPortValid                                                                                0xc3f92223                                         
+IsModernPrinter                                                                                      0x135802aa                                         
+IsValidIppPrinter                                                                                    0x62bd0a3e                                         

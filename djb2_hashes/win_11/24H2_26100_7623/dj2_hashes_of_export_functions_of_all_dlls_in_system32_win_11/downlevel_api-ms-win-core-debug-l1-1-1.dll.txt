@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-debug-l1-1-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckRemoteDebuggerPresent                                                                           0x06638c15                                         
+ContinueDebugEvent                                                                                   0x97f8f4f3                                         
+DebugActiveProcess                                                                                   0xe26e6467                                         
+DebugActiveProcessStop                                                                               0x8277bf8d                                         
+WaitForDebugEvent                                                                                    0xbe7a3faa                                         

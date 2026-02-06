@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\icm32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CMCheckColors                                                                                        0x9b20fce5                                         
+CMCheckColorsInGamut                                                                                 0xf4bf8d3a                                         
+CMCheckRGBs                                                                                          0xce9207e1                                         
+CMConvertColorNameToIndex                                                                            0xe548f771                                         
+CMConvertIndexToColorName                                                                            0x6e6e6df1                                         
+CMCreateDeviceLinkProfile                                                                            0x7a4ab1f8                                         
+CMCreateMultiProfileTransform                                                                        0x0fb205c1                                         
+CMCreateProfile                                                                                      0xfd89743a                                         
+CMCreateProfileW                                                                                     0xaeb7fbd1                                         
+CMCreateTransform                                                                                    0x355505a5                                         
+CMCreateTransformExt                                                                                 0xb44e94f6                                         
+CMCreateTransformExtW                                                                                0x3e21340d                                         
+CMCreateTransformW                                                                                   0xdff5ba9c                                         
+CMDeleteTransform                                                                                    0xc5c03e44                                         
+CMGetInfo                                                                                            0xcbd80a41                                         
+CMGetNamedProfileInfo                                                                                0x779805d7                                         
+CMIsProfileValid                                                                                     0xc5283772                                         
+CMTranslateColors                                                                                    0x750b9915                                         
+CMTranslateRGB                                                                                       0xfc3c5bde                                         
+CMTranslateRGBs                                                                                      0x83c7d811                                         
+CMTranslateRGBsExt                                                                                   0x38e35fe2                                         

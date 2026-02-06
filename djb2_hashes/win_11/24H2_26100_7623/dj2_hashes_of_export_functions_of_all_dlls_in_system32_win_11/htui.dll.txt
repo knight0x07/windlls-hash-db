@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\htui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+HTUI_ColorAdjustment                                                                                 0xb0bd981c                                         
+HTUI_ColorAdjustmentA                                                                                0xc8709bdd                                         
+HTUI_ColorAdjustmentW                                                                                0xc8709bf3                                         
+HTUI_DeviceColorAdjustment                                                                           0x5fb0d6cc                                         
+HTUI_DeviceColorAdjustmentA                                                                          0x55cbb08d                                         
+HTUI_DeviceColorAdjustmentW                                                                          0x55cbb0a3                                         

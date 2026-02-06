@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-core-string-l2-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CharLowerBuffW                                                                                       0xb19456a6                                         
+CharLowerW                                                                                           0x1cc42803                                         
+CharNextW                                                                                            0xa3e69d79                                         
+CharPrevW                                                                                            0xa4119ed7                                         
+CharUpperBuffW                                                                                       0xd4a30fa9                                         
+CharUpperW                                                                                           0x31d0d786                                         
+IsCharAlphaNumericW                                                                                  0x58f2eccf                                         
+IsCharAlphaW                                                                                         0x03e1459c                                         
+IsCharLowerW                                                                                         0x1dc41a1f                                         
+IsCharUpperW                                                                                         0x32d0c9a2                                         

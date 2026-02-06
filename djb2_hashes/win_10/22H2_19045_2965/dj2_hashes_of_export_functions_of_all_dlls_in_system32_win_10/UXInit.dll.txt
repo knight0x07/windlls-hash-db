@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\UXInit.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ThemeUserLogoff                                                                                      0xe689b294                                         
+ThemeUserLogon                                                                                       0xa9e52476                                         
+ThemeUserStartShell                                                                                  0x822fed1d                                         
+ThemeUserTSReconnect                                                                                 0x1aaeeeff                                         
+ThemeWatchForStart                                                                                   0xbddb65a4                                         
+ThemesOnCreateSession                                                                                0xf106c020                                         
+ThemesOnDisconnect                                                                                   0xb8e9f072                                         
+ThemesOnEarlyCreateSession                                                                           0xfa329b1d                                         
+ThemesOnLogoff                                                                                       0x75d5a545                                         
+ThemesOnLogon                                                                                        0x8f350507                                         
+ThemesOnReconnect                                                                                    0xc95b9f49                                         
+ThemesOnTerminateSession                                                                             0x520195d5                                         
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-crt-utility-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+_abs64                                                                                               0xec8c0ee4                                         
+_byteswap_uint64                                                                                     0x02413afc                                         
+_byteswap_ulong                                                                                      0x3e22aa97                                         
+_byteswap_ushort                                                                                     0x02f2d877                                         
+_lfind                                                                                               0xed552ad1                                         
+_lfind_s                                                                                             0x974b2fc3                                         
+_lrotl                                                                                               0xed5bd9b1                                         
+_lrotr                                                                                               0xed5bd9b7                                         
+_lsearch                                                                                             0xb54ef906                                         
+_lsearch_s                                                                                           0x44f15f38                                         
+_rotl                                                                                                0x0ef682c5                                         
+_rotl64                                                                                              0xa6a24f2f                                         
+_rotr                                                                                                0x0ef682cb                                         
+_rotr64                                                                                              0xa6a268b5                                         
+_swab                                                                                                0x0ef72eb1                                         
+abs                                                                                                  0x0b885c9b                                         
+bsearch                                                                                              0x8f26ed5d                                         
+bsearch_s                                                                                            0xf497c54f                                         
+div                                                                                                  0x0b886a48                                         
+imaxabs                                                                                              0x9bc3952a                                         
+imaxdiv                                                                                              0x9bc3a2d7                                         
+labs                                                                                                 0x7c99f227                                         
+ldiv                                                                                                 0x7c99ffd4                                         
+llabs                                                                                                0x0fde3933                                         
+lldiv                                                                                                0x0fde46e0                                         
+qsort                                                                                                0x103cc7fe                                         
+qsort_s                                                                                              0x128ecc30                                         
+rand                                                                                                 0x7c9d3dea                                         
+rand_s                                                                                               0x18e46d1c                                         
+srand                                                                                                0x1060307d                                         

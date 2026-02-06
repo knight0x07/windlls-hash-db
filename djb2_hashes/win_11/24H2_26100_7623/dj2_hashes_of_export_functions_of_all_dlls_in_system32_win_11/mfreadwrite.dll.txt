@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\mfreadwrite.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+MFCreateSinkWriterFromMediaSink                                                                      0xd7b23d27                                         
+MFCreateSinkWriterFromURL                                                                            0x1a3f9305                                         
+MFCreateSourceReaderFromByteStream                                                                   0xdf71e164                                         
+MFCreateSourceReaderFromMediaSource                                                                  0x899e9e55                                         
+MFCreateSourceReaderFromURL                                                                          0xc22ec7d7                                         

@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\LanguageComponentsInstaller.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetUnusedLanguageFeatures                                                                            0x0efee37c                                         
+RequestFeaturesInstallation                                                                          0x7a624bff                                         
+RequestFeaturesUninstallation                                                                        0x5ad0f742                                         

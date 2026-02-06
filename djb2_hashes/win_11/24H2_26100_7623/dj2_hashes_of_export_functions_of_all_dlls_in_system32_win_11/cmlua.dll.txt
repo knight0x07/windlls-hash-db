@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\cmlua.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllAddRef                                                                                            0xa76b22a7                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRelease                                                                                           0xb45dc942                                         
+_GetCoCreateInstanceAsAdminHandle                                                                    0x5fc84a68                                         
+_RemoveShieldIcon                                                                                    0x07769374                                         
+_SetShieldButton                                                                                     0x971401c5                                         
+_SetShieldIcon                                                                                       0x6def1a72                                         
+_ThrowErrorBox                                                                                       0x483066eb                                         

@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\spool\drivers\x64\3\FXSUI.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DevQueryPrintEx                                                                                      0xa11f7644                                         
+DrvAdvancedDocumentProperties                                                                        0xbbe558b3                                         
+DrvConvertDevMode                                                                                    0x85035c16                                         
+DrvDeviceCapabilities                                                                                0x9d0e2bcb                                         
+DrvDevicePropertySheets                                                                              0x097bb8d2                                         
+DrvDocumentEvent                                                                                     0xb1fa1852                                         
+DrvDocumentProperties                                                                                0xcdac4e5d                                         
+DrvDocumentPropertySheets                                                                            0xf2cf3761                                         
+DrvDriverEvent                                                                                       0x0674e95f                                         
+DrvPrinterEvent                                                                                      0xd147f097                                         
+PrinterProperties                                                                                    0x17e569f6                                         

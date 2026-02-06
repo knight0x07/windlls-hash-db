@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-processtopology-obsolete-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetActiveProcessorCount                                                                              0x395531ea                                         
+GetProcessAffinityMask                                                                               0x1acd1c0a                                         
+GetProcessIoCounters                                                                                 0x248b844f                                         
+SetProcessAffinityMask                                                                               0x7ae09b96                                         
+SetThreadAffinityMask                                                                                0x8e6a9f8f                                         

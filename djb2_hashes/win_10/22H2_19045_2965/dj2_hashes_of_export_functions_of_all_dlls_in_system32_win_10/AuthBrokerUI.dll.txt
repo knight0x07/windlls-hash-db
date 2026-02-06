@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\AuthBrokerUI.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateWndMgmt                                                                                        0x540ac377                                         
+DirectUIInitProc                                                                                     0x02060946                                         
+DirectUIInitThread                                                                                   0xa44edaca                                         
+DirectUIUnInitProc                                                                                   0xb078af29                                         
+DirectUIUnInitThread                                                                                 0xba02856d                                         
+FreeWndMgmt                                                                                          0x8b693585                                         
+WabCreateWebRuntimeCoreControl                                                                       0x8d9fa91f                                         
+WabCreateWebRuntimeCoreVisualViewport                                                                0xd0fb4d32                                         
+WabImmDisableLegacyIME                                                                               0xa5db6066                                         

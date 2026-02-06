@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\vmsifcore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+VmsIfCapsFindCapability                                                                              0x8a83fe94                                         
+VmsIfCapsGetCapability                                                                               0xdb9cdaf3                                         
+VmsIfCapsInitializeLibrary                                                                           0x91832478                                         
+VmsIfCapsIsFeaturePresent                                                                            0x8f27c1ba                                         
+VmsIfCapsIsFixPresent                                                                                0xa1dfacb5                                         
+VmsIfCapsQueryCapabilities                                                                           0xafcda0d1                                         
+VmsIfCoreDeinitialize                                                                                0x292d69ae                                         
+VmsIfCoreInitialize                                                                                  0xccb7dc65                                         
+VmsIfDriverClose                                                                                     0x72519a8c                                         
+VmsIfDriverOpen                                                                                      0xb5ea1588                                         
+VmsIfDriverOpenWithFileName                                                                          0x8821c0a5                                         
+VmsIfIoEnumeratorExecuteEx                                                                           0x32ed7174                                         
+VmsIfIoEnumeratorPrepareEx                                                                           0xc7a35c90                                         
+VmsIfIoExecuteEx                                                                                     0x5894d172                                         
+VmsIfIoFinalize                                                                                      0x4acf0094                                         
+VmsIfIoPrepareEx                                                                                     0xed4abc8e                                         
+VmsIfMemFree                                                                                         0xd80d9deb                                         
+VmsIfRegisterHandle                                                                                  0xf3741cfb                                         

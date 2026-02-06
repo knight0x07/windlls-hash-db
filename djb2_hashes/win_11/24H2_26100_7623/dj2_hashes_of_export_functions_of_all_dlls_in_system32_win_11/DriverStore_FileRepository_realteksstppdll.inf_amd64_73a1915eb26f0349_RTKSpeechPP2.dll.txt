@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\realteksstppdll.inf_amd64_73a1915eb26f0349\RTKSpeechPP2.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IntelSstPreProcApiVersion                                                                            0x8803e316                                         
+IntelSstPreProcBurstProcess                                                                          0x5773f5e5                                         
+IntelSstPreProcGetConfig                                                                             0x3775d28c                                         
+IntelSstPreProcGetInt32Value                                                                         0x221fc1a3                                         
+IntelSstPreProcGetLatency                                                                            0xbac029e6                                         
+IntelSstPreProcGetSize                                                                               0x76cc9bb1                                         
+IntelSstPreProcGetVersion                                                                            0xc5be947c                                         
+IntelSstPreProcGetVersionString                                                                      0x5aa29893                                         
+IntelSstPreProcInitialize                                                                            0xcccfd568                                         
+IntelSstPreProcInitializeWithLog                                                                     0x553273e6                                         
+IntelSstPreProcProcess                                                                               0x499a0855                                         
+IntelSstPreProcRelease                                                                               0xc5062fd7                                         
+IntelSstPreProcReset                                                                                 0x89778ab9                                         
+IntelSstPreProcSetConfig                                                                             0xad4b1e98                                         

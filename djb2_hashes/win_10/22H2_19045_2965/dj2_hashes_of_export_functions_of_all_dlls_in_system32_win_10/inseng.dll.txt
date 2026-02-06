@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\inseng.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckForVersionConflict                                                                              0x8aea4142                                         
+CheckTrust                                                                                           0x9186c885                                         
+CheckTrustEx                                                                                         0x0e5b0722                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DownloadFile                                                                                         0x10a07bbd                                         
+GetICifFileFromFile                                                                                  0x89013ab4                                         
+GetICifRWFileFromFile                                                                                0x8b50cb1d                                         
+PurgeDownloadDirectory                                                                               0xbcd38255                                         

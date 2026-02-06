@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\StartTileData.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetSetting                                                                                           0x40b86883                                         
+HasMigratedTDLData                                                                                   0x1cbac62c                                         
+ProcessStartLayoutPolicy                                                                             0xa44e7ea0                                         
+TryMigrateTDLData                                                                                    0x2544ef8b                                         

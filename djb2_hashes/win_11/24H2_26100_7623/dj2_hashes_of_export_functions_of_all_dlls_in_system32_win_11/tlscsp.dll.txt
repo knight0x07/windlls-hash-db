@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\tlscsp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LsCsp_DecryptEnvelopedData                                                                           0x2cf16f40                                         
+LsCsp_EncryptHwid                                                                                    0x2916ba1a                                         
+LsCsp_GetServerData                                                                                  0xa9b410fa                                         
+LsCsp_RetrieveSecret                                                                                 0x721172d5                                         
+LsCsp_StoreSecret                                                                                    0xba0a461c                                         
+TLSCspInit                                                                                           0xf142d832                                         
+TLSCspShutdown                                                                                       0x93632ada                                         
+TLSCspStartInstallCertificateThread                                                                  0x52902f3e                                         
+TLSFreeTSCertificate                                                                                 0x9668ce64                                         
+TLSGetTSCertificate                                                                                  0x0c70bac2                                         

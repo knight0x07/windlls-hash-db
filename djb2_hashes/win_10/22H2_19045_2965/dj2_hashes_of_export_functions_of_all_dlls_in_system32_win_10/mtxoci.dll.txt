@@ -1,0 +1,44 @@
+DLL Path: C:\Windows\System32\mtxoci.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+Enlist                                                                                               0xb0d68674                                         
+GetXaSwitch                                                                                          0x7461d470                                         
+MTxOciGetVersion                                                                                     0xd49ecfbf                                         
+MTxOciInit                                                                                           0x1449d04d                                         
+MTxOciRegisterCursor                                                                                 0x1d12425c                                         
+MTxolog                                                                                              0xf7af6cef                                         
+obindps                                                                                              0x50839994                                         
+obndra                                                                                               0x11f70e1b                                         
+obndrn                                                                                               0x11f70e28                                         
+obndrv                                                                                               0x11f70e30                                         
+obreak                                                                                               0x11f941b9                                         
+ocan                                                                                                 0x7c9b9fa6                                         
+oclose                                                                                               0x12083cca                                         
+ocof                                                                                                 0x7c9ba16c                                         
+ocom                                                                                                 0x7c9ba173                                         
+ocon                                                                                                 0x7c9ba174                                         
+odefin                                                                                               0x1216571a                                         
+odefinps                                                                                             0xf108947d                                         
+odescr                                                                                               0x12168da5                                         
+odessp                                                                                               0x12168fb3                                         
+oerhms                                                                                               0x122f9993                                         
+oermsg                                                                                               0x122faf92                                         
+oexec                                                                                                0x10110e39                                         
+oexfet                                                                                               0x1232da50                                         
+oexn                                                                                                 0x7c9bab1f                                         
+ofen                                                                                                 0x7c9baced                                         
+ofetch                                                                                               0x123ac2de                                         
+oflng                                                                                                0x101168bb                                         
+ogetpi                                                                                               0x124cdd0d                                         
+olog                                                                                                 0x7c9bc7b6                                         
+ologTransacted                                                                                       0xf9d7e63f                                         
+ologof                                                                                               0x12ac9beb                                         
+oopen                                                                                                0x10166806                                         
+oopt                                                                                                 0x7c9bd4a7                                         
+oparse                                                                                               0x12ed7fef                                         
+opinit                                                                                               0x12f1d0b8                                         
+orol                                                                                                 0x7c9be141                                         
+osetpi                                                                                               0x13260319                                         

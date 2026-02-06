@@ -1,0 +1,38 @@
+DLL Path: C:\Windows\System32\printui.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConnectToPrinterDlg                                                                                  0x7322cdcd                                         
+ConstructPrinterFriendlyName                                                                         0x4c7f778c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DocumentPropertiesWrap                                                                               0xb5766c6b                                         
+LaunchPlatformHelp                                                                                   0x0b4875ce                                         
+PnPInterface                                                                                         0xc6ddf1e4                                         
+PrintNotifyTray_Exit                                                                                 0xbd98b444                                         
+PrintNotifyTray_Init                                                                                 0xbd9abb3e                                         
+PrintUIDownloadAndInstallLegacyDriver                                                                0xe89188f3                                         
+PrintUIEntryDPIAwareW                                                                                0x82c16f86                                         
+PrintUIEntryW                                                                                        0x4d34d859                                         
+PrinterPropPageProvider                                                                              0xc28b3632                                         
+RegisterPrintNotify                                                                                  0x933853f0                                         
+ReleaseArgv                                                                                          0xd41b4996                                         
+ShowErrorMessageHR                                                                                   0x0da737cf                                         
+ShowErrorMessageSC                                                                                   0x0da7392b                                         
+ShowHelpLinkDialog                                                                                   0xb4b17c4d                                         
+StringToArgv                                                                                         0x82329cef                                         
+UnregisterPrintNotify                                                                                0x7c9503d3                                         
+bFolderEnumPrinters                                                                                  0x5ee4c48f                                         
+bFolderGetPrinter                                                                                    0xc64e23c7                                         
+bFolderRefresh                                                                                       0x455b2a72                                         
+bPrinterSetup                                                                                        0xb112c99c                                         
+vDocumentDefaults                                                                                    0x7167a972                                         
+vPrinterPropPages                                                                                    0xb6a54570                                         
+vQueueCreate                                                                                         0xe673ef14                                         
+vServerPropPages                                                                                     0x096687a3                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

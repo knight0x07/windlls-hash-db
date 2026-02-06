@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\coreglobconfig.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateUserSpecificGlobalizationSettings                                                              0x001cdffe                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetDisplayLanguageLocalizedName                                                                      0x3efe1a17                                         
+GetDisplayLanguageNativeName                                                                         0x63d22e87                                         
+GetSupportedDisplayLanguages                                                                         0x24b9a878                                         
+SetDisplayLanguageCore                                                                               0x89db0f34                                         
+SetUserDisplayLanguageCore                                                                           0xb1ba4833                                         
+SyncLanguageDataFromCloud                                                                            0xca106fab                                         
+SyncLanguageDataToCloud                                                                              0xad4a7e1a                                         
+UpdateDefaultGlobalizationSettings                                                                   0xec57098d                                         

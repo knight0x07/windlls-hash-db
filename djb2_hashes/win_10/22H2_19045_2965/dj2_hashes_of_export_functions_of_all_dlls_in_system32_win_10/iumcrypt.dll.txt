@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\iumcrypt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+iumCryptEncodeObject                                                                                 0x7d153f07                                         
+iumCryptEncodeObjectEx                                                                               0x17612624                                         
+iumCryptExportPublicKeyInfoFromBCryptKeyHandle                                                       0x34669275                                         
+iumCryptFindOIDInfo                                                                                  0xcc4eadeb                                         
+iumCryptMsgClose                                                                                     0x5b1c60df                                         
+iumCryptMsgDuplicate                                                                                 0x62031d24                                         
+iumCryptMsgGetParam                                                                                  0xaa1a849a                                         
+iumCryptMsgOpenToEncode                                                                              0x0be003cc                                         
+iumCryptMsgUpdate                                                                                    0xe8e767ac                                         
+iumCryptSignAndEncodeCertificate                                                                     0x68945297                                         

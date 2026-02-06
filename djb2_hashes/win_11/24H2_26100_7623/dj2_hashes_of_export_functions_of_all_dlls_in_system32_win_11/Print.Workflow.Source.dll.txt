@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\Print.Workflow.Source.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+WfpAbortSession                                                                                      0x7dcf04ce                                         
+WfpCloseSession                                                                                      0xb1f5cbec                                         
+WfpCreateWorkflowSession                                                                             0x26b06465                                         
+WfpGetOutputFileName                                                                                 0x16c3ea04                                         
+WfpGetWorkFlowStream                                                                                 0x890dbb79                                         
+WfpSetJobInfo                                                                                        0xdc81a245                                         
+WfpSetOutputFileName                                                                                 0xf8fa8210                                         
+WfpSetPrintTicket                                                                                    0xd246278f                                         
+WfpSetXpsDataType                                                                                    0x529ffd75                                         
+WfpWaitforJobCompletion                                                                              0x15845be3                                         

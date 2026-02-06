@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\dal.inf_amd64_8a3f88e34f6b8385\TEEManagement.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TEE_CloseSDSession                                                                                   0x1ba86c93                                         
+TEE_DEALLOC                                                                                          0xeed61dd6                                         
+TEE_ListInstalledSDs                                                                                 0x03800968                                         
+TEE_ListInstalledTAs                                                                                 0x03800d46                                         
+TEE_OpenSDSession                                                                                    0xa1ff258f                                         
+TEE_ProvisionOemMasterKey                                                                            0x553ab8a1                                         
+TEE_QueryTEEMetadata                                                                                 0x137ed257                                         
+TEE_SendAdminCmdPkg                                                                                  0xb66effcb                                         
+TEE_SetTAEncryptionKey                                                                               0xce70d0b7                                         

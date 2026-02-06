@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\fhshl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateCatalog                                                                                        0x33578954                                         
+CreateSearchBindCtx                                                                                  0xac5b15fb                                         
+CreateVirtualItem                                                                                    0xf6ac61ef                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+FreeCatalog                                                                                          0x6ab5fb62                                         
+GetBackupPathFromPidl                                                                                0x3bdfbb05                                         
+ParsePIDL                                                                                            0x38f29b49                                         

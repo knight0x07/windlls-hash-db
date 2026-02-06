@@ -1,0 +1,35 @@
+DLL Path: C:\Windows\System32\pcwum.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PcwAddQueryItem                                                                                      0xcf711a5d                                         
+PcwClearCounterSetSecurity                                                                           0xd858629a                                         
+PcwCollectData                                                                                       0xc979a84f                                         
+PcwCompleteNotification                                                                              0x3ab7054f                                         
+PcwCreateNotifier                                                                                    0xe9073d63                                         
+PcwCreateQuery                                                                                       0x04539559                                         
+PcwDisconnectCounterSet                                                                              0x942d6c85                                         
+PcwEnumerateInstances                                                                                0xec6d347d                                         
+PcwIsNotifierAlive                                                                                   0xa6a3e0bc                                         
+PcwQueryCounterSetSecurity                                                                           0x37e89109                                         
+PcwReadNotificationData                                                                              0x03bc392c                                         
+PcwRegisterCounterSet                                                                                0xed78eb40                                         
+PcwRemoveQueryItem                                                                                   0x4677ef62                                         
+PcwSendNotification                                                                                  0xa0e16d80                                         
+PcwSendStatelessNotification                                                                         0x6bd8c5b8                                         
+PcwSetCounterSetSecurity                                                                             0xe90d135f                                         
+PcwSetQueryItemUserData                                                                              0x8c31d299                                         
+PerfCreateInstance                                                                                   0x36c82b9b                                         
+PerfDecrementULongCounterValue                                                                       0xe53d668b                                         
+PerfDecrementULongLongCounterValue                                                                   0x53def91b                                         
+PerfDeleteInstance                                                                                   0xd64f4c5a                                         
+PerfIncrementULongCounterValue                                                                       0xddc5d139                                         
+PerfIncrementULongLongCounterValue                                                                   0xdad90ac9                                         
+PerfQueryInstance                                                                                    0xfa0c3f7d                                         
+PerfSetCounterRefValue                                                                               0xc9e56358                                         
+PerfSetCounterSetInfo                                                                                0xc86bf9f6                                         
+PerfSetULongCounterValue                                                                             0xcf148c60                                         
+PerfSetULongLongCounterValue                                                                         0xfdcf0170                                         
+PerfStartProvider                                                                                    0xac7f778b                                         
+PerfStartProviderEx                                                                                  0xca3b8fa8                                         
+PerfStopProvider                                                                                     0x277da363                                         

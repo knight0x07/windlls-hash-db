@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\tpmvsc.inf_amd64_9f1f5e161627e4e0\VirtualSmartcardReader.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+Microsoft_WDF_UMDF_Version                                                                           0xb210f24b                                         
+VReaderCreate                                                                                        0x8d06b8a2                                         
+VReaderDeinitialize                                                                                  0x0920b909                                         
+VReaderDestroy                                                                                       0x5d8cb4f8                                         
+VReaderInitialize                                                                                    0x41499900                                         

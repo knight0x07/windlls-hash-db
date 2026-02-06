@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\Windows.Internal.Devices.Bluetooth.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BthEvtBrCreateBroker                                                                                 0xf170923f                                         
+BthEvtBrDeleteBroker                                                                                 0x4aea773e                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

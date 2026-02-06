@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\wavesapo12de.inf_amd64_f5cc64c07bd9d637\CFL_MA8_Full_Coefs64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ALGFX_Coeficients_GetAllIDs                                                                          0x59f7301a                                         
+ALGFX_Coeficients_GetBuffer                                                                          0x5cec6a9b                                         
+ALGFX_Coeficients_GetMaxSizes                                                                        0x95a04eb5                                         
+ALGFX_Coeficients_SetCommand                                                                         0x6a76458c                                         
+ALGFX_Coeficients_SetParameter                                                                       0x458fc1ae                                         
+ALGFX_Coeficients_SetParametersArray                                                                 0xffcbba60                                         
+ALGFX_Dump                                                                                           0x3821454c                                         
+ALGFX_GetInfo                                                                                        0x38882842                                         
+ALGFX_Initialize                                                                                     0xbd406708                                         
+ALGFX_Process                                                                                        0x0b5afdf5                                         
+ALGFX_SetCommand                                                                                     0x471120a1                                         
+ALGFX_Uninitialize                                                                                   0x4e6ebbcb                                         

@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\umpo-overrides.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+UmpoDisablePowerSettingOverrideUpdates                                                               0x1f74a55b                                         
+UmpoEnablePowerSettingOverrideUpdates                                                                0x48c3b44e                                         
+UmpoGetPowerSettingOverrides                                                                         0x93698644                                         

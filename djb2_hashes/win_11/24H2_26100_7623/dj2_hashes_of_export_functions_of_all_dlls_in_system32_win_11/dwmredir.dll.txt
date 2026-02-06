@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\dwmredir.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DwmInitializePort                                                                                    0x5aff9084                                         
+DwmRedirectionManagerInitialize                                                                      0x2903d672                                         
+DwmRedirectionManagerShutdown                                                                        0x6758607c                                         
+DwmRegisterWindowNotificationHandler                                                                 0x412a400f                                         

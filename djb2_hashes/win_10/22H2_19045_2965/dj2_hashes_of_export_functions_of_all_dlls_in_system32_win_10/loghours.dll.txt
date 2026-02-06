@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\loghours.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConnectionScheduleDialog                                                                             0xd611bf92                                         
+ConnectionScheduleDialogEx                                                                           0xa17ff56f                                         
+DialinHoursDialog                                                                                    0xde216357                                         
+DialinHoursDialogEx                                                                                  0xec079e74                                         
+DirSyncScheduleDialog                                                                                0x4ba82cbe                                         
+DirSyncScheduleDialogEx                                                                              0xd6665d9b                                         
+LogonScheduleDialog                                                                                  0x632e5681                                         
+LogonScheduleDialogEx                                                                                0xe81e041e                                         
+ReplicationScheduleDialog                                                                            0x2d8d9c1c                                         
+ReplicationScheduleDialogEx                                                                          0xc7651c79                                         

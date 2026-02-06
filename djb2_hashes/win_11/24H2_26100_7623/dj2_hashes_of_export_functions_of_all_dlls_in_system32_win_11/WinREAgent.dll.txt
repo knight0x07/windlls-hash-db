@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\WinREAgent.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BackupWinRE                                                                                          0xdaf67ea0                                         
+CreateWinREServicingManager                                                                          0xa3e9d023                                         
+GetWinREAgentVersion                                                                                 0xf81fcadf                                         
+GetWinREVersion                                                                                      0x1934e770                                         
+LoadWinREServicingManager                                                                            0x2ce28a6f                                         
+RestoreWinRE                                                                                         0xe741bfee                                         
+SaveWinREServicingManager                                                                            0x6fda9f9e                                         

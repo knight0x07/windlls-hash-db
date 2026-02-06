@@ -1,0 +1,44 @@
+DLL Path: C:\Windows\System32\P2PGraph.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PeerGraphAddRecord                                                                                   0x4234492b                                         
+PeerGraphClose                                                                                       0xbc9a25f9                                         
+PeerGraphCloseDirectConnection                                                                       0x65352ce4                                         
+PeerGraphConnect                                                                                     0x52a638ed                                         
+PeerGraphCreate                                                                                      0x5045b217                                         
+PeerGraphDelete                                                                                      0x51b383d6                                         
+PeerGraphDeleteRecord                                                                                0xb8db6b95                                         
+PeerGraphEndEnumeration                                                                              0x6c450501                                         
+PeerGraphEnumConnections                                                                             0x402c2dfb                                         
+PeerGraphEnumNodes                                                                                   0xa8b7e051                                         
+PeerGraphEnumRecords                                                                                 0xd2ba01aa                                         
+PeerGraphExportDatabase                                                                              0x48739a9a                                         
+PeerGraphForceStopPresencePrivate                                                                    0x1a0e8208                                         
+PeerGraphFreeData                                                                                    0x3d6e209f                                         
+PeerGraphGetEventData                                                                                0xf74e3c7f                                         
+PeerGraphGetItemCount                                                                                0xeb08661b                                         
+PeerGraphGetNextItem                                                                                 0x8ca272d1                                         
+PeerGraphGetNodeInfo                                                                                 0x5eb21cd5                                         
+PeerGraphGetProperties                                                                               0xf06c5230                                         
+PeerGraphGetRecord                                                                                   0xb9049022                                         
+PeerGraphGetStatus                                                                                   0xbc682547                                         
+PeerGraphImportDatabase                                                                              0xcc5f1893                                         
+PeerGraphListen                                                                                      0x64a93f72                                         
+PeerGraphOpen                                                                                        0xb0686755                                         
+PeerGraphOpenDirectConnection                                                                        0x4db2a640                                         
+PeerGraphPeerTimeToUniversalTime                                                                     0x063112c9                                         
+PeerGraphRegisterEvent                                                                               0xd6ff7a2a                                         
+PeerGraphSearchRecords                                                                               0xfce9ffab                                         
+PeerGraphSendData                                                                                    0x68fd2f67                                         
+PeerGraphSetNodeAttributes                                                                           0xd27de6dc                                         
+PeerGraphSetPresence                                                                                 0x61ded5c4                                         
+PeerGraphSetProperties                                                                               0xa8e0c43c                                         
+PeerGraphShutdown                                                                                    0x6173523f                                         
+PeerGraphStartup                                                                                     0x2d0b0536                                         
+PeerGraphSuspendTimers                                                                               0x196f28f9                                         
+PeerGraphUniversalTimeToPeerTime                                                                     0x3c66a449                                         
+PeerGraphUnregisterEvent                                                                             0x9760234d                                         
+PeerGraphUpdateRecord                                                                                0xc1ba1bc5                                         
+PeerGraphValidateDeferredRecords                                                                     0x706bf1c0                                         
+pMemoryHelper                                                                                        0xfeb69f4e                                         

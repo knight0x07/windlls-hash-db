@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\wlansvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+VsIeProviderGetFunctionTable                                                                         0x289c6cf5                                         
+WLNotifyOnLogoff                                                                                     0x165c62db                                         
+WLNotifyOnLogon                                                                                      0x086f67dd                                         
+WlanSvcMain                                                                                          0xa95eaf68                                         

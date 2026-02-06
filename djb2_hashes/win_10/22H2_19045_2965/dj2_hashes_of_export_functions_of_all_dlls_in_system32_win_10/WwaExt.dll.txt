@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\WwaExt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckAllowDiagnosticsMode                                                                            0xb3a7167f                                         
+DetermineCurrentDisplayRotationAngle                                                                 0x0f140f92                                         
+DllMain                                                                                              0x79f31ec6                                         
+ExtensionModulePreActivate                                                                           0x3b94cc40                                         
+GetExtensionHostModuleCount                                                                          0xd4172c0f                                         
+GetExtensionHostModuleFactory                                                                        0xfb96745e                                         
+GetExtensionWebModuleCount                                                                           0x9a851c8f                                         
+GetExtensionWebModuleFactory                                                                         0x154284de                                         
+GetExtensionWebMultiThreadedModuleCount                                                              0x4e1ca05b                                         
+GetExtensionWebMultiThreadedModuleFactory                                                            0x0cca2baa                                         
+ProcessDisplayRotation                                                                               0x4452e24a                                         
+SetPhoneWerParameters                                                                                0xb17566ad                                         
+StaticExtensionInitialization                                                                        0xd2204552                                         
+StaticExtensionUnInitialization                                                                      0xe90a9c75                                         
+WWABehaviorEnabled                                                                                   0x2cbe328f                                         

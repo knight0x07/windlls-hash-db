@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\SmiEngine.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConstructHiveLocation                                                                                0x4320aacf                                         
+ConstructRegLocation                                                                                 0xda6f3c41                                         
+CreateLalInstance                                                                                    0x468261e7                                         
+CreateSettingsEnginePriv                                                                             0x5bc14161                                         
+CreateWcmEngineCore                                                                                  0xec9955ff                                         
+DeleteCompilerObject                                                                                 0x20d070ea                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetCompilerObject                                                                                    0x24df01b7                                         
+GetItemFromCoreObject                                                                                0xc002c328                                         
+SetLalCreator                                                                                        0x1fa5eeda                                         

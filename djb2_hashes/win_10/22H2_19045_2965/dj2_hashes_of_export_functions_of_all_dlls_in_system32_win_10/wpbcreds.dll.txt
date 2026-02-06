@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\wpbcreds.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WpbcCleanup                                                                                          0x20693e59                                         
+WpbcCreateRemoveTestCredentials                                                                      0x0c96e4c1                                         
+WpbcCreateTestPin                                                                                    0x0dfcc7ec                                         
+WpbcExportCredentials                                                                                0x51113b01                                         
+WpbcGetPinInfo                                                                                       0x65bdf1a4                                         
+WpbcInitialize                                                                                       0x31b75263                                         
+WpbcVerifyUser                                                                                       0x4816f505                                         

@@ -1,0 +1,45 @@
+DLL Path: C:\Windows\System32\drivers\WinAccel.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AccelAbortOffloadRequests                                                                            0x4627acec                                         
+AccelAcquireResourcesAsync                                                                           0x56eae3c0                                         
+AccelAcquireResourcesSync                                                                            0x6f47629f                                         
+AccelBuildCompressionEncoding                                                                        0x50235106                                         
+AccelBuildDescriptorBatch                                                                            0x0101ef2e                                         
+AccelBuildDescriptorMemoryCompare                                                                    0xae0e05cc                                         
+AccelBuildDescriptorMemoryCompress                                                                   0x6fd7dcb1                                         
+AccelBuildDescriptorMemoryCopy                                                                       0xfa387300                                         
+AccelBuildDescriptorMemoryDecompress                                                                 0xa9fff03a                                         
+AccelBuildDescriptorMemoryFill                                                                       0xfa39fe0c                                         
+AccelBuildDescriptorNop                                                                              0xd00bba19                                         
+AccelCloseResource                                                                                   0xe51e0b1b                                         
+AccelCompareMemory                                                                                   0xbe0a72bd                                         
+AccelCompressBuffer                                                                                  0xe1606ae3                                         
+AccelCopyMemory                                                                                      0x47cab9f1                                         
+AccelDecompressBuffer                                                                                0x75cddf2c                                         
+AccelDestroyOffloadWorkspace                                                                         0xe2019491                                         
+AccelEnumAccelerators                                                                                0x223d7dea                                         
+AccelFillMemory                                                                                      0xff435dfd                                         
+AccelGetStatusFromCompletionRecord                                                                   0xf909e86e                                         
+AccelGetSubdescriptorInBatch                                                                         0xf71e7adf                                         
+AccelInitializeBatchDescriptor                                                                       0x5c4b80d0                                         
+AccelInitializeCompressionWorkspace                                                                  0xf6640010                                         
+AccelInitializeDescriptor                                                                            0x1c2c7c4e                                         
+AccelInitializeOffloadWorkspace                                                                      0x0a1d2a39                                         
+AccelQueryBatchDescriptorSize                                                                        0xdd2ed92f                                         
+AccelQueryCompletionInformation                                                                      0xddd02293                                         
+AccelQueryDescriptorSize                                                                             0x9104fd2d                                         
+AccelQueryResourceInformation                                                                        0xc1e34081                                         
+AccelResetCompletionRecord                                                                           0xc1624b99                                         
+AccelResetDescriptorAddressSpace                                                                     0x4c8add31                                         
+AccelSetDescriptorAddressSpace                                                                       0x29e902fa                                         
+AccelShareAddressSpaceWithResource                                                                   0x91108126                                         
+AccelStopSharingAddressSpaceWithResource                                                             0x296a2125                                         
+AccelSubmitWorkAsync                                                                                 0x1c30a792                                         
+AccelSubmitWorkSync                                                                                  0xda1af431                                         
+AccelWaitForMultipleWorkCompletion                                                                   0x520f2862                                         
+AccelWaitForWorkCompletion                                                                           0xa29e2196                                         
+AccelZeroMemory                                                                                      0xee9ea416                                         
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         

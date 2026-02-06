@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\mfsvr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+MFCreateHDCPStatus                                                                                   0x0b49546f                                         
+MFCreateMediaEngineVideoOTA                                                                          0x648897fd                                         
+MFCreateOPMHelper                                                                                    0x980c8478                                         
+MFCreateTimedTextRenderer                                                                            0x7f94705b                                         

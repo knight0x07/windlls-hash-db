@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\NetSetupShim.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+NetSetupCreateBindingMap                                                                             0xea5b9e8a                                         
+NetSetupExportDatabase                                                                               0x90d5ced4                                         
+NetSetupResetBindings                                                                                0x7dfc734e                                         
+NetSetupShimExecuteInfSection                                                                        0xdab84553                                         

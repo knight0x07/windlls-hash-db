@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\dot3api.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Dot3CancelPlap                                                                                       0x61cbac52                                         
+Dot3CloseHandle                                                                                      0xad8a4161                                         
+Dot3DeinitPlapParams                                                                                 0xa196902d                                         
+Dot3DeleteProfile                                                                                    0xed67c2c3                                         
+Dot3DoPlap                                                                                           0xd4c51d3f                                         
+Dot3EnumInterfaces                                                                                   0x458d0018                                         
+Dot3FreeMemory                                                                                       0x3d6859ba                                         
+Dot3GetCurrentProfile                                                                                0x509f3d33                                         
+Dot3GetInterfaceState                                                                                0xc2c83531                                         
+Dot3GetProfile                                                                                       0x35758e70                                         
+Dot3GetProfileEapUserDataInfo                                                                        0x893521ab                                         
+Dot3InitPlapParams                                                                                   0x363ccb64                                         
+Dot3OpenHandle                                                                                       0x21a8e43d                                         
+Dot3QueryAutoConfigParameter                                                                         0x13723d65                                         
+Dot3QueryPlapCredentials                                                                             0x9eb8e670                                         
+Dot3QueryUIRequest                                                                                   0xa274929c                                         
+Dot3ReConnect                                                                                        0xae20aae0                                         
+Dot3ReasonCodeToString                                                                               0x7af6abfc                                         
+Dot3RegisterNotification                                                                             0x9a2d7a6b                                         
+Dot3SetAutoConfigParameter                                                                           0xc8aa3e7b                                         
+Dot3SetInterface                                                                                     0x533a75fc                                         
+Dot3SetProfile                                                                                       0x65f45bfc                                         
+Dot3SetProfileEapUserData                                                                            0x61b88f0b                                         
+Dot3SetProfileEapXmlUserData                                                                         0x0404479c                                         
+Dot3UIResponse                                                                                       0xa2a21ecc                                         
+QueryNetconStatus                                                                                    0x8ae4f006                                         

@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\vpnike.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitializeProtocolEngine                                                                             0xb12d55bf                                         
+InitializeServerProtocolEngine                                                                       0x0141d4f6                                         
+SendMessageToProtocolEngine                                                                          0x0adaa93f                                         
+UninitializeProtocolEngine                                                                           0x1c526b82                                         
+UninitializeServerProtocolEngine                                                                     0x9dbef0f9                                         
+VpnIkeRoamToBestCostInterface                                                                        0xf248475c                                         

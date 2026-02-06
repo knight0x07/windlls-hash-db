@@ -1,0 +1,29 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\bda.inf_amd64_d32fe6b1c2b7b2a5\BdaSup.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BdaCheckChanges                                                                                      0x6a026343                                         
+BdaCommitChanges                                                                                     0x93287f6e                                         
+BdaCreateFilterFactory                                                                               0x1f490cbe                                         
+BdaCreateFilterFactoryEx                                                                             0x15bf3d9b                                         
+BdaCreatePin                                                                                         0x92e53e07                                         
+BdaCreateTopology                                                                                    0x65d4ea7d                                         
+BdaDeletePin                                                                                         0x2c362b66                                         
+BdaFilterFactoryUpdateCacheData                                                                      0x0ad4087b                                         
+BdaGetChangeState                                                                                    0x013573d3                                         
+BdaInitFilter                                                                                        0x327f1546                                         
+BdaMethodCreatePin                                                                                   0x76fca488                                         
+BdaMethodCreateTopology                                                                              0x8b65899e                                         
+BdaMethodDeletePin                                                                                   0x104d91e7                                         
+BdaPropertyGetControllingPinId                                                                       0xb67958b0                                         
+BdaPropertyGetPinControl                                                                             0x4f653cf9                                         
+BdaPropertyNodeDescriptors                                                                           0x06bd76a9                                         
+BdaPropertyNodeEvents                                                                                0x8c04ab4c                                         
+BdaPropertyNodeMethods                                                                               0x4dd056ab                                         
+BdaPropertyNodeProperties                                                                            0x15fca224                                         
+BdaPropertyNodeTypes                                                                                 0x054f760c                                         
+BdaPropertyPinTypes                                                                                  0x66d4fbcd                                         
+BdaPropertyTemplateConnections                                                                       0x555b5cb0                                         
+BdaStartChanges                                                                                      0xcb018ed3                                         
+BdaUninitFilter                                                                                      0xa170c789                                         
+BdaValidateNodeProperty                                                                              0xcf0a0381                                         

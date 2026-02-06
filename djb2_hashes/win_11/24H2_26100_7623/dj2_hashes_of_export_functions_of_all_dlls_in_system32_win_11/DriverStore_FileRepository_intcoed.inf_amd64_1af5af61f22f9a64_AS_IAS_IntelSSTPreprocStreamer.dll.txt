@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_1af5af61f22f9a64\AS\IAS\IntelSSTPreprocStreamer.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IntelSstPreProcApiVersion                                                                            0x8803e316                                         
+IntelSstPreProcBatchProcess                                                                          0x996de477                                         
+IntelSstPreProcBurstProcess                                                                          0x5773f5e5                                         
+IntelSstPreProcDnsSwitch                                                                             0x013789ad                                         
+IntelSstPreProcGetConfig                                                                             0x3775d28c                                         
+IntelSstPreProcGetContext                                                                            0x2637c2fb                                         
+IntelSstPreProcGetContextCount                                                                       0x77db2004                                         
+IntelSstPreProcGetContextId                                                                          0x93347788                                         
+IntelSstPreProcGetInt32Value                                                                         0x221fc1a3                                         
+IntelSstPreProcGetLatency                                                                            0xbac029e6                                         
+IntelSstPreProcGetResidualData                                                                       0x36a5f3a9                                         
+IntelSstPreProcGetSize                                                                               0x76cc9bb1                                         
+IntelSstPreProcGetVersion                                                                            0xc5be947c                                         
+IntelSstPreProcGetVersionString                                                                      0x5aa29893                                         
+IntelSstPreProcInitialize                                                                            0xcccfd568                                         
+IntelSstPreProcInitializeWithLog                                                                     0x553273e6                                         
+IntelSstPreProcInitializeWithLogForAsync                                                             0xff08f86b                                         
+IntelSstPreProcProcess                                                                               0x499a0855                                         
+IntelSstPreProcRelease                                                                               0xc5062fd7                                         
+IntelSstPreProcReset                                                                                 0x89778ab9                                         
+IntelSstPreProcSetBatchProcessWaitFree                                                               0x81adfb3a                                         
+IntelSstPreProcSetConfig                                                                             0xad4b1e98                                         
+IntelSstPreProcSetContext                                                                            0x56b69087                                         

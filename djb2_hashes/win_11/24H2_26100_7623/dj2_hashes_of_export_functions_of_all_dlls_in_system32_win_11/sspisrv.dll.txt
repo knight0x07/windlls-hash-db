@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\sspisrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+SspiSrvClientCallback                                                                                0xea3443eb                                         
+SspiSrvInitialize                                                                                    0x46284ab1                                         
+SspirAcquireCredentialsHandle                                                                        0x247dbc1a                                         
+SspirDeleteSecurityContext                                                                           0xa6d26ec6                                         
+SspirProcessSecurityContext                                                                          0x70b762d2                                         

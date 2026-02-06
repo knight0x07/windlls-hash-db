@@ -1,0 +1,65 @@
+DLL Path: C:\Windows\System32\bthprops.cpl
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BluetoothAuthenticateDevice                                                                          0x0ac6548a                                         
+BluetoothAuthenticateDeviceEx                                                                        0xd5ada867                                         
+BluetoothAuthenticateMultipleDevices                                                                 0xaed90b89                                         
+BluetoothAuthenticationAgent                                                                         0x13deba0a                                         
+BluetoothDisconnectDevice                                                                            0x479ac2f5                                         
+BluetoothDisplayDeviceProperties                                                                     0xa874194e                                         
+BluetoothEnableDiscovery                                                                             0xf82207da                                         
+BluetoothEnableIncomingConnections                                                                   0x8a0bf699                                         
+BluetoothEnumerateInstalledServices                                                                  0x6727dfc5                                         
+BluetoothFindBrowseGroupClose                                                                        0x803b5ab1                                         
+BluetoothFindClassIdClose                                                                            0x5b27dcb5                                         
+BluetoothFindDeviceClose                                                                             0xf89949a2                                         
+BluetoothFindFirstBrowseGroup                                                                        0x5c265b83                                         
+BluetoothFindFirstClassId                                                                            0xd5cfe707                                         
+BluetoothFindFirstDevice                                                                             0x4e2df2d4                                         
+BluetoothFindFirstProfileDescriptor                                                                  0xb85cf414                                         
+BluetoothFindFirstProtocolDescriptorStack                                                            0xfe7f656b                                         
+BluetoothFindFirstProtocolEntry                                                                      0x95e77ae8                                         
+BluetoothFindFirstRadio                                                                              0x50ecb993                                         
+BluetoothFindFirstService                                                                            0x9654b535                                         
+BluetoothFindFirstServiceEx                                                                          0x7e56dfd2                                         
+BluetoothFindNextBrowseGroup                                                                         0x2cb6837a                                         
+BluetoothFindNextClassId                                                                             0xb134ab7e                                         
+BluetoothFindNextDevice                                                                              0x0740846b                                         
+BluetoothFindNextProfileDescriptor                                                                   0x199ef94b                                         
+BluetoothFindNextProtocolDescriptorStack                                                             0x363437e2                                         
+BluetoothFindNextProtocolEntry                                                                       0xcb217c9f                                         
+BluetoothFindNextRadio                                                                               0x9497f44a                                         
+BluetoothFindNextService                                                                             0x71b979ac                                         
+BluetoothFindProfileDescriptorClose                                                                  0x7df67fe2                                         
+BluetoothFindProtocolDescriptorStackClose                                                            0x88216999                                         
+BluetoothFindProtocolEntryClose                                                                      0xa7008f36                                         
+BluetoothFindRadioClose                                                                              0xe374f8c1                                         
+BluetoothFindServiceClose                                                                            0x002ab7a3                                         
+BluetoothGetDeviceInfo                                                                               0x3d8a7e57                                         
+BluetoothGetRadioInfo                                                                                0xcab75db6                                         
+BluetoothIsConnectable                                                                               0x34242115                                         
+BluetoothIsDiscoverable                                                                              0xaba5b8ca                                         
+BluetoothIsVersionAvailable                                                                          0x2acafe3e                                         
+BluetoothMapClassOfDeviceToIconPath                                                                  0x5c6f918d                                         
+BluetoothMapClassOfDeviceToString                                                                    0xb2200c8e                                         
+BluetoothRegisterForAuthentication                                                                   0xe0ae2a07                                         
+BluetoothRegisterForAuthenticationEx                                                                 0xc4e0d124                                         
+BluetoothRemoveDevice                                                                                0x5270ac59                                         
+BluetoothSdpEnumAttributes                                                                           0x46ebffde                                         
+BluetoothSdpGetAttributeValue                                                                        0x5e2078d3                                         
+BluetoothSdpGetContainerElementData                                                                  0xff2f4769                                         
+BluetoothSdpGetElementData                                                                           0x74739e46                                         
+BluetoothSdpGetString                                                                                0xcd0a6cf9                                         
+BluetoothSelectDevices                                                                               0x74bdf6fe                                         
+BluetoothSelectDevicesFree                                                                           0x00e59ae0                                         
+BluetoothSendAuthenticationResponse                                                                  0xe0a98ef4                                         
+BluetoothSendAuthenticationResponseEx                                                                0xb1492551                                         
+BluetoothSetLocalServiceInfo                                                                         0xbb8ead8f                                         
+BluetoothSetServiceState                                                                             0x58ec6739                                         
+BluetoothUnregisterAuthentication                                                                    0x29c4d7c3                                         
+BluetoothUpdateDeviceRecord                                                                          0x583bfe0d                                         
+CPlApplet                                                                                            0x5c9b924a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+[Function Ordinal Only]                                                                              NA                                                 

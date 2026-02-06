@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-realtime-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+QueryIdleProcessorCycleTime                                                                          0xcb8ba418                                         
+QueryIdleProcessorCycleTimeEx                                                                        0xdd051375                                         
+QueryProcessCycleTime                                                                                0x69a3ad59                                         
+QueryThreadCycleTime                                                                                 0x84b91eb2                                         
+QueryUnbiasedInterruptTime                                                                           0x8de8d402                                         

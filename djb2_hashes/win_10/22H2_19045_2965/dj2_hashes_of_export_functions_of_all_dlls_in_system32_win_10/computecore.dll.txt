@@ -1,0 +1,57 @@
+DLL Path: C:\Windows\System32\computecore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HcsCancelOperation                                                                                   0xe3fd99da                                         
+HcsCloseComputeSystem                                                                                0xd8eb3f1b                                         
+HcsCloseOperation                                                                                    0x4d5aea4a                                         
+HcsCloseProcess                                                                                      0x9435ee98                                         
+HcsCrashComputeSystem                                                                                0x50df25b6                                         
+HcsCreateComputeSystem                                                                               0xd94e17f9                                         
+HcsCreateComputeSystemInNamespace                                                                    0xa802a97d                                         
+HcsCreateEmptyGuestStateFile                                                                         0xa14a970f                                         
+HcsCreateEmptyRuntimeStateFile                                                                       0x15c63eeb                                         
+HcsCreateOperation                                                                                   0x5b280428                                         
+HcsCreateProcess                                                                                     0xc596f8f6                                         
+HcsEnumerateComputeSystems                                                                           0xb5686f1e                                         
+HcsEnumerateComputeSystemsInNamespace                                                                0x47c51f82                                         
+HcsEnumerateVmWorkerProcesses                                                                        0x2004461d                                         
+HcsFindVmWorkerProcesses                                                                             0x3a7c7098                                         
+HcsGetComputeSystemFromOperation                                                                     0x7b563caa                                         
+HcsGetComputeSystemProperties                                                                        0x645b3a12                                         
+HcsGetOperationContext                                                                               0xe8bc70f9                                         
+HcsGetOperationId                                                                                    0x1b72f501                                         
+HcsGetOperationResult                                                                                0xeb492353                                         
+HcsGetOperationResultAndProcessInfo                                                                  0x3cc5e4d1                                         
+HcsGetOperationType                                                                                  0xc40aa996                                         
+HcsGetProcessFromOperation                                                                           0xb75357c7                                         
+HcsGetProcessInfo                                                                                    0x9019aa2e                                         
+HcsGetProcessProperties                                                                              0xfd97e24f                                         
+HcsGetServiceProperties                                                                              0x4a419281                                         
+HcsGetWorkerProcessJob                                                                               0xa3d85f77                                         
+HcsGrantVmAccess                                                                                     0x8f812474                                         
+HcsGrantVmGroupAccess                                                                                0xb2d24221                                         
+HcsModifyComputeSystem                                                                               0x797f7d2d                                         
+HcsModifyProcess                                                                                     0xfdc1872a                                         
+HcsModifyServiceSettings                                                                             0xe79602cd                                         
+HcsOpenComputeSystem                                                                                 0xf2d449f7                                         
+HcsOpenComputeSystemInNamespace                                                                      0x281ee0bb                                         
+HcsOpenProcess                                                                                       0xeb570474                                         
+HcsPauseComputeSystem                                                                                0xe9ed2803                                         
+HcsResumeComputeSystem                                                                               0xa417ab76                                         
+HcsRevokeVmAccess                                                                                    0xed9b2c24                                         
+HcsRevokeVmGroupAccess                                                                               0xdfd497d1                                         
+HcsSaveComputeSystem                                                                                 0x499adcf4                                         
+HcsSetComputeSystemCallback                                                                          0x02452cde                                         
+HcsSetOperationCallback                                                                              0x57344c0d                                         
+HcsSetOperationContext                                                                               0x32f93c05                                         
+HcsSetProcessCallback                                                                                0xc0e8a8db                                         
+HcsShutDownComputeSystem                                                                             0x131b1101                                         
+HcsSignalProcess                                                                                     0x12cc80e0                                         
+HcsStartComputeSystem                                                                                0x7bb05193                                         
+HcsStartVmWorkerProcess                                                                              0x5e7889ad                                         
+HcsSubmitWerReport                                                                                   0x3bb336c1                                         
+HcsTerminateComputeSystem                                                                            0xae8ecb8e                                         
+HcsTerminateProcess                                                                                  0x9e51e0cb                                         
+HcsWaitForOperationResult                                                                            0xbdfc05cf                                         
+HcsWaitForOperationResultAndProcessInfo                                                              0x0475704d                                         

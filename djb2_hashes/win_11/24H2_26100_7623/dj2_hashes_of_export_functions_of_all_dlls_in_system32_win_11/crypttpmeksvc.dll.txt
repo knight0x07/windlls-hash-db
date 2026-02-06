@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\crypttpmeksvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CryptsvcDllCtrl                                                                                      0x69960254                                         
+EKCliAuthorityKeyGetInfo                                                                             0x00c2980b                                         
+EKCliTpmEndorsementKeyDecryptSCEPChallenge                                                           0xaa7e7a94                                         
+EKCliTpmEndorsementKeyGetInfo                                                                        0xbae287f7                                         
+EKCliTpmGetManufacturerInfo                                                                          0x40913dd7                                         
+FreeCMCResponse                                                                                      0xfd070269                                         
+IsCmcResponseForAttestation                                                                          0x6e4b251a                                         
+ParseCMCResponse                                                                                     0x82043dc2                                         

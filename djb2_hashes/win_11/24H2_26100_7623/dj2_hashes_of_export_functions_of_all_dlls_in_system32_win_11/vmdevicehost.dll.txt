@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\vmdevicehost.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HdvCreateDeviceInstance                                                                              0xbaa4aac0                                         
+HdvCreateGuestMemoryAperture                                                                         0xfa4a9104                                         
+HdvCreateSectionBackedMmioRange                                                                      0x636aa409                                         
+HdvDeliverGuestInterrupt                                                                             0x7e668cc7                                         
+HdvDestroyGuestMemoryAperture                                                                        0x211facba                                         
+HdvDestroySectionBackedMmioRange                                                                     0xa551abff                                         
+HdvInitializeDeviceHost                                                                              0xdc1be6a7                                         
+HdvInitializeDeviceHostEx                                                                            0x52b035c4                                         
+HdvInitializeDeviceHostForProxy                                                                      0x9c245630                                         
+HdvInitializeDeviceHostForProxyEx                                                                    0x3692ab8d                                         
+HdvProxyDeviceHost                                                                                   0x8fa122b7                                         
+HdvReadGuestMemory                                                                                   0xba5f8ac4                                         
+HdvRegisterDoorbell                                                                                  0x6b3331bf                                         
+HdvRegisterDoorbellPage                                                                              0x511181dc                                         
+HdvTeardownDeviceHost                                                                                0xe1a7d279                                         
+HdvUnregisterDoorbell                                                                                0xe5da9d02                                         
+HdvUnregisterDoorbellPage                                                                            0x5c32d69f                                         
+HdvWriteGuestMemory                                                                                  0x9af48fb3                                         

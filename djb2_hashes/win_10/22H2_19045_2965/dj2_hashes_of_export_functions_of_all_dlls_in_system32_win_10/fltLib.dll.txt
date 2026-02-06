@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\fltLib.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FilterAttach                                                                                         0x0888cee0                                         
+FilterAttachAtAltitude                                                                               0xf91fb411                                         
+FilterClose                                                                                          0xab0c9a81                                         
+FilterConnectCommunicationPort                                                                       0xdad24c10                                         
+FilterCreate                                                                                         0x0d06b79f                                         
+FilterDetach                                                                                         0x0e78d934                                         
+FilterFindClose                                                                                      0x63760862                                         
+FilterFindFirst                                                                                      0x63aab994                                         
+FilterFindNext                                                                                       0x8eac67eb                                         
+FilterGetDosName                                                                                     0x55a28a72                                         
+FilterGetInformation                                                                                 0x5d6d30b1                                         
+FilterGetMessage                                                                                     0xf32f6030                                         
+FilterInstanceClose                                                                                  0x4509aa56                                         
+FilterInstanceCreate                                                                                 0xe6a5c214                                         
+FilterInstanceFindClose                                                                              0xd270fab7                                         
+FilterInstanceFindFirst                                                                              0xd2a5abe9                                         
+FilterInstanceFindNext                                                                               0x4c37e3a0                                         
+FilterInstanceGetInformation                                                                         0x7f55e026                                         
+FilterLoad                                                                                           0x9898c0eb                                         
+FilterReplyMessage                                                                                   0x8a88485c                                         
+FilterSendMessage                                                                                    0xc05f3a7a                                         
+FilterUnload                                                                                         0x36bf40ae                                         
+FilterVolumeClose                                                                                    0xdc24acd9                                         
+FilterVolumeFindClose                                                                                0xac7f86ba                                         
+FilterVolumeFindFirst                                                                                0xacb437ec                                         
+FilterVolumeFindNext                                                                                 0x52d37b43                                         
+FilterVolumeInstanceFindClose                                                                        0x5edf510f                                         
+FilterVolumeInstanceFindFirst                                                                        0x5f140241                                         
+FilterVolumeInstanceFindNext                                                                         0x8e88cef8                                         

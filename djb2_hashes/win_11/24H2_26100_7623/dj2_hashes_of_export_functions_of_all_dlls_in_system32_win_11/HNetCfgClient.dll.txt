@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\HNetCfgClient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+HNetCfgGetDhcpScopeAddress                                                                           0x65557683                                         
+HNetCfgGetPrivateIndex                                                                               0xac7754f7                                         
+HNetCfgGetPublicIndex                                                                                0x3af9311b                                         
+HNetCfgSetDhcpScopeAddress                                                                           0xaf92418f                                         
+HNetCfgStartSharing                                                                                  0xeb4cd73e                                         
+HNetCfgStartSharingEx                                                                                0xf1dfa81b                                         
+HNetCfgStopSharing                                                                                   0x93a15dd6                                         
+HNetCfgUpdateSharingSettingsFromStorage                                                              0x39912f6d                                         

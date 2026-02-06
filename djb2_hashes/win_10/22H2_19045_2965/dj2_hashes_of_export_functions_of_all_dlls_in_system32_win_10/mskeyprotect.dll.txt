@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\mskeyprotect.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetKeyProtectionInterface                                                                            0xe9fae546                                         
+KeyFileProtectSessionTicket                                                                          0x08ba2137                                         
+KeyFileUnprotectSessionTicket                                                                        0x35b24bba                                         

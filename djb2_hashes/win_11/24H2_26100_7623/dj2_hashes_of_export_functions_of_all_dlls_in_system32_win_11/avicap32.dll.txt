@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\avicap32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppCleanup                                                                                           0xb861150e                                         
+capCreateCaptureWindowA                                                                              0xbe8e2b3a                                         
+capCreateCaptureWindowW                                                                              0xbe8e2b50                                         
+capGetDriverDescriptionA                                                                             0x814dabca                                         
+capGetDriverDescriptionW                                                                             0x814dabe0                                         
+videoThunk32                                                                                         0xd2d27e0b                                         

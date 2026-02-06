@@ -1,0 +1,47 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-registry-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RegCloseKey                                                                                          0x736b3702                                         
+RegCopyTreeW                                                                                         0xff728665                                         
+RegCreateKeyExA                                                                                      0x46ceb39e                                         
+RegCreateKeyExW                                                                                      0x46ceb3b4                                         
+RegDeleteKeyExA                                                                                      0xa048989d                                         
+RegDeleteKeyExW                                                                                      0xa04898b3                                         
+RegDeleteTreeA                                                                                       0x3bd2a927                                         
+RegDeleteTreeW                                                                                       0x3bd2a93d                                         
+RegDeleteValueA                                                                                      0xb9a29e54                                         
+RegDeleteValueW                                                                                      0xb9a29e6a                                         
+RegDisablePredefinedCacheEx                                                                          0xde4c2bde                                         
+RegEnumKeyExA                                                                                        0x6d0b1b5f                                         
+RegEnumKeyExW                                                                                        0x6d0b1b75                                         
+RegEnumValueA                                                                                        0x86652116                                         
+RegEnumValueW                                                                                        0x8665212c                                         
+RegFlushKey                                                                                          0x46314e8e                                         
+RegGetKeySecurity                                                                                    0x91fbe704                                         
+RegGetValueA                                                                                         0x79fe96e1                                         
+RegGetValueW                                                                                         0x79fe96f7                                         
+RegLoadAppKeyA                                                                                       0x673b40ee                                         
+RegLoadAppKeyW                                                                                       0x673b4104                                         
+RegLoadKeyA                                                                                          0x86e4efed                                         
+RegLoadKeyW                                                                                          0x86e4f003                                         
+RegLoadMUIStringA                                                                                    0xf8b5a2e6                                         
+RegLoadMUIStringW                                                                                    0xf8b5a2fc                                         
+RegNotifyChangeKeyValue                                                                              0x1d0575a8                                         
+RegOpenCurrentUser                                                                                   0x5fd39cb7                                         
+RegOpenKeyExA                                                                                        0x074a975c                                         
+RegOpenKeyExW                                                                                        0x074a9772                                         
+RegOpenUserClassesRoot                                                                               0x6e3939e6                                         
+RegQueryInfoKeyA                                                                                     0x4679d70f                                         
+RegQueryInfoKeyW                                                                                     0x4679d725                                         
+RegQueryValueExA                                                                                     0x6b95d114                                         
+RegQueryValueExW                                                                                     0x6b95d12a                                         
+RegRestoreKeyA                                                                                       0x2cb543b1                                         
+RegRestoreKeyW                                                                                       0x2cb543c7                                         
+RegSaveKeyExA                                                                                        0x3fbd3cf9                                         
+RegSaveKeyExW                                                                                        0x3fbd3d0f                                         
+RegSetKeySecurity                                                                                    0x58fe9a90                                         
+RegSetValueExA                                                                                       0x345872ea                                         
+RegSetValueExW                                                                                       0x34587300                                         
+RegUnLoadKeyA                                                                                        0xa4444310                                         
+RegUnLoadKeyW                                                                                        0xa4444326                                         

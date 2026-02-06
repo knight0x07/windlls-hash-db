@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\rtpm.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AttFreeMem                                                                                           0x304979af                                         
+AttRtpmAcceptContext                                                                                 0x313254e6                                         
+AttRtpmCloseInitiator                                                                                0x5fdac5ba                                         
+AttRtpmCloseTarget                                                                                   0x054ae7ae                                         
+AttRtpmCompletePCRRead                                                                               0xcef951cb                                         
+AttRtpmContinueContext                                                                               0x6ae6781b                                         
+AttRtpmCreateInitiator                                                                               0x0833c958                                         
+AttRtpmCreateServerKey                                                                               0xfff66c45                                         
+AttRtpmCreateTarget                                                                                  0x4aa3600c                                         
+AttRtpmInitiatePCRRead                                                                               0x4d7695e9                                         
+RtpmAcceptContext                                                                                    0x27afa7fd                                         
+RtpmCloseInitiator                                                                                   0x26027bb1                                         
+RtpmClosePcrCollection                                                                               0x72770caf                                         
+RtpmCloseTarget                                                                                      0xb95a8905                                         
+RtpmCompleteCreateKey                                                                                0x8f89775e                                         
+RtpmCompletePCRRead                                                                                  0x5a17c6a2                                         
+RtpmCompleteSeal                                                                                     0xccfdfae6                                         
+RtpmContinueContext                                                                                  0xf604ecf2                                         
+RtpmCreateInitiator                                                                                  0x93523e2f                                         
+RtpmCreatePcrCollection                                                                              0xaebfde2d                                         
+RtpmCreateTarget                                                                                     0x80a72c43                                         
+RtpmExtendPcr                                                                                        0x12235475                                         
+RtpmGetPcrSelectionData                                                                              0x2754cc0d                                         
+RtpmHashAndExtendPcr                                                                                 0x5060a50c                                         
+RtpmInitiateCreateKey                                                                                0xa2683afc                                         
+RtpmInitiatePCRRead                                                                                  0xd8950ac0                                         
+RtpmInitiateSeal                                                                                     0x366e83c4                                         
+RtpmReadPcr                                                                                          0xa132ab89                                         
+RtpmSetPcr                                                                                           0x35cd6579                                         

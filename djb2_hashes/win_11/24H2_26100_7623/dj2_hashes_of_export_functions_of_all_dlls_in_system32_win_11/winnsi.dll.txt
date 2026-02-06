@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\winnsi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NsiConnectToServer                                                                                   0x182d1b93                                         
+NsiDisconnectFromServer                                                                              0x05e74a84                                         
+NsiRpcDeregisterChangeNotification                                                                   0xf4d691af                                         
+NsiRpcDeregisterChangeNotificationEx                                                                 0x84c1c2cc                                         
+NsiRpcEnumerateObjectsAllParameters                                                                  0x93cd9471                                         
+NsiRpcGetAllParameters                                                                               0x8289ce01                                         
+NsiRpcGetAllParametersEx                                                                             0x4c355b9e                                         
+NsiRpcGetParameter                                                                                   0xf1203955                                         
+NsiRpcGetParameterEx                                                                                 0xba13ebf2                                         
+NsiRpcRegisterChangeNotification                                                                     0xd4914e26                                         
+NsiRpcRegisterChangeNotificationEx                                                                   0x3e1d7903                                         
+NsiRpcSetAllParameters                                                                               0x1507948d                                         
+NsiRpcSetAllParametersEx                                                                             0x753ef52a                                         
+NsiRpcSetParameter                                                                                   0x3c8899e1                                         
+NsiRpcSetParameterEx                                                                                 0x81169f7e                                         

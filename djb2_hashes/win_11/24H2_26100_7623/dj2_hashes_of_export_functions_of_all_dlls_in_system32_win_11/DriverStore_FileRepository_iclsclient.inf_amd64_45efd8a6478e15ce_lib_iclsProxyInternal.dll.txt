@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iclsclient.inf_amd64_45efd8a6478e15ce\lib\iclsProxyInternal.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+iclsCaidDestroy                                                                                      0xdb2c200b                                         
+iclsCaidProtect                                                                                      0x94f16e62                                         
+iclsConfigDestroy                                                                                    0x108e5410                                         
+iclsConfigPrepare                                                                                    0xc99c6cb5                                         
+iclsExtendedServicingMessage                                                                         0x4b824a50                                         
+iclsGetAttribute                                                                                     0x253dcbc4                                         
+iclsGetProxyVersion                                                                                  0x650d7878                                         
+iclsMessage                                                                                          0x8fd79635                                         
+iclsMessage_Ex                                                                                       0x66d68391                                         

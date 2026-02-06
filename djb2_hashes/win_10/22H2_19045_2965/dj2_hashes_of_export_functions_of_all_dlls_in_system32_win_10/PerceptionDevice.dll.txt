@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\PerceptionDevice.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateSpatialObjectDDIClientFactory                                                                  0x15cf79e6                                         
+DllMain                                                                                              0x79f31ec6                                         
+PerceptionDeviceCreateFactory                                                                        0xc15b18da                                         
+PerceptionDeviceSetCreateFactoryOverride                                                             0x2826a0a6                                         

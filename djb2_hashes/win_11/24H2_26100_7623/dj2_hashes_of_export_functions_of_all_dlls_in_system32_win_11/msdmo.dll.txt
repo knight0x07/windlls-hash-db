@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\msdmo.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DMOEnum                                                                                              0x2f92427a                                         
+DMOGetName                                                                                           0x879a86e6                                         
+DMOGetTypes                                                                                          0x7b652cfa                                         
+DMOGuidToStrA                                                                                        0x8390468b                                         
+DMOGuidToStrW                                                                                        0x839046a1                                         
+DMORegister                                                                                          0x855f0bca                                         
+DMOStrToGuidA                                                                                        0xfa793c0b                                         
+DMOStrToGuidW                                                                                        0xfa793c21                                         
+DMOUnregister                                                                                        0x53fed38d                                         
+MoCopyMediaType                                                                                      0xf48cdade                                         
+MoCreateMediaType                                                                                    0x3c1d7897                                         
+MoDeleteMediaType                                                                                    0xcc88b136                                         
+MoDuplicateMediaType                                                                                 0x2fbcdcde                                         
+MoFreeMediaType                                                                                      0x69b4ef25                                         
+MoInitMediaType                                                                                      0xe615ec17                                         

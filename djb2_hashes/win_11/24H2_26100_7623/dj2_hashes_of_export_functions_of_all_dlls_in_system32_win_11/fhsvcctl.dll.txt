@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\fhsvcctl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+FhQueryConfiguredUsersCount                                                                          0xe3618f6a                                         
+FhServiceBlockBackup                                                                                 0x377a1845                                         
+FhServiceClearProtectionState                                                                        0xdeacbb73                                         
+FhServiceClosePipe                                                                                   0x554b11c8                                         
+FhServiceEnterMaintenanceMode                                                                        0x9272ee8a                                         
+FhServiceExitMaintenanceMode                                                                         0x68cdadc6                                         
+FhServiceMigrationFinished                                                                           0xe565f238                                         
+FhServiceMigrationStarting                                                                           0x15cebc1a                                         
+FhServiceOpenPipe                                                                                    0x8ef2b504                                         
+FhServiceReloadConfiguration                                                                         0x748e80b3                                         
+FhServiceStartBackup                                                                                 0x60d01888                                         
+FhServiceStopBackup                                                                                  0xabd6e420                                         
+FhServiceUnblockBackup                                                                               0x9d7b10e8                                         

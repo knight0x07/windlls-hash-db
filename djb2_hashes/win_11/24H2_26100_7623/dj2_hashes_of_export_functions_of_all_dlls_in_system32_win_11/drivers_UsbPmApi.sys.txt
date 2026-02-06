@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\drivers\UsbPmApi.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+UsbPm_AssignConnectorPowerLevel                                                                      0x0d6e0a80                                         
+UsbPm_Deregister                                                                                     0x89b8c479                                         
+UsbPm_Register                                                                                       0xc0fb1770                                         
+UsbPm_RetrieveConnectorProperties                                                                    0x874b0e29                                         
+UsbPm_RetrieveConnectorState                                                                         0xce5ef69d                                         
+UsbPm_RetrieveHubConnectorHandles                                                                    0xdf5f837a                                         
+UsbPm_RetrieveHubProperties                                                                          0xa1f4069d                                         

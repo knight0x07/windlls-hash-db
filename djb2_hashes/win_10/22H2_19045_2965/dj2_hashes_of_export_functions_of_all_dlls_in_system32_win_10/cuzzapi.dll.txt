@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\cuzzapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CuzzDisable                                                                                          0x35ec88e5                                         
+CuzzEnable                                                                                           0x70e34258                                         
+CuzzGetRandomSeed                                                                                    0x57f60333                                         
+CuzzIsEnabled                                                                                        0x2d779858                                         
+CuzzSchedule                                                                                         0xe41c959e                                         
+CuzzSetDebugLoweringPoint                                                                            0xe580a5f5                                         
+CuzzSetDebugPriority                                                                                 0xd672be46                                         
+CuzzSetPriority                                                                                      0x471bb43f                                         
+CuzzSetRandomSeed                                                                                    0x106a753f                                         

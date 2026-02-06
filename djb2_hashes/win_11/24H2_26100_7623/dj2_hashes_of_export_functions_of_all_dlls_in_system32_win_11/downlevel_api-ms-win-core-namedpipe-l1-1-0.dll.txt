@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-namedpipe-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConnectNamedPipe                                                                                     0xc003c602                                         
+CreateNamedPipeW                                                                                     0x28fe1c03                                         
+CreatePipe                                                                                           0x9a8deee7                                         
+DisconnectNamedPipe                                                                                  0x55668f42                                         
+GetNamedPipeClientComputerNameW                                                                      0xc9b970be                                         
+ImpersonateNamedPipeClient                                                                           0xea1b005e                                         
+PeekNamedPipe                                                                                        0x94f08b9d                                         
+SetNamedPipeHandleState                                                                              0x87331251                                         
+TransactNamedPipe                                                                                    0xc1d97cb8                                         
+WaitNamedPipeW                                                                                       0x085741c4                                         

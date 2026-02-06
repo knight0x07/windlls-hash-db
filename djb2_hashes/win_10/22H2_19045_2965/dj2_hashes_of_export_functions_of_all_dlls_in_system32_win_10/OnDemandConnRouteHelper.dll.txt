@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\OnDemandConnRouteHelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FreeInterfaceContextTable                                                                            0xfbc6d1c5                                         
+GetInterfaceContextTableForHostName                                                                  0xb1c1e089                                         
+OnDemandAddRouteRequest                                                                              0x443d5d8c                                         
+OnDemandGetRoutingHint                                                                               0xdc573ba6                                         
+OnDemandRegisterNotification                                                                         0xd2a5a457                                         
+OnDemandRemoveMatchingRoute                                                                          0xf0e1c093                                         
+OnDemandRemoveRouteRequest                                                                           0xdf1cdaf1                                         
+OnDemandUnRegisterNotification                                                                       0x946e3dfa                                         

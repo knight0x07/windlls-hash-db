@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-service-management-l2-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ChangeServiceConfig2W                                                                                0x6ba9973b                                         
+ChangeServiceConfigW                                                                                 0x77a04a89                                         
+NotifyServiceStatusChangeW                                                                           0x2381d290                                         
+QueryServiceConfig2W                                                                                 0xd9dc21ab                                         
+QueryServiceConfigW                                                                                  0x6b7346f9                                         
+QueryServiceObjectSecurity                                                                           0x5d8ed77b                                         
+QueryServiceStatusEx                                                                                 0x018db08d                                         
+SetServiceObjectSecurity                                                                             0xe2f84491                                         

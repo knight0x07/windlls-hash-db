@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\Query.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BindIFilterFromStorage                                                                               0x3b9c575a                                         
+BindIFilterFromStream                                                                                0xd3443a31                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+LoadBinaryFilter                                                                                     0x12005950                                         
+LoadIFilter                                                                                          0x4eb02d94                                         
+LoadIFilterEx                                                                                        0xbb71ebf1                                         
+LoadTextFilter                                                                                       0x45db4590                                         

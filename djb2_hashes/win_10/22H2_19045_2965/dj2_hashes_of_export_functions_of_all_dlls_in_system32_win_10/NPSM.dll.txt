@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\NPSM.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+RegisterNowPlayingSessionManagerFactory                                                              0xf5442fe9                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+UnregisterNowPlayingSessionManagerFactory                                                            0x22607f4c                                         

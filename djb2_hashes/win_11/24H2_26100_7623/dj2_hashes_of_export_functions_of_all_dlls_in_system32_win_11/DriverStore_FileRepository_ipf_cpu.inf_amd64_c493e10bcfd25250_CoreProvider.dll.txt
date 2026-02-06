@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_c493e10bcfd25250\CoreProvider.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetDllBuildType                                                                                      0xc98f5cf3                                         
+GetDllProperties                                                                                     0x987eb4ee                                         
+GetDllVersion                                                                                        0xe16a2f87                                         
+ProviderApiCreate                                                                                    0x257de0de                                         
+ProviderApiDestroy                                                                                   0x04e8e4b4                                         
+ProviderApiRevision                                                                                  0x93d7fdd9                                         

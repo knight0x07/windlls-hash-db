@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\PeerDist.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PeerDistClientAddContentInformation                                                                  0x835be38e                                         
+PeerDistClientAddData                                                                                0x8ff21907                                         
+PeerDistClientBlockRead                                                                              0xc31a84ab                                         
+PeerDistClientCancelAsyncOperation                                                                   0xfec04c79                                         
+PeerDistClientCloseContent                                                                           0xf26900d5                                         
+PeerDistClientCompleteContentInformation                                                             0xc893f9be                                         
+PeerDistClientFlushContent                                                                           0x6247fe61                                         
+PeerDistClientGetInformationByHandle                                                                 0xa2949331                                         
+PeerDistClientOpenContent                                                                            0xa0df0691                                         
+PeerDistClientStreamRead                                                                             0x5846e28c                                         
+PeerDistGetOverlappedResult                                                                          0x70dad796                                         
+PeerDistGetStatus                                                                                    0x10773aa9                                         
+PeerDistGetStatusEx                                                                                  0x0b309246                                         
+PeerDistRegisterForStatusChangeNotification                                                          0x78a58982                                         
+PeerDistRegisterForStatusChangeNotificationEx                                                        0x382dfb5f                                         
+PeerDistServerCancelAsyncOperation                                                                   0x23dd5d91                                         
+PeerDistServerCloseContentInformation                                                                0x998ab833                                         
+PeerDistServerCloseStreamHandle                                                                      0x0b16822a                                         
+PeerDistServerOpenContentInformation                                                                 0x31154d6f                                         
+PeerDistServerOpenContentInformationEx                                                               0xcb9e6e8c                                         
+PeerDistServerPublishAddToStream                                                                     0x80abb00b                                         
+PeerDistServerPublishCompleteStream                                                                  0xe6e64718                                         
+PeerDistServerPublishStream                                                                          0x32a203df                                         
+PeerDistServerRetrieveContentInformation                                                             0xe81bb843                                         
+PeerDistServerUnpublish                                                                              0x9f1b7256                                         
+PeerDistShutdown                                                                                     0xf7644361                                         
+PeerDistStartup                                                                                      0x9e315a18                                         
+PeerDistUnregisterForStatusChangeNotification                                                        0xd3a62765                                         

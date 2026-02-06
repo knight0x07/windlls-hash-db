@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\gpscript.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GenerateScriptsGroupPolicy                                                                           0x360c5c35                                         
+ProcessScriptsGroupPolicy                                                                            0xf32b4d29                                         
+ProcessScriptsGroupPolicyEx                                                                          0x6b3344c6                                         
+ScrRegGPOListToWbem                                                                                  0x6d262a1b                                         

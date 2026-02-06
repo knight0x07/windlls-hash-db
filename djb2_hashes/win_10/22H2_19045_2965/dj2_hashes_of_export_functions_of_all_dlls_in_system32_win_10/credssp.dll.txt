@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\credssp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InitSecurityInterfaceW                                                                               0x0834e839                                         
+SpAcceptSecurityContext                                                                              0xf9299f15                                         
+SpAcquireCredentialsHandleW                                                                          0xbe20ad63                                         
+SpAddCredentialsW                                                                                    0xb1f37656                                         
+SpApplyControlToken                                                                                  0x06a55670                                         
+SpChangeAccountPasswordW                                                                             0xb585eb45                                         
+SpCompleteAuthToken                                                                                  0x19c775f4                                         
+SpDecryptMessage                                                                                     0x89be35e8                                         
+SpDeleteSecurityContext                                                                              0x5096d378                                         
+SpEncryptMessage                                                                                     0x8f55c512                                         
+SpEnumerateSecurityPackagesW                                                                         0xaa0e9bbc                                         
+SpExportSecurityContext                                                                              0x6a3ca1a7                                         
+SpFreeContextBuffer                                                                                  0x70a38609                                         
+SpFreeCredentialsHandle                                                                              0xfeb8e224                                         
+SpImpersonateSecurityContext                                                                         0x307a720c                                         
+SpImportSecurityContextW                                                                             0x00f33dd7                                         
+SpInitializeSecurityContextW                                                                         0x51746c6e                                         
+SpMakeSignature                                                                                      0xe2da0038                                         
+SpQueryContextAttributesW                                                                            0x7c5385a1                                         
+SpQueryCredentialsAttributesW                                                                        0xe2cfb44a                                         
+SpQuerySecurityContextToken                                                                          0x1db3485c                                         
+SpQuerySecurityPackageInfoW                                                                          0x18be7b85                                         
+SpRevertSecurityContext                                                                              0x393df93d                                         
+SpSetContextAttributesW                                                                              0x651ffdb7                                         
+SpSetCredentialsAttributesW                                                                          0xcea64760                                         
+SpVerifySignature                                                                                    0xc943ec8f                                         

@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\lltdapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+LLTDCreateEnumerator                                                                                 0xe326bacb                                         
+LLTDCreateMapFromXML                                                                                 0xdfe3fc8c                                         
+LLTDCreateMapper                                                                                     0x72ab40ae                                         
+LLTDCreateNode                                                                                       0x1507bfcf                                         

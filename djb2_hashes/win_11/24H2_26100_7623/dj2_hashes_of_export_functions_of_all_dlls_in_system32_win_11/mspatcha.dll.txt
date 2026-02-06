@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\mspatcha.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ApplyPatchToFileA                                                                                    0x041ea13f                                         
+ApplyPatchToFileByBuffers                                                                            0x404829c6                                         
+ApplyPatchToFileByHandles                                                                            0xe00e3118                                         
+ApplyPatchToFileByHandlesEx                                                                          0x1c5ee075                                         
+ApplyPatchToFileExA                                                                                  0x864c0dbc                                         
+ApplyPatchToFileExW                                                                                  0x864c0dd2                                         
+ApplyPatchToFileW                                                                                    0x041ea155                                         
+GetFilePatchSignatureA                                                                               0x101cac08                                         
+GetFilePatchSignatureByBuffer                                                                        0xe6adb99c                                         
+GetFilePatchSignatureByHandle                                                                        0xf3471eae                                         
+GetFilePatchSignatureW                                                                               0x101cac1e                                         
+NormalizeFileForPatchSignature                                                                       0x78973d5f                                         
+TestApplyPatchToFileA                                                                                0x643ad07f                                         
+TestApplyPatchToFileByBuffers                                                                        0xf43f9906                                         
+TestApplyPatchToFileByHandles                                                                        0x9405a058                                         
+TestApplyPatchToFileW                                                                                0x643ad095                                         

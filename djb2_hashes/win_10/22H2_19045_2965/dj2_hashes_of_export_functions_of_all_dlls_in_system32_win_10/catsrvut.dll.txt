@@ -1,0 +1,42 @@
+DLL Path: C:\Windows\System32\catsrvut.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CComPlusComponent@@QEAA@$$QEAV0@@Z                                                                0x0cb72063                                         
+??0CComPlusComponent@@QEAA@AEBV0@@Z                                                                  0x9530152c                                         
+??0CComPlusInterface@@QEAA@$$QEAV0@@Z                                                                0x9bd55ba1                                         
+??0CComPlusInterface@@QEAA@AEBV0@@Z                                                                  0x6c6a68ea                                         
+??0CComPlusMethod@@QEAA@AEBV0@@Z                                                                     0x66dabb1a                                         
+??0CComPlusObject@@QEAA@AEBV0@@Z                                                                     0xd2d08610                                         
+??1CComPlusComponent@@UEAA@XZ                                                                        0x829a531b                                         
+??1CComPlusInterface@@UEAA@XZ                                                                        0x51083059                                         
+??4CComPlusComponent@@QEAAAEAV0@$$QEAV0@@Z                                                           0xb4e23af4                                         
+??4CComPlusComponent@@QEAAAEAV0@AEBV0@@Z                                                             0x4401577d                                         
+??4CComPlusInterface@@QEAAAEAV0@$$QEAV0@@Z                                                           0x97bd2cf2                                         
+??4CComPlusInterface@@QEAAAEAV0@AEBV0@@Z                                                             0x06dbb1fb                                         
+??4CComPlusMethod@@QEAAAEAV0@AEBV0@@Z                                                                0x330c50ab                                         
+??4CComPlusObject@@QEAAAEAV0@AEBV0@@Z                                                                0xd0056561                                         
+??4CComPlusTypelib@@QEAAAEAV0@AEBV0@@Z                                                               0x79ed9763                                         
+??_7CComPlusComponent@@6B@                                                                           0xaaa248aa                                         
+??_7CComPlusInterface@@6B@                                                                           0x9fe736e8                                         
+??_7CComPlusMethod@@6B@                                                                              0x26fcaed8                                         
+??_7CComPlusObject@@6B@                                                                              0x5d8c2e4e                                         
+?GetITypeLib@CComPlusTypelib@@QEAAPEAUITypeLib@@XZ                                                   0xab67079c                                         
+CGMIsAdministrator                                                                                   0x98d3c4d9                                         
+COMPlusUninstallActionW                                                                              0x68d12fd7                                         
+CreateComRegDBWriter                                                                                 0xbaaaf159                                         
+DestroyComRegDBWriter                                                                                0x022a130f                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+FindAssemblyModulesW                                                                                 0x181ac9d6                                         
+ManagedRequestW                                                                                      0xacfd7b32                                         
+QueryUserDllW                                                                                        0x5c749eed                                         
+RegDBBackup                                                                                          0x5460a83f                                         
+RegDBRestore                                                                                         0xba947d4d                                         
+RunMTSToCom                                                                                          0xa31bf090                                         
+StartMTSTOCOM                                                                                        0x8debe3a9                                         
+SysprepComplus                                                                                       0x6afef71e                                         
+SysprepComplus2                                                                                      0xcadddb10                                         
+WinlogonHandlePendingInfOperations                                                                   0x50caba84                                         

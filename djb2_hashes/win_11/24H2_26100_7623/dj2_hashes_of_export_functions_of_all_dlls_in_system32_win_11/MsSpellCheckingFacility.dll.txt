@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\MsSpellCheckingFacility.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+SpellerCheck                                                                                         0x6627509a                                         
+SpellerCloseLex                                                                                      0x8155da3b                                         
+SpellerGetOptions                                                                                    0xf58fcca8                                         
+SpellerInit                                                                                          0xfb59eab0                                         
+SpellerOpenLex                                                                                       0x3ba78ef7                                         
+SpellerSetOptions                                                                                    0x260e9a34                                         
+SpellerTerminate                                                                                     0xcbd288c5                                         

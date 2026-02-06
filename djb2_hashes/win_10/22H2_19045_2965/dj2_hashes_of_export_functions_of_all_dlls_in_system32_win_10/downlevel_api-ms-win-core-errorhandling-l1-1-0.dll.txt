@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-errorhandling-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetErrorMode                                                                                         0x4bf0e554                                         
+GetLastError                                                                                         0x2082eae3                                         
+RaiseException                                                                                       0x8b8deae8                                         
+SetErrorMode                                                                                         0x975945e0                                         
+SetLastError                                                                                         0x6beb4b6f                                         
+SetUnhandledExceptionFilter                                                                          0x252c3659                                         
+UnhandledExceptionFilter                                                                             0x437d25ed                                         

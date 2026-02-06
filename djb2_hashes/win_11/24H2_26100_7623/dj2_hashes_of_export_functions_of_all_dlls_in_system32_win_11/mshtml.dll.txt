@@ -1,0 +1,54 @@
+DLL Path: C:\Windows\System32\mshtml.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClearPhishingFilterData                                                                              0x2c69b3c6                                         
+ConvertAndEscapePostData                                                                             0x8c18dd8a                                         
+CreateCoreWebView                                                                                    0x54825cbb                                         
+CreateHTMLPropertyPage                                                                               0x2a255730                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllEnumClassObjects                                                                                  0xa37e58d6                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetColorValueFromString                                                                              0x1c262a8c                                         
+GetWebPlatformObject                                                                                 0xfb13b3ff                                         
+IEIsXMLNSRegistered                                                                                  0xca651b6f                                         
+IERegisterXMLNS                                                                                      0xfeaf998a                                         
+InitializeLocalHtmlEngine                                                                            0xcdeb23cd                                         
+MatchExactGetIDsOfNames                                                                              0xb257ef30                                         
+PrintHTML                                                                                            0x29e70cc7                                         
+RunHTMLApplication                                                                                   0x873746a3                                         
+ShowHTMLDialog                                                                                       0xa4991ccb                                         
+ShowHTMLDialogEx                                                                                     0x2f5384e8                                         
+ShowModalDialog                                                                                      0xc9937be3                                         
+ShowModelessHTMLDialog                                                                               0xbf7f2cc7                                         
+TravelLogCreateInstance                                                                              0x93b33a9e                                         
+TravelLogStgCreateInstance                                                                           0x77efb76c                                         
+UninitializeLocalHtmlEngine                                                                          0x9db2f1f0                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

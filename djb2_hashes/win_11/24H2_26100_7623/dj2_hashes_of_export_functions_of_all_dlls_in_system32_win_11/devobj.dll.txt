@@ -1,0 +1,56 @@
+DLL Path: C:\Windows\System32\devobj.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DevObjBuildClassInfoList                                                                             0x982bc50d                                         
+DevObjChangeState                                                                                    0x9a5d6946                                         
+DevObjClassGuidsFromName                                                                             0x52f76546                                         
+DevObjClassNameFromGuid                                                                              0x07861213                                         
+DevObjCreateClassDeviceInfoList                                                                      0x0d10dfa1                                         
+DevObjCreateDevRegKey                                                                                0x1f7fbeb9                                         
+DevObjCreateDeviceInfo                                                                               0xf523946f                                         
+DevObjCreateDeviceInfoList                                                                           0x4cd1aeab                                         
+DevObjCreateDeviceInterface                                                                          0x0810eff4                                         
+DevObjCreateDeviceInterfaceRegKey                                                                    0x97ee8cfb                                         
+DevObjDeleteAllInterfacesForDevice                                                                   0x5d8b2ca6                                         
+DevObjDeleteDevRegKey                                                                                0xafeaf758                                         
+DevObjDeleteDevice                                                                                   0x765266c2                                         
+DevObjDeleteDeviceInfo                                                                               0x92f5e0ee                                         
+DevObjDeleteDeviceInterfaceData                                                                      0xf4bc8b0d                                         
+DevObjDeleteDeviceInterfaceRegKey                                                                    0x36f4ac1a                                         
+DevObjDestroyDeviceInfoList                                                                          0xed07d7a1                                         
+DevObjEnumDeviceInfo                                                                                 0xa7b37db0                                         
+DevObjEnumDeviceInterfaces                                                                           0x78d304e8                                         
+DevObjGetClassDescription                                                                            0x05224db9                                         
+DevObjGetClassDevs                                                                                   0x8986bee7                                         
+DevObjGetClassProperty                                                                               0x4683db7a                                         
+DevObjGetClassPropertyKeys                                                                           0x53c3e696                                         
+DevObjGetClassRegistryProperty                                                                       0xb0b10393                                         
+DevObjGetDeviceInfoDetail                                                                            0x4dd9f9ee                                         
+DevObjGetDeviceInfoListClass                                                                         0xe5da86ad                                         
+DevObjGetDeviceInfoListDetail                                                                        0xa30bf72a                                         
+DevObjGetDeviceInstanceId                                                                            0x12542a51                                         
+DevObjGetDeviceInterfaceAlias                                                                        0xe803bdca                                         
+DevObjGetDeviceInterfaceDetail                                                                       0xef024cb3                                         
+DevObjGetDeviceInterfaceProperty                                                                     0xa9f6f1a5                                         
+DevObjGetDeviceInterfacePropertyKeys                                                                 0xc9dc1a41                                         
+DevObjGetDeviceProperty                                                                              0xc72534f4                                         
+DevObjGetDevicePropertyKeys                                                                          0x90096d10                                         
+DevObjGetDeviceRegistryProperty                                                                      0x08e9370d                                         
+DevObjLocateDevice                                                                                   0x3d3b8827                                         
+DevObjOpenClassRegKey                                                                                0x9903300e                                         
+DevObjOpenDevRegKey                                                                                  0x47035ab7                                         
+DevObjOpenDeviceInfo                                                                                 0x0d1ab02d                                         
+DevObjOpenDeviceInterface                                                                            0x68e51272                                         
+DevObjOpenDeviceInterfaceRegKey                                                                      0x66fe15f9                                         
+DevObjRegisterDeviceInfo                                                                             0x5a5e4800                                         
+DevObjRemoveDeviceInterface                                                                          0x1b93166e                                         
+DevObjRestartDevices                                                                                 0x90065a87                                         
+DevObjSetClassProperty                                                                               0xd901a206                                         
+DevObjSetClassRegistryProperty                                                                       0x63a2961f                                         
+DevObjSetDeviceInfoDetail                                                                            0x9816c4fa                                         
+DevObjSetDeviceInterfaceDefault                                                                      0xdf72a391                                         
+DevObjSetDeviceInterfaceProperty                                                                     0xdf975731                                         
+DevObjSetDeviceProperty                                                                              0xa95bcd00                                         
+DevObjSetDeviceRegistryProperty                                                                      0x1a0d1b19                                         
+DevObjUninstallDevice                                                                                0xa41dff49                                         

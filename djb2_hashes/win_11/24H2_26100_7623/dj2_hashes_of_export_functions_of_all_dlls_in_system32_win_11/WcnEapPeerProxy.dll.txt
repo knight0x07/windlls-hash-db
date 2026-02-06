@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\WcnEapPeerProxy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EapPeerFreeErrorMemory                                                                               0x8ae6b22c                                         
+EapPeerFreeMemory                                                                                    0xed357f62                                         
+EapPeerGetInfo                                                                                       0x3f1b2313                                         
+EapPeerGetMethodProperties                                                                           0xad9429d5                                         

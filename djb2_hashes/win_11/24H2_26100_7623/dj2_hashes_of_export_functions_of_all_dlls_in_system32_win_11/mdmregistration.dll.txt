@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\mdmregistration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DiscoverManagementService                                                                            0xb7f54df2                                         
+DiscoverManagementServiceEx                                                                          0x8a809bcf                                         
+FindDiscoveryService                                                                                 0xf0bc0f4f                                         
+GetDeviceManagementConfigInfo                                                                        0xfb83b434                                         
+GetDeviceRegistrationInfo                                                                            0xaf1ce0dc                                         
+GetManagementAppHyperlink                                                                            0x28a6f1b9                                         
+IsDeviceRegisteredWithManagement                                                                     0xdc893ef8                                         
+IsManagementRegistrationAllowed                                                                      0x63c7dc81                                         
+IsMdmUxWithoutAadAllowed                                                                             0xe50bf3ee                                         
+RegisterDeviceWithManagement                                                                         0xb72a8ef3                                         
+RegisterDeviceWithManagementUsingAADCredentials                                                      0xddd7ac2d                                         
+RegisterDeviceWithManagementUsingAADDeviceCredentials                                                0xc9995f9d                                         
+RegisterDeviceWithManagementUsingAADDeviceCredentials2                                               0xfcc5536f                                         
+SetDeviceManagementConfigInfo                                                                        0x04d2be40                                         
+SetManagedExternally                                                                                 0x6d844ac6                                         
+UnregisterDeviceWithManagement                                                                       0xb69ace36                                         

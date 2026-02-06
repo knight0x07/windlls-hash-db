@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\SearchFolder.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppendHiddenSearchContext                                                                            0x6421a684                                         
+CDBFolderUI_CreateInstance                                                                           0xc14d7410                                         
+CSearchDelegateFolderUI_CreateInstance                                                               0xafe5785b                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetAggregateQueryError                                                                               0x124dc36c                                         
+s_GetStartMenuFilesScope                                                                             0x4aaba827                                         

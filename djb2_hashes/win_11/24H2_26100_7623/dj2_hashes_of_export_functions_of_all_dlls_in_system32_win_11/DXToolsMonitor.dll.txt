@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\DXToolsMonitor.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CLSID_DXDefaultPlatformStorage                                                                       0xbcf5464e                                         
+CLSID_DXToolsStockExperiment_FullCapture                                                             0x9c83cc2b                                         
+CLSID_DXToolsStockExperiment_FullPlayback                                                            0x586822fe                                         
+CLSID_DXToolsStockExperiment_Overdraw                                                                0xbc90fdee                                         
+CLSID_DXToolsStockExperiment_Recapture                                                               0x3b05532f                                         
+CreateSerializationController                                                                        0x403e089b                                         
+CreateWin8Injector                                                                                   0xea83067d                                         

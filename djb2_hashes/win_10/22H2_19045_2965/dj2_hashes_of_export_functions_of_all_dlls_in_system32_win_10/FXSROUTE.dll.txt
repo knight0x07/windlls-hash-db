@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\FXSROUTE.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FaxExtInitializeConfig                                                                               0x7c9b2add                                         
+FaxRouteConfigure                                                                                    0x88d45295                                         
+FaxRouteDeviceChangeNotification                                                                     0x40931210                                         
+FaxRouteDeviceEnable                                                                                 0xdafaf20a                                         
+FaxRouteEmail                                                                                        0xca2ba71b                                         
+FaxRouteGetRoutingInfo                                                                               0x50189647                                         
+FaxRouteInitialize                                                                                   0xdf161f85                                         
+FaxRoutePrint                                                                                        0xcaf59540                                         
+FaxRouteSetRoutingInfo                                                                               0x171b49d3                                         
+FaxRouteStore                                                                                        0xcb2d1180                                         

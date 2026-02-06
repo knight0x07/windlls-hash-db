@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\adhapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AdhEngineClose                                                                                       0x7363ec5e                                         
+AdhEngineOpen                                                                                        0xae30751a                                         
+AdhGetConfig                                                                                         0x8d2f6c08                                         
+AdhGetEvidenceCollectorResult                                                                        0x1c24bfdb                                         
+AdhStatusEventSubscribe                                                                              0x0c24f43a                                         
+AdhStatusEventUnsubscribe                                                                            0xe160c51d                                         
+DllMain                                                                                              0x79f31ec6                                         

@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\Clipc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClipCallServer                                                                                       0x96f045a0                                         
+ClipCleanUpState                                                                                     0xc5a321f6                                         
+ClipClose                                                                                            0xb7522883                                         
+ClipGatherDiagnostics                                                                                0x54ff72a0                                         
+ClipGenerateClientChallengeData                                                                      0xa2fd5254                                         
+ClipGenerateDeviceLicenseRequest                                                                     0x3028ec14                                         
+ClipGetAssociatedResults                                                                             0x8afb051f                                         
+ClipGetDeviceHardwareData                                                                            0x351c1a25                                         
+ClipGetFileIdFromAssociateId                                                                         0x66820177                                         
+ClipGetIsAppLicensed                                                                                 0x1924eff1                                         
+ClipGetLicenseAndPolicyForPfn                                                                        0x737ece5e                                         
+ClipGetLicenseData                                                                                   0xaa05366a                                         
+ClipGetQueryResults                                                                                  0x501bddd5                                         
+ClipGetSubscriptionStatus                                                                            0x78443416                                         
+ClipInstallLicense                                                                                   0xad9cace7                                         
+ClipOpen                                                                                             0xc785409f                                         
+ClipQueryAssociateId                                                                                 0x2149edcc                                         
+ClipRecordSubscriptionState                                                                          0xcb01edb2                                         
+ClipRefreshLicense                                                                                   0xfffc3d9f                                         
+ClipUninstallLicense                                                                                 0xcf2914ea                                         
+GetExchangeDeviceUniqueID                                                                            0x88fcf3fc                                         
+GetOfflineDeviceUniqueID                                                                             0x321b9c7c                                         
+SLQueryLicenseValueFromApp                                                                           0x96313c0f                                         
+SLQueryLicenseValueFromApp2                                                                          0x5c58be21                                         

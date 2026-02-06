@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\inetcpl.cpl
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddInternetPropertySheets                                                                            0x597a0748                                         
+AddInternetPropertySheetsEx                                                                          0xa01902a5                                         
+CPlApplet                                                                                            0x5c9b924a                                         
+ClearMyTracksByProcessW                                                                              0x8e49f5cb                                         
+ClearTracksWithUserPreference                                                                        0x853ba22e                                         
+DisplayPopupWindowManagementDialog                                                                   0x3d309114                                         
+DllInstall                                                                                           0x1516f878                                         
+GetAddSitesDisplayUrl                                                                                0x372ba9df                                         
+LaunchAddSitesDialog                                                                                 0x85696a21                                         
+LaunchConnectionDialog                                                                               0x4e4bd6e0                                         
+LaunchInternetControlPanel                                                                           0x17a20e5a                                         
+LaunchPerSitePrivacyActionDialog                                                                     0x6adeadc8                                         
+LaunchPopupWindowManagementDialog                                                                    0x9e48a959                                         
+LaunchPrivacyDialog                                                                                  0x31091b6e                                         
+LaunchSecurityDialog                                                                                 0x4d685b08                                         
+LaunchSecurityDialogEx                                                                               0x48eb4665                                         
+LaunchSiteCertDialog                                                                                 0x8bf91dd3                                         
+OpenFontsDialog                                                                                      0xcf40d5b1                                         
+OpenFontsDialogEx                                                                                    0xa2cd0f4e                                         
+OpenLanguageDialog                                                                                   0x7ade40cb                                         
+ResetIEtoDefaults                                                                                    0x55de4c11                                         
+ShowDeleteBrowsingHistoryDialog                                                                      0x16404fe6                                         
+ShowFeedOptionsDialog                                                                                0xba779196                                         
+ShowHelpPageW                                                                                        0x3d703063                                         
+ShowLanguageDialog                                                                                   0xd3fe0fda                                         
+ShowWebsiteDataSettings                                                                              0x297664a4                                         

@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\dfscli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+I_NetDfsIsThisADomainName                                                                            0xfb5f4cff                                         
+NetDfsAdd                                                                                            0x2d783cb2                                         
+NetDfsAddFtRoot                                                                                      0x3f5e8eb0                                         
+NetDfsAddRootTarget                                                                                  0xc2bc78bd                                         
+NetDfsAddStdRoot                                                                                     0x151b4c61                                         
+NetDfsAddStdRootForced                                                                               0x5d9742d4                                         
+NetDfsEnum                                                                                           0xdc82319e                                         
+NetDfsGetClientInfo                                                                                  0xbd5496f4                                         
+NetDfsGetDcAddress                                                                                   0xd4311236                                         
+NetDfsGetFtContainerSecurity                                                                         0x7d8075de                                         
+NetDfsGetInfo                                                                                        0x45494c15                                         
+NetDfsGetSecurity                                                                                    0xa1fee701                                         
+NetDfsGetStdContainerSecurity                                                                        0x97e4360f                                         
+NetDfsGetSupportedNamespaceVersion                                                                   0x6f3ccf22                                         
+NetDfsManagerGetConfigInfo                                                                           0x2e305006                                         
+NetDfsManagerInitialize                                                                              0xd201f676                                         
+NetDfsManagerSendSiteInfo                                                                            0x8c764b0f                                         
+NetDfsMove                                                                                           0xdc869900                                         
+NetDfsRemove                                                                                         0x2380f9d7                                         
+NetDfsRemoveFtRoot                                                                                   0x7a6bd395                                         
+NetDfsRemoveFtRootForced                                                                             0x17c56108                                         
+NetDfsRemoveRootTarget                                                                               0x9afba822                                         
+NetDfsRemoveStdRoot                                                                                  0xb1d12de6                                         
+NetDfsRename                                                                                         0x23814981                                         
+NetDfsSetClientInfo                                                                                  0x75c90900                                         
+NetDfsSetFtContainerSecurity                                                                         0xdd93f56a                                         
+NetDfsSetInfo                                                                                        0xe1042521                                         
+NetDfsSetSecurity                                                                                    0xe257660d                                         
+NetDfsSetStdContainerSecurity                                                                        0xfa67a71b                                         

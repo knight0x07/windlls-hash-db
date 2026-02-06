@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\win32kns.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+IVBroadcast                                                                                          0xd5da6b77                                         
+IVChildReInitialize                                                                                  0x3ed73f91                                         
+IVFreeIVSRContext                                                                                    0x1eb9786f                                         
+IVInitialize                                                                                         0x14130c36                                         
+IVRecv                                                                                               0xb86a87f4                                         
+IVRegisterChildLifetimeNotifications                                                                 0x9d06b276                                         
+IVResolveContainerId                                                                                 0x910c32b4                                         
+IVSend                                                                                               0xb86b15ae                                         
+IVUninitialize                                                                                       0xa47f6479                                         
+IVUnregisterChildLifetimeNotifications                                                               0x9858c3b9                                         

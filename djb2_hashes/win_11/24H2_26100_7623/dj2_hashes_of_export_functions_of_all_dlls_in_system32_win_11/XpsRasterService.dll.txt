@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\XpsRasterService.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DrvPopulateFilterServices                                                                            0x68773d45                                         
+[Function Ordinal Only]                                                                              NA                                                 

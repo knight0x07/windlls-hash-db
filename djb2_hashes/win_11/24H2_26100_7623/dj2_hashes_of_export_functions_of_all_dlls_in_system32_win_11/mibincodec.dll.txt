@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\mibincodec.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MI_Application_NewDeserializer_Binary                                                                0x338b9e9e                                         
+MI_Application_NewSerializer_Binary                                                                  0x90e45c75                                         
+NITS_PRESENCE_STUB                                                                                   0xa3f793f4                                         
+NITS_STUB                                                                                            0xd96ad480                                         

@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\IME\IMEJP\IMJPLMP.DLL
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CJDictsCommentDictionary_CreateInstance                                                              0x74c6f6ba                                         
+CJDictsDataForDWORD_CreateInstance                                                                   0x38292032                                         
+CJDictsDictionaryManifest_CreateInstance                                                             0x40d00b3e                                         
+CJDictsIndexerSatori_CreateInstance                                                                  0x6f6232f2                                         
+CJDictsSystemLexiconStoreDelayLoad__CreateInstance                                                   0xd6f5cd43                                         
+CJDictsUserDictionary_CreateInstance                                                                 0x63faaee6                                         
+CJDictsUserDictionary_FillByDummyHeader                                                              0xc9339ed4                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetSegmentedStr                                                                                      0x4e846a9a                                         
+IMECFM_AddJpnWordInfoAndLmContextForWatsonReport                                                     0x839f91be                                         
+InitGetSegmentedStr                                                                                  0x682dc42e                                         
+UnInitGetSegmentedStr                                                                                0x363dabf1                                         

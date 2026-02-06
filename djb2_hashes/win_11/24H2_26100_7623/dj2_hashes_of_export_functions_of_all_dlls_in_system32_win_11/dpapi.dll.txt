@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\dpapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CryptProtectDataNoUI                                                                                 0x1e8e794d                                         
+CryptProtectMemory                                                                                   0x51f0d791                                         
+CryptResetMachineCredentials                                                                         0x7f5af4dd                                         
+CryptUnprotectDataNoUI                                                                               0x8d865430                                         
+CryptUnprotectMemory                                                                                 0xee5e9db4                                         
+CryptUpdateProtectedState                                                                            0xbe7cf9a5                                         
+iCryptIdentifyProtection                                                                             0x067cb3a3                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\SecurityCenterBroker.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllMain                                                                                              0x79f31ec6                                         
+RegisterSecurityCenterBroker                                                                         0x89539b08                                         
+UnregisterSecurityCenterBroker                                                                       0x88c3da4b                                         

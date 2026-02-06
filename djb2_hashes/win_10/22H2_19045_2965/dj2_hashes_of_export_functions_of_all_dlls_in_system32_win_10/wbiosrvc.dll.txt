@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\wbiosrvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+OutOfProcessExceptionEventCallback                                                                   0xa11d834f                                         
+OutOfProcessExceptionEventDebuggerLaunchCallback                                                     0x9999cbcf                                         
+OutOfProcessExceptionEventSignatureCallback                                                          0x771117a1                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

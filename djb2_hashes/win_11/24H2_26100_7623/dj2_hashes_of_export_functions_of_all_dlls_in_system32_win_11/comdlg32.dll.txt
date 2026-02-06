@@ -1,0 +1,34 @@
+DLL Path: C:\Windows\System32\comdlg32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ChooseColorA                                                                                         0xbd33bf66                                         
+ChooseColorW                                                                                         0xbd33bf7c                                         
+ChooseFontA                                                                                          0xeeac40fe                                         
+ChooseFontW                                                                                          0xeeac4114                                         
+CommDlgExtendedError                                                                                 0xa1379a43                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+FindTextA                                                                                            0xb617354c                                         
+FindTextW                                                                                            0xb6173562                                         
+GetFileTitleA                                                                                        0xe6699688                                         
+GetFileTitleW                                                                                        0xe669969e                                         
+GetOpenFileNameA                                                                                     0xd3a87719                                         
+GetOpenFileNameW                                                                                     0xd3a8772f                                         
+GetSaveFileNameA                                                                                     0xe9ab1396                                         
+GetSaveFileNameW                                                                                     0xe9ab13ac                                         
+LoadAlterBitmap                                                                                      0x6db255da                                         
+PageSetupDlgA                                                                                        0xfc0f72ab                                         
+PageSetupDlgW                                                                                        0xfc0f72c1                                         
+PrintDlgA                                                                                            0x29e544aa                                         
+PrintDlgExA                                                                                          0x384937e7                                         
+PrintDlgExW                                                                                          0x384937fd                                         
+PrintDlgW                                                                                            0x29e544c0                                         
+ReplaceTextA                                                                                         0xc8c304c7                                         
+ReplaceTextW                                                                                         0xc8c304dd                                         
+Ssync_ANSI_UNICODE_Struct_For_WOW                                                                    0x4ca70c0b                                         
+WantArrows                                                                                           0xbe07a87d                                         
+dwLBSubclass                                                                                         0x648f6d2e                                         
+dwOKSubclass                                                                                         0x890f199a                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

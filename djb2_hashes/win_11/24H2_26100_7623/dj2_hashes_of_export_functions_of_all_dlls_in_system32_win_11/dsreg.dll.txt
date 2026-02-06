@@ -1,0 +1,57 @@
+DLL Path: C:\Windows\System32\dsreg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DsrBeginDelegatedWorkplaceJoin                                                                       0xea4ee76a                                         
+DsrBeginDeviceAndResourceAccountJoin                                                                 0x79e5aedb                                         
+DsrBeginDeviceAndResourceAccountJoinEx                                                               0x8a0cdaf8                                         
+DsrBeginDeviceJoin                                                                                   0x3cd7dbf3                                         
+DsrBeginDeviceJoinEx                                                                                 0xd23eae10                                         
+DsrBeginDeviceUnjoin                                                                                 0xebd5e9b6                                         
+DsrBeginDeviceUpdate                                                                                 0xebf69646                                         
+DsrBeginDiscover                                                                                     0x43d7e572                                         
+DsrBeginPreprovisionedDeviceJoin                                                                     0x3e9a2d8c                                         
+DsrBeginPreprovisionedDeviceJoinEx                                                                   0x4ddbc9e9                                         
+DsrBeginRecovery                                                                                     0xd712c2c2                                         
+DsrBeginWorkplaceJoin                                                                                0x0886c62b                                         
+DsrBeginWorkplaceUnjoin                                                                              0x5ee841ee                                         
+DsrBeginWorkplaceUpdate                                                                              0x5f08ee7e                                         
+DsrBeginWorkplaceUpdateAik                                                                           0xe4d06833                                         
+DsrCLI                                                                                               0xaede7bc6                                         
+DsrCanCurrentUserProvisionNgcKey                                                                     0xf58ea1cc                                         
+DsrCanCurrentUserResetNgcKey                                                                         0x12303e46                                         
+DsrDeviceHostNameUpdate                                                                              0xbbbfd600                                         
+DsrEndRecovery                                                                                       0x67836db4                                         
+DsrFreeCxhScenarioInfo                                                                               0xdabce813                                         
+DsrFreeDiscoveryMetadata                                                                             0x5846dbc9                                         
+DsrFreeJoinInfo                                                                                      0xe9c88aac                                         
+DsrFreeJoinInfoEx                                                                                    0x7e15ef09                                         
+DsrGetCurrentUserNgcProvisionStatus                                                                  0xc8d342b5                                         
+DsrGetCxhScenarioInfo                                                                                0x7f181131                                         
+DsrGetDomainRegistrationConfig                                                                       0x0ecd3277                                         
+DsrGetJoinInfo                                                                                       0x4330d98a                                         
+DsrGetJoinInfoEx                                                                                     0xd2cd6d67                                         
+DsrGetPrtAuthorityInfo                                                                               0xf688cb39                                         
+DsrGetResourceAccount                                                                                0xe84aa7e3                                         
+DsrIsDeviceJoined                                                                                    0xeacead93                                         
+DsrIsDeviceJoinedEx                                                                                  0xd93067b0                                         
+DsrIsWorkplaceJoined                                                                                 0x5164666b                                         
+DsrSaveDeviceTokenProperties                                                                         0xbd93b87b                                         
+DsrSaveWorkplaceTokenProperties                                                                      0xeb0afb73                                         
+DsrWriteAutoJoinSvcAdminEvent                                                                        0x4aca5739                                         
+DsrWriteAutoJoinSvcDebugEvent                                                                        0x2ff91297                                         
+DsrWriteAutoJoinSvcTriggerEvent                                                                      0x38a2ffe4                                         
+FidoDeregisterKey                                                                                    0xe986ddde                                         
+FidoRegisterKey                                                                                      0x85fc5275                                         
+NgcDeregisterKey                                                                                     0xe1bbc7f4                                         
+NgcGetKeyId                                                                                          0x33222173                                         
+NgcGetLogonCertPolicy                                                                                0x97c1fcda                                         
+NgcGetStatistics                                                                                     0x4e679da8                                         
+NgcIncrementPinRetryAttempts                                                                         0x8b040331                                         
+NgcNeedProvision                                                                                     0xd9df83e2                                         
+NgcNeedProvisionForAccount                                                                           0x75173c96                                         
+NgcReadRegistryValue                                                                                 0xc8e279cf                                         
+NgcRegisterKey                                                                                       0xb6a3bf0b                                         
+NgcResetPinRetryAttempts                                                                             0xf25e062f                                         
+NgcUpdateCertEnrollStatistics                                                                        0xe08c2645                                         
+NgcUpdateStatistics                                                                                  0xa795348b                                         

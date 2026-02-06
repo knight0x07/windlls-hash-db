@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\Windows.FileExplorer.Common.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ApplyProviderSettings                                                                                0xfe923d47                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+FECommon_BindToFilePlaceholderHandler                                                                0x7378f119                                         
+FECommon_CSyncRootManager_CreateInstance                                                             0xebdffeff                                         
+FECommon_CreatePlaceholderFile                                                                       0x12ceb40f                                         
+FECommon_FilePlaceholder_BindToPrimaryStream                                                         0xdfa430ea                                         
+FECommon_FilePlaceholder_CreateInstance                                                              0x653eb003                                         
+FECommon_GetPlaceholderStatesFromFileAttributesAndReparsePointTag                                    0x95ff7735                                         
+FECommon_GetSkyDriveNetworkStates                                                                    0xe99d5c67                                         
+FECommon_GetStorageProviderDisplayName                                                               0x4187bb2f                                         
+FECommon_GetStorageProviderInfoFromItem                                                              0x4eb27467                                         
+FECommon_PerformCloudFilePinAction                                                                   0xd3cd96af                                         
+FECommon_SetPlaceholderReparsePointAttribute                                                         0xd7d0c6b7                                         
+FECommon_SetPlaceholderReparsePointAttribute2                                                        0xd1e99dc9                                         
+FECommon_UpdateFilePlaceholderStates                                                                 0x296c9572                                         
+GatherProviderSettings                                                                               0x00c8ef3c                                         
+RegisterChangeNotifications                                                                          0x8a3d1e8a                                         
+UnregisterChangeNotifications                                                                        0x6b31016d                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

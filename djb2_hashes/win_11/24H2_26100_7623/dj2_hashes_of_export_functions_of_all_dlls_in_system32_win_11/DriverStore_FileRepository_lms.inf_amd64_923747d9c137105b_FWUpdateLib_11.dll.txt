@@ -1,0 +1,29 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\lms.inf_amd64_923747d9c137105b\FWUpdateLib_11.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckPolicy                                                                                          0xb8cfd173                                         
+CheckPolicyBuffer                                                                                    0x5a85362d                                         
+FWUpdate_QueryStatus_Get_Response                                                                    0x143176eb                                         
+FwUpdateCheckPowerSource                                                                             0x063cdaa1                                         
+FwUpdateFull                                                                                         0x91a4d218                                         
+FwUpdateFullBuffer                                                                                   0x5c635e92                                         
+FwUpdatePartial                                                                                      0x25eaafb2                                         
+FwUpdatePartialBuffer                                                                                0xa56387ac                                         
+FwUpdatePartialWithInstanceId                                                                        0xc18eb3f0                                         
+FwUpdatePartialWithInstanceIdBuffer                                                                  0xf995426a                                         
+FwUpdateRestore                                                                                      0xc945ffe9                                         
+FwUpdateRestoreBuffer                                                                                0xddbde523                                         
+GetExtendedIpuPartitionAttributes                                                                    0x749099a5                                         
+GetFwType                                                                                            0x03df0784                                         
+GetFwUpdateInfoStatus                                                                                0xe7ed3f35                                         
+GetFwVersion                                                                                         0xdb1901a8                                         
+GetInterfaces                                                                                        0xe0c00e09                                         
+GetIpuPartitionAttributes                                                                            0xbf2afa74                                         
+GetLastStatus                                                                                        0x51a374bd                                         
+GetLastUpdateResetType                                                                               0x947854c1                                         
+GetOemID                                                                                             0x751480f3                                         
+GetPchSKU                                                                                            0x19d304d3                                         
+IsRestorePointImage                                                                                  0x4aaaec12                                         
+SaveRestorePoint                                                                                     0xbf5435e2                                         
+VerifyOemId                                                                                          0xe2e7c508                                         

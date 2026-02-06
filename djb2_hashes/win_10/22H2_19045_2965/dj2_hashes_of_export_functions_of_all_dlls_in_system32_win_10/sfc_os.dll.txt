@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\sfc_os.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BeginFileMapEnumeration                                                                              0x8d42418f                                         
+CloseFileMapEnumeration                                                                              0xc26ff640                                         
+GetNextFileMapContent                                                                                0xa5db613d                                         
+SRSetRestorePointA                                                                                   0x25b71a05                                         
+SRSetRestorePointW                                                                                   0x25b71a1b                                         
+SfcClose                                                                                             0xaca7c437                                         
+SfcConnectToServer                                                                                   0x004c68e5                                         
+SfcFileException                                                                                     0x2b595150                                         
+SfcGetNextProtectedFile                                                                              0xc53005ea                                         
+SfcInitProt                                                                                          0x4068781a                                         
+SfcInitiateScan                                                                                      0xb254475d                                         
+SfcInstallProtectedFiles                                                                             0xe8f94815                                         
+SfcIsFileProtected                                                                                   0xae26b2a7                                         
+SfcIsKeyProtected                                                                                    0x93332630                                         
+SfcTerminateWatcherThread                                                                            0x1bc2a8f0                                         
+SfpDeleteCatalog                                                                                     0xfca8715c                                         
+SfpInstallCatalog                                                                                    0x343b4420                                         
+SfpVerifyFile                                                                                        0x118eed83                                         

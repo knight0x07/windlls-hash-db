@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\wldp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WldpAddDeveloperCertificateForDynamicCodeTrust                                                       0x9357ef17                                         
+WldpCheckDeviceEncryptionNotStarted                                                                  0x8a2ae63d                                         
+WldpCheckRetailConfiguration                                                                         0xe3baec13                                         
+WldpCheckSecurityWatermarkState                                                                      0xdb8d9461                                         
+WldpCheckWcosDeviceEncryptionSecure                                                                  0x438df818                                         
+WldpDisableDeveloperMode                                                                             0x5c0a607b                                         
+WldpEnableDeveloperMode                                                                              0xceb18b6e                                         
+WldpGetLockdownPolicy                                                                                0x3e3ac88d                                         
+WldpIsAllowedEntryPoint                                                                              0xe284481c                                         
+WldpIsAppApprovedByPolicy                                                                            0xb45bb8a5                                         
+WldpIsClassInApprovedList                                                                            0x3b0956a2                                         
+WldpIsDebugAllowed                                                                                   0x0214c227                                         
+WldpIsDynamicCodePolicyEnabled                                                                       0x64f8d1b3                                         
+WldpQueryDynamicCodeTrust                                                                            0x1256c5b4                                         
+WldpQuerySecurityPolicy                                                                              0x166418da                                         
+WldpQueryWindowsLockdownMode                                                                         0x954e2883                                         
+WldpQueryWindowsLockdownRestriction                                                                  0x61aaa994                                         
+WldpResetSecurityWatermarkState                                                                      0x8347e466                                         
+WldpSetDynamicCodeTrust                                                                              0x65911b4a                                         
+WldpSetDynamicCodeTrust2                                                                             0x17b484bc                                         
+WldpSetWindowsLockdownRestriction                                                                    0x71e572aa                                         

@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\uniplat.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AllocateOverStructEx                                                                                 0x8e79e9a8                                         
+CallBeginning                                                                                        0xea51c612                                         
+CallEnding                                                                                           0x35e33a96                                         
+CancelUnimodemTimer                                                                                  0xed0b3f6a                                         
+CreateOverStructPool                                                                                 0x5898d734                                         
+CreateUnimodemTimer                                                                                  0x6cde20b8                                         
+DestroyOverStructPool                                                                                0xa017f8ea                                         
+FreeOverStruct                                                                                       0xbdf60448                                         
+FreeUnimodemTimer                                                                                    0xd7796546                                         
+MonitorHandle                                                                                        0xabac65f9                                         
+ReinitOverStruct                                                                                     0x3417c811                                         
+ResetCallCount                                                                                       0x4324b16d                                         
+SetUnimodemTimer                                                                                     0xf4c98290                                         
+StartMonitorThread                                                                                   0xa4cafcd3                                         
+StopMonitorThread                                                                                    0xaf36754b                                         
+StopMonitoringHandle                                                                                 0xb128b4bd                                         
+SyncDeviceIoControl                                                                                  0x5172f66b                                         
+UmPlatformDeinitialize                                                                               0xfdf2f387                                         
+UmPlatformInitialize                                                                                 0x46af1bfe                                         
+UnimodemDeviceIoControlEx                                                                            0x100fade9                                         
+UnimodemNotifyTSP                                                                                    0x56a79fd3                                         
+UnimodemQueueUserAPC                                                                                 0xf75f1e3b                                         
+UnimodemReadFileEx                                                                                   0x596a50bc                                         
+UnimodemWaitCommEventEx                                                                              0x4de487c3                                         
+UnimodemWriteFileEx                                                                                  0xbe8503cb                                         
+WinntIsWorkstation                                                                                   0xbfba0d96                                         

@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\mpunits.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MI_Main                                                                                              0xdc2f74ff                                         
+MPUnitsTraps                                                                                         0xfe9e8e7f                                         
+NITS_PRESENCE_STUB                                                                                   0xa3f793f4                                         
+NITS_STUB                                                                                            0xd96ad480                                         
+SyncBmilReader_Create                                                                                0x745d71cc                                         
+SyncBmilReader_Delete                                                                                0x75cb438b                                         
+SyncBmilReader_ReadInstance                                                                          0xd297bb49                                         
+SyncBmilWriter_Create                                                                                0xe9231b56                                         
+SyncBmilWriter_Delete                                                                                0xea90ed15                                         
+SyncBmilWriter_WriteInstance                                                                         0x46b03702                                         
+_BinaryLogReader_GetNextInstance                                                                     0x7ba09871                                         
+_BinaryLogReader_ValidateHeader                                                                      0x01956230                                         
+monitoring_platformFT_V1                                                                             0x097e17cf                                         
+monitoring_platform_reactive_extensionsFT_V1                                                         0x3e15e0f0                                         

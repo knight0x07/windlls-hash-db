@@ -1,0 +1,248 @@
+DLL Path: C:\Windows\System32\apphelp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AllowPermLayer                                                                                       0xd6b83f55                                         
+ApphelpCheckAPO                                                                                      0xed053e0d                                         
+ApphelpCheckExe                                                                                      0xed05544f                                         
+ApphelpCheckIME                                                                                      0xed055fa8                                         
+ApphelpCheckInstallShieldPackage                                                                     0x9cd8f949                                         
+ApphelpCheckModule                                                                                   0xcb280213                                         
+ApphelpCheckMsiPackage                                                                               0x7a305f02                                         
+ApphelpCheckRunApp                                                                                   0xd742ff63                                         
+ApphelpCheckRunAppEx                                                                                 0xb4006d80                                         
+ApphelpCheckShellObject                                                                              0xd8b1413c                                         
+ApphelpChpeModSettingsFromQueryResult                                                                0xedb03de9                                         
+ApphelpCreateAppcompatData                                                                           0x9764cfe2                                         
+ApphelpFixMsiPackage                                                                                 0x01bdfa4b                                         
+ApphelpFixMsiPackageExe                                                                              0x8dde0fcd                                         
+ApphelpFreeFileAttributes                                                                            0x85cdbab8                                         
+ApphelpGetFileAttributes                                                                             0x93f2cbf6                                         
+ApphelpGetMsiProperties                                                                              0x7a55c405                                         
+ApphelpGetNTVDMInfo                                                                                  0x2724ba64                                         
+ApphelpGetShimDebugLevel                                                                             0x5bc3ea5f                                         
+ApphelpIsPortMonAllowed                                                                              0xd864a982                                         
+ApphelpNotifyPcaOfProblem                                                                            0x172b7802                                         
+ApphelpParseModuleData                                                                               0xe793daca                                         
+ApphelpQueryModSettingsAlloc                                                                         0x5d67c0a1                                         
+ApphelpQueryModuleData                                                                               0x5e571945                                         
+ApphelpQueryModuleDataEx                                                                             0x508287e2                                         
+ApphelpShowDialog                                                                                    0x69f99760                                         
+ApphelpUpdateCacheEntry                                                                              0x55531138                                         
+GetPermLayers                                                                                        0x1b06fa09                                         
+SE_AddHookset                                                                                        0x5a2ff522                                         
+SE_CALLBACK_AddHook                                                                                  0xd67e3aa2                                         
+SE_CALLBACK_Lookup                                                                                   0xf26ab9a2                                         
+SE_COM_AddHook                                                                                       0x29905634                                         
+SE_COM_AddServer                                                                                     0xe7f45e7a                                         
+SE_COM_HookInterface                                                                                 0xc93c255c                                         
+SE_COM_HookObject                                                                                    0x2df33c82                                         
+SE_COM_Lookup                                                                                        0x32feaaf4                                         
+SE_DllLoaded                                                                                         0x792fcca1                                         
+SE_DllUnloaded                                                                                       0xa0196064                                         
+SE_DynamicShim                                                                                       0x7bd72332                                         
+SE_GetHookAPIs                                                                                       0x0c10b0ba                                         
+SE_GetMaxShimCount                                                                                   0xc7bd431c                                         
+SE_GetProcAddressForCaller                                                                           0x73667ef0                                         
+SE_GetProcAddressIgnoreIncExc                                                                        0x68edb294                                         
+SE_GetProcAddressLoad                                                                                0x2999c476                                         
+SE_GetShimCount                                                                                      0x50b5a156                                         
+SE_GetShimId                                                                                         0xd8842a1a                                         
+SE_InitializeEngine                                                                                  0xd3f3b904                                         
+SE_InstallAfterInit                                                                                  0x7cc73519                                         
+SE_InstallBeforeInit                                                                                 0xbd4f2bfa                                         
+SE_IsShimDll                                                                                         0xf1e4d0e5                                         
+SE_LdrEntryRemoved                                                                                   0x1d583fe2                                         
+SE_LdrResolveDllName                                                                                 0x1c6b9b7b                                         
+SE_LookupAddress                                                                                     0x1542345c                                         
+SE_LookupCaller                                                                                      0x0cdf2c09                                         
+SE_ProcessDying                                                                                      0x4da28e56                                         
+SE_ShimDPF                                                                                           0x867693c7                                         
+SE_ShimDllLoaded                                                                                     0x8c0df192                                         
+SE_WINRT_AddHook                                                                                     0xefbba4e9                                         
+SE_WINRT_HookObject                                                                                  0xf3670b17                                         
+SdbAddLayerTagRefToQuery                                                                             0xc83ea456                                         
+SdbApphelpNotify                                                                                     0xc45d9e01                                         
+SdbApphelpNotifyEx                                                                                   0x523d2b9e                                         
+SdbApphelpNotifyEx2                                                                                  0x99e29f90                                         
+SdbBeginWriteListTag                                                                                 0x5ba28a46                                         
+SdbBuildCompatEnvVariables                                                                           0xd1287594                                         
+SdbCloseApphelpInformation                                                                           0xff895884                                         
+SdbCloseDatabase                                                                                     0x310fa1c9                                         
+SdbCloseDatabaseWrite                                                                                0x9c3fcc74                                         
+SdbCloseLocalDatabase                                                                                0x6cd79fb4                                         
+SdbCommitIndexes                                                                                     0x79fe3fb7                                         
+SdbCreateDatabase                                                                                    0xd8194f47                                         
+SdbCreateHelpCenterURL                                                                               0x0f56deaf                                         
+SdbCreateMsiTransformFile                                                                            0xda1ccb37                                         
+SdbDeclareIndex                                                                                      0x20f4cee6                                         
+SdbDeletePermLayerKeys                                                                               0x00d22c5e                                         
+SdbDumpSearchPathPartCaches                                                                          0x6711f6f5                                         
+SdbEndWriteListTag                                                                                   0x968b2a38                                         
+SdbEnumMsiTransforms                                                                                 0x2cd7196b                                         
+SdbEscapeApphelpURL                                                                                  0xfdcdf84c                                         
+SdbFindCustomActionForPackage                                                                        0xaef4766b                                         
+SdbFindFirstDWORDIndexedTag                                                                          0x8e121144                                         
+SdbFindFirstGUIDIndexedTag                                                                           0x6943e3ad                                         
+SdbFindFirstMsiPackage                                                                               0x4e7c7c1c                                         
+SdbFindFirstMsiPackage_Str                                                                           0xf28ab294                                         
+SdbFindFirstNamedTag                                                                                 0x7829aae8                                         
+SdbFindFirstStringIndexedTag                                                                         0xeb92efdb                                         
+SdbFindFirstTag                                                                                      0xa26f9783                                         
+SdbFindFirstTagRef                                                                                   0x932576e0                                         
+SdbFindMsiPackageByID                                                                                0x2692cedc                                         
+SdbFindNextDWORDIndexedTag                                                                           0xa802145b                                         
+SdbFindNextGUIDIndexedTag                                                                            0xc7245fe4                                         
+SdbFindNextMsiPackage                                                                                0x9db174d3                                         
+SdbFindNextStringIndexedTag                                                                          0x438355d2                                         
+SdbFindNextTag                                                                                       0xdff5001a                                         
+SdbFindNextTagRef                                                                                    0xd7e4ac17                                         
+SdbFormatAttribute                                                                                   0x10e62cdb                                         
+SdbFreeDatabaseInformation                                                                           0x8eebce1b                                         
+SdbFreeFileAttributes                                                                                0xfb11ad07                                         
+SdbFreeFileInfo                                                                                      0x93bbddcc                                         
+SdbFreeFlagInfo                                                                                      0x61260626                                         
+SdbGUIDFromString                                                                                    0x80d32372                                         
+SdbGUIDToString                                                                                      0xb4483201                                         
+SdbGetAppCompatDataSize                                                                              0xb25efa98                                         
+SdbGetAppPatchDir                                                                                    0xf45e1a8e                                         
+SdbGetBinaryTagData                                                                                  0x7ff47ef9                                         
+SdbGetDatabaseGUID                                                                                   0x69c7895c                                         
+SdbGetDatabaseID                                                                                     0x4535c820                                         
+SdbGetDatabaseInformation                                                                            0x84331c39                                         
+SdbGetDatabaseInformationByName                                                                      0xc37e2215                                         
+SdbGetDatabaseMatch                                                                                  0xa32c97c0                                         
+SdbGetDatabaseVersion                                                                                0xdeb6f519                                         
+SdbGetDllPath                                                                                        0xed69ba27                                         
+SdbGetEntryFlags                                                                                     0x83ea4c5d                                         
+SdbGetFileAttributes                                                                                 0xbe4a3065                                         
+SdbGetFileImageType                                                                                  0xfe766f83                                         
+SdbGetFileImageTypeEx                                                                                0x75d065a0                                         
+SdbGetFileInfo                                                                                       0x8da4b2aa                                         
+SdbGetFirstChild                                                                                     0xaa1b17ea                                         
+SdbGetImageType                                                                                      0x088e2103                                         
+SdbGetIndex                                                                                          0x4d35f016                                         
+SdbGetItemFromItemRef                                                                                0x91bd458d                                         
+SdbGetLayerName                                                                                      0x86a0681c                                         
+SdbGetLayerTagRef                                                                                    0xbe564534                                         
+SdbGetLocalPDB                                                                                       0xcfd8f9df                                         
+SdbGetMatchingExe                                                                                    0x54e21b0b                                         
+SdbGetMsiPackageInformation                                                                          0x8a8e84b9                                         
+SdbGetNamedLayer                                                                                     0x2ee05d00                                         
+SdbGetNextChild                                                                                      0xf35fa661                                         
+SdbGetNthUserSdb                                                                                     0x8bfa4240                                         
+SdbGetPDBFromGUID                                                                                    0xfba486f1                                         
+SdbGetPathCustomSdb                                                                                  0xf7689eff                                         
+SdbGetPathSystemSdb                                                                                  0xef820d89                                         
+SdbGetPermLayerKeys                                                                                  0x12f0d62b                                         
+SdbGetShowDebugInfoOption                                                                            0x5b81650b                                         
+SdbGetShowDebugInfoOptionValue                                                                       0x6d1c8ae8                                         
+SdbGetStandardDatabaseGUID                                                                           0x60a0d34d                                         
+SdbGetStringTagPtr                                                                                   0x622671c7                                         
+SdbGetTagDataSize                                                                                    0x71fc046f                                         
+SdbGetTagFromTagID                                                                                   0xe5fcb057                                         
+SdbGrabMatchingInfo                                                                                  0x685a92f1                                         
+SdbGrabMatchingInfoEx                                                                                0xe94b1c8e                                         
+SdbInitDatabase                                                                                      0xc6b0d787                                         
+SdbInitDatabaseEx                                                                                    0x3644dea4                                         
+SdbIsDbRuntimePlatformSupportedOnHost                                                                0xed15cf8a                                         
+SdbIsNullGUID                                                                                        0xfe67e9de                                         
+SdbIsStandardDatabase                                                                                0x6c08edc0                                         
+SdbIsTagrefFromLocalDB                                                                               0xa71e7d38                                         
+SdbIsTagrefFromMainDB                                                                                0x63830432                                         
+SdbIsTagrefFromMergeStubDB                                                                           0xa5c3531b                                         
+SdbLoadString                                                                                        0x6b3257b5                                         
+SdbMakeIndexKeyFromString                                                                            0xdf606fa8                                         
+SdbOpenApphelpDetailsDatabase                                                                        0xef7c0ed5                                         
+SdbOpenApphelpDetailsDatabaseSP                                                                      0xbebb2318                                         
+SdbOpenApphelpInformation                                                                            0xfb27e980                                         
+SdbOpenApphelpInformationByID                                                                        0xb826e6e8                                         
+SdbOpenApphelpResourceFile                                                                           0xe62aa6c2                                         
+SdbOpenDatabase                                                                                      0x2c0987c5                                         
+SdbOpenDbFromGuid                                                                                    0x90e52df3                                         
+SdbOpenLocalDatabase                                                                                 0xa49ca330                                         
+SdbPackAppCompatData                                                                                 0x27ff409c                                         
+SdbQueryApphelpInformation                                                                           0xd4edac64                                         
+SdbQueryBlockUpgrade                                                                                 0x772beca7                                         
+SdbQueryContext                                                                                      0xd44ae8b9                                         
+SdbQueryData                                                                                         0x229d0dae                                         
+SdbQueryDataEx                                                                                       0x3e173a8b                                         
+SdbQueryDataExTagID                                                                                  0x3a0f8454                                         
+SdbQueryFlagInfo                                                                                     0x1c30f2fa                                         
+SdbQueryFlagMask                                                                                     0x1c32eeda                                         
+SdbQueryName                                                                                         0x22a28895                                         
+SdbQueryReinstallUpgrade                                                                             0xcfc3560a                                         
+SdbReadApphelpData                                                                                   0x6da65f9e                                         
+SdbReadApphelpDetailsData                                                                            0xbc892d24                                         
+SdbReadBYTETag                                                                                       0x6b73850a                                         
+SdbReadBYTETagRef                                                                                    0xe3884b07                                         
+SdbReadBinaryTag                                                                                     0xef6c9f1b                                         
+SdbReadDWORDTag                                                                                      0x0dabcc36                                         
+SdbReadDWORDTagRef                                                                                   0x21c752b3                                         
+SdbReadEntryInformation                                                                              0x5d8dfc12                                         
+SdbReadMsiTransformInfo                                                                              0x023e252b                                         
+SdbReadPatchBits                                                                                     0xbde121dc                                         
+SdbReadQWORDTag                                                                                      0x0d039ba3                                         
+SdbReadQWORDTagRef                                                                                   0xe77c8700                                         
+SdbReadStringTag                                                                                     0x18c43d0d                                         
+SdbReadStringTagRef                                                                                  0xb3bfa82a                                         
+SdbReadWORDTag                                                                                       0xa4822d32                                         
+SdbReadWORDTagRef                                                                                    0x860be22f                                         
+SdbRegisterDatabase                                                                                  0x6056b658                                         
+SdbRegisterDatabaseEx                                                                                0xd0ddb5b5                                         
+SdbReleaseDatabase                                                                                   0x628c0c14                                         
+SdbReleaseMatchingExe                                                                                0x56a011cc                                         
+SdbResolveDatabase                                                                                   0x3ec27193                                         
+SdbSetApphelpDebugParameters                                                                         0x8af8936f                                         
+SdbSetEntryFlags                                                                                     0x3c5ebe69                                         
+SdbSetImageType                                                                                      0x53f6818f                                         
+SdbSetPermLayerKeys                                                                                  0xa56e9cb7                                         
+SdbShowApphelpDialog                                                                                 0x7c68f099                                         
+SdbShowApphelpFromQuery                                                                              0xf48f3a13                                         
+SdbStartIndexing                                                                                     0x93c99122                                         
+SdbStopIndexing                                                                                      0x77aca77a                                         
+SdbStringDuplicate                                                                                   0x58f5b850                                         
+SdbStringReplace                                                                                     0xd715a5b1                                         
+SdbStringReplaceArray                                                                                0x111e8a30                                         
+SdbTagIDToTagRef                                                                                     0x32683e63                                         
+SdbTagRefToTagID                                                                                     0x171b8ee3                                         
+SdbTagToString                                                                                       0xd929d554                                         
+SdbUnpackAppCompatData                                                                               0xc5f755ff                                         
+SdbUnpackQueryResult                                                                                 0x7a0ce975                                         
+SdbUnregisterDatabase                                                                                0x65202b5b                                         
+SdbWriteBYTETag                                                                                      0x6bab3559                                         
+SdbWriteBinaryTag                                                                                    0xdc519f2a                                         
+SdbWriteBinaryTagFromFile                                                                            0xf023a8de                                         
+SdbWriteDWORDTag                                                                                     0x14d98665                                         
+SdbWriteNULLTag                                                                                      0xfd847e80                                         
+SdbWriteQWORDTag                                                                                     0x143155d2                                         
+SdbWriteStringRefTag                                                                                 0xae2a6e39                                         
+SdbWriteStringTag                                                                                    0x05a93d1c                                         
+SdbWriteStringTagDirect                                                                              0x928cb7d7                                         
+SdbWriteWORDTag                                                                                      0xa4b9dd81                                         
+SetPermLayerState                                                                                    0xbacba663                                         
+SetPermLayerStateEx                                                                                  0x9c4ed480                                         
+SetPermLayers                                                                                        0xd37b6c15                                         
+ShimDbgPrint                                                                                         0xd5f87090                                         
+ShimDumpCache                                                                                        0x3314bd40                                         
+ShimFlushCache                                                                                       0x228dbeac                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

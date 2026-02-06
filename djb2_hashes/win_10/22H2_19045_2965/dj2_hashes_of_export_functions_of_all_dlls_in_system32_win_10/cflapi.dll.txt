@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\cflapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CflClearScenarioData                                                                                 0xa965666f                                         
+CflClearTempUserAccount                                                                              0x6d2ee0a3                                         
+CflDeserializeSessionContext                                                                         0xde568654                                         
+CflFreeBuffer                                                                                        0x2862ced6                                         
+CflGetScenarioData                                                                                   0xd897eba8                                         
+CflGetTransitionScenarioData                                                                         0xcecdb0b3                                         
+CflSecureFreeBuffer                                                                                  0x798e307d                                         
+CflSerializeSessionContext                                                                           0xb506c4ab                                         
+CflSetScenarioData                                                                                   0x7ff110b4                                         
+CflSetupAuthEnvironment                                                                              0xc3e13812                                         
+CflSetupTempUserAccount                                                                              0xad90572d                                         
+CflSetupTransitionToUserAccount                                                                      0x89aeed45                                         

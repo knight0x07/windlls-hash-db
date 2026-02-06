@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\ProximityRtapiPal.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PAL_App2DeviceFindAllPeers                                                                           0xb17f927d                                         
+PAL_CheckForApp2DeviceAlternateId                                                                    0x63e56556                                         
+PAL_CheckForBluetoothSupport                                                                         0x7a5e8fd9                                         
+PAL_GetCurrentProcessExplicitAppUserModelID                                                          0x12be3f23                                         
+PAL_ParseAppUserModelId                                                                              0x1cb4d7da                                         
+PAL_SetCurrentProcessExplicitAppUserModelID                                                          0x2a3a482f                                         

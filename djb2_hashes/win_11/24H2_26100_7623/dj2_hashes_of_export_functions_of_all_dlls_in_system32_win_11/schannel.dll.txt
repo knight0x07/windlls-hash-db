@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\schannel.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AcceptSecurityContext                                                                                0x129362d2                                         
+AcquireCredentialsHandleA                                                                            0x3a10078a                                         
+AcquireCredentialsHandleW                                                                            0x3a1007a0                                         
+ApplyControlToken                                                                                    0xc9d0c3ad                                         
+CompleteAuthToken                                                                                    0xdcf2e331                                         
+DeleteSecurityContext                                                                                0x6a009735                                         
+EnumerateSecurityPackagesA                                                                           0xa3e93d83                                         
+EnumerateSecurityPackagesW                                                                           0xa3e93d99                                         
+FreeContextBuffer                                                                                    0x33cef346                                         
+FreeCredentialsHandle                                                                                0x1822a5e1                                         
+ImpersonateSecurityContext                                                                           0x2a5513e9                                         
+InitSecurityInterfaceA                                                                               0x0834e823                                         
+InitSecurityInterfaceW                                                                               0x0834e839                                         
+InitializeSecurityContextA                                                                           0x4b4f0e35                                         
+InitializeSecurityContextW                                                                           0x4b4f0e4b                                         
+MakeSignature                                                                                        0xda6e56f5                                         
+QueryContextAttributesA                                                                              0x973d2c88                                         
+QueryContextAttributesW                                                                              0x973d2c9e                                         
+QuerySecurityPackageInfoA                                                                            0x94add5ac                                         
+QuerySecurityPackageInfoW                                                                            0x94add5c2                                         
+RevertSecurityContext                                                                                0x52a7bcfa                                         
+SealMessage                                                                                          0xaacf77af                                         
+SpLsaModeInitialize                                                                                  0x98bfd8ff                                         
+SpUserModeInitialize                                                                                 0xb41f209e                                         
+SslCrackCertificate                                                                                  0xe9a69d9e                                         
+SslDeserializeCertificateStore                                                                       0x20f3edf8                                         
+SslEmptyCacheA                                                                                       0x44fb923b                                         
+SslEmptyCacheW                                                                                       0x44fb9251                                         
+SslFreeCertificate                                                                                   0x4ba7c21c                                         
+SslFreeCustomBuffer                                                                                  0x65279cae                                         
+SslGenerateRandomBits                                                                                0xeb5cb455                                         
+SslGetExtensions                                                                                     0xf3477647                                         
+SslGetMaximumKeySize                                                                                 0xdb320f99                                         
+SslGetServerIdentity                                                                                 0xe8dfc0d8                                         
+SslLoadCertificate                                                                                   0xff24245a                                         
+UnsealMessage                                                                                        0x3b17f492                                         
+VerifySignature                                                                                      0xf748e68c                                         

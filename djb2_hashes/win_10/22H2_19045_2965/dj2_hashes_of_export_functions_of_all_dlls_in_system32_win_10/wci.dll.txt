@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\wci.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WcDetachFilter                                                                                       0xc5337f4e                                         
+WcRemoveReparseData                                                                                  0x7d6c6ff9                                         
+WcRemoveTombstoneReparseData                                                                         0x1d2a6214                                         
+WciConfigureVolume                                                                                   0x11768262                                         
+WciGetUnions                                                                                         0x6aaf7a24                                         
+WciReadReparsePointData                                                                              0xa436511a                                         
+WciRemoveRoot                                                                                        0x5b0154ba                                         
+WciSetReparsePointData                                                                               0x3f7ec90a                                         
+WciSetReparsePointDataEx                                                                             0x1a553ce7                                         
+WciSetTombstone                                                                                      0x3c698c8f                                         
+WciSetupFilter                                                                                       0xe4ebffbf                                         

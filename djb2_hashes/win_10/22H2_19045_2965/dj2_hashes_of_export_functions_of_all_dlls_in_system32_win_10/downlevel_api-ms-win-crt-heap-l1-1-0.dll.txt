@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-crt-heap-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+_aligned_free                                                                                        0x0a31fbb9                                         
+_aligned_malloc                                                                                      0x6dc44cef                                         
+_aligned_msize                                                                                       0x50f0bedf                                         
+_aligned_offset_malloc                                                                               0x2f431555                                         
+_aligned_offset_realloc                                                                              0xa11679df                                         
+_aligned_offset_recalloc                                                                             0xc7c8eea2                                         
+_aligned_realloc                                                                                     0xafbea4b9                                         
+_aligned_recalloc                                                                                    0xab7674bc                                         
+_callnewh                                                                                            0xb85e5b92                                         
+_calloc_base                                                                                         0xbc708b4c                                         
+_expand                                                                                              0x88efc2a4                                         
+_free_base                                                                                           0xa5c10da0                                         
+_get_heap_handle                                                                                     0x494f9fac                                         
+_heapchk                                                                                             0x607d65b8                                         
+_heapmin                                                                                             0x607d9066                                         
+_heapwalk                                                                                            0x7034f711                                         
+_malloc_base                                                                                         0xf20f9fd6                                         
+_msize                                                                                               0xed6e65cc                                         
+_query_new_handler                                                                                   0x838c2120                                         
+_query_new_mode                                                                                      0x7476e187                                         
+_realloc_base                                                                                        0xf1d6fb80                                         
+_recalloc                                                                                            0xae5c5089                                         
+_set_new_mode                                                                                        0x8aac19dd                                         
+calloc                                                                                               0xf5e616f3                                         
+free                                                                                                 0x7c96f087                                         
+malloc                                                                                               0x0d39ad3d                                         
+realloc                                                                                              0x3de00ec7                                         

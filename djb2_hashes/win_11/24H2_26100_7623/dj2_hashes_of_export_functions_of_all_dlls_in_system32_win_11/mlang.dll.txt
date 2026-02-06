@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\mlang.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConvertINetMultiByteToUnicode                                                                        0x379de87f                                         
+ConvertINetReset                                                                                     0xf60b1e99                                         
+ConvertINetString                                                                                    0xbad30e2d                                         
+ConvertINetUnicodeToMultiByte                                                                        0x9278c7ff                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetGlobalFontLinkObject                                                                              0x5f29f052                                         
+IsConvertINetStringAvailable                                                                         0xa9ffb16a                                         
+LcidToRfc1766A                                                                                       0x99fb5c94                                         
+LcidToRfc1766W                                                                                       0x99fb5caa                                         
+Rfc1766ToLcidA                                                                                       0xacb9db34                                         
+Rfc1766ToLcidW                                                                                       0xacb9db4a                                         

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\wpx.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WpxCreateConfig                                                                                      0x364c264e                                         
+WpxCreateWriteOpt                                                                                    0x4b534cd6                                         
+WpxGetAnswerFileType                                                                                 0x51d7e456                                         
+WpxGetDeplSettings                                                                                   0x770e7c1a                                         
+WpxResetDeplSettings                                                                                 0x22b9185d                                         
+WpxSetDeplSettings                                                                                   0x1e67a126                                         
+WpxSetLogger                                                                                         0xcdeaea50                                         
+WpxSetScratchDirectory                                                                               0x472969cd                                         

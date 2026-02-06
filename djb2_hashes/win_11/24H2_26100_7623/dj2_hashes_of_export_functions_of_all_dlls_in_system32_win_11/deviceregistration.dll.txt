@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\deviceregistration.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConfigureRegistrationIEZoneMappings                                                                  0x203a0dcb                                         
+DiscoverRegistrationService                                                                          0x84588db0                                         
+GetRegistrationInfo                                                                                  0x792592ec                                         
+IsRegistrationAvailable                                                                              0x01d1eb7d                                         
+RegisterDevice                                                                                       0x78f7801a                                         
+UnRegisterDevice                                                                                     0x60b3c1fd                                         

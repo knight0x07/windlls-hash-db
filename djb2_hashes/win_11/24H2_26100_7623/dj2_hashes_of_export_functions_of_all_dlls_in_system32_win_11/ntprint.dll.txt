@@ -1,0 +1,66 @@
+DLL Path: C:\Windows\System32\ntprint.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClassInstall32                                                                                       0xb5c5cab7                                         
+PSetupAssociateICMProfiles                                                                           0xa991f0bf                                         
+PSetupBuildDriverList                                                                                0xc34bfe1e                                         
+PSetupBuildDriversFromPath                                                                           0x6fa88e96                                         
+PSetupCheckForDriversInDriverStore                                                                   0x6b61629a                                         
+PSetupCopyDriverPackageFiles                                                                         0x88cda4cc                                         
+PSetupCreateDrvSetupPage                                                                             0x55e89194                                         
+PSetupCreateMonitorInfo                                                                              0x2c0faeae                                         
+PSetupCreatePrinterDeviceInfoList                                                                    0x6c95fb56                                         
+PSetupDestroyDriverInfo3                                                                             0x7d9f799b                                         
+PSetupDestroyMonitorInfo                                                                             0xe7546444                                         
+PSetupDestroyPrinterDeviceInfoList                                                                   0xbd53246c                                         
+PSetupDestroySelectedDriverInfo                                                                      0x6fad7bf1                                         
+PSetupDisassociateICMProfiles                                                                        0xcbf2825f                                         
+PSetupDownloadAndInstallLegacyDriverW                                                                0x2974e860                                         
+PSetupDriverInfoFromDeviceID                                                                         0x7beedd4f                                         
+PSetupDriverInfoFromName                                                                             0x80dd1913                                         
+PSetupDriverStoreAddDriverPackage                                                                    0xe48172c0                                         
+PSetupDriverStoreFindDriverPackageW                                                                  0xdda632ef                                         
+PSetupElevateAndCallDriverStoreAddDriverPackage                                                      0x9ba815d5                                         
+PSetupElevatedDriverStoreAddDriverPackageW                                                           0xd61774c1                                         
+PSetupElevatedInstallDownloadedLegacyDriverW                                                         0x700fee00                                         
+PSetupElevatedInstallDriverPackageFromConnectionW                                                    0x76c508da                                         
+PSetupElevatedInstallPrinterDriverFromTheWebW                                                        0x33da4fc1                                         
+PSetupElevatedLegacyPrintDriverInstallW                                                              0x18121d8c                                         
+PSetupEnumMonitor                                                                                    0xfb5f5fa3                                         
+PSetupFindCompatibleDriverFromName                                                                   0x0b597de8                                         
+PSetupFreeDrvField                                                                                   0x71ecdef8                                         
+PSetupFreeMem                                                                                        0x4354b807                                         
+PSetupGetActualInstallSection                                                                        0xf453124c                                         
+PSetupGetCatalogNameFromInfW                                                                         0xd822706a                                         
+PSetupGetDriverInfo3                                                                                 0x8834bbf1                                         
+PSetupGetInfDriverStoreLocation                                                                      0x46db8055                                         
+PSetupGetLocalDataField                                                                              0x5bdf502f                                         
+PSetupGetPathToSearch                                                                                0x4c12d5ac                                         
+PSetupGetSelectedDriverInfo                                                                          0x77a20187                                         
+PSetupInstallDriverPackageFromConnection                                                             0x8d45c2f9                                         
+PSetupInstallICMProfiles                                                                             0xe53714fa                                         
+PSetupInstallInboxDriverSilently                                                                     0xb35c515d                                         
+PSetupInstallMonitor                                                                                 0x3bd05f25                                         
+PSetupInstallPrinterDriver                                                                           0x3b39e18d                                         
+PSetupIsCompatibleDriver                                                                             0x4c8908ae                                         
+PSetupIsDriverInstalled                                                                              0x752f346e                                         
+PSetupIsTheDriverFoundInInfInstalled                                                                 0xb05e7d9f                                         
+PSetupParseInfAndCommitFileQueue                                                                     0x73496dbf                                         
+PSetupPreSelectDriver                                                                                0xc67b1b99                                         
+PSetupProcessPrinterAdded                                                                            0x314170bb                                         
+PSetupSelectDeviceButtons                                                                            0xb36e5a05                                         
+PSetupSelectDriver                                                                                   0x09452f72                                         
+PSetupSetCoreInboxDriverPath                                                                         0x26f49b14                                         
+PSetupSetDriverPlatform                                                                              0x25a08103                                         
+PSetupSetNonInteractiveMode                                                                          0x74862240                                         
+PSetupSetSelectDevTitleAndInstructions                                                               0x043c131b                                         
+PSetupShowBlockedDriverUI                                                                            0xa6b76a45                                         
+PSetupThisPlatform                                                                                   0x70107e83                                         
+PSetupWebPnpGenerateDownLevelInfForInboxDriver                                                       0x7ba4be9d                                         
+ServerInstallW                                                                                       0xd65f52ca                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

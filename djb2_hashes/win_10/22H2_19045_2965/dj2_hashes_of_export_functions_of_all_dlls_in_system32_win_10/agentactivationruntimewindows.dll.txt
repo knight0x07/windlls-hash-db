@@ -1,0 +1,5 @@
+DLL Path: C:\Windows\System32\agentactivationruntimewindows.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+?GetAgentActivationRuntimePalComponentFactory@@YAPEAVIAgentActivationRuntimePalComponentFactory@VoiceAgentServices@Microsoft@@XZ 0xd04b121e                                         

@@ -1,0 +1,42 @@
+DLL Path: C:\Windows\System32\Microsoft-Edge-WebView\msedge.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0IDataFieldVisitor@telemetry_client@@QEAA@AEBV01@@Z                                                0xe518a654                                         
+??0IDataFieldVisitor@telemetry_client@@QEAA@XZ                                                       0x3a03350d                                         
+??1IDataFieldVisitor@telemetry_client@@UEAA@XZ                                                       0x7334c972                                         
+??4IDataFieldVisitor@telemetry_client@@QEAAAEAV01@AEBV01@@Z                                          0xa80f9c96                                         
+??_7IDataFieldVisitor@telemetry_client@@6B@                                                          0x48886221                                         
+ChromeMain                                                                                           0x3262c268                                         
+CrashForExceptionInNonABICompliantCodeRange                                                          0xddc92cc9                                         
+CreateSmartScreenClient                                                                              0x36efae1f                                         
+CreateTestWebClientProxy                                                                             0x5ec703f8                                         
+EdgeGetPasskeyAuthenticatorPluginClassFactory                                                        0xca7c1292                                         
+EdgeLaunchBrowserToHandleBackgroundTaskEvent                                                         0xef5ad25d                                         
+ExportSpartanCookies                                                                                 0x608d08ed                                         
+GetHandleVerifier                                                                                    0x54d1a1cd                                         
+IsSandboxedProcess                                                                                   0x592bc338                                         
+RelaunchChromeBrowserWithNewCommandLineIfNeeded                                                      0xa4eb0e3a                                         
+argon2_ctx                                                                                           0x106c385c                                         
+argon2_encodedlen                                                                                    0x6a0a4ede                                         
+argon2_error_message                                                                                 0xe00254db                                         
+argon2_hash                                                                                          0x1df5b0b1                                         
+argon2_type2string                                                                                   0x70e3b0f8                                         
+argon2_verify                                                                                        0x9314c142                                         
+argon2_verify_ctx                                                                                    0xa66d5ed0                                         
+argon2d_ctx                                                                                          0x1e4b4480                                         
+argon2d_hash_encoded                                                                                 0x96b641e6                                         
+argon2d_hash_raw                                                                                     0x7126edbe                                         
+argon2d_verify                                                                                       0xcf3c0ae6                                         
+argon2d_verify_ctx                                                                                   0xd2a8da74                                         
+argon2i_ctx                                                                                          0x1ea5bf05                                         
+argon2i_hash_encoded                                                                                 0xbef7620b                                         
+argon2i_hash_raw                                                                                     0x855bc363                                         
+argon2i_verify                                                                                       0x6c85334b                                         
+argon2i_verify_ctx                                                                                   0xc769ad59                                         
+argon2id_ctx                                                                                         0xf3b5a049                                         
+argon2id_hash_encoded                                                                                0x1142efcf                                         
+argon2id_hash_raw                                                                                    0x531f0f27                                         
+argon2id_verify                                                                                      0xd6babe0f                                         
+argon2id_verify_ctx                                                                                  0x132efa1d                                         
+sqlite3_dbdata_init                                                                                  0x7e8865bc                                         

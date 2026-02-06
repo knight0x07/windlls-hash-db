@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-core-file-l2-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CopyFile2                                                                                            0xac2253b2                                         
+CopyFileExW                                                                                          0x3e0668d4                                         
+CreateDirectoryExW                                                                                   0xabaa9882                                         
+CreateHardLinkW                                                                                      0x1892353d                                         
+CreateSymbolicLinkW                                                                                  0x4fa6ee20                                         
+GetFileInformationByHandleEx                                                                         0x08b68d4f                                         
+MoveFileExW                                                                                          0xb96b81d0                                         
+MoveFileWithProgressW                                                                                0x394bc704                                         
+ReOpenFile                                                                                           0xff7bf58e                                         
+ReadDirectoryChangesW                                                                                0x923a9d06                                         
+ReplaceFileW                                                                                         0xc7c7aa58                                         

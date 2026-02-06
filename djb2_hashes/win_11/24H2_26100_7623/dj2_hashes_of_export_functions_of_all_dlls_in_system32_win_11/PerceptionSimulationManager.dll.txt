@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\PerceptionSimulationManager.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreatePerceptionSimulationManager                                                                    0x9c3fbc72                                         
+CreatePerceptionSimulationRecording                                                                  0x75442f74                                         
+GetControlMode                                                                                       0x0f4a87cb                                         
+GetIsUsingDriver                                                                                     0x07b10273                                         
+LoadPerceptionSimulationRecording                                                                    0x754875c0                                         
+SetControlMode                                                                                       0xd64d3b57                                         

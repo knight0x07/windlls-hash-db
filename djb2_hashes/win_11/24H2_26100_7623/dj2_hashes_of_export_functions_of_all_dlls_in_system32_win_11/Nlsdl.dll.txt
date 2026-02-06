@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\Nlsdl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DownlevelGetParentLocaleLCID                                                                         0x5414ffab                                         
+DownlevelGetParentLocaleName                                                                         0x54169cd0                                         
+DownlevelLCIDToLocaleName                                                                            0x26f66ac5                                         
+DownlevelLocaleNameToLCID                                                                            0x7b32a345                                         

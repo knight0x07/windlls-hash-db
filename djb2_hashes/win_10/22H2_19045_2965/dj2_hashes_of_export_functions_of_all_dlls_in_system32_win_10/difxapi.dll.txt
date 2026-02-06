@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\difxapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DIFXAPISetLogCallbackA                                                                               0x1398b906                                         
+DIFXAPISetLogCallbackW                                                                               0x1398b91c                                         
+DriverPackageGetPathA                                                                                0x2fd64dcb                                         
+DriverPackageGetPathW                                                                                0x2fd64de1                                         
+DriverPackageInstallA                                                                                0xbd5c4255                                         
+DriverPackageInstallW                                                                                0xbd5c426b                                         
+DriverPackagePreinstallA                                                                             0x5df9dfbc                                         
+DriverPackagePreinstallW                                                                             0x5df9dfd2                                         
+DriverPackageUninstallA                                                                              0xd80d9818                                         
+DriverPackageUninstallW                                                                              0xd80d982e                                         
+SetDifxLogCallbackA                                                                                  0x843d5d6c                                         
+SetDifxLogCallbackW                                                                                  0x843d5d82                                         

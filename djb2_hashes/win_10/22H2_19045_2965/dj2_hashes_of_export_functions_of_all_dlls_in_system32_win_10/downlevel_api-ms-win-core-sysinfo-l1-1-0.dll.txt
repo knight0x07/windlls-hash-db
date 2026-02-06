@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-sysinfo-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetComputerNameExA                                                                                   0xd252a5f3                                         
+GetComputerNameExW                                                                                   0xd252a609                                         
+GetLocalTime                                                                                         0x12d7e0df                                         
+GetLogicalProcessorInformation                                                                       0x47e780e6                                         
+GetLogicalProcessorInformationEx                                                                     0xdfcb5bc3                                         
+GetSystemDirectoryA                                                                                  0xe643c460                                         
+GetSystemDirectoryW                                                                                  0xe643c476                                         
+GetSystemInfo                                                                                        0x8308eff6                                         
+GetSystemTime                                                                                        0x830ee3b9                                         
+GetSystemTimeAdjustment                                                                              0x5ee26278                                         
+GetSystemTimeAsFileTime                                                                              0x4bbf083c                                         
+GetSystemWindowsDirectoryA                                                                           0xe02583cb                                         
+GetSystemWindowsDirectoryW                                                                           0xe02583e1                                         
+GetTickCount                                                                                         0x41ad16b9                                         
+GetTickCount64                                                                                       0x614db023                                         
+GetVersion                                                                                           0x2782618b                                         
+GetVersionExA                                                                                        0x45c02ee9                                         
+GetVersionExW                                                                                        0x45c02eff                                         
+GetWindowsDirectoryA                                                                                 0x95bc69c6                                         
+GetWindowsDirectoryW                                                                                 0x95bc69dc                                         
+GlobalMemoryStatusEx                                                                                 0xe4b211f0                                         
+SetLocalTime                                                                                         0x5e40416b                                         

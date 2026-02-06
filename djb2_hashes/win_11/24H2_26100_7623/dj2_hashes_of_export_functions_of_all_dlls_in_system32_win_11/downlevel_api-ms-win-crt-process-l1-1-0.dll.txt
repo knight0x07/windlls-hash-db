@@ -1,0 +1,40 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-crt-process-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+_beep                                                                                                0x0eed9040                                         
+_cwait                                                                                               0xecbb7e1c                                         
+_execl                                                                                               0xece04bb5                                         
+_execle                                                                                              0x88e9c2ba                                         
+_execlp                                                                                              0x88e9c2c5                                         
+_execlpe                                                                                             0xa6221bca                                         
+_execv                                                                                               0xece04bbf                                         
+_execve                                                                                              0x88e9c404                                         
+_execvp                                                                                              0x88e9c40f                                         
+_execvpe                                                                                             0xa6224654                                         
+_loaddll                                                                                             0xabb35f40                                         
+_spawnl                                                                                              0xa8ff5b59                                         
+_spawnle                                                                                             0xc8eac6de                                         
+_spawnlp                                                                                             0xc8eac6e9                                         
+_spawnlpe                                                                                            0xe643a46e                                         
+_spawnv                                                                                              0xa8ff5b63                                         
+_spawnve                                                                                             0xc8eac828                                         
+_spawnvp                                                                                             0xc8eac833                                         
+_spawnvpe                                                                                            0xe643cef8                                         
+_unloaddll                                                                                           0xfa54ee63                                         
+_wexecl                                                                                              0xb1993f0c                                         
+_wexecle                                                                                             0xe4c120f1                                         
+_wexeclp                                                                                             0xe4c120fc                                         
+_wexeclpe                                                                                            0x7ce540e1                                         
+_wexecv                                                                                              0xb1993f16                                         
+_wexecve                                                                                             0xe4c1223b                                         
+_wexecvp                                                                                             0xe4c12246                                         
+_wexecvpe                                                                                            0x7ce56b6b                                         
+_wspawnl                                                                                             0x04d6b990                                         
+_wspawnle                                                                                            0x9fadebf5                                         
+_wspawnlp                                                                                            0x9fadec00                                         
+_wspawnlpe                                                                                           0x956b6c65                                         
+_wspawnv                                                                                             0x04d6b99a                                         
+_wspawnve                                                                                            0x9faded3f                                         
+_wspawnvp                                                                                            0x9faded4a                                         
+_wspawnvpe                                                                                           0x956b96ef                                         

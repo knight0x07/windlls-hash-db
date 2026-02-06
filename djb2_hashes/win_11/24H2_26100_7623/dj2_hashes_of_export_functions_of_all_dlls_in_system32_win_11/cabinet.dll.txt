@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\cabinet.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CloseCompressor                                                                                      0x4096cd68                                         
+CloseDecompressor                                                                                    0xce152cb1                                         
+Compress                                                                                             0xb7db9db1                                         
+CreateCompressor                                                                                     0xcc426f46                                         
+CreateDecompressor                                                                                   0xf330be0f                                         
+Decompress                                                                                           0x01f7f13a                                         
+DeleteExtractedFiles                                                                                 0xa87c4bef                                         
+DllGetVersion                                                                                        0x5dd63a07                                         
+Extract                                                                                              0xe3905060                                         
+FCIAddFile                                                                                           0xa7efe380                                         
+FCICreate                                                                                            0x394b14ab                                         
+FCIDestroy                                                                                           0x925c9221                                         
+FCIFlushCabinet                                                                                      0x3ea2b50f                                         
+FCIFlushFolder                                                                                       0x76834395                                         
+FDICopy                                                                                              0xb41aa633                                         
+FDICreate                                                                                            0x258ce98c                                         
+FDIDestroy                                                                                           0x06d90322                                         
+FDIIsCabinet                                                                                         0xb6cbd12a                                         
+FDITruncateCabinet                                                                                   0x62ea0c54                                         
+GetDllVersion                                                                                        0xe16a2f87                                         
+QueryCompressorInformation                                                                           0x5f4550ae                                         
+QueryDecompressorInformation                                                                         0xc8c16857                                         
+ResetCompressor                                                                                      0x93a051d5                                         
+ResetDecompressor                                                                                    0x0991805e                                         
+SetCompressorInformation                                                                             0xe4aebdc4                                         
+SetDecompressorInformation                                                                           0x4e3a72ed                                         

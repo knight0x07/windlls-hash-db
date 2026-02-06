@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\vfprintpthelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ConvertDOMDocumentToIStream                                                                          0x90cfabdd                                         
+CopyStream                                                                                           0x4f8a386c                                         
+GetXml                                                                                               0xb4e21516                                         
+IsPrintCapabilitiesConformant                                                                        0x8f931d0f                                         
+IsPrintTicketConformant                                                                              0x0592d2e9                                         
+RewindStream                                                                                         0xac36b87a                                         

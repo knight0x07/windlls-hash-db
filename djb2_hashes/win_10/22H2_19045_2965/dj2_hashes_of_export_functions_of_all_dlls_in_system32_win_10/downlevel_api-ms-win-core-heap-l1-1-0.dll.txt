@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-heap-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetProcessHeap                                                                                       0xc6580d02                                         
+GetProcessHeaps                                                                                      0x9159adb5                                         
+HeapAlloc                                                                                            0x1ffd670e                                         
+HeapCompact                                                                                          0xb5f9ff8a                                         
+HeapCreate                                                                                           0x24bd1d77                                         
+HeapDestroy                                                                                          0xec0fb46d                                         
+HeapFree                                                                                             0x374893c5                                         
+HeapLock                                                                                             0x374bd10c                                         
+HeapQueryInformation                                                                                 0x8fc157ff                                         
+HeapReAlloc                                                                                          0x1e31c125                                         
+HeapSetInformation                                                                                   0xf3baa215                                         
+HeapSize                                                                                             0x374f911e                                         
+HeapSummary                                                                                          0x939b1c31                                         
+HeapUnlock                                                                                           0x4e75a6cf                                         
+HeapValidate                                                                                         0xc59b33cd                                         
+HeapWalk                                                                                             0x37519ed2                                         

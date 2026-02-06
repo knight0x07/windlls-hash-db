@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\cmpbk32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PhoneBookCopyFilter                                                                                  0x2a15ac0b                                         
+PhoneBookEnumCountries                                                                               0x785bbb7b                                         
+PhoneBookEnumNumbers                                                                                 0x2aaa48fb                                         
+PhoneBookEnumNumbersWithRegionsZero                                                                  0x1f14974e                                         
+PhoneBookEnumRegions                                                                                 0x38d81f96                                         
+PhoneBookFreeFilter                                                                                  0x6949cdb2                                         
+PhoneBookGetCountryId                                                                                0x894134eb                                         
+PhoneBookGetCountryNameA                                                                             0xab004360                                         
+PhoneBookGetCountryNameW                                                                             0xab004376                                         
+PhoneBookGetCurrentCountryId                                                                         0xb09d6a0e                                         
+PhoneBookGetPhoneCanonicalA                                                                          0x0628bacd                                         
+PhoneBookGetPhoneDUNA                                                                                0x2ebf71ac                                         
+PhoneBookGetPhoneDescA                                                                               0x06b70f44                                         
+PhoneBookGetPhoneDispA                                                                               0x06b94275                                         
+PhoneBookGetPhoneNonCanonicalA                                                                       0x6d0dd098                                         
+PhoneBookGetPhoneType                                                                                0x2ec8d566                                         
+PhoneBookGetRegionNameA                                                                              0xfd1b2570                                         
+PhoneBookHasPhoneType                                                                                0x463ecca2                                         
+PhoneBookLoad                                                                                        0xf6836cea                                         
+PhoneBookMatchFilter                                                                                 0xd57ce07d                                         
+PhoneBookMergeChanges                                                                                0xb594b8d3                                         
+PhoneBookParseInfoA                                                                                  0x5084d392                                         
+PhoneBookUnload                                                                                      0xba04e86d                                         

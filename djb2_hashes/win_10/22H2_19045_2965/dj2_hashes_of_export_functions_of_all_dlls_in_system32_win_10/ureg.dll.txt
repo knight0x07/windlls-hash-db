@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\ureg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0REGISTRY@@QEAA@XZ                                                                                 0xab0dc736                                         
+??0REGISTRY_KEY_INFO@@QEAA@XZ                                                                        0x8b1eb409                                         
+??0REGISTRY_VALUE_ENTRY@@QEAA@XZ                                                                     0xc6d1bb63                                         
+??1REGISTRY@@UEAA@XZ                                                                                 0xcd0cdc5b                                         
+??1REGISTRY_KEY_INFO@@UEAA@XZ                                                                        0xd280be4e                                         
+??1REGISTRY_VALUE_ENTRY@@UEAA@XZ                                                                     0x94540a08                                         
+?AddValueEntry@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@PEBVREGISTRY_VALUE_ENTRY@@EPEAK@Z 0x3b79ea25                                         
+?CreateKey@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@1PEAKE@Z                         0x4f0c9728                                         
+?DeleteKey@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@PEBVWSTRING@@PEAK@Z              0x0a12156c                                         
+?DeleteValueEntry@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@PEBVWSTRING@@PEAK@Z       0xb927c0f2                                         
+?DoesKeyExist@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEBVWSTRING@@1PEAK@Z                                 0x0f47f5ca                                         
+?DoesValueExist@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEBVWSTRING@@11PEAK@Z                              0x546ec34f                                         
+?EnableRootNotification@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAXKE@Z                                   0x5c8ce4ec                                         
+?Initialize@REGISTRY@@QEAAEPEBVWSTRING@@PEAK@Z                                                       0x601b9782                                         
+?Initialize@REGISTRY_KEY_INFO@@QEAAEPEBVWSTRING@@0K0PEAU_SECURITY_ATTRIBUTES@@@Z                     0xe34ae9c7                                         
+?Initialize@REGISTRY_VALUE_ENTRY@@QEAAEPEBVWSTRING@@KW4_REG_TYPE@@PEBEK@Z                            0xea6d79e9                                         
+?IsAccessAllowed@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@KPEAK@Z                    0xc3502db6                                         
+?LoadHive@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@PEBVWSTRING@@PEAK@Z               0x74e52f1c                                         
+?QueryKeyInfo@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEBVWSTRING@@1PEAVREGISTRY_KEY_INFO@@PEAK@Z          0x0b0a5cec                                         
+?QueryKeySecurity@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEBVREGISTRY_KEY_INFO@@KPEAPEAXPEAK@Z            0x4905ab1c                                         
+?QuerySubKeysInfo@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEBVWSTRING@@1PEAVARRAY@@PEAK@Z                  0x5bd2cc5c                                         
+?QueryValues@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEBVWSTRING@@1PEAVARRAY@@PEAK@Z                       0x5bab12da                                         
+?RestoreKeyFromFile@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@PEBVWSTRING@@EPEAK@Z    0x6d394ed6                                         
+?SaveKeyToFile@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@PEBVWSTRING@@PEAK@Z          0xbe4dd6ab                                         
+?SetKeySecurity@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@KPEAXPEAKE@Z                0x2f5b38a0                                         
+?UnLoadHive@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@PEAK@Z                          0xa0d8c924                                         
+?UpdateKeyInfo@REGISTRY@@QEAAEW4_PREDEFINED_KEY@@PEAVREGISTRY_KEY_INFO@@PEAK@Z                       0xe2461d6d                                         

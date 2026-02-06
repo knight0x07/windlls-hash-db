@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\SystemSettingsThresholdAdminFlowUI.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddDomainUserPage_CreateInstance                                                                     0xa5bd6aaa                                         
+CamSystemGlobalSwitch_CreateInstance                                                                 0x432b1826                                         
+ChangeKbLayoutPage_CreateInstance                                                                    0x21f4021b                                         
+DeveloperModePage_CreateInstance                                                                     0x3b0327d5                                         
+DeviceDiscoveryUnpairAllDevicesPage_CreateInstance                                                   0xde9f71bd                                         
+DeviceEncryptionPage_CreateInstance                                                                  0xa1cf1f85                                         
+DevicePortalAuthenticationPage_CreateInstance                                                        0xc2cf60cc                                         
+DevicePortalSetAuthenticationPage_CreateInstance                                                     0xc2c26b78                                         
+DisableUserPage_CreateInstance                                                                       0xf45a781d                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+EditUserPage_CreateInstance                                                                          0x369eb84f                                         
+EnableUserPage_CreateInstance                                                                        0xee4521b0                                         
+EnterProductKeyPage_CreateInstance                                                                   0xe75be6f2                                         
+FeaturedResetPCPage_CreateInstance                                                                   0x8b37f710                                         
+HolographicUninstallPage_CreateInstance                                                              0x55040014                                         
+InitializeXamlCustomResourceLoader                                                                   0x175ebd43                                         
+InitializeXamlRuntime                                                                                0x34a6fa2d                                         
+JoinDomainPage_CreateInstance                                                                        0x6aa85a12                                         
+LeaveDomainPage_CreateInstance                                                                       0x59e733ef                                         
+LockdownAppPage_CreateInstance                                                                       0x5896dbec                                         
+LockdownUserPage_CreateInstance                                                                      0x58ce9f6a                                         
+ManageExclusionPage_CreateInstance                                                                   0x43811d2d                                         
+RemoteDesktopPage_CreateInstance                                                                     0xb8e0a1b0                                         
+RemoveUserPage_CreateInstance                                                                        0x3d978a97                                         
+RenamePCPage_CreateInstance                                                                          0xc26622f5                                         
+ResetPCPage_CreateInstance                                                                           0xf34b1640                                         
+RetailDemoConfirmPage_CreateInstance                                                                 0x19587efe                                         
+SetDateTimePage_CreateInstance                                                                       0x02e55a83                                         
+SetFindMyDevicePage_CreateInstance                                                                   0x7fef0aed                                         
+SetGeolocationMasterPage_CreateInstance                                                              0x6a00c176                                         
+SurfaceHubDeveloperModePage_CreateInstance                                                           0xedeac93d                                         
+TroubleshootActivationPage_CreateInstance                                                            0xba680006                                         
+UnblockSimPinPage_CreateInstance                                                                     0x3d08bb88                                         
+UninitializeXamlCustomResourceLoader                                                                 0xa54022c6                                         
+UninitializeXamlRuntime                                                                              0xe7ef2ed0                                         
+UninstallOSPage_CreateInstance                                                                       0xa9cd11a6                                         

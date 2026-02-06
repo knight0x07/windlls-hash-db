@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\downlevel\API-MS-Win-security-lsapolicy-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LsaAddAccountRights                                                                                  0x258bb66c                                         
+LsaClose                                                                                             0x1ae5b69b                                         
+LsaCreateSecret                                                                                      0xe70900bf                                         
+LsaEnumerateAccountRights                                                                            0x24745849                                         
+LsaEnumerateAccountsWithUserRight                                                                    0xc0cc6424                                         
+LsaFreeMemory                                                                                        0xcca54e00                                         
+LsaICLookupNames                                                                                     0x6eb7cd9f                                         
+LsaICLookupNamesWithCreds                                                                            0x3ba1f8ec                                         
+LsaICLookupSids                                                                                      0x0b1fb67e                                         
+LsaICLookupSidsWithCreds                                                                             0xd4a34cab                                         
+LsaLookupNames2                                                                                      0xf3dcc8c5                                         
+LsaLookupSids                                                                                        0xede62892                                         
+LsaLookupSids2                                                                                       0xaaab3b04                                         
+LsaOpenPolicy                                                                                        0xc48b7007                                         
+LsaOpenSecret                                                                                        0xcad12bfd                                         
+LsaQueryInformationPolicy                                                                            0x4c586fd1                                         
+LsaQuerySecret                                                                                       0x383095c1                                         
+LsaRemoveAccountRights                                                                               0xf9d0ea31                                         
+LsaRetrievePrivateData                                                                               0x53317600                                         
+LsaSetInformationPolicy                                                                              0x2c6129e7                                         
+LsaSetSecret                                                                                         0xf6362197                                         
+LsaStorePrivateData                                                                                  0xff720f27                                         

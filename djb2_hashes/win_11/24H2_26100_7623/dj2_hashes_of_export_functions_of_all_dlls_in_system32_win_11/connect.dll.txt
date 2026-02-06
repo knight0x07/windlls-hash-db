@@ -1,0 +1,19 @@
+DLL Path: C:\Windows\System32\connect.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddConnectionOptionListEntries                                                                       0xc72b2b6d                                         
+CreateVPNConnection                                                                                  0x22ffe21d                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetInternetConnected                                                                                 0x446156e1                                         
+GetNetworkConnected                                                                                  0xf110b502                                         
+GetVPNConnected                                                                                      0x9be4490c                                         
+HrIsInternetConnected                                                                                0xce5274d7                                         
+HrIsInternetConnectedGUID                                                                            0xe9c76a80                                         
+IsInternetConnected                                                                                  0xed4e8c1d                                         
+IsInternetConnectedGUID                                                                              0xcbe9b4c6                                         
+IsUniqueConnectionName                                                                               0x3ca995c9                                         
+RegisterPageWithPage                                                                                 0x6457d0a0                                         
+UnregisterPage                                                                                       0x9b98a94a                                         
+UnregisterPagesLink                                                                                  0x8754838b                                         

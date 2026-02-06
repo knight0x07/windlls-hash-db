@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\wmidcom.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+??0CCritSec@@QEAA@XZ                                                                                 0xe57ddc4d                                         
+??1CCritSec@@QEAA@XZ                                                                                 0xd393fe6e                                         
+??4CAutoSetActivityId@@QEAAAEAV0@AEBV0@@Z                                                            0x898f1366                                         
+??4CCritSec@@QEAAAEAV0@AEBV0@@Z                                                                      0x2d376e14                                         
+MI_Application_InitializeV1                                                                          0x62987f86                                         

@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\WindowsCodecsExt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+IWICColorTransform_Initialize_Proxy                                                                  0x3e74703e                                         
+WICCreateColorTransform_Proxy                                                                        0xb8efafb8                                         

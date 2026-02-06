@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\drivers\usbport.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+USBPORT_GetHciMn                                                                                     0x292e4c62                                         
+USBPORT_IsControllerInHibernatePath                                                                  0x2462d849                                         
+USBPORT_RegisterUSBPortDriver                                                                        0x22c7e753                                         

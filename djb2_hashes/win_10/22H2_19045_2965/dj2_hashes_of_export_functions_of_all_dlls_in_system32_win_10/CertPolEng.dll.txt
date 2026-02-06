@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\CertPolEng.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IntPstGetCertificate                                                                                 0xfba51d8a                                         
+IntPstGetNameIdentifierForCertificate                                                                0x61d1a295                                         
+IntPstGetTrustAnchors                                                                                0x20216557                                         
+IntPstMapCertificateToProvider                                                                       0xdd459c36                                         
+IntPstMapUserCredsToProvider                                                                         0xe845d943                                         
+IntPstValidate                                                                                       0x0d6e1411                                         
+PstAcquirePrivateKey                                                                                 0x569f590a                                         
+PstGetCertificateChain                                                                               0xce644a42                                         
+PstGetCertificates                                                                                   0x76f3c772                                         
+PstGetTrustAnchors                                                                                   0x26cc5d8c                                         
+PstGetTrustAnchorsEx                                                                                 0x0b59f9e9                                         
+PstGetUserNameForCertificate                                                                         0x6ec61ec6                                         
+PstMapCertificate                                                                                    0x183f215d                                         
+PstValidate                                                                                          0xbe050de6                                         

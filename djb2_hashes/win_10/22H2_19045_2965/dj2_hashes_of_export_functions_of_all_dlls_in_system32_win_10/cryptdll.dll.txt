@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\cryptdll.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CDBuildIntegrityVect                                                                                 0x04937fcd                                         
+CDBuildVect                                                                                          0x7d79b6ae                                         
+CDFindCommonCSystem                                                                                  0xa848cdde                                         
+CDFindCommonCSystemWithKey                                                                           0x463c8623                                         
+CDGenerateRandomBits                                                                                 0x00ff9f8a                                         
+CDGetIntegrityVect                                                                                   0xc58b7fbd                                         
+CDLocateCSystem                                                                                      0xe4c2830c                                         
+CDLocateCheckSum                                                                                     0x9dcbf137                                         
+CDLocateRng                                                                                          0x9a6e6a4b                                         
+CDRegisterCSystem                                                                                    0xac66dc99                                         
+CDRegisterCheckSum                                                                                   0x59fb7c64                                         
+CDRegisterRng                                                                                        0xf2d20558                                         
+HMACwithSHA                                                                                          0xd32b4576                                         
+KRBFXCF2                                                                                             0xfa3cb21d                                         
+MD5Final                                                                                             0x7ec80635                                         
+MD5Init                                                                                              0xcd8baa7f                                         
+MD5Update                                                                                            0x7b3f5f6e                                         
+PBKDF2                                                                                               0xc750533e                                         
+aesCTSDecryptMsg                                                                                     0x48f750ca                                         
+aesCTSEncryptMsg                                                                                     0x6561daf4                                         

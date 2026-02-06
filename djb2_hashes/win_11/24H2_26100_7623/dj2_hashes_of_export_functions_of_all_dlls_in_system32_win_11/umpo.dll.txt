@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\umpo.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PtrUmpoDisplayState                                                                                  0x1a0f9a73                                         
+PtrUmpoFullPowerPlanSupportDisabled                                                                  0x99a8321c                                         
+PtrUmpoOnAcPower                                                                                     0x27bee7aa                                         
+PtrUmpoProviderHandle                                                                                0x91f0f3d3                                         
+PtrUmpoSchemeLock                                                                                    0x0942681a                                         
+UmpoAllocate                                                                                         0x22c4d82b                                         
+UmpoAlpcSendPowerMessage                                                                             0x209dfda2                                         
+UmpoFree                                                                                             0xc15d9228                                         
+UmpoGetActiveScheme                                                                                  0x20788c97                                         
+UmpoInternalCloseUserPowerKey                                                                        0xb64d1e0e                                         
+UmpoInternalConvertGuidToString                                                                      0x865e1147                                         
+UmpoInternalDataAccessorToString                                                                     0xea8f708a                                         
+UmpoInternalGetKeyValueGuid                                                                          0x16df1f12                                         
+UmpoInternalOpenGUIDSubKey                                                                           0x0ac06091                                         
+UmpoInternalOpenUserPowerKey                                                                         0x0a41a16a                                         
+UmpoMain                                                                                             0xc161210b                                         
+UmpoNotificationHandler                                                                              0x6ace1c8b                                         
+UmpoNotifyKernelAllPowerPolicyChanged                                                                0xc935cb40                                         
+UmpoSendKernelPowerPolicyNotification                                                                0xb1dad735                                         
+UmpoWriteToUserPowerKey                                                                              0x963659e9                                         

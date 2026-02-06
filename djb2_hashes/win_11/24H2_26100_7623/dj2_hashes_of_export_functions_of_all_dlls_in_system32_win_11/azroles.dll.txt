@@ -1,0 +1,48 @@
+DLL Path: C:\Windows\System32\azroles.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AzAddPropertyItem                                                                                    0x284d349d                                         
+AzApplicationClose                                                                                   0x032cccaa                                         
+AzApplicationCreate                                                                                  0x692d2ee8                                         
+AzApplicationDelete                                                                                  0x6a9b00a7                                         
+AzApplicationEnum                                                                                    0x64f2f9a9                                         
+AzApplicationOpen                                                                                    0x64f87be6                                         
+AzAuthorizationStoreDelete                                                                           0x4c6d2c91                                         
+AzCloseHandle                                                                                        0x351e4142                                         
+AzContextAccessCheck                                                                                 0x12d0f7b5                                         
+AzContextGetAssignedScopesPage                                                                       0x4bc7791d                                         
+AzContextGetRoles                                                                                    0x8c10a52a                                         
+AzFreeMemory                                                                                         0x9e9b617b                                         
+AzGetProperty                                                                                        0x6c6e3bc5                                         
+AzGroupCreate                                                                                        0x7f999d61                                         
+AzGroupDelete                                                                                        0x81076f20                                         
+AzGroupEnum                                                                                          0xb24f75e2                                         
+AzGroupOpen                                                                                          0xb254f81f                                         
+AzInitialize                                                                                         0x4d819e52                                         
+AzInitializeContextFromName                                                                          0x66969b2c                                         
+AzInitializeContextFromToken                                                                         0x39de38ec                                         
+AzOperationCreate                                                                                    0x4a7c0585                                         
+AzOperationDelete                                                                                    0x4be9d744                                         
+AzOperationEnum                                                                                      0x6c718506                                         
+AzOperationOpen                                                                                      0x6c770743                                         
+AzRemovePropertyItem                                                                                 0x90a769e2                                         
+AzRoleCreate                                                                                         0xd104b806                                         
+AzRoleDelete                                                                                         0xd27289c5                                         
+AzRoleEnum                                                                                           0xd079a347                                         
+AzRoleOpen                                                                                           0xd07f2584                                         
+AzScopeCreate                                                                                        0x9749d6ce                                         
+AzScopeDelete                                                                                        0x98b7a88d                                         
+AzScopeEnum                                                                                          0x43d8700f                                         
+AzScopeOpen                                                                                          0x43ddf24c                                         
+AzSetProperty                                                                                        0xacc6bad1                                         
+AzSubmit                                                                                             0xf1c44514                                         
+AzTaskCreate                                                                                         0xbdf5eae7                                         
+AzTaskDelete                                                                                         0xbf63bca6                                         
+AzTaskEnum                                                                                           0x840ea9e8                                         
+AzTaskOpen                                                                                           0x84142c25                                         
+AzUpdateCache                                                                                        0xcbfc9637                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

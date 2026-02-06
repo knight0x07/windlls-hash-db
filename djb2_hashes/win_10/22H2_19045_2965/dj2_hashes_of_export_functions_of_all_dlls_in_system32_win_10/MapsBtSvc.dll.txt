@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\MapsBtSvc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MapsBackgroundTransferClassFactory_Register                                                          0x5f3da02d                                         
+MapsBackgroundTransferClassFactory_Revoke                                                            0x1e35bf54                                         
+MapsBackgroundTransferService_CreateOrFindJob                                                        0x0ca8209c                                         
+MapsBackgroundTransferService_FreeJob                                                                0x70d3af48                                         
+MapsBackgroundTransferService_GetIsAnyJobWaiting                                                     0x9c2ff51d                                         
+MapsBackgroundTransferService_RegisterCallbacks                                                      0xb38b3750                                         
+MapsBackgroundTransferService_SetNetworkCostPolicy                                                   0x46c1ee6a                                         
+MapsBackgroundTransferService_SetPowerPolicy                                                         0x48e51fb4                                         
+MapsBackgroundTransferService_SetPriority                                                            0x03802bb9                                         
+MapsBackgroundTransferService_SetServiceCallbacks                                                    0x0d3ed1c8                                         
+MapsBackgroundTransferService_TakeBitsSnapshot                                                       0x2d3865d2                                         
+MapsBackgroundTransferService_UnregisterCallbacks                                                    0x20ab3bf3                                         

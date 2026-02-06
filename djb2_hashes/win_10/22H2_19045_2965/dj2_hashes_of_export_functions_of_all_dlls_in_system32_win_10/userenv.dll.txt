@@ -1,0 +1,83 @@
+DLL Path: C:\Windows\System32\userenv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AreThereVisibleLogoffScripts                                                                         0x559031e8                                         
+AreThereVisibleShutdownScripts                                                                       0x6055a687                                         
+CreateAppContainerProfile                                                                            0xa9dcd44e                                         
+CreateEnvironmentBlock                                                                               0x6cd41b79                                         
+CreateProfile                                                                                        0x435c880a                                         
+DeleteAppContainerProfile                                                                            0x18429fad                                         
+DeleteProfileA                                                                                       0x4e74aa4a                                         
+DeleteProfileW                                                                                       0x4e74aa60                                         
+DeriveAppContainerSidFromAppContainerName                                                            0xed0c9b41                                         
+DeriveRestrictedAppContainerSidFromAppContainerSidAndRestrictedName                                  0xa8a44a66                                         
+DestroyEnvironmentBlock                                                                              0x90a282af                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+EnterCriticalPolicySection                                                                           0xb529b6d3                                         
+ExpandEnvironmentStringsForUserA                                                                     0xb812106b                                         
+ExpandEnvironmentStringsForUserW                                                                     0xb8121081                                         
+ForceSyncFgPolicy                                                                                    0xdfc2818e                                         
+FreeGPOListA                                                                                         0xfe123e4a                                         
+FreeGPOListW                                                                                         0xfe123e60                                         
+GenerateGPNotification                                                                               0x6c40482e                                         
+GetAllUsersProfileDirectoryA                                                                         0xd76b2df7                                         
+GetAllUsersProfileDirectoryW                                                                         0xd76b2e0d                                         
+GetAppContainerFolderPath                                                                            0x2c4b4c72                                         
+GetAppContainerRegistryLocation                                                                      0x6c05193b                                         
+GetAppliedGPOListA                                                                                   0xbe76e287                                         
+GetAppliedGPOListW                                                                                   0xbe76e29d                                         
+GetDefaultUserProfileDirectoryA                                                                      0xda5f7fb0                                         
+GetDefaultUserProfileDirectoryW                                                                      0xda5f7fc6                                         
+GetGPOListA                                                                                          0x9b05e648                                         
+GetGPOListW                                                                                          0x9b05e65e                                         
+GetNextFgPolicyRefreshInfo                                                                           0x83b40d1c                                         
+GetPreviousFgPolicyRefreshInfo                                                                       0x1120067a                                         
+GetProfileType                                                                                       0xadbbf6b8                                         
+GetProfilesDirectoryA                                                                                0x0d5172df                                         
+GetProfilesDirectoryW                                                                                0x0d5172f5                                         
+GetUserProfileDirectoryA                                                                             0x06ffd32b                                         
+GetUserProfileDirectoryW                                                                             0x06ffd341                                         
+HasPolicyForegroundProcessingCompleted                                                               0x45663be6                                         
+LeaveCriticalPolicySection                                                                           0x0fbd9fa2                                         
+LoadProfileExtender                                                                                  0xe301dad5                                         
+LoadUserProfileA                                                                                     0x656944b6                                         
+LoadUserProfileW                                                                                     0x656944cc                                         
+ProcessGroupPolicyCompleted                                                                          0x8cc132de                                         
+ProcessGroupPolicyCompletedEx                                                                        0xc1d96bbb                                         
+RefreshPolicy                                                                                        0x381b4c44                                         
+RefreshPolicyEx                                                                                      0xac1f76a1                                         
+RegisterGPNotification                                                                               0xefc41448                                         
+RsopAccessCheckByType                                                                                0xbce051f6                                         
+RsopFileAccessCheck                                                                                  0xe4878f59                                         
+RsopLoggingEnabled                                                                                   0x3acf63bb                                         
+RsopResetPolicySettingStatus                                                                         0x0453589e                                         
+RsopSetPolicySettingStatus                                                                           0xa8f05807                                         
+UnloadProfileExtender                                                                                0xcc5e8ab8                                         
+UnloadUserProfile                                                                                    0xa09a4038                                         
+UnregisterGPNotification                                                                             0x0c12dd4b                                         
+WaitForMachinePolicyForegroundProcessing                                                             0x6958dabe                                         
+WaitForUserPolicyForegroundProcessing                                                                0x87cdf428                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

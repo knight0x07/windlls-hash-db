@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\wbem\WmiApRpl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+WmiClosePerfData                                                                                     0x00c74c0f                                         
+WmiCollectPerfData                                                                                   0x9aaef4ff                                         
+WmiOpenPerfData                                                                                      0x3ca12b8b                                         

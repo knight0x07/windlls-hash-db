@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\hascsp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetForceRetrieve                                                                                     0x5d7bb89a                                         
+GetHealthCert                                                                                        0x5b087989                                         
+GetNonce                                                                                             0x7507ebf8                                         
+PolicyManager_PreCheck                                                                               0xe4cb2a34                                         
+SetForceRetrieve                                                                                     0xeff97f26                                         
+SetNonce                                                                                             0x881de684                                         

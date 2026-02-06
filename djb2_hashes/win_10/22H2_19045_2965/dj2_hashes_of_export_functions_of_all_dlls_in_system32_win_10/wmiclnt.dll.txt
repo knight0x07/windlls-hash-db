@@ -1,0 +1,33 @@
+DLL Path: C:\Windows\System32\wmiclnt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WmiCloseBlock                                                                                        0x19a56153                                         
+WmiDevInstToInstanceNameA                                                                            0x47a80a69                                         
+WmiDevInstToInstanceNameW                                                                            0x47a80a7f                                         
+WmiEnumerateGuids                                                                                    0x93d75794                                         
+WmiExecuteMethodA                                                                                    0x8c6a1947                                         
+WmiExecuteMethodW                                                                                    0x8c6a195d                                         
+WmiFileHandleToInstanceNameA                                                                         0x10792738                                         
+WmiFileHandleToInstanceNameW                                                                         0x1079274e                                         
+WmiFreeBuffer                                                                                        0x2260face                                         
+WmiMofEnumerateResourcesA                                                                            0x43134436                                         
+WmiMofEnumerateResourcesW                                                                            0x4313444c                                         
+WmiNotificationRegistrationA                                                                         0x7468eaf5                                         
+WmiNotificationRegistrationW                                                                         0x7468eb0b                                         
+WmiOpenBlock                                                                                         0x1f93124f                                         
+WmiQueryAllDataA                                                                                     0x233d785c                                         
+WmiQueryAllDataMultipleA                                                                             0x41ad05a8                                         
+WmiQueryAllDataMultipleW                                                                             0x41ad05be                                         
+WmiQueryAllDataW                                                                                     0x233d7872                                         
+WmiQueryGuidInformation                                                                              0xc76c3ef7                                         
+WmiQuerySingleInstanceA                                                                              0x1db5f7c0                                         
+WmiQuerySingleInstanceMultipleA                                                                      0x70d0a90c                                         
+WmiQuerySingleInstanceMultipleW                                                                      0x70d0a922                                         
+WmiQuerySingleInstanceW                                                                              0x1db5f7d6                                         
+WmiReceiveNotificationsA                                                                             0x6ad460f0                                         
+WmiReceiveNotificationsW                                                                             0x6ad46106                                         
+WmiSetSingleInstanceA                                                                                0x55c82d16                                         
+WmiSetSingleInstanceW                                                                                0x55c82d2c                                         
+WmiSetSingleItemA                                                                                    0xaaba8f30                                         
+WmiSetSingleItemW                                                                                    0xaaba8f46                                         

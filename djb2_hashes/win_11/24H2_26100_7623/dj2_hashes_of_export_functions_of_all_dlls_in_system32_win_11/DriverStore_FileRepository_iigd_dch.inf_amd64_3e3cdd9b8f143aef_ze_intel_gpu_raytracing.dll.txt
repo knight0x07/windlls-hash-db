@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\ze_intel_gpu_raytracing.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+zeDriverRTASFormatCompatibilityCheckExpImpl                                                          0x7c5c4cea                                         
+zeRTASBuilderBuildExpImpl                                                                            0xc3a86df4                                         
+zeRTASBuilderCreateExpImpl                                                                           0x42d2d558                                         
+zeRTASBuilderDestroyExpImpl                                                                          0xa56e6fce                                         
+zeRTASBuilderGetBuildPropertiesExpImpl                                                               0xd678a4c1                                         
+zeRTASParallelOperationCreateExpImpl                                                                 0xc300cc6f                                         
+zeRTASParallelOperationDestroyExpImpl                                                                0x2b5b49c5                                         
+zeRTASParallelOperationGetPropertiesExpImpl                                                          0x15d90048                                         
+zeRTASParallelOperationJoinExpImpl                                                                   0xa2823e4b                                         

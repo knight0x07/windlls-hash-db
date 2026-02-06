@@ -1,0 +1,21 @@
+DLL Path: C:\Windows\System32\drivers\tbs.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+Tbsi_Context_Create                                                                                  0xc93e904e                                         
+Tbsi_Create_Windows_Key                                                                              0x170505fc                                         
+Tbsi_GetDeviceInfo                                                                                   0x56d48952                                         
+Tbsi_Get_OwnerAuth                                                                                   0x33f672b2                                         
+Tbsi_Get_TCG_Log                                                                                     0x840ae334                                         
+Tbsi_Is_Tpm_Present                                                                                  0x942d3f82                                         
+Tbsi_Physical_Presence_Command                                                                       0x5664dd65                                         
+Tbsi_Revoke_Attestation                                                                              0xc6c6f251                                         
+Tbsi_Tpm_Vendor_Maintenance_Mode                                                                     0x0a57d95a                                         
+Tbsip_Cancel_Commands                                                                                0xff14c4bd                                         
+Tbsip_Context_Close                                                                                  0x5f6714a0                                         
+Tbsip_Submit_Command                                                                                 0xc3bd3bb8                                         
+Tbsip_Submit_Command_NonBlocking                                                                     0x420c012b                                         
+Tbsip_TestInterruptInformation                                                                       0xd97afb39                                         
+Tbsip_TestMorBit                                                                                     0x5b84b693                                         

@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\ServicingUAPI.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+EnumerateFeatures                                                                                    0x771e664a                                         
+FreeEnumerateFeaturesResult                                                                          0x90c8250b                                         
+FreeInstallFeaturesResult                                                                            0xd07b495c                                         
+FreeModifyFeaturesResult                                                                             0x731a27ad                                         
+FreeUninstallFeaturesResult                                                                          0xb1162e7f                                         
+GetFeatureState                                                                                      0xbd1c8512                                         
+GetServicingStatus                                                                                   0x68f9e793                                         
+InstallFeatures                                                                                      0xb89d325b                                         
+IsFeatureInstalled                                                                                   0x277fc9cd                                         
+ModifyFeatures                                                                                       0xa97e442c                                         
+PrepareSandboxForInboxUse                                                                            0x9bb22717                                         
+UninstallFeatures                                                                                    0x00cf68be                                         

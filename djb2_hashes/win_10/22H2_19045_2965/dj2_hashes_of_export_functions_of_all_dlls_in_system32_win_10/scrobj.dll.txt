@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\scrobj.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllInstall                                                                                           0x1516f878                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllRegisterServerEx                                                                                  0x3956a2ba                                         
+DllRegisterServerExA                                                                                 0x642afa3b                                         
+DllRegisterServerExW                                                                                 0x642afa51                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+DllUnregisterServerEx                                                                                0xf7b6f47d                                         
+GenerateTypeLib                                                                                      0xfb4ac129                                         
+GenerateTypeLibW                                                                                     0x64a2e6a0                                         

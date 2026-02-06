@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\bcmCVUsrIfc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+cvhFPEventRegistration                                                                               0x8a1d9499                                         
+cvhHostControlRequest                                                                                0xbe41e42e                                         
+cvhHostStoreRequest                                                                                  0x8d753b5a                                         
+cvhPromptUserPIN                                                                                     0x9822f40e                                         
+cvhTransmit                                                                                          0x65056f18                                         
+cvhTransmitClient                                                                                    0xb0b9a9b7                                         
+cvhUserPrompt                                                                                        0xc84e05a7                                         

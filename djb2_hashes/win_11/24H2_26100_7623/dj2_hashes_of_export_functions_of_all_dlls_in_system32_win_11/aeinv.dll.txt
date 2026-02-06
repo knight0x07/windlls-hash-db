@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\aeinv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateAppxPackageInventory                                                                           0xa9c6bbcc                                         
+CreateAppxPackageInventoryExtracted                                                                  0x0fbe2c70                                         
+CreateSoftwareInventory                                                                              0x7590d952                                         
+GetAppInfo                                                                                           0xf068ffd2                                         
+GetAppInfo2                                                                                          0xfd88fa44                                         
+GetAppInventory                                                                                      0xef13f394                                         
+GetApplicationKBsTC2                                                                                 0xd3c45922                                         
+GetCachedAppInventory                                                                                0xa19c4bac                                         
+GetDetailedAppInventory                                                                              0x325014f0                                         
+GetDetailedAppInventoryFile                                                                          0x55593c70                                         
+GetDetailedAppInventoryOrphanFile                                                                    0x46b90958                                         
+UpdateSoftwareInventoryW                                                                             0xb0fed798                                         
+UpdateSoftwareInventoryWTCEx                                                                         0x3d8019cc                                         

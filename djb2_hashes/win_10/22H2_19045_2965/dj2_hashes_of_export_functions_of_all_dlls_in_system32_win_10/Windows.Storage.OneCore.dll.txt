@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\Windows.Storage.OneCore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CopyFileFromAppW                                                                                     0xd707438c                                         
+CreateDirectoryFromAppW                                                                              0xa3826ffa                                         
+CreateFile2FromAppW                                                                                  0xbefd60f7                                         
+CreateFileFromAppW                                                                                   0x976fdba5                                         
+DeleteFileFromAppW                                                                                   0xf30743e4                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+FindFirstFileExFromAppW                                                                              0x0ec36cb7                                         
+GetFileAttributesExFromAppW                                                                          0x04814075                                         
+MoveFileFromAppW                                                                                     0x812f5a08                                         
+RemoveDirectoryFromAppW                                                                              0xa0281cf4                                         
+ReplaceFileFromAppW                                                                                  0xf1bc1eed                                         
+SetFileAttributesFromAppW                                                                            0xfc451b24                                         

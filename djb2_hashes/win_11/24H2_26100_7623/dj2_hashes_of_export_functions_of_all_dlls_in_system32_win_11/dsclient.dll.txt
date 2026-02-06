@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\dsclient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DSCopyFromSharedFile                                                                                 0xa65b7002                                         
+DSCreateSharedFileToken                                                                              0x4538fa48                                         
+DSDelegateSharingToken                                                                               0xc3ea9d64                                         
+DSFreeString                                                                                         0xef66e3d5                                         
+DSGetSharedFileName                                                                                  0x931add34                                         
+DSGetSharingTokenInformation                                                                         0x154b25ef                                         
+DSOpenSharedFile                                                                                     0xed804565                                         
+DSRemoveExpiredTokens                                                                                0x6c27008f                                         
+DSRemoveSharingToken                                                                                 0x6db9ccb7                                         

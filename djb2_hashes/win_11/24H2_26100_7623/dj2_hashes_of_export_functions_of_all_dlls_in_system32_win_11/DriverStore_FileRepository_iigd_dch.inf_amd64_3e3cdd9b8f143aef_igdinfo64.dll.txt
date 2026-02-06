@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igdinfo64.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GfxInfo_Params                                                                                       0xfdd69919                                         
+GfxInfo_RTErr                                                                                        0x0f8f6ec4                                         
+GfxInfo_RTErr_Varargs                                                                                0x496cccf9                                         
+GfxInfo_Varargs                                                                                      0x86873ceb                                         

@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\ProximityService.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CleanupProximityService                                                                              0xa744bf53                                         
+GetProximityClientCount                                                                              0xfdbdabe2                                         
+InitProximityService                                                                                 0x599d297f                                         
+InitProximityServiceEx                                                                               0x358d8e9c                                         
+ServiceMain                                                                                          0x0747703b                                         
+SessionChangedEvent                                                                                  0x9f4a43f5                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         
+[Function Ordinal Only]                                                                              NA                                                 

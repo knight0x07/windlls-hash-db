@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\provplatformdesktop.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CheckPackageManagerOutOfProc                                                                         0x5d0494ab                                         
+CheckUserConsent                                                                                     0x3feb09dc                                         
+ConfigureAppLaunch                                                                                   0x95bf2963                                         
+CreateAutomaticRedeploymentFailureNotificationTask                                                   0xd1246a5a                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetDeviceId                                                                                          0x83c9cf62                                         
+GetPackagePassword                                                                                   0xb17993e4                                         
+GetProvisioningTargetUser                                                                            0x8a93ecb2                                         
+InitiateMgmtRefresh                                                                                  0x64ae88e0                                         
+InitiateSystemReset                                                                                  0x504e98e4                                         
+MgmtRefreshPrecheck                                                                                  0x282f75ce                                         
+MgmtRefreshRebootSystem                                                                              0xd5bb04d9                                         
+MgmtRefreshReleaseSession                                                                            0x462b1c6e                                         
+MgmtRefreshStageSession                                                                              0x31eadd01                                         
+MgmtRefreshUnstageSession                                                                            0x7383ff44                                         
+ReportInstallationError                                                                              0x19f9c1bd                                         
+SetDeviceName                                                                                        0x55f26182                                         

@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\TextShaping.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BuildOtlCache                                                                                        0xf561d5f8                                         
+FreeOtlResources                                                                                     0xde39e391                                         
+GetOtlFeatureDefs                                                                                    0x65a0dc22                                         
+GetOtlGlyphAlternates                                                                                0xc0192b2b                                         
+GetOtlLangSysList                                                                                    0x38b69c51                                         
+GetOtlScriptList                                                                                     0x85a8f4c5                                         
+GetOtlVersion                                                                                        0xb1c1f3fa                                         
+OtlAssertFailed                                                                                      0x2ebe3e8b                                         
+RepositionOtlSingleGlyph                                                                             0x11dcee86                                         
+ShapingCreateFontCacheData                                                                           0x8c748848                                         
+ShapingDrawGlyphs                                                                                    0xff7c6e14                                         
+ShapingGetBreakingProperties                                                                         0xbfaca27f                                         
+ShapingGetCombiningOptions                                                                           0x95d3ebd1                                         
+ShapingGetGlyphPositions                                                                             0x304b33bb                                         
+ShapingGetGlyphs                                                                                     0x4a41a986                                         
+ShapingLoadScriptEngine                                                                              0x715b777a                                         
+ShapingSetAssertFunction                                                                             0x51b8c4b3                                         
+ShapingSetInvariantAssertFunction                                                                    0x6112087f                                         
+SubstituteOtlSingleGlyph                                                                             0x90ccceb6                                         
+ValidateLogClust                                                                                     0x2d260b5c                                         

@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\tetheringclient.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TetheringAuthorize                                                                                   0x6f4ef3aa                                         
+TetheringDeinitApi                                                                                   0xc7792a66                                         
+TetheringFreeMemory                                                                                  0x00ea1d0a                                         
+TetheringFreePeerList                                                                                0x9622ff79                                         
+TetheringGetClientCount                                                                              0x700d2dd7                                         
+TetheringGetDefaultInterface                                                                         0xf8855e85                                         
+TetheringGetErrorString                                                                              0xd05f21f0                                         
+TetheringGetIsPeerlessTimeoutEnabled                                                                 0xe5d54be0                                         
+TetheringGetLastApiError                                                                             0x0528c187                                         
+TetheringGetMaxClientCount                                                                           0xbe65383d                                         
+TetheringGetPeerList                                                                                 0x18a21237                                         
+TetheringGetPreferredInterface                                                                       0x7be945bf                                         
+TetheringGetPrivateConnectionSettings                                                                0xe586b1ab                                         
+TetheringGetPublicConnectionSettings                                                                 0xf156caef                                         
+TetheringGetSharedInterfaceIndices                                                                   0x2c8656b6                                         
+TetheringGetSharingState                                                                             0x1c4ace1c                                         
+TetheringInitApi                                                                                     0xb557117d                                         
+TetheringIs5GHzSupported                                                                             0x2ef3b40f                                         
+TetheringIsAllowed                                                                                   0xedf1a433                                         
+TetheringRegisterNotification                                                                        0xbdf7a1bb                                         
+TetheringSetIsPeerlessTimeoutEnabled                                                                 0xcf8262ec                                         
+TetheringSetPreferredInterface                                                                       0x488503cb                                         
+TetheringSetPrivateConnectionSettings                                                                0x04d6aa37                                         
+TetheringSetPrivateConnectionSettingsAsync                                                           0x8cb5fe35                                         
+TetheringSetPublicConnectionSettings                                                                 0xdb03e1fb                                         
+TetheringSetSharingState                                                                             0xc3a3f328                                         
+TetheringSetSharingStateAsync                                                                        0xb93b85c6                                         
+TetheringStartSharing                                                                                0xcce9f989                                         
+TetheringStartSharingAsync                                                                           0x5f79b0c7                                         
+TetheringStopSharing                                                                                 0x73ade2c1                                         
+TetheringStopSharingAsync                                                                            0xbcb81cff                                         
+TetheringUnregisterNotification                                                                      0x211af07e                                         

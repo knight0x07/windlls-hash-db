@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\drvsetup.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DrvSetupInstallDriver                                                                                0xe1865405                                         
+DrvSetupInstallWuDriver                                                                              0x75a7faf1                                         
+DrvSetupUninstallDriver                                                                              0x09b150e8                                         
+DrvSetupUninstallWuDrivers                                                                           0xe53d4f87                                         
+pDrvSetupUninstallDriver                                                                             0xb9ce3ff8                                         

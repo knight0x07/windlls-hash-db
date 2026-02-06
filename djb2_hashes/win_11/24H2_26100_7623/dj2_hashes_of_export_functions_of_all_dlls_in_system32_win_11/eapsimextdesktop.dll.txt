@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\eapsimextdesktop.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+EapSimExtCallRunWizard                                                                               0xe9e3fd17                                         
+EapSimExtGetIdentityPageGuid                                                                         0xfdd80f05                                         
+EapSimExtInvokeUIAndGetConfig                                                                        0x825dc328                                         

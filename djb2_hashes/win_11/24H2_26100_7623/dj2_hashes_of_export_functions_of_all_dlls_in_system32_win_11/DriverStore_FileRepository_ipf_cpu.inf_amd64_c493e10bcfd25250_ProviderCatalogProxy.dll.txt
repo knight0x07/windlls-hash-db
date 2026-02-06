@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\ipf_cpu.inf_amd64_c493e10bcfd25250\ProviderCatalogProxy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetDllBuildType                                                                                      0xc98f5cf3                                         
+GetDllProperties                                                                                     0x987eb4ee                                         
+GetDllVersion                                                                                        0xe16a2f87                                         
+ProviderCatalogApiCreate                                                                             0xa3c16219                                         
+ProviderCatalogApiDestroy                                                                            0x4b9c8d4f                                         
+ProviderCatalogApiRevision                                                                           0xb100b9d4                                         

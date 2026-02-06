@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-xstate-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+RtlCopyExtendedContext                                                                               0xce86b468                                         
+RtlGetEnabledExtendedFeatures                                                                        0x65094bb2                                         
+RtlGetExtendedContextLength                                                                          0x5cfa1d8f                                         
+RtlGetExtendedFeaturesMask                                                                           0xdab01613                                         
+RtlInitializeExtendedContext                                                                         0x1d80537f                                         
+RtlLocateExtendedFeature                                                                             0x75c719ec                                         
+RtlLocateLegacyContext                                                                               0x606c9529                                         
+RtlSetExtendedFeaturesMask                                                                           0x3d33871f                                         

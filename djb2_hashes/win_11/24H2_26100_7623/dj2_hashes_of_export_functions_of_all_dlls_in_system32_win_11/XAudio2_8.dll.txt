@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\XAudio2_8.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateAudioReverb                                                                                    0xbfacf2d1                                         
+CreateAudioVolumeMeter                                                                               0xd3fec7e0                                         
+CreateFX                                                                                             0x8b12b237                                         
+X3DAudioCalculate                                                                                    0x0ea027d4                                         
+X3DAudioInitialize                                                                                   0x204fb7b8                                         
+XAudio2Create                                                                                        0x8ff7f535                                         
+XAudio2CreateWithVersionInfo                                                                         0x47b16d03                                         

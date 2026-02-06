@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\drivers\hidparse.sys
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllInitialize                                                                                        0x64e77af3                                         
+DllUnload                                                                                            0xd6cc2224                                         
+HidP_FreeCollectionDescription                                                                       0x586b70bb                                         
+HidP_GetButtonCaps                                                                                   0x5b3551ec                                         
+HidP_GetCaps                                                                                         0xc4e6c490                                         
+HidP_GetCollectionDescription                                                                        0x100b3cf9                                         
+HidP_GetData                                                                                         0xc4e75163                                         
+HidP_GetExtendedAttributes                                                                           0x37ad8881                                         
+HidP_GetLinkCollectionNodes                                                                          0xcf4266bc                                         
+HidP_GetScaledUsageValue                                                                             0x9f4eb4a7                                         
+HidP_GetSpecificButtonCaps                                                                           0x7e8dd0d2                                         
+HidP_GetSpecificValueCaps                                                                            0x42212dd3                                         
+HidP_GetUsageValue                                                                                   0x3478133b                                         
+HidP_GetUsageValueArray                                                                              0x9ff4fdfa                                         
+HidP_GetUsages                                                                                       0xc4e45db1                                         
+HidP_GetUsagesEx                                                                                     0x8f72974e                                         
+HidP_GetValueCaps                                                                                    0xc4eff3ad                                         
+HidP_InitializeReportForID                                                                           0x9b65198b                                         
+HidP_MaxDataListLength                                                                               0xbd0c7e47                                         
+HidP_MaxUsageListLength                                                                              0x866b68e2                                         
+HidP_SetData                                                                                         0x60a22a6f                                         
+HidP_SetScaledUsageValue                                                                             0xe98b7fb3                                         
+HidP_SetUsageValue                                                                                   0xecec8547                                         
+HidP_SetUsageValueArray                                                                              0xc8fe9786                                         
+HidP_SetUsages                                                                                       0x3ab9a9bd                                         
+HidP_SysPowerCaps                                                                                    0xd2943b3c                                         
+HidP_SysPowerEvent                                                                                   0x254b28b7                                         
+HidP_TranslateUsageAndPagesToI8042ScanCodes                                                          0x0f01439c                                         
+HidP_TranslateUsagesToI8042ScanCodes                                                                 0x9fd839ec                                         
+HidP_UnsetUsages                                                                                     0x805792e0                                         
+HidP_UsageAndPageListDifference                                                                      0x1c127555                                         
+HidP_UsageListDifference                                                                             0x5e7491e5                                         

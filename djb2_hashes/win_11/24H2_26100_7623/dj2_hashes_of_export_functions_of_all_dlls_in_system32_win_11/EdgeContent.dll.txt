@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\EdgeContent.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+IEGetWriteableFolderPath                                                                             0x52d720fb                                         
+IEIsInPrivateBrowsing                                                                                0x19058a8c                                         
+IEIsProtectedModeProcess                                                                             0xb495779d                                         
+IERefreshElevationPolicy                                                                             0x496cbe39                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\tdhres.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetNTStatusSymbolicName                                                                              0x1e2a1f4e                                         
+GetNdisOidSymbolicName                                                                               0x02bd6892                                         
+GetNdisSymbolicName                                                                                  0x4ccded76                                         
+GetNetEventSymbolicName                                                                              0xb74ef4f1                                         
+GetWinErrorSymbolicName                                                                              0xc9e28480                                         

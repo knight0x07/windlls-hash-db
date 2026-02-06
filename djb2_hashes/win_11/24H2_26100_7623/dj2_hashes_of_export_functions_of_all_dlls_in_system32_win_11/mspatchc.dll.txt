@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\mspatchc.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreatePatchFileA                                                                                     0x158b334a                                         
+CreatePatchFileByHandles                                                                             0x97459e23                                         
+CreatePatchFileByHandlesEx                                                                           0x7f25bc40                                         
+CreatePatchFileExA                                                                                   0xa5254e87                                         
+CreatePatchFileExW                                                                                   0xa5254e9d                                         
+CreatePatchFileW                                                                                     0x158b3360                                         
+ExtractPatchHeaderToFileA                                                                            0xb74fea9d                                         
+ExtractPatchHeaderToFileByHandles                                                                    0x7629f876                                         
+ExtractPatchHeaderToFileW                                                                            0xb74feab3                                         
+GetFilePatchSignatureA                                                                               0x101cac08                                         
+GetFilePatchSignatureByBuffer                                                                        0xe6adb99c                                         
+GetFilePatchSignatureByHandle                                                                        0xf3471eae                                         
+GetFilePatchSignatureW                                                                               0x101cac1e                                         
+NormalizeFileForPatchSignature                                                                       0x78973d5f                                         

@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\hvloader.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HvlCancelHypervisorLaunch                                                                            0x446bb3eb                                         
+HvlExchangeDispatchInterface                                                                         0x4b9a5e13                                         
+HvlLaunchHypervisor                                                                                  0x6bbcf6e5                                         
+HvlLoadHypervisor                                                                                    0xeca8612a                                         
+HvlPreloadHypervisor                                                                                 0xd34eba91                                         
+HvlRegisterRuntimeRange                                                                              0xb4944c45                                         
+HvlRescindVsm                                                                                        0xb6bf39ad                                         

@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\apprepapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppRepComputeImageHash                                                                               0x50c02d31                                         
+AppRepComputeImageHashWithOffset                                                                     0x4d3120d4                                         
+AppRepComputeSignatureInfo                                                                           0x3f6e8768                                         
+AppRepFreeAttributeLib                                                                               0xccf672da                                         
+AppRepInitializeAttributeLib                                                                         0x85537eea                                         
+AppRepParameterCleanup                                                                               0xc919bfd6                                         
+AppRepPartialTelemetryCleanup                                                                        0x2aa20d7d                                         
+RepGetFileInformation                                                                                0x6ab9a792                                         
+RepInformUserAction                                                                                  0x0dc3f474                                         
+ReputationInfoCleanup                                                                                0xbeff1244                                         

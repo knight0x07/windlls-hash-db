@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\cfgbkend.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CLSID_CfgComp                                                                                        0xd7834b92                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+IID_ICfgComp                                                                                         0x1c14dba2                                         
+IID_ISettingsComp                                                                                    0xdd260963                                         
+IID_ISettingsComp2                                                                                   0x81e735f5                                         

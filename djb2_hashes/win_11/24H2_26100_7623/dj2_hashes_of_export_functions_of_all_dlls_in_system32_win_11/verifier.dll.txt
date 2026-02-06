@@ -1,0 +1,30 @@
+DLL Path: C:\Windows\System32\verifier.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AVrfAPILookupCallback                                                                                0x9bf55bf5                                         
+VerifierAddFreeMemoryCallback                                                                        0x59095c72                                         
+VerifierCheckPageHeapAllocation                                                                      0x69c74720                                         
+VerifierCreateRpcPageHeap                                                                            0xbe23fe35                                         
+VerifierDeleteFreeMemoryCallback                                                                     0x38d7891c                                         
+VerifierDestroyRpcPageHeap                                                                           0x9e7aff2b                                         
+VerifierDisableFaultInjectionExclusionRange                                                          0xe579225b                                         
+VerifierDisableFaultInjectionTargetRange                                                             0xa8829a48                                         
+VerifierEnableFaultInjectionExclusionRange                                                           0x318cdc4e                                         
+VerifierEnableFaultInjectionTargetRange                                                              0x1ab0611b                                         
+VerifierEnumerateResource                                                                            0x77110cef                                         
+VerifierForceNormalHeap                                                                              0xe05d9457                                         
+VerifierGetInfoForException                                                                          0xbd9e6d43                                         
+VerifierGetMemoryForDump                                                                             0x60a1de77                                         
+VerifierGetPropertyValueByName                                                                       0x79d8d73f                                         
+VerifierGetProviderHelper                                                                            0xa68c3e2c                                         
+VerifierIsAddressInAnyPageHeap                                                                       0x03a9e57d                                         
+VerifierIsCurrentThreadHoldingLocks                                                                  0x92392d19                                         
+VerifierIsDllEntryActive                                                                             0xc04fbba7                                         
+VerifierIsPerUserSettingsEnabled                                                                     0x9d0e1f3f                                         
+VerifierQueryRuntimeFlags                                                                            0x5bf90f28                                         
+VerifierRedirectStopFunctions                                                                        0x528e14d2                                         
+VerifierSetFaultInjectionProbability                                                                 0xcada10cd                                         
+VerifierSetFlags                                                                                     0xead432ba                                         
+VerifierSetRuntimeFlags                                                                              0x0f04a47e                                         
+VerifierStopMessage                                                                                  0x770440cc                                         

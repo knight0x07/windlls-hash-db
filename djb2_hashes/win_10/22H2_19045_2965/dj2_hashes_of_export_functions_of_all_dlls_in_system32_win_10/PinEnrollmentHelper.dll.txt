@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\PinEnrollmentHelper.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+EnablePinForSignIn                                                                                   0x2c31c762                                         
+EnrollEnterpriseKey                                                                                  0xb189b57b                                         
+EnrollPin                                                                                            0x2e2b15f8                                         
+GetProxyDllInfo                                                                                      0x64ea9e0f                                         
+IsArsoAllowedByPolicy                                                                                0xb0af5009                                         
+IsEnrollmentPermittedForLocalAccountWithoutPassword                                                  0x221c2e35                                         

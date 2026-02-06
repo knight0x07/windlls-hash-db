@@ -1,0 +1,32 @@
+DLL Path: C:\Windows\System32\nddeapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NDdeGetErrorStringA                                                                                  0x472693c2                                         
+NDdeGetErrorStringW                                                                                  0x472693d8                                         
+NDdeGetShareSecurityA                                                                                0xac0e244c                                         
+NDdeGetShareSecurityW                                                                                0xac0e2462                                         
+NDdeGetTrustedShareA                                                                                 0xe0581b5f                                         
+NDdeGetTrustedShareW                                                                                 0xe0581b75                                         
+NDdeIsValidAppTopicListA                                                                             0x82b99d29                                         
+NDdeIsValidAppTopicListW                                                                             0x82b99d3f                                         
+NDdeIsValidShareNameA                                                                                0x010a3941                                         
+NDdeIsValidShareNameW                                                                                0x010a3957                                         
+NDdeSetShareSecurityA                                                                                0x8e44bc58                                         
+NDdeSetShareSecurityW                                                                                0x8e44bc6e                                         
+NDdeSetTrustedShareA                                                                                 0x72d5e1eb                                         
+NDdeSetTrustedShareW                                                                                 0x72d5e201                                         
+NDdeShareAddA                                                                                        0x4814593d                                         
+NDdeShareAddW                                                                                        0x48145953                                         
+NDdeShareDelA                                                                                        0x481603a9                                         
+NDdeShareDelW                                                                                        0x481603bf                                         
+NDdeShareEnumA                                                                                       0x4aedace9                                         
+NDdeShareEnumW                                                                                       0x4aedacff                                         
+NDdeShareGetInfoA                                                                                    0x7d8f4a00                                         
+NDdeShareGetInfoW                                                                                    0x7d8f4a16                                         
+NDdeShareSetInfoA                                                                                    0x90a5448c                                         
+NDdeShareSetInfoW                                                                                    0x90a544a2                                         
+NDdeSpecialCommandA                                                                                  0x385fd581                                         
+NDdeSpecialCommandW                                                                                  0x385fd597                                         
+NDdeTrustedShareEnumA                                                                                0xeaeb5f14                                         
+NDdeTrustedShareEnumW                                                                                0xeaeb5f2a                                         

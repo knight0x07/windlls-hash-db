@@ -1,0 +1,40 @@
+DLL Path: C:\Windows\System32\mssign32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+FreeCryptProvFromCert                                                                                0x237cbc42                                         
+FreeCryptProvFromCertEx                                                                              0xf59cde1f                                         
+GetCryptProvFromCert                                                                                 0xe8f84200                                         
+GetCryptProvFromCertEx                                                                               0x0810cb5d                                         
+PvkFreeCryptProv                                                                                     0x6d12bf51                                         
+PvkGetCryptProv                                                                                      0x4372fcef                                         
+PvkPrivateKeyAcquireContext                                                                          0xf69b6469                                         
+PvkPrivateKeyAcquireContextA                                                                         0xca07f1ca                                         
+PvkPrivateKeyAcquireContextFromMemory                                                                0x0a9278d6                                         
+PvkPrivateKeyAcquireContextFromMemoryA                                                               0x5ce193d7                                         
+PvkPrivateKeyLoad                                                                                    0xab9c957a                                         
+PvkPrivateKeyLoadA                                                                                   0x1f2f44fb                                         
+PvkPrivateKeyLoadFromMemory                                                                          0x4eacf327                                         
+PvkPrivateKeyLoadFromMemoryA                                                                         0x244b5848                                         
+PvkPrivateKeyReleaseContext                                                                          0x8e390c20                                         
+PvkPrivateKeyReleaseContextA                                                                         0x555a9061                                         
+PvkPrivateKeySave                                                                                    0xaba03349                                         
+PvkPrivateKeySaveA                                                                                   0x1fa69caa                                         
+PvkPrivateKeySaveToMemory                                                                            0xeeb82dc5                                         
+PvkPrivateKeySaveToMemoryA                                                                           0xc5bde6a6                                         
+SignError                                                                                            0x9bdc76c0                                         
+SignerAddTimeStampResponse                                                                           0x0f905919                                         
+SignerAddTimeStampResponseEx                                                                         0x350b0cb6                                         
+SignerCreateTimeStampRequest                                                                         0xe7db301e                                         
+SignerFreeSignerContext                                                                              0x368943dc                                         
+SignerSign                                                                                           0x61ff489e                                         
+SignerSignEx                                                                                         0xdef3f17b                                         
+SignerSignEx2                                                                                        0xbd72210d                                         
+SignerSignEx3                                                                                        0xbd72210e                                         
+SignerTimeStamp                                                                                      0x10d60421                                         
+SignerTimeStampEx                                                                                    0x9e6799be                                         
+SignerTimeStampEx2                                                                                   0x6b5ad1b0                                         
+SignerTimeStampEx3                                                                                   0x6b5ad1b1                                         
+SpcGetCertFromKey                                                                                    0x08709636                                         

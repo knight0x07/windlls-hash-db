@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_3e3cdd9b8f143aef\igxell.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+xellAILGetVersion                                                                                    0xa5713b36                                         
+xellAILIsSupportedDevice                                                                             0xb56ecb02                                         
+xellAddMarkerData                                                                                    0x0e04201f                                         
+xellD3D12CreateContext                                                                               0x3ddf0631                                         
+xellDestroyContext                                                                                   0x94a88ce9                                         
+xellGetFramesReports                                                                                 0x9e2f1e47                                         
+xellGetSleepMode                                                                                     0x25785478                                         
+xellGetVersion                                                                                       0xfe9c1bc0                                         
+xellSetLoggingCallback                                                                               0x8c80981a                                         
+xellSetSleepMode                                                                                     0x70e0b504                                         
+xellSleep                                                                                            0x3e042b13                                         

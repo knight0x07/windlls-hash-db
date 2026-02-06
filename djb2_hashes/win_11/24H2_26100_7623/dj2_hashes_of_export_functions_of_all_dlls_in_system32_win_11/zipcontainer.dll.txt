@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\zipcontainer.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateFileStream                                                                                     0x9b33c5c5                                         
+ZipContainerCreateArchiveOnFile                                                                      0x27a9ea4e                                         
+ZipContainerInitialize                                                                               0x4801aa6d                                         
+ZipContainerUninitialize                                                                             0x8e8e6c70                                         

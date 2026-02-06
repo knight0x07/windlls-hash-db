@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\PktMonApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PktmonAddFilter                                                                                      0x5bbd8a6d                                         
+PktmonGetComponentList                                                                               0xcabe766d                                         
+PktmonGetFilterList                                                                                  0x1e4b5e20                                         
+PktmonGetStatus                                                                                      0xf1a1e902                                         
+PktmonRemoveAllFilters                                                                               0x30015b1e                                         
+PktmonResetCounters                                                                                  0x4e563db4                                         
+PktmonStart                                                                                          0x106ef3ac                                         
+PktmonStop                                                                                           0x08416e04                                         
+PktmonUnload                                                                                         0x229120c1                                         

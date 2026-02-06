@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\EditBufferTestHook.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateEditBufferTestHook                                                                             0x0ebdbe4a                                         
+CreateEditBufferTestHookClient                                                                       0x06111669                                         
+EnableTestHook                                                                                       0x5bbeba7d                                         
+GetTestHookEnabled                                                                                   0xf3d209a1                                         

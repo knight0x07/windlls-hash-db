@@ -1,0 +1,22 @@
+DLL Path: C:\Windows\System32\Faultrep.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddERExcludedApplicationA                                                                            0x544ca788                                         
+AddERExcludedApplicationW                                                                            0x544ca79e                                         
+BasepReportFault                                                                                     0x2c6ac0a8                                         
+CancelHangReporting                                                                                  0xfb24f623                                         
+CheckForReadOnlyResourceFilter                                                                       0x4a10e756                                         
+CheckPerUserCrossProcessThrottle                                                                     0x28c3c988                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+ReportCoreHang                                                                                       0x712e6da8                                         
+ReportFault                                                                                          0xfd7331bd                                         
+ReportHang                                                                                           0x45bec3ff                                         
+UpdatePerUserLastCrossProcessCollectionTime                                                          0xa5309246                                         
+WerReportHang                                                                                        0x29a502ed                                         
+WerpGetDebugger                                                                                      0xa4219008                                         
+WerpInitiateCrashReporting                                                                           0xcc8df505                                         
+WerpLaunchAeDebug                                                                                    0x2185d54b                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

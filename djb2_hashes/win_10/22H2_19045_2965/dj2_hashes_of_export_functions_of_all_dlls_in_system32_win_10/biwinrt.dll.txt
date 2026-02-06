@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\biwinrt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BiRtCreateEventForApp                                                                                0x622f8214                                         
+BiRtDeleteEventForApp                                                                                0xba4b5e73                                         
+BiRtEnumerateBrokeredEvents                                                                          0x2bf0bfff                                         
+BiRtIsValidActivationTypeForEventType                                                                0xfe360a01                                         
+BiRtQueryBrokerEventId                                                                               0x6b05f980                                         
+BiRtRegisterWorkItem                                                                                 0xf7c3ebed                                         
+BiRtRegisterWorkItemClsid                                                                            0xa3bf01dc                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllMain                                                                                              0x79f31ec6                                         

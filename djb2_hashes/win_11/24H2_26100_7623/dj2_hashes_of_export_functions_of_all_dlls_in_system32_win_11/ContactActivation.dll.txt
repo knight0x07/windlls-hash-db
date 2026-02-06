@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\ContactActivation.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AwaitContactPickerResults                                                                            0xc2532f37                                         
+ContactToVCardString                                                                                 0x8dbf597b                                         
+DeserializeContactFromString                                                                         0xeb4f178d                                         
+SerializeContactToString                                                                             0x6e761dd3                                         
+SerializeContactToVCard                                                                              0x684d43ac                                         
+ShowContactPickerAsync                                                                               0x3dfc8d6e                                         
+VCardStringToContact                                                                                 0xe19b645b                                         

@@ -1,0 +1,47 @@
+DLL Path: C:\Windows\System32\wcmapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+WcmAddRoutePolicy                                                                                    0xad24c814                                         
+WcmBeginIgnoreProfileList                                                                            0x08458482                                         
+WcmCancelOnDemandRequest                                                                             0x264ec381                                         
+WcmCheckCapabilityStatus                                                                             0x81ba49b0                                         
+WcmCloseHandle                                                                                       0x05a000ce                                         
+WcmCloseOnDemandRequestHandle                                                                        0x2e1bb71d                                         
+WcmDeleteProxyInformation                                                                            0x2612e387                                         
+WcmDeprovisionCapability                                                                             0x03484200                                         
+WcmEndIgnoreProfileList                                                                              0x1add3834                                         
+WcmEnterConnectedStandby                                                                             0x845f5e72                                         
+WcmEnterNetQuiet                                                                                     0x04f5b1f9                                         
+WcmEnumInterfaces                                                                                    0x8a7a2465                                         
+WcmExitConnectedStandby                                                                              0xc5074c2e                                         
+WcmExitNetQuiet                                                                                      0x60d9a3b5                                         
+WcmFreeMemory                                                                                        0x66dd5f87                                         
+WcmGetInterfaceContextTable                                                                          0x978ec8aa                                         
+WcmGetInterfaceToken                                                                                 0x908c959e                                         
+WcmGetProfileList                                                                                    0x3e8fe579                                         
+WcmGetProfileListByPurpose                                                                           0x46dfa762                                         
+WcmGetRoutingHint                                                                                    0xe87a3707                                         
+WcmOpenHandle                                                                                        0x4b1dea0a                                         
+WcmOpenOnDemandRequestHandle                                                                         0x8de760d9                                         
+WcmOpenOnDemandRequestHandleByWwanProfileName                                                        0x8f148a43                                         
+WcmOrderConnection                                                                                   0xda83baf8                                         
+WcmQueryOnDemandRequestStateInfo                                                                     0x33fcf13e                                         
+WcmQueryParameter                                                                                    0x5cc18283                                         
+WcmQueryProperty                                                                                     0x5f4ad6c7                                         
+WcmRemoveMatchingRoutePolicy                                                                         0x153b76a4                                         
+WcmRemoveRoutePolicy                                                                                 0xa63efd39                                         
+WcmResetIgnoreProfileList                                                                            0x95fb8ee0                                         
+WcmSetOperatorConnectionCost                                                                         0x15556a4d                                         
+WcmSetOperatorCycleData                                                                              0x36b7f64e                                         
+WcmSetOperatorDataplanStatus                                                                         0x55635dad                                         
+WcmSetParameter                                                                                      0x3a7398d9                                         
+WcmSetProfileList                                                                                    0x05929905                                         
+WcmSetProperty                                                                                       0x7d487a5d                                         
+WcmSetProxyInformation                                                                               0xd657a800                                         
+WcmStartOnDemandRequest                                                                              0x0f686f49                                         
+WcmUpdateCapabilityAccess                                                                            0xaa66d1c3                                         

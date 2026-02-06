@@ -1,0 +1,51 @@
+DLL Path: C:\Windows\System32\httpapi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+HttpAddFragmentToCache                                                                               0x53301399                                         
+HttpAddUrl                                                                                           0x7b422141                                         
+HttpAddUrlToUrlGroup                                                                                 0x55931c04                                         
+HttpCancelHttpRequest                                                                                0x2a70c574                                         
+HttpCloseRequestQueue                                                                                0x795238c9                                         
+HttpCloseServerSession                                                                               0xd2666f96                                         
+HttpCloseUrlGroup                                                                                    0xf521631b                                         
+HttpControlService                                                                                   0x1d048cb7                                         
+HttpCreateHttpHandle                                                                                 0xd1c5f425                                         
+HttpCreateRequestQueue                                                                               0xe82e9e27                                         
+HttpCreateServerSession                                                                              0x1ccf80b4                                         
+HttpCreateUrlGroup                                                                                   0x0d95c979                                         
+HttpDeclarePush                                                                                      0xb89ee715                                         
+HttpDelegateRequest                                                                                  0x0b161de9                                         
+HttpDelegateRequestEx                                                                                0x29154586                                         
+HttpDeleteServiceConfiguration                                                                       0xe544bba1                                         
+HttpEvaluateRequest                                                                                  0xd6456e05                                         
+HttpFindUrlGroupId                                                                                   0x07640a73                                         
+HttpFlushResponseCache                                                                               0x2d14c84a                                         
+HttpGetCounters                                                                                      0x6bd29258                                         
+HttpGetExtension                                                                                     0xbb1084c2                                         
+HttpInitialize                                                                                       0x2d41dd17                                         
+HttpIsFeatureSupported                                                                               0x06f54b33                                         
+HttpPrepareUrl                                                                                       0x25138147                                         
+HttpQueryRequestProperty                                                                             0xa941d509                                         
+HttpQueryRequestQueueProperty                                                                        0x4099fece                                         
+HttpQueryServerSessionProperty                                                                       0xee442e9b                                         
+HttpQueryServiceConfiguration                                                                        0x00cb6ce4                                         
+HttpQueryUrlGroupProperty                                                                            0x54846b20                                         
+HttpReadFragmentFromCache                                                                            0x52ff3a7d                                         
+HttpReceiveClientCertificate                                                                         0xa034ec2a                                         
+HttpReceiveHttpRequest                                                                               0xccb55e71                                         
+HttpReceiveRequestEntityBody                                                                         0x0dac217c                                         
+HttpRemoveUrl                                                                                        0x787bc2c6                                         
+HttpRemoveUrlFromUrlGroup                                                                            0x4b927d3a                                         
+HttpSendHttpResponse                                                                                 0x4a2fba9e                                         
+HttpSendResponseEntityBody                                                                           0x3d43ca69                                         
+HttpSetRequestQueueProperty                                                                          0x0344f924                                         
+HttpSetServerSessionProperty                                                                         0x064e73b1                                         
+HttpSetServiceConfiguration                                                                          0xc376673a                                         
+HttpSetUrlGroupProperty                                                                              0xad93aa76                                         
+HttpShutdownRequestQueue                                                                             0x7bb4cacf                                         
+HttpTerminate                                                                                        0xdcc7676e                                         
+HttpUpdateServiceConfiguration                                                                       0xd37bffd1                                         
+HttpWaitForDemandStart                                                                               0x46bb86b8                                         
+HttpWaitForDisconnect                                                                                0x6f0bb4eb                                         
+HttpWaitForDisconnectEx                                                                              0x60cca508                                         

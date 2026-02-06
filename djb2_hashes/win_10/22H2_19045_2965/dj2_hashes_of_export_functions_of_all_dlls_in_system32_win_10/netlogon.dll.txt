@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\netlogon.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DsrGetDcNameEx2                                                                                      0xa119e965                                         
+I_NetLogonAddressToSiteName                                                                          0x04528512                                         
+I_NetLogonAppendChangeLog                                                                            0x8fb22bb3                                         
+I_NetLogonCloseChangeLog                                                                             0xbc6c2131                                         
+I_NetLogonFree                                                                                       0xcb856e55                                         
+I_NetLogonGetAuthDataEx                                                                              0xbb10ff1c                                         
+I_NetLogonGetSerialNumber                                                                            0x0616fc9c                                         
+I_NetLogonLdapLookupEx                                                                               0x010044eb                                         
+I_NetLogonMixedDomain                                                                                0x9e143062                                         
+I_NetLogonNewChangeLog                                                                               0x66296225                                         
+I_NetLogonReadChangeLog                                                                              0x3fd7c517                                         
+I_NetLogonSendToSamOnDc                                                                              0x335b0125                                         
+I_NetLogonSetServiceBits                                                                             0x2a6547e2                                         
+I_NetNotifyDelta                                                                                     0x39ff79d7                                         
+I_NetNotifyDsChange                                                                                  0x85a34aca                                         
+I_NetNotifyMachineAccount                                                                            0x08b324af                                         
+I_NetNotifyNetlogonDllHandle                                                                         0x1fd6a7fb                                         
+I_NetNotifyNtdsDsaDeletion                                                                           0x00d72a12                                         
+I_NetNotifyRole                                                                                      0x66a2fa7f                                         
+I_NetNotifyTrustedDomain                                                                             0x21197ad0                                         
+InitSecurityInterfaceW                                                                               0x0834e839                                         
+NetIGetEncTypes                                                                                      0xb1618a40                                         
+NetILogonSamLogon                                                                                    0xf0645034                                         
+NlNetlogonMain                                                                                       0x8b2bb90a                                         

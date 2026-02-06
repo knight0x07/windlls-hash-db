@@ -1,0 +1,25 @@
+DLL Path: C:\Windows\System32\msauserext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+MsaUI_ClearThreadClientContext                                                                       0x4123b526                                         
+MsaUI_CloseClientContext                                                                             0x081208dd                                         
+MsaUI_CreateClientContext                                                                            0x88a1fdbb                                         
+MsaUI_CredUIPromptForWindowsCredentials                                                              0x726c9b21                                         
+MsaUI_LaunchWebAuthFlow                                                                              0xda6db5c6                                         
+MsaUI_RunWizard                                                                                      0x5ec14449                                         
+MsaUI_SetThreadClientContext                                                                         0x74e5b98b                                         
+MsaUi_CreateClientContextFromWab                                                                     0x7ee86229                                         
+MsaUser_CallerIsLoggedOnUser                                                                         0x61c1c841                                         
+MsaUser_CanSetParentWindow                                                                           0xfdec1964                                         
+MsaUser_CheckIfAppTrusted                                                                            0x27052b3d                                         
+MsaUser_FormatUserDisplayName                                                                        0x6cc22ae3                                         
+MsaUser_GetDeviceTelemetryInformation                                                                0x103b2e15                                         
+MsaUser_GetDeviceTypeParameterValue                                                                  0x7b70ecd4                                         
+MsaUser_GetInlineUxParameterValue                                                                    0x6cc77c6e                                         
+MsaUser_GetPlatformQualifier                                                                         0x97bcd9ab                                         
+MsaUser_GetUserRegistrySecurityDescriptor                                                            0xba9b3933                                         
+MsaUser_IsChildAccount                                                                               0x4ec92491                                         
+MsaUser_LoadServiceConfiguration                                                                     0x6dfdb30d                                         
+MsaUser_OverrideTicketRequestForLegacyAdControl                                                      0x3d4dd813                                         
+MsaUser_WinBioSetMSACredential                                                                       0xd68f0614                                         

@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\srmscan.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+SrmCalculateCrcHash                                                                                  0x3719e0a1                                         
+SrmCreateOrDeleteNotificationScheduledTask                                                           0xd573c0ca                                         
+SrmEnsureSystemVolumeInformationFolder                                                               0xa44534e8                                         
+SrmIsInCluster                                                                                       0x300f81ec                                         
+SrmIsNameInExpression                                                                                0x670c6e9b                                         
+SrmLocalFileTimeToUtcFileTime                                                                        0x768c16af                                         
+SrmUtcFileTimeToLocalFileTime                                                                        0x216c9fcf                                         
+SrmValidateNamespaceRoots                                                                            0x09be71c5                                         

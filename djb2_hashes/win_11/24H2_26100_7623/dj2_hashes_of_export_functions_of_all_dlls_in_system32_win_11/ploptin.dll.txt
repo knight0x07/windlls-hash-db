@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\ploptin.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DeleteApplicationEligibilityForPrelaunch                                                             0x713831ac                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+IsApplicationEligibleForPrelaunch                                                                    0x830f0abb                                         
+IsApplicationOptedOutOfPrelaunch                                                                     0x1c9e3a20                                         
+RecordApplicationEligibilityForPrelaunch                                                             0x62b6f058                                         

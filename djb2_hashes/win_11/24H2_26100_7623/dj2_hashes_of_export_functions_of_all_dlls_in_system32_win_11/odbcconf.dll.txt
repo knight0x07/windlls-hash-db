@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\odbcconf.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AppRegEnum                                                                                           0x2acb5e59                                         
+CloseAppRegEnum                                                                                      0x4e284f0f                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+ExecuteAction                                                                                        0x39a49476                                         
+OpenAppRegEnum                                                                                       0xa1c3232b                                         
+QueryApplication                                                                                     0xda00d62f                                         
+RefreshAppRegEnum                                                                                    0x33a5ee48                                         
+RegisterApplication                                                                                  0xf2d6631e                                         
+RunDLL32_RegisterApplication                                                                         0x38709453                                         
+RunDLL32_UnregisterApplication                                                                       0xf11e6576                                         
+SetActionEnum                                                                                        0xa4f22f64                                         
+SetActionLogFile                                                                                     0x0dca89f1                                         
+SetActionLogMode                                                                                     0x0dce7916                                         
+SetActionLogModeSz                                                                                   0xbb5121c3                                         
+SetActionName                                                                                        0xa4f6e670                                         
+SetSilent                                                                                            0x9716e080                                         
+UnregisterApplication                                                                                0xdc331301                                         

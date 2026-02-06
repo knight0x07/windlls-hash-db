@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\ExtrasXmlParser.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ParseExtrasXmlForExtensionInfo                                                                       0x28692238                                         
+ParseExtrasXmlForNabSyncExtensionInfo                                                                0x28c10006                                         
+ParseExtrasXmlForSmsInterceptExtensionInfo                                                           0x58ef0bb9                                         

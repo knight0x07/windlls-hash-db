@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\aadtb.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AADTBAcquireToken                                                                                    0x46fe88ec                                         
+AADTBAcquireTokenEx                                                                                  0x00c47d49                                         
+AADTBFreeString                                                                                      0xf9a7249a                                         
+AADTBFreeStruct                                                                                      0xf9a75648                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         

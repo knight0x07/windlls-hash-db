@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\netcfgx.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+LanaCfgFromCommandArgs                                                                               0xdd283691                                         
+NetCfgDiagFromCommandArgs                                                                            0x84b0aeb1                                         
+NetCfgDiagRepairRegistryBindings                                                                     0xc048ec1b                                         
+NetClassInstaller                                                                                    0xac53c0d0                                         
+NetPropPageProvider                                                                                  0x11725d75                                         
+OnMachineUILanguageInit                                                                              0x145abfed                                         
+OnMachineUILanguageSwitch                                                                            0xae00ef2b                                         

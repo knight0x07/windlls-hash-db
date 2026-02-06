@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\SecureTimeAggregator.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AggregateSSLHandshakeTime                                                                            0xff2676f4                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+GetSecureTime                                                                                        0x0ff54a7b                                         
+UnInitialize                                                                                         0xe02c6ada                                         

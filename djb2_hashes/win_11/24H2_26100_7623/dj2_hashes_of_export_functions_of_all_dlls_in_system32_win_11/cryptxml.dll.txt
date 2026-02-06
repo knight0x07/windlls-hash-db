@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\cryptxml.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CryptXmlAddObject                                                                                    0x64efa3c8                                         
+CryptXmlClose                                                                                        0x93227f3e                                         
+CryptXmlCreateReference                                                                              0x16b407cb                                         
+CryptXmlDigestReference                                                                              0xbe86c317                                         
+CryptXmlEncode                                                                                       0xfc3a43f6                                         
+CryptXmlEnumAlgorithmInfo                                                                            0xeb9b81b0                                         
+CryptXmlFindAlgorithmInfo                                                                            0xb5359f5c                                         
+CryptXmlGetAlgorithmInfo                                                                             0x7386047b                                         
+CryptXmlGetDocContext                                                                                0x65cc7d23                                         
+CryptXmlGetReference                                                                                 0x27735bf7                                         
+CryptXmlGetSignature                                                                                 0xadc483ba                                         
+CryptXmlGetStatus                                                                                    0xe655990c                                         
+CryptXmlGetTransforms                                                                                0x2230c357                                         
+CryptXmlImportPublicKey                                                                              0xc154200b                                         
+CryptXmlOpenToDecode                                                                                 0xa18e5c21                                         
+CryptXmlOpenToEncode                                                                                 0xa486614b                                         
+CryptXmlSetHMACSecret                                                                                0x13297ff3                                         
+CryptXmlSign                                                                                         0xf4fa3ff9                                         
+CryptXmlVerifySignature                                                                              0x4e3f3b4f                                         

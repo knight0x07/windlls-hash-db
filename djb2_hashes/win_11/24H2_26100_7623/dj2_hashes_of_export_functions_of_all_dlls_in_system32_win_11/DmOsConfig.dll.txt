@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\DmOsConfig.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Feature_Servicing_OsConfigSupportUserless_IsEnabled                                                  0x69a1962a                                         
+OsConfig_GetAllConfigurationDocuments                                                                0x60e90d5f                                         
+OsConfig_GetAllScenarioDefinitionInfo                                                                0x9e24641e                                         
+OsConfig_GetConfigurationDocument                                                                    0xdaf03473                                         
+OsConfig_GetConfigurationDocumentContent                                                             0xde32b90e                                         
+OsConfig_GetConfigurationDocumentResult                                                              0x7e5c3cd2                                         
+OsConfig_GetConfigurationDocumentResultEx                                                            0x865ec2af                                         
+OsConfig_GetConfigurationFriendlyNameFromSourceId                                                    0xfb521704                                         
+OsConfig_GetConfigurationProperty                                                                    0xf0942759                                         
+OsConfig_GetConfigurationSourceIdFromFriendlyName                                                    0x279e2004                                         
+OsConfig_GetConfigurations                                                                           0x42873927                                         
+OsConfig_GetScenarioDefinition                                                                       0xbbc7ac59                                         
+OsConfig_GetScenarioDefinitionInfo                                                                   0x76321a05                                         
+OsConfig_IsEnabled                                                                                   0x3eea13a3                                         
+OsConfig_IsFeatureEnabled                                                                            0xf7de410f                                         
+OsConfig_IsScenarioSupported                                                                         0xf4969552                                         
+OsConfig_RemoveConfigurationDocument                                                                 0x57245fc1                                         
+OsConfig_RemoveScenarioDefinition                                                                    0x7d14ea67                                         
+OsConfig_SetConfigurationDocument                                                                    0x8de1c6ff                                         
+OsConfig_SetConfigurationDocumentEx                                                                  0x8d6f8c1c                                         
+OsConfig_SetConfigurationDocument_Internal                                                           0xb03b4c3b                                         
+OsConfig_SetConfigurationDocument_InternalEx                                                         0xac3f5058                                         
+OsConfig_SetConfigurationProperty                                                                    0xa385b9e5                                         
+OsConfig_SetScenarioDefinition                                                                       0x88636a65                                         

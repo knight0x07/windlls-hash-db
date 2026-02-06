@@ -1,0 +1,42 @@
+DLL Path: C:\Windows\System32\mtxclu.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FailedClusterAPIToEventLog                                                                           0x39678acd                                         
+MtxCluBringOnlineDTCW                                                                                0x4d695e4b                                         
+MtxCluClearClusterTmMappings                                                                         0xfcb329eb                                         
+MtxCluCreateClusterProxyTmInstance                                                                   0x36010e10                                         
+MtxCluCreateClusterTmInstance                                                                        0x998aacee                                         
+MtxCluCreateTmInstanceForVirtualServer                                                               0x63a8f911                                         
+MtxCluEnumerateClusterTmMappings                                                                     0x239d244a                                         
+MtxCluEnumerateDtcResources                                                                          0x924cf6de                                         
+MtxCluEnumerateDtcResourcesEx                                                                        0x59662fbb                                         
+MtxCluGetActiveClusterNode                                                                           0x8fabe466                                         
+MtxCluGetClusterResourceIdFromName                                                                   0x00f58bee                                         
+MtxCluGetComputerNameW                                                                               0xfdcf5549                                         
+MtxCluGetDTCResourceForResource                                                                      0xe45dbf14                                         
+MtxCluGetDTCStatusW                                                                                  0x32e68878                                         
+MtxCluGetDTCVirtualServerNameW                                                                       0xd5e78cd3                                         
+MtxCluGetDefaultClusterResource                                                                      0x6fa04b71                                         
+MtxCluGetDefaultClusterResourceNonAdmin                                                              0x51a0c225                                         
+MtxCluGetDtcDiskResourceDrive                                                                        0x67f680ea                                         
+MtxCluGetNameFromResourceIdString                                                                    0x43d185a3                                         
+MtxCluGetNameFromResourceIdStringNonAdmin                                                            0xb8ba0e57                                         
+MtxCluGetResourceId                                                                                  0xe2f3b5f7                                         
+MtxCluGetResourceIdStringFromName                                                                    0xcdd8d923                                         
+MtxCluGetSecurityRegValue                                                                            0x212d3055                                         
+MtxCluGetTmResource                                                                                  0x13d30e6b                                         
+MtxCluGetVirtualServerToken                                                                          0xe5b6aee1                                         
+MtxCluIsClusterPresent                                                                               0x49f20fc1                                         
+MtxCluIsClusterPresentExW                                                                            0x6556b975                                         
+MtxCluIsNetworkNameInLocalClusterW                                                                   0x752b1ce4                                         
+MtxCluIsSameClusterW                                                                                 0x09c058dd                                         
+MtxCluIsSameNodeW                                                                                    0xead5db01                                         
+MtxCluRemoveClusterTmMappingByName                                                                   0x5c3ec15b                                         
+MtxCluSetClusterTmMapping                                                                            0xc08f7d3d                                         
+MtxCluSetDefaultClusterResource                                                                      0x80c42f7d                                         
+MtxCluSetSecurityRegValue                                                                            0x6b69fb61                                         
+MtxCluTakeOfflineDTCW                                                                                0xf7b9909c                                         
+MtxCluVerifyLogPathInDependantDiskResource                                                           0x5b639f03                                         
+MtxCluVerifyLogPathIsValidCSV                                                                        0xae9e00be                                         
+Startup                                                                                              0x0e9381f8                                         

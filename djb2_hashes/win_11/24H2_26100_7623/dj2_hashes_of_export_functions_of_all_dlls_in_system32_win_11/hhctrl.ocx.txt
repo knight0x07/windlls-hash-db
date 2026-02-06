@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\hhctrl.ocx
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AuthorMsg                                                                                            0x5be0097f                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+HhWindowThread                                                                                       0x8c5cb1e5                                         
+HtmlHelpA                                                                                            0x8ab9eba4                                         
+HtmlHelpW                                                                                            0x8ab9ebba                                         
+LoadHHA                                                                                              0xe8099f16                                         
+doWinMain                                                                                            0x092eb76b                                         

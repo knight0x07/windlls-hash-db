@@ -1,0 +1,31 @@
+DLL Path: C:\Windows\System32\dssenh.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CPAcquireContext                                                                                     0x300c4d87                                         
+CPCreateHash                                                                                         0x3a286430                                         
+CPDecrypt                                                                                            0xa891ddb3                                         
+CPDeriveKey                                                                                          0x81ee4580                                         
+CPDestroyHash                                                                                        0x388108c6                                         
+CPDestroyKey                                                                                         0xf23281eb                                         
+CPDuplicateHash                                                                                      0xbf9994b7                                         
+CPDuplicateKey                                                                                       0xcf80d3bc                                         
+CPEncrypt                                                                                            0x0a8a881d                                         
+CPExportKey                                                                                          0xf317d523                                         
+CPGenKey                                                                                             0x0c208afb                                         
+CPGenRandom                                                                                          0x745d5773                                         
+CPGetHashParam                                                                                       0x36963b4d                                         
+CPGetKeyParam                                                                                        0x924f10d2                                         
+CPGetProvParam                                                                                       0x77982c10                                         
+CPGetUserKey                                                                                         0x99e30bc0                                         
+CPHashData                                                                                           0x5c6c3a16                                         
+CPHashSessionKey                                                                                     0xd59b9069                                         
+CPImportKey                                                                                          0x9e35737c                                         
+CPReleaseContext                                                                                     0xc7a9f53e                                         
+CPSetHashParam                                                                                       0x81fe9bd9                                         
+CPSetKeyParam                                                                                        0xd2a78fde                                         
+CPSetProvParam                                                                                       0xc3008c9c                                         
+CPSignHash                                                                                           0xcf8322ad                                         
+CPVerifySignature                                                                                    0x1501105f                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         

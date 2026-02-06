@@ -1,0 +1,28 @@
+DLL Path: C:\Windows\System32\CoreMas.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateCustomUnimicSource                                                                             0x8d7278ca                                         
+CreateUnimicFilter                                                                                   0x12c7fee4                                         
+CreateUnimicProcessor                                                                                0x17a2b23e                                         
+CreateUnimicSinkToSplitChannelWaveFiles                                                              0x318cffc1                                         
+CreateUnimicSinkToWaveFile                                                                           0xc235e789                                         
+CreateUnimicSourceFromSplitChannelWaveFiles                                                          0x2181c8ee                                         
+CreateUnimicSourceFromWaveFile                                                                       0x51b24396                                         
+DeleteUnimicFilter                                                                                   0x6e5f6723                                         
+DeleteUnimicProcessor                                                                                0x9903a61d                                         
+DeleteUnimicSink                                                                                     0x912c1fd2                                         
+DeleteUnimicSource                                                                                   0x8d23f0ee                                         
+GetUnimicFilterInputPortCount                                                                        0xab442a0e                                         
+GetUnimicFilterOutputPort                                                                            0x83bbe766                                         
+GetUnimicFilterOutputPortCount                                                                       0xdb2dbf4f                                         
+GetUnimicProcessorDelay                                                                              0xf105f3b9                                         
+GetUnimicProcessorInputChannelCount                                                                  0x965f93dc                                         
+GetUnimicProcessorOutputChannelCount                                                                 0x557c90bd                                         
+GetUnimicSinkChannelCount                                                                            0x414df441                                         
+GetUnimicSourceChannelCount                                                                          0x9266f69d                                         
+GetUnimicSourceSampleRate                                                                            0xaf9b0969                                         
+ReadUnimicSource                                                                                     0xcbe7b737                                         
+RunUnimicProcessor                                                                                   0x3e3704bf                                         
+SetUnimicFilterInputPort                                                                             0x6d577151                                         
+WriteUnimicSink                                                                                      0xe17d42aa                                         

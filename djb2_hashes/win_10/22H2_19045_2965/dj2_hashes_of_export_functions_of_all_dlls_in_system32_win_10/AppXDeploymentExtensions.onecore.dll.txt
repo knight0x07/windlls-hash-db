@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\AppXDeploymentExtensions.onecore.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LoadCategoryNameTable                                                                                0x93c9b78c                                         
+LoadExtensionRegistrationTable                                                                       0xe47f0465                                         
+ShellRefresh                                                                                         0x68daeb8c                                         

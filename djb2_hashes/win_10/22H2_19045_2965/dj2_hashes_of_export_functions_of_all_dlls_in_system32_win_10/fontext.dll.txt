@@ -1,0 +1,8 @@
+DLL Path: C:\Windows\System32\fontext.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DownloadAndInstallOptionalFontsAsync                                                                 0x5f432d35                                         
+InstallFontFile                                                                                      0xd89cb6d3                                         

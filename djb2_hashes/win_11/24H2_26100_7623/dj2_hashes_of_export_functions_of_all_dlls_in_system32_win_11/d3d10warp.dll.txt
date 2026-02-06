@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\d3d10warp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+D3D11RefGetLastCreation                                                                              0x15f3c568                                         
+D3DLayerGetInterface                                                                                 0x0ebe740e                                         
+OpenAdapter                                                                                          0xccef3d98                                         
+OpenAdapter10_2                                                                                      0x072000ca                                         
+OpenAdapter12                                                                                        0xc5b50a1b                                         
+OpenDisplayAdapter1                                                                                  0xb0c3d0ff                                         
+QueryDListForApplication1                                                                            0xfcb59f47                                         
+QueryDListForApplication2                                                                            0xfcb59f48                                         
+QueryMuxDListForApplication                                                                          0x7d95db50                                         
+VSD3DDebugConnectionBuffer                                                                           0x2018917a                                         
+[Function Ordinal Only]                                                                              NA                                                 

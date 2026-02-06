@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-service-core-l1-1-1.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+EnumDependentServicesW                                                                               0xdc42f78c                                         
+EnumServicesStatusExW                                                                                0x9599beb6                                         
+QueryServiceDynamicInformation                                                                       0xe214f137                                         

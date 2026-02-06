@@ -1,0 +1,26 @@
+DLL Path: C:\Windows\System32\comsvcs.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CoCreateActivity                                                                                     0x0f96b1d8                                         
+CoEnterServiceDomain                                                                                 0xd41e6a9e                                         
+CoLeaveServiceDomain                                                                                 0x1a99f46d                                         
+CoLoadServices                                                                                       0x670a465b                                         
+ComSvcsExceptionFilter                                                                               0xac256b98                                         
+ComSvcsLogError                                                                                      0x86369f2f                                         
+CosGetCallContext                                                                                    0xe7f499cb                                         
+DispManGetContext                                                                                    0xcc074596                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetMTAThreadPoolMetrics                                                                              0xb70240d0                                         
+GetManagedExtensions                                                                                 0xd2b86642                                         
+GetObjectContext                                                                                     0xbb43f601                                         
+GetTrkSvrObject                                                                                      0x0e7a4888                                         
+MTSCreateActivity                                                                                    0xe8470f9a                                         
+MiniDumpW                                                                                            0xf00f263f                                         
+RecycleSurrogate                                                                                     0x61036628                                         
+SafeRef                                                                                              0xe29444e1                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\iumbase.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AssignMemoryToSocDomain                                                                              0xf616abe3                                         
+AwaitSmc                                                                                             0x2aae123e                                         
+CreateSecureDevice                                                                                   0x6f9a94f0                                         
+CreateSecureSection                                                                                  0xe4451415                                         
+CreateSecureSectionSpecifyPages                                                                      0xf1e3b9d8                                         
+DecryptData                                                                                          0xa1883c9a                                         
+DecryptISKBoundData                                                                                  0x76854199                                         
+DmaMapMemory                                                                                         0xa09a876e                                         
+EmitSmc                                                                                              0xc9216257                                         
+EncryptData                                                                                          0x4b440c04                                         
+FlushSecureSectionBuffers                                                                            0x926f4650                                         
+GetDmaEnabler                                                                                        0x2635f830                                         
+GetExposedSecureSection                                                                              0xf4273759                                         
+GetFipsModeFromIumKernelState                                                                        0x29fea17d                                         
+GetSecureIdentityKey                                                                                 0x2f8398df                                         
+GetSecureIdentitySigningKey                                                                          0x87fa712e                                         
+GetSeedFromIumKernelState                                                                            0x63fc7c47                                         
+GetSignedReport                                                                                      0x8764f71b                                         
+GetTaggedData                                                                                        0x9ef808ab                                         
+GetTaggedDataSize                                                                                    0xf801b866                                         
+GetTpmBindingInfo                                                                                    0xfd5cabbd                                         
+IsSecureProcess                                                                                      0x7372c3a7                                         
+MapSecureIo                                                                                          0x6e44db62                                         
+OpenCurrentExtension                                                                                 0x0653bfd7                                         
+OpenSecureSection                                                                                    0x75610593                                         
+PostMailbox                                                                                          0xcbe43377                                         
+ProtectSecureIo                                                                                      0x781f8f25                                         
+QuerySecureDeviceInformation                                                                         0x877e9098                                         
+SecureProcessUsesAttestedKeys                                                                        0x543a1fe5                                         
+SecureStorageGet                                                                                     0x71fd4981                                         
+SecureStoragePut                                                                                     0x71fd71da                                         
+SetDmaTargetProperties                                                                               0x1ad0ae97                                         
+SetPolicyExtension                                                                                   0xc437347e                                         
+UnmapSecureIo                                                                                        0xfe8d5845                                         
+UpdateSecureDeviceState                                                                              0x8eabfe80                                         
+VbsVmSysCall                                                                                         0x7a1fa2ee                                         
+VerifyEnclaveAttestationReport                                                                       0x13f53704                                         

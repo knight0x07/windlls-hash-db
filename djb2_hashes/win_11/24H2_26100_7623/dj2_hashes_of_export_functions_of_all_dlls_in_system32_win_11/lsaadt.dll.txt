@@ -1,0 +1,137 @@
+DLL Path: C:\Windows\System32\lsaadt.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LsapAddClaimsToAdtParamsAt                                                                           0x33d3c80c                                         
+LsapAdtApplyGlobalSaclUpdate                                                                         0x3868526b                                         
+LsapAdtApplyOldPublicPolicyOnStorage                                                                 0xf169ea94                                         
+LsapAdtApplySystemPolicyUpdates                                                                      0x6d1dcfdf                                         
+LsapAdtAuditCredentialsBackupRestore                                                                 0x0750cc0d                                         
+LsapAdtAuditCredentialsRead                                                                          0x97f54fef                                         
+LsapAdtAuditGroupsInToken                                                                            0x01fdb77d                                         
+LsapAdtAuditLocalSystemAccessChange                                                                  0xd01efdad                                         
+LsapAdtAuditLogoff                                                                                   0x06eb69a2                                         
+LsapAdtAuditLogon                                                                                    0x3e4531c4                                         
+LsapAdtAuditLogonEx                                                                                  0xe458bc21                                         
+LsapAdtAuditLogonProcessRegistration                                                                 0xf2b16ffe                                         
+LsapAdtAuditPackageLoad                                                                              0x5bffc231                                         
+LsapAdtAuditPerUserTableCreation                                                                     0x3a1f34a8                                         
+LsapAdtAuditSidFiltration                                                                            0xdc0e5541                                         
+LsapAdtAuditSpecialPrivileges                                                                        0x8a438aa0                                         
+LsapAdtAuditingEnabledByLogonId                                                                      0x61ad4655                                         
+LsapAdtAuditingEnabledByPolicy                                                                       0x048b1179                                         
+LsapAdtAuditingEnabledBySid                                                                          0xc6711a09                                         
+LsapAdtAuditingEnabledBySubCategory                                                                  0xc0d130d1                                         
+LsapAdtAuditingEnabledHint                                                                           0xc03502c1                                         
+LsapAdtAuditingEnabledHintByCategory                                                                 0xba4f2e3a                                         
+LsapAdtConstructPolicyPerUserAuditing                                                                0x2dbc43fe                                         
+LsapAdtConstructTablePerUserAuditing                                                                 0xe150bdd6                                         
+LsapAdtConvertAuditPolicyToCurrentFormat                                                             0xbe3fef85                                         
+LsapAdtConvertSystemPolicyFromStorageToOldPublicFormat                                               0x4915c8f7                                         
+LsapAdtConvertTokenPolicyToStorageFormat                                                             0x774243c1                                         
+LsapAdtCreateDefaultPolicy                                                                           0xbcbe6997                                         
+LsapAdtCreateEmptyPolicy                                                                             0x46f34581                                         
+LsapAdtDecrementCountersPerUserAuditing                                                              0x73176293                                         
+LsapAdtDowngradeAuditPolicy                                                                          0x376e8ed0                                         
+LsapAdtEnumeratePerUserAuditing                                                                      0x38ca36af                                         
+LsapAdtFilterAdminPerUserAuditing                                                                    0xc629ab18                                         
+LsapAdtFreeTablePerUserAuditing                                                                      0x7f89ddd3                                         
+LsapAdtGenerateDomainPolicyChangeAuditEvent                                                          0x9ea58620                                         
+LsapAdtGenerateLsaAuditEvent                                                                         0x7774c1b2                                         
+LsapAdtGenerateLsaAuditEventWithClientSid                                                            0x6013f8ad                                         
+LsapAdtGenerateLsaAuditSystemAccessChange                                                            0x00c45ead                                         
+LsapAdtGenerateObjectOperationAuditEvent                                                             0x404daa7a                                         
+LsapAdtGenerateSpecialGroupsLogonAudit                                                               0x09ef54b0                                         
+LsapAdtInitGenericAudits                                                                             0xc3fa1f29                                         
+LsapAdtInitParametersArray                                                                           0x78f49c15                                         
+LsapAdtInitParametersArrayWorker                                                                     0x008a5e4f                                         
+LsapAdtInitialize                                                                                    0x030e10e0                                         
+LsapAdtInitializeCrashOnAuditFail                                                                    0xe24e7961                                         
+LsapAdtInitializeExtensibleAuditing                                                                  0xb994d0c8                                         
+LsapAdtInitializePerUserAuditingAndSD                                                                0x943ff105                                         
+LsapAdtInitializeSpecialGroupsLogon                                                                  0x31f86d40                                         
+LsapAdtInitializeSpecializedProcessing                                                               0x16cff20a                                         
+LsapAdtLoadPolicySecurityDescriptor                                                                  0xf9441cd5                                         
+LsapAdtLoadProcessCreationParameters                                                                 0xe4e816f6                                         
+LsapAdtLoadSpecialGroups                                                                             0x1d3c3e4f                                         
+LsapAdtLogAuditFailureEvent                                                                          0x4c99ed91                                         
+LsapAdtLogAuditFailureEventWithCount                                                                 0xf152c956                                         
+LsapAdtLogoffPerUserAuditing                                                                         0xadfea046                                         
+LsapAdtLogonHoursSize                                                                                0x12e67ab9                                         
+LsapAdtLogonIncrementPerUserAuditing                                                                 0x5bd48fcd                                         
+LsapAdtLogonPerUserAuditing                                                                          0xe0454708                                         
+LsapAdtLookupCategoryName                                                                            0xa2f19907                                         
+LsapAdtLookupSubCategoryName                                                                         0x1f82b791                                         
+LsapAdtMergeAuditPolicyOptions                                                                       0xfa211a11                                         
+LsapAdtNotifySpecialGroupLogonChange                                                                 0x875764fa                                         
+LsapAdtNotifySpecializedProcessingChange                                                             0x05fa1517                                         
+LsapAdtOpenLog                                                                                       0x92e95102                                         
+LsapAdtOpenPerUserAuditingKey                                                                        0x2409ca24                                         
+LsapAdtOpenSpecializedProcessingAuditingKey                                                          0xc4f574a8                                         
+LsapAdtPolicyChange                                                                                  0x33c87d24                                         
+LsapAdtQueryAuditPolicy                                                                              0xb7ba452b                                         
+LsapAdtQueryFullPerUserAuditingByLuid                                                                0x9e374b7b                                         
+LsapAdtQueryFullPerUserAuditingBySid                                                                 0x525ee06d                                         
+LsapAdtQueryPerUserAuditingByLuid                                                                    0x4dd2bd08                                         
+LsapAdtQueryPerUserAuditingBySid                                                                     0x025bd45a                                         
+LsapAdtQuerySpecificPerUserAuditingByLuid                                                            0xbb20cb2e                                         
+LsapAdtQuerySpecificPerUserAuditingBySid                                                             0x0d6db5c0                                         
+LsapAdtRegisterSecurityEventSource                                                                   0x89e3881e                                         
+LsapAdtRemoveLuidQueryPerUserAuditing                                                                0x26a99d5b                                         
+LsapAdtReportSecurityEvent                                                                           0xd0a8d584                                         
+LsapAdtRundownSecurityEventSource                                                                    0x63f891a6                                         
+LsapAdtSetAuditPolicy                                                                                0xd17be081                                         
+LsapAdtStorePolicyByLuidPerUserAuditing                                                              0x7ccc026f                                         
+LsapAdtSubCategoryPolicyChange                                                                       0x18729d2c                                         
+LsapAdtSystemRestart                                                                                 0xa949fdf8                                         
+LsapAdtUnregisterSecurityEventSource                                                                 0xa998f141                                         
+LsapAdtUpdatePerUserCache                                                                            0x58a5654b                                         
+LsapAdtUpgradeAuditPolicy                                                                            0xbe217efd                                         
+LsapAdtUserRightAssigned                                                                             0xb533d3b9                                         
+LsapAdtValidateAuditingPolicyInformation                                                             0x363bb503                                         
+LsapAdtWriteLogEx                                                                                    0x02c4b578                                         
+LsapAdtWriteLogWrkr                                                                                  0xc6d1c701                                         
+LsapAdtWritePerUserPolicyToStore                                                                     0x456a299f                                         
+LsapAuditLogonHelper                                                                                 0x2d4e540b                                         
+LsapAuditQueryGlobalSacl                                                                             0x08fe58b6                                         
+LsapAuditSetGlobalSacl                                                                               0x347e41cc                                         
+LsapFlushSecurityLog                                                                                 0x2118b2f1                                         
+LsapFreeClaimsInAdtParams                                                                            0x6c18f164                                         
+LsapFreeClaimsInfoFromToken                                                                          0xe4728df1                                         
+LsapGenAuditEvent                                                                                    0x2acbab28                                         
+LsapGetClaimsInToken                                                                                 0x21f84186                                         
+LsapGetImageNameFromProcessId                                                                        0xc88fe139                                         
+LsapQueryAuditSecurity                                                                               0x6ef9ea7a                                         
+LsapRegisterAuditEvent                                                                               0x0e060ef3                                         
+LsapReportClaimsAtLogonEvent                                                                         0x89827820                                         
+LsapReportGroupsAtLogonEvent                                                                         0xb6f830e7                                         
+LsapReserveSlotsForClaims                                                                            0x89a91ee6                                         
+LsapSetAuditSecurity                                                                                 0x59958590                                         
+LsapStringListSize                                                                                   0x2633e443                                         
+LsapUnregisterAuditEvent                                                                             0xbbd6ea76                                         
+LsapUpdateSamAuditPolicy                                                                             0x442f7820                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

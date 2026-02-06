@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\dot3dlg.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+Dot3ACCanShowBalloon                                                                                 0x1d7bf77d                                         
+Dot3ACOnBalloonClick                                                                                 0xc1a0044d                                         

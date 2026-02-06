@@ -1,0 +1,12 @@
+DLL Path: C:\Windows\System32\eapphost.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+InitializeEapHost                                                                                    0xd04e36cb                                         
+OnSessionChange                                                                                      0x25f7c90c                                         
+StopServiceOnLowPower                                                                                0x79c8aad8                                         
+UninitializeEapHost                                                                                  0xede791ee                                         

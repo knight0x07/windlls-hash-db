@@ -1,0 +1,10 @@
+DLL Path: C:\Windows\System32\jsproxy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+InternetDeInitializeAutoProxyDll                                                                     0x2b6d7660                                         
+InternetDeInitializeAutoProxyDllEx                                                                   0xbca497bd                                         
+InternetGetProxyInfo                                                                                 0xbfc57fdc                                         
+InternetGetProxyInfoEx                                                                               0xc724f039                                         
+InternetInitializeAutoProxyDll                                                                       0x562a04f7                                         
+InternetInitializeAutoProxyDllEx                                                                     0x88bf2814                                         

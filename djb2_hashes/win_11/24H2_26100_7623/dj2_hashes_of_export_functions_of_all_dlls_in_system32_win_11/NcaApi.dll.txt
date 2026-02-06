@@ -1,0 +1,15 @@
+DLL Path: C:\Windows\System32\NcaApi.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+NcaEngineClose                                                                                       0xcfa04263                                         
+NcaEngineOpen                                                                                        0xdf879e7f                                         
+NcaExecuteAndCaptureLogs                                                                             0xb336c506                                         
+NcaGetConfig                                                                                         0x67e47ccd                                         
+NcaGetEvidenceCollectorResult                                                                        0xf0a41340                                         
+NcaNetworkClose                                                                                      0x8ea9a7d7                                         
+NcaNetworkOpen                                                                                       0x9f802573                                         
+NcaStatusEventSubscribe                                                                              0x8cd6dfdf                                         
+NcaStatusEventUnsubscribe                                                                            0x563c2e02                                         
+NcaToggleNamePreferenceState                                                                         0x8a9da31a                                         

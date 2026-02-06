@@ -1,0 +1,9 @@
+DLL Path: C:\Windows\System32\internetmail.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateInternetMailSyncServiceLayer                                                                   0xcd8cb410                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetAutoConfigManager                                                                                 0x482e650f                                         
+OneStopFactory                                                                                       0xa69e5705                                         

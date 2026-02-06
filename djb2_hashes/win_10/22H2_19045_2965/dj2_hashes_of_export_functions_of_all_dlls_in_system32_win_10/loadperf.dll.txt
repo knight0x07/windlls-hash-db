@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\loadperf.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BackupPerfRegistryToFileW                                                                            0xf78ffbdb                                         
+InstallPerfDllA                                                                                      0x19bee766                                         
+InstallPerfDllW                                                                                      0x19bee77c                                         
+LoadPerfCounterTextStringsA                                                                          0x54d07be2                                         
+LoadPerfCounterTextStringsW                                                                          0x54d07bf8                                         
+LpAcquireInstallationMutex                                                                           0x9067ba10                                         
+LpReleaseInstallationMutex                                                                           0xdfc7b287                                         
+RestorePerfRegistryFromFileW                                                                         0x2f411efa                                         
+SetServiceAsTrustedA                                                                                 0x4c50edc2                                         
+SetServiceAsTrustedW                                                                                 0x4c50edd8                                         
+UnloadPerfCounterTextStringsA                                                                        0x35c45ec5                                         
+UnloadPerfCounterTextStringsW                                                                        0x35c45edb                                         
+UpdatePerfNameFilesA                                                                                 0x2ac75dca                                         
+UpdatePerfNameFilesW                                                                                 0x2ac75de0                                         

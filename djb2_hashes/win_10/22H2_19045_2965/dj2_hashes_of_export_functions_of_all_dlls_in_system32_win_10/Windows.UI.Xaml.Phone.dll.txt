@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\Windows.UI.Xaml.Phone.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateApplicationBarProxy                                                                            0xe7797364                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetActivationFactory                                                                              0xb8e9118b                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GetDependencyLocatorStorage                                                                          0x372ad3cd                                         
+SendTelemetryOnSuspend                                                                               0x708927e9                                         
+XamlControlsCalculateFlyoutPlacement                                                                 0x2f0768b5                                         
+XamlControlsGetDatePickerSelection                                                                   0x3646360d                                         
+XamlControlsGetListPickerSelection                                                                   0x520dcf4b                                         
+XamlControlsGetPlatformMetadataProvider                                                              0x52a1075c                                         
+XamlControlsGetPlatformResourcesModuleHandle                                                         0xd3eeb3dd                                         
+XamlControlsGetTimePickerSelection                                                                   0xb0a87d1e                                         
+XamlControlsTestHookCreateLoopingSelector                                                            0xd6259609                                         
+XamlTestHookFreePhoneResourceLibrary                                                                 0x416238a1                                         

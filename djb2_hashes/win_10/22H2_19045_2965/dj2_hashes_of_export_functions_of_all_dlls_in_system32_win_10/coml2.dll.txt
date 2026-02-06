@@ -1,0 +1,37 @@
+DLL Path: C:\Windows\System32\coml2.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Coml2DllGetClassObject                                                                               0xac3e2b4b                                         
+CreateILockBytesOnHGlobal                                                                            0x9ad95788                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+FmtIdToPropStgName                                                                                   0xe45446ec                                         
+GetConvertStg                                                                                        0xb2a062b4                                         
+GetHGlobalFromILockBytes                                                                             0x2add8feb                                         
+PropStgNameToFmtId                                                                                   0x071ff22c                                         
+ReadClassStg                                                                                         0xe6399165                                         
+ReadClassStm                                                                                         0xe639916b                                         
+StgCreateDocfile                                                                                     0xb9096c1d                                         
+StgCreateDocfileOnILockBytes                                                                         0xfd0b8eb3                                         
+StgCreatePropSetStg                                                                                  0xb2bbce62                                         
+StgCreatePropStg                                                                                     0x5ca20456                                         
+StgCreateStorageEx                                                                                   0x48cdf6d9                                         
+StgIsStorageFile                                                                                     0x1126e584                                         
+StgIsStorageILockBytes                                                                               0x6264853d                                         
+StgOpenPropStg                                                                                       0x710793d4                                         
+StgOpenStorage                                                                                       0x5ca1edfa                                         
+StgOpenStorageEx                                                                                     0x0cd55dd7                                         
+StgOpenStorageOnILockBytes                                                                           0x2d78c410                                         
+StgSetTimes                                                                                          0xe827a7a1                                         
+WriteClassStg                                                                                        0xe9021474                                         
+WriteClassStm                                                                                        0xe902147a                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

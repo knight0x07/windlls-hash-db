@@ -1,0 +1,43 @@
+DLL Path: C:\Windows\System32\usermgrcli.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+IsInteractiveUserSession                                                                             0xd91e9f22                                         
+QueryActiveSession                                                                                   0x5566547b                                         
+QueryUserToken                                                                                       0xec2ba7bb                                         
+RegisterUsertokenForNoWinlogon                                                                       0x91be543b                                         
+UMgrChangeSessionActiveShellUser                                                                     0xf0148f7d                                         
+UMgrChangeSessionUserToken                                                                           0xad1366aa                                         
+UMgrClearDefaultSignInAccount                                                                        0xe061ef61                                         
+UMgrConnectLocalUser                                                                                 0xcac0b354                                         
+UMgrDisconnectLocalUser                                                                              0xc8897eb4                                         
+UMgrEnumerateSessionUsers                                                                            0xde509d7c                                         
+UMgrFreeSessionUsers                                                                                 0x7d178398                                         
+UMgrFreeUserCredentials                                                                              0x1d13e3af                                         
+UMgrGetCachedCredentials                                                                             0xd90e5666                                         
+UMgrGetConstrainedUserToken                                                                          0xf7a892fa                                         
+UMgrGetDefaultSignInAccount                                                                          0x198c541a                                         
+UMgrGetImpersonationTokenForContext                                                                  0xaa4332d5                                         
+UMgrGetSessionActiveShellUserToken                                                                   0x219814f8                                         
+UMgrGetStandardAccessImpersonationTokenForContext                                                    0x709741b8                                         
+UMgrInformFlags                                                                                      0x46c5b1b8                                         
+UMgrInformUserLogoff                                                                                 0xf118dca7                                         
+UMgrInformUserLogon                                                                                  0x455dd829                                         
+UMgrIsAllowedToActivateAsUser                                                                        0xb41b15ab                                         
+UMgrLaunchShell                                                                                      0xfbf10133                                         
+UMgrLaunchShellInfrastructureHost                                                                    0x83f9f832                                         
+UMgrLogonUser                                                                                        0xfecd249e                                         
+UMgrOpenProcessHandleForAccess                                                                       0x22648ed6                                         
+UMgrOpenProcessTokenForQuery                                                                         0xdcb20f6f                                         
+UMgrQueryDefaultAccountToken                                                                         0xef175e69                                         
+UMgrQuerySessionUserToken                                                                            0x723863ba                                         
+UMgrQuerySessionVirtualAccountToken                                                                  0xfe6c730f                                         
+UMgrQueryUserContext                                                                                 0x9bf8687a                                         
+UMgrQueryUserContextFromName                                                                         0x116b034f                                         
+UMgrQueryUserContextFromSid                                                                          0xe94163ee                                         
+UMgrQueryUserToken                                                                                   0x16806ef6                                         
+UMgrQueryUserTokenFromName                                                                           0xeadfc5cb                                         
+UMgrQueryUserTokenFromSid                                                                            0x35a9c6ea                                         
+UMgrSetCachedCredentials                                                                             0x6ae482f2                                         
+UMgrSetShellInformation                                                                              0x3722d62a                                         
+UMgrpGetRegistryLocation                                                                             0xcb2c9d02                                         

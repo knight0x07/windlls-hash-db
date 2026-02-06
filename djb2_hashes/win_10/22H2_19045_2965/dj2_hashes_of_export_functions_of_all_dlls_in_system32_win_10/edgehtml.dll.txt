@@ -1,0 +1,47 @@
+DLL Path: C:\Windows\System32\edgehtml.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CIGTestHookLoadLibraryWorkerThread                                                                   0x32e4e070                                         
+ClearPhishingFilterData                                                                              0x2c69b3c6                                         
+ClearTemporaryWebDataAsync                                                                           0x55b64ae5                                         
+ConvertAndEscapePostData                                                                             0x8c18dd8a                                         
+CreateCoreWebView                                                                                    0x54825cbb                                         
+CreateDiagnosticsToolObject                                                                          0x3d37b7c6                                         
+CreateHTMLPropertyPage                                                                               0x2a255730                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllEnumClassObjects                                                                                  0xa37e58d6                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+Fetch_CreateOriginAgnosticFetch                                                                      0x1e8e45ac                                         
+GetColorValueFromString                                                                              0x1c262a8c                                         
+GetWebPlatformObject                                                                                 0xfb13b3ff                                         
+InitializeLocalHtmlEngine                                                                            0xcdeb23cd                                         
+MatchExactGetIDsOfNames                                                                              0xb257ef30                                         
+PrintHTML                                                                                            0x29e70cc7                                         
+ShowHTMLDialog                                                                                       0xa4991ccb                                         
+ShowHTMLDialogEx                                                                                     0x2f5384e8                                         
+ShowModalDialog                                                                                      0xc9937be3                                         
+ShowModelessHTMLDialog                                                                               0xbf7f2cc7                                         
+Streams_CreateByteChunk                                                                              0x1c1c6fa4                                         
+Streams_CreateDefaultSizedByteChunk                                                                  0xe749d6c8                                         
+Streams_CreateDefaultSizedWideCharChunk                                                              0xb361af3b                                         
+Streams_CreateReadableStream                                                                         0x5d9f54f3                                         
+Streams_CreateReadableStreamFromFileHandle                                                           0xde0ab873                                         
+Streams_CreateReadableStreamFromFilePath                                                             0x99ba1d74                                         
+Streams_CreateWideCharChunk                                                                          0xcf4d5617                                         
+Streams_CreateWritableStream                                                                         0x6b1a2fbd                                         
+TravelLogCreateInstance                                                                              0x93b33a9e                                         
+UninitializeLocalHtmlEngine                                                                          0x9db2f1f0                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

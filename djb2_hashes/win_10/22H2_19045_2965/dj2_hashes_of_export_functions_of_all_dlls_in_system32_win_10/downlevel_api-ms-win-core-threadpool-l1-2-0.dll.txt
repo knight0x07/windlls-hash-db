@@ -1,0 +1,41 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-threadpool-l1-2-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CallbackMayRunLong                                                                                   0x8f7beede                                         
+CancelThreadpoolIo                                                                                   0x36415735                                         
+CloseThreadpool                                                                                      0x7cb0644d                                         
+CloseThreadpoolCleanupGroup                                                                          0x8f4a7502                                         
+CloseThreadpoolCleanupGroupMembers                                                                   0x41a1b52d                                         
+CloseThreadpoolIo                                                                                    0x6a5ab565                                         
+CloseThreadpoolTimer                                                                                 0xe85797ae                                         
+CloseThreadpoolWait                                                                                  0x6be52262                                         
+CloseThreadpoolWork                                                                                  0x6be55f10                                         
+CreateThreadpool                                                                                     0x085c062b                                         
+CreateThreadpoolCleanupGroup                                                                         0x8cd9d3e0                                         
+CreateThreadpoolIo                                                                                   0x8f7646c3                                         
+CreateThreadpoolTimer                                                                                0x0b49144c                                         
+CreateThreadpoolWait                                                                                 0x462a8340                                         
+CreateThreadpoolWork                                                                                 0x462abfee                                         
+DisassociateCurrentThreadFromCallback                                                                0xe1d6c5bd                                         
+FreeLibraryWhenCallbackReturns                                                                       0xffd4b3ae                                         
+IsThreadpoolTimerSet                                                                                 0xa6ce16e0                                         
+LeaveCriticalSectionWhenCallbackReturns                                                              0x3dd7c284                                         
+QueryThreadpoolStackInformation                                                                      0xdabb8c69                                         
+ReleaseMutexWhenCallbackReturns                                                                      0xf09dab6b                                         
+ReleaseSemaphoreWhenCallbackReturns                                                                  0x12ad931c                                         
+SetEventWhenCallbackReturns                                                                          0x2f0fdbe5                                         
+SetThreadpoolStackInformation                                                                        0x9f62973f                                         
+SetThreadpoolThreadMaximum                                                                           0xec2f9e59                                         
+SetThreadpoolThreadMinimum                                                                           0xfe23ee57                                         
+SetThreadpoolTimer                                                                                   0x3b944c24                                         
+SetThreadpoolTimerEx                                                                                 0x71d7ee81                                         
+SetThreadpoolWait                                                                                    0xcb822018                                         
+SetThreadpoolWaitEx                                                                                  0xb48a8f75                                         
+StartThreadpoolIo                                                                                    0x770b58dd                                         
+SubmitThreadpoolWork                                                                                 0x3e07d80e                                         
+TrySubmitThreadpoolCallback                                                                          0x2d0ca5f7                                         
+WaitForThreadpoolIoCallbacks                                                                         0x1973514b                                         
+WaitForThreadpoolTimerCallbacks                                                                      0x6932b3f4                                         
+WaitForThreadpoolWaitCallbacks                                                                       0x5290fc68                                         
+WaitForThreadpoolWorkCallbacks                                                                       0x8bc35cd6                                         

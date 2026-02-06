@@ -1,0 +1,42 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-url-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetAcceptLanguagesA                                                                                  0xf5cb10ed                                         
+GetAcceptLanguagesW                                                                                  0xf5cb1103                                         
+HashData                                                                                             0x2cca58e3                                         
+IsInternetESCEnabled                                                                                 0xf346d550                                         
+ParseURLA                                                                                            0x38f58074                                         
+ParseURLW                                                                                            0x38f5808a                                         
+PathCreateFromUrlA                                                                                   0xafa36eae                                         
+PathCreateFromUrlAlloc                                                                               0x9c3428b8                                         
+PathCreateFromUrlW                                                                                   0xafa36ec4                                         
+PathIsURLA                                                                                           0xa238ca42                                         
+PathIsURLW                                                                                           0xa238ca58                                         
+UrlApplySchemeA                                                                                      0xecc8b754                                         
+UrlApplySchemeW                                                                                      0xecc8b76a                                         
+UrlCanonicalizeA                                                                                     0x8439b129                                         
+UrlCanonicalizeW                                                                                     0x8439b13f                                         
+UrlCombineA                                                                                          0x5f8c7516                                         
+UrlCombineW                                                                                          0x5f8c752c                                         
+UrlCompareA                                                                                          0x60857a20                                         
+UrlCompareW                                                                                          0x60857a36                                         
+UrlCreateFromPathA                                                                                   0x6c9a5bce                                         
+UrlCreateFromPathW                                                                                   0x6c9a5be4                                         
+UrlEscapeA                                                                                           0xeb4a654a                                         
+UrlEscapeW                                                                                           0xeb4a6560                                         
+UrlFixupW                                                                                            0xf949747b                                         
+UrlGetLocationA                                                                                      0x695fcd72                                         
+UrlGetLocationW                                                                                      0x695fcd88                                         
+UrlGetPartA                                                                                          0x1dd77c50                                         
+UrlGetPartW                                                                                          0x1dd77c66                                         
+UrlHashA                                                                                             0x3639367d                                         
+UrlHashW                                                                                             0x36393693                                         
+UrlIsA                                                                                               0xd670ea35                                         
+UrlIsNoHistoryA                                                                                      0x63a08c04                                         
+UrlIsNoHistoryW                                                                                      0x63a08c1a                                         
+UrlIsOpaqueA                                                                                         0xd7d355a0                                         
+UrlIsOpaqueW                                                                                         0xd7d355b6                                         
+UrlIsW                                                                                               0xd670ea4b                                         
+UrlUnescapeA                                                                                         0x54fb816d                                         
+UrlUnescapeW                                                                                         0x54fb8183                                         

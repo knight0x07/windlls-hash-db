@@ -1,0 +1,272 @@
+DLL Path: C:\Windows\System32\propsys.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+ClearPropVariantArray                                                                                0x425d7241                                         
+ClearVariantArray                                                                                    0x7d0bc0c0                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetProxyDllInfo                                                                                      0x64ea9e0f                                         
+InitPropVariantFromBooleanVector                                                                     0x24f524f6                                         
+InitPropVariantFromBuffer                                                                            0x3f7d431d                                         
+InitPropVariantFromCLSID                                                                             0x38356192                                         
+InitPropVariantFromDoubleVector                                                                      0x68f2f011                                         
+InitPropVariantFromFileTime                                                                          0x370a69d2                                         
+InitPropVariantFromFileTimeVector                                                                    0x6eb29605                                         
+InitPropVariantFromGUIDAsString                                                                      0x98b500f7                                         
+InitPropVariantFromInt16Vector                                                                       0xa56b2d28                                         
+InitPropVariantFromInt32Vector                                                                       0x4a05e3e6                                         
+InitPropVariantFromInt64Vector                                                                       0xa8bfdc0b                                         
+InitPropVariantFromPropVariantVectorElem                                                             0x74aa462f                                         
+InitPropVariantFromResource                                                                          0x2752c04b                                         
+InitPropVariantFromStrRet                                                                            0x67191cc7                                         
+InitPropVariantFromStringAsVector                                                                    0x2faa8841                                         
+InitPropVariantFromStringVector                                                                      0x77c479ed                                         
+InitPropVariantFromUInt16Vector                                                                      0x5cb1febd                                         
+InitPropVariantFromUInt32Vector                                                                      0x014cb57b                                         
+InitPropVariantFromUInt64Vector                                                                      0x6006ada0                                         
+InitPropVariantVectorFromPropVariant                                                                 0xed55954c                                         
+InitVariantFromBooleanArray                                                                          0x293d2261                                         
+InitVariantFromBuffer                                                                                0xf68c9a7c                                         
+InitVariantFromDoubleArray                                                                           0x5fd71e3c                                         
+InitVariantFromFileTime                                                                              0xef4d14f1                                         
+InitVariantFromFileTimeArray                                                                         0x659d8170                                         
+InitVariantFromGUIDAsString                                                                          0xba862396                                         
+InitVariantFromInt16Array                                                                            0xbfe2b893                                         
+InitVariantFromInt32Array                                                                            0x50828f91                                         
+InitVariantFromInt64Array                                                                            0x3c1b9716                                         
+InitVariantFromResource                                                                              0xdf956b6a                                         
+InitVariantFromStrRet                                                                                0x1e287426                                         
+InitVariantFromStringArray                                                                           0xfb70dc98                                         
+InitVariantFromUInt16Array                                                                           0xe3590768                                         
+InitVariantFromUInt32Array                                                                           0x73f8de66                                         
+InitVariantFromUInt64Array                                                                           0x5f91e5eb                                         
+InitVariantFromVariantArrayElem                                                                      0xd20ac4d9                                         
+PSCoerceToCanonicalValue                                                                             0xb0a78e61                                         
+PSCreateAdapterFromPropertyStore                                                                     0xa080b103                                         
+PSCreateDelayedMultiplexPropertyStore                                                                0x4c6940ea                                         
+PSCreateMemoryPropertyStore                                                                          0xa2a9dd27                                         
+PSCreateMultiplexPropertyStore                                                                       0x5fe2e852                                         
+PSCreatePropertyChangeArray                                                                          0xed04a1c6                                         
+PSCreatePropertyStoreFromObject                                                                      0xa7ac6059                                         
+PSCreatePropertyStoreFromPropertySetStorage                                                          0x8f1bc2a8                                         
+PSCreateSimplePropertyChange                                                                         0xe60d2f31                                         
+PSEnumeratePropertyDescriptions                                                                      0x6b29feca                                         
+PSFormatForDisplay                                                                                   0xeeeffcae                                         
+PSFormatForDisplayAlloc                                                                              0x0b046539                                         
+PSFormatPropertyValue                                                                                0x289f3d93                                         
+PSGetImageReferenceForValue                                                                          0x42f9a75e                                         
+PSGetItemPropertyHandler                                                                             0x5636601a                                         
+PSGetItemPropertyHandlerWithCreateObject                                                             0xf174a001                                         
+PSGetNameFromPropertyKey                                                                             0xbb75e62b                                         
+PSGetNamedPropertyFromPropertyStorage                                                                0xd42fc0a0                                         
+PSGetPropertyDescription                                                                             0x67ad55f1                                         
+PSGetPropertyDescriptionByName                                                                       0xe5dac5cd                                         
+PSGetPropertyDescriptionListFromString                                                               0xcbf241b8                                         
+PSGetPropertyFromPropertyStorage                                                                     0x21f8319b                                         
+PSGetPropertyKeyFromName                                                                             0x125f84cb                                         
+PSGetPropertySystem                                                                                  0x5156d1f2                                         
+PSGetPropertyValue                                                                                   0x677937aa                                         
+PSLookupPropertyHandlerCLSID                                                                         0x0a0d3e94                                         
+PSPropertyBag_Delete                                                                                 0xb211abe9                                         
+PSPropertyBag_ReadBOOL                                                                               0x4eef58fe                                         
+PSPropertyBag_ReadBSTR                                                                               0x4eef6aad                                         
+PSPropertyBag_ReadDWORD                                                                              0x2d030dd2                                         
+PSPropertyBag_ReadGUID                                                                               0x4ef22f9b                                         
+PSPropertyBag_ReadInt                                                                                0x292e2c5d                                         
+PSPropertyBag_ReadLONG                                                                               0x4ef4d4a2                                         
+PSPropertyBag_ReadPOINTL                                                                             0xe8ce92a8                                         
+PSPropertyBag_ReadPOINTS                                                                             0xe8ce92af                                         
+PSPropertyBag_ReadPropertyKey                                                                        0x68fe30c0                                         
+PSPropertyBag_ReadRECTL                                                                              0x2df6534c                                         
+PSPropertyBag_ReadSHORT                                                                              0x2e0a43c2                                         
+PSPropertyBag_ReadStr                                                                                0x292e57ab                                         
+PSPropertyBag_ReadStrAlloc                                                                           0x9a742656                                         
+PSPropertyBag_ReadStream                                                                             0xf282765e                                         
+PSPropertyBag_ReadType                                                                               0x4ef9eed4                                         
+PSPropertyBag_ReadULONGLONG                                                                          0x7d15b067                                         
+PSPropertyBag_ReadUnknown                                                                            0xce4d4902                                         
+PSPropertyBag_WriteBOOL                                                                              0x023726ad                                         
+PSPropertyBag_WriteBSTR                                                                              0x0237385c                                         
+PSPropertyBag_WriteDWORD                                                                             0x49449161                                         
+PSPropertyBag_WriteGUID                                                                              0x0239fd4a                                         
+PSPropertyBag_WriteInt                                                                               0xe8cb802c                                         
+PSPropertyBag_WriteLONG                                                                              0x023ca251                                         
+PSPropertyBag_WritePOINTL                                                                            0x8d408817                                         
+PSPropertyBag_WritePOINTS                                                                            0x8d40881e                                         
+PSPropertyBag_WritePropertyKey                                                                       0xfedde38f                                         
+PSPropertyBag_WriteRECTL                                                                             0x4a37d6db                                         
+PSPropertyBag_WriteSHORT                                                                             0x4a4bc751                                         
+PSPropertyBag_WriteStr                                                                               0xe8cbab7a                                         
+PSPropertyBag_WriteStream                                                                            0x96f46bcd                                         
+PSPropertyBag_WriteULONGLONG                                                                         0x1e7c6376                                         
+PSPropertyBag_WriteUnknown                                                                           0x00fdec51                                         
+PSPropertyKeyFromString                                                                              0xf84bdb41                                         
+PSRefreshPropertySchema                                                                              0xce46076d                                         
+PSRegisterPropertySchema                                                                             0x74b96a83                                         
+PSSetPropertyValue                                                                                   0xf9f6fe36                                         
+PSStringFromPropertyKey                                                                              0x37bc7961                                         
+PSUnregisterPropertySchema                                                                           0x6e31c846                                         
+PropVariantChangeType                                                                                0xe8d25023                                         
+PropVariantCompareEx                                                                                 0x05951bff                                         
+PropVariantGetBooleanElem                                                                            0x0e958dde                                         
+PropVariantGetDoubleElem                                                                             0xa0d18b39                                         
+PropVariantGetElementCount                                                                           0x26afca0e                                         
+PropVariantGetFileTimeElem                                                                           0x00ad1a2d                                         
+PropVariantGetInt16Elem                                                                              0xb328ab90                                         
+PropVariantGetInt32Elem                                                                              0xb78a9ace                                         
+PropVariantGetInt64Elem                                                                              0xbeae45b3                                         
+PropVariantGetStringElem                                                                             0x7ebeee15                                         
+PropVariantGetUInt16Elem                                                                             0x01e4fee5                                         
+PropVariantGetUInt32Elem                                                                             0x0646ee23                                         
+PropVariantGetUInt64Elem                                                                             0x0d6a9908                                         
+PropVariantToBSTR                                                                                    0x1993df59                                         
+PropVariantToBoolean                                                                                 0xd275505e                                         
+PropVariantToBooleanVector                                                                           0x5d0b3591                                         
+PropVariantToBooleanVectorAlloc                                                                      0x3465a3fc                                         
+PropVariantToBooleanWithDefault                                                                      0x6956881f                                         
+PropVariantToBuffer                                                                                  0xd07a9c18                                         
+PropVariantToDouble                                                                                  0xd4c083d9                                         
+PropVariantToDoubleVector                                                                            0x81ebd94c                                         
+PropVariantToDoubleVectorAlloc                                                                       0x5258d497                                         
+PropVariantToDoubleWithDefault                                                                       0x8749b8ba                                         
+PropVariantToFileTime                                                                                0xfcc1ed8d                                         
+PropVariantToFileTimeVector                                                                          0xa98aba00                                         
+PropVariantToFileTimeVectorAlloc                                                                     0x142445cb                                         
+PropVariantToGUID                                                                                    0x1996a447                                         
+PropVariantToInt16                                                                                   0x4c9dc850                                         
+PropVariantToInt16Vector                                                                             0xebfe5b03                                         
+PropVariantToInt16VectorAlloc                                                                        0x6c0400ae                                         
+PropVariantToInt16WithDefault                                                                        0xa0f4e4d1                                         
+PropVariantToInt32                                                                                   0x4c9dc88e                                         
+PropVariantToInt32Vector                                                                             0x909911c1                                         
+PropVariantToInt32VectorAlloc                                                                        0x46f49e2c                                         
+PropVariantToInt32WithDefault                                                                        0x7be5824f                                         
+PropVariantToInt64                                                                                   0x4c9dc8f3                                         
+PropVariantToInt64Vector                                                                             0xef5309e6                                         
+PropVariantToInt64VectorAlloc                                                                        0x96f87571                                         
+PropVariantToInt64WithDefault                                                                        0xcbe95994                                         
+PropVariantToStrRet                                                                                  0xf81675c2                                         
+PropVariantToString                                                                                  0xf816d8b5                                         
+PropVariantToStringAlloc                                                                             0xfb28dda0                                         
+PropVariantToStringVector                                                                            0x90bd6328                                         
+PropVariantToStringVectorAlloc                                                                       0xdfb6e7f3                                         
+PropVariantToStringWithDefault                                                                       0x14a7cc16                                         
+PropVariantToUInt16                                                                                  0xf9b50185                                         
+PropVariantToUInt16Vector                                                                            0x75aae7f8                                         
+PropVariantToUInt16VectorAlloc                                                                       0xaee7eec3                                         
+PropVariantToUInt16WithDefault                                                                       0xe3d8d2e6                                         
+PropVariantToUInt32                                                                                  0xf9b501c3                                         
+PropVariantToUInt32Vector                                                                            0x1a459eb6                                         
+PropVariantToUInt32VectorAlloc                                                                       0x89d88c41                                         
+PropVariantToUInt32WithDefault                                                                       0xbec97064                                         
+PropVariantToUInt64                                                                                  0xf9b50228                                         
+PropVariantToUInt64Vector                                                                            0x78ff96db                                         
+PropVariantToUInt64VectorAlloc                                                                       0xd9dc6386                                         
+PropVariantToUInt64WithDefault                                                                       0x0ecd47a9                                         
+PropVariantToVariant                                                                                 0xb58e6bb3                                         
+PropVariantToWinRTPropertyValue                                                                      0x0e8348d4                                         
+SHGetPropertyStoreForWindow                                                                          0xa1663191                                         
+StgDeserializePropVariant                                                                            0x1e789c3a                                         
+StgSerializePropVariant                                                                              0xf70e27b1                                         
+VariantCompare                                                                                       0x5a0de7e1                                         
+VariantGetBooleanElem                                                                                0xc381a6bd                                         
+VariantGetDoubleElem                                                                                 0xec1e8438                                         
+VariantGetElementCount                                                                               0x791efecd                                         
+VariantGetInt16Elem                                                                                  0x9e2b00af                                         
+VariantGetInt32Elem                                                                                  0xa28cefed                                         
+VariantGetInt64Elem                                                                                  0xa9b09ad2                                         
+VariantGetStringElem                                                                                 0xca0be714                                         
+VariantGetUInt16Elem                                                                                 0x4d31f7e4                                         
+VariantGetUInt32Elem                                                                                 0x5193e722                                         
+VariantGetUInt64Elem                                                                                 0x58b79207                                         
+VariantToBoolean                                                                                     0xe207a1dd                                         
+VariantToBooleanArray                                                                                0xd55101dc                                         
+VariantToBooleanArrayAlloc                                                                           0x2b1dd727                                         
+VariantToBooleanWithDefault                                                                          0xa2ef8c3e                                         
+VariantToBuffer                                                                                      0xe83939b7                                         
+VariantToDosDateTime                                                                                 0xe8e74510                                         
+VariantToDouble                                                                                      0xec7f2178                                         
+VariantToDoubleArray                                                                                 0xaadf7a57                                         
+VariantToDoubleArrayAlloc                                                                            0xb361d482                                         
+VariantToDoubleWithDefault                                                                           0x33b334f9                                         
+VariantToFileTime                                                                                    0xfe9e6eec                                         
+VariantToGUID                                                                                        0x03834e26                                         
+VariantToInt16                                                                                       0x741fae0f                                         
+VariantToInt16Array                                                                                  0xe8f27d4e                                         
+VariantToInt16ArrayAlloc                                                                             0x9fd049d9                                         
+VariantToInt16WithDefault                                                                            0xadf05530                                         
+VariantToInt32                                                                                       0x741fae4d                                         
+VariantToInt32Array                                                                                  0x7992544c                                         
+VariantToInt32ArrayAlloc                                                                             0xec442f97                                         
+VariantToInt32WithDefault                                                                            0x88e0f2ae                                         
+VariantToInt64                                                                                       0x741faeb2                                         
+VariantToInt64Array                                                                                  0x652b5bd1                                         
+VariantToInt64ArrayAlloc                                                                             0x89d7b23c                                         
+VariantToInt64WithDefault                                                                            0xd8e4c9f3                                         
+VariantToPropVariant                                                                                 0x84a24a93                                         
+VariantToStrRet                                                                                      0x0fd51361                                         
+VariantToString                                                                                      0x0fd57654                                         
+VariantToStringAlloc                                                                                 0x4675d69f                                         
+VariantToStringArray                                                                                 0x467938b3                                         
+VariantToStringArrayAlloc                                                                            0x815cec5e                                         
+VariantToStringWithDefault                                                                           0xc1114855                                         
+VariantToUInt16                                                                                      0x11739f24                                         
+VariantToUInt16Array                                                                                 0x2e616383                                         
+VariantToUInt16ArrayAlloc                                                                            0x7820592e                                         
+VariantToUInt16WithDefault                                                                           0x90424f25                                         
+VariantToUInt32                                                                                      0x11739f62                                         
+VariantToUInt32Array                                                                                 0xbf013a81                                         
+VariantToUInt32ArrayAlloc                                                                            0xc4943eec                                         
+VariantToUInt32WithDefault                                                                           0x6b32eca3                                         
+VariantToUInt64                                                                                      0x11739fc7                                         
+VariantToUInt64Array                                                                                 0xaa9a4206                                         
+VariantToUInt64ArrayAlloc                                                                            0x6227c191                                         
+VariantToUInt64WithDefault                                                                           0xbb36c3e8                                         
+WinRTPropertyValueToPropVariant                                                                      0xd6fd66f4                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

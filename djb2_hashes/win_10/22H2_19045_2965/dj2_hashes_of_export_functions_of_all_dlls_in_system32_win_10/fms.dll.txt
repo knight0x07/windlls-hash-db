@@ -1,0 +1,27 @@
+DLL Path: C:\Windows\System32\fms.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+FmsActivateFonts                                                                                     0x6ba96aa6                                         
+FmsAddFilter                                                                                         0xee689cda                                         
+FmsDeactivateFonts                                                                                   0x5a9ced4f                                         
+FmsFreeEnumerator                                                                                    0x7cd2e50f                                         
+FmsGetBestMatchInFamily                                                                              0x2badf85f                                         
+FmsGetCurrentFilter                                                                                  0xe86b40b4                                         
+FmsGetDirectWriteLogFont                                                                             0xa0b2ecca                                         
+FmsGetFilteredFontList                                                                               0x7cde9b0d                                         
+FmsGetFilteredPropertyList                                                                           0x2764f6db                                         
+FmsGetFontAutoActivationMode                                                                         0x46538d92                                         
+FmsGetFontProperty                                                                                   0xfd4e54c7                                         
+FmsGetGDILogFont                                                                                     0x4c61d978                                         
+FmsGetGdiLogicalFont                                                                                 0x90f86891                                         
+FmsInitializeEnumerator                                                                              0xca4d5b9f                                         
+FmsMapGdiLogicalFont                                                                                 0x4421660f                                         
+FmsMapLogicalFont                                                                                    0x46546bdb                                         
+FmsResetEnumerator                                                                                   0x671bfd10                                         
+FmsResetFontsActivationState                                                                         0xa73a160b                                         
+FmsSetDefaultFilter                                                                                  0xa5497ec2                                         
+FmsSetFilter                                                                                         0xdb0e2fdd                                         
+FmsSetFontAutoActivationMode                                                                         0x5777719e                                         
+FmsSetTextFilter                                                                                     0x452f6882                                         
+FmsToggleOnDesignAxis                                                                                0xbb8271b9                                         

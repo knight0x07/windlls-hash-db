@@ -1,0 +1,40 @@
+DLL Path: C:\Windows\System32\ProjectedFSLib.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+PrjAllocateAlignedBuffer                                                                             0x13d6f2a4                                         
+PrjClearNegativePathCache                                                                            0xf3c0cb0c                                         
+PrjCloseFile                                                                                         0x50bd9607                                         
+PrjCommandCallbacksInit                                                                              0x801f7be4                                         
+PrjCompleteCommand                                                                                   0xe5153d49                                         
+PrjConfigureVolume                                                                                   0x35d4f76b                                         
+PrjConvertDirectoryToPlaceholder                                                                     0x681bbc8d                                         
+PrjCreatePlaceholderAsHardlink                                                                       0xe264df29                                         
+PrjDeleteFile                                                                                        0x67ba1c24                                         
+PrjDetachDriver                                                                                      0xbf9b4966                                         
+PrjDoesNameContainWildCards                                                                          0xebe6bb66                                         
+PrjFileNameCompare                                                                                   0x21292c99                                         
+PrjFileNameMatch                                                                                     0x2a8d38df                                         
+PrjFillDirEntryBuffer                                                                                0xfdc45343                                         
+PrjFillDirEntryBuffer2                                                                               0xb64ebbd5                                         
+PrjFreeAlignedBuffer                                                                                 0x43f38241                                         
+PrjGetOnDiskFileState                                                                                0x1eaf5f1a                                         
+PrjGetVirtualizationInstanceIdFromHandle                                                             0x365aba18                                         
+PrjGetVirtualizationInstanceInfo                                                                     0xf6fd2d77                                         
+PrjMarkDirectoryAsPlaceholder                                                                        0x4ef8ae48                                         
+PrjOpenFile                                                                                          0x29f0dba3                                         
+PrjReadFile                                                                                          0x95ec266d                                         
+PrjStartVirtualizationInstance                                                                       0x393ca399                                         
+PrjStartVirtualizationInstanceEx                                                                     0x7af3f736                                         
+PrjStartVirtualizing                                                                                 0x075060a7                                         
+PrjStopVirtualizationInstance                                                                        0x32be1991                                         
+PrjStopVirtualizing                                                                                  0x8a4f809f                                         
+PrjUpdateFileIfNeeded                                                                                0x776d2268                                         
+PrjUpdatePlaceholderIfNeeded                                                                         0x0a1e7b4b                                         
+PrjWriteFile                                                                                         0x2879237c                                         
+PrjWriteFileData                                                                                     0x3f3d7736                                         
+PrjWritePlaceholderInfo                                                                              0x03382d0b                                         
+PrjWritePlaceholderInfo2                                                                             0x6a3dce9d                                         
+PrjWritePlaceholderInformation                                                                       0x3a45bf65                                         
+PrjpReadPrjReparsePointData                                                                          0x34b5fc9f                                         
+PrjpSupplyTestSettings                                                                               0x126401bf                                         

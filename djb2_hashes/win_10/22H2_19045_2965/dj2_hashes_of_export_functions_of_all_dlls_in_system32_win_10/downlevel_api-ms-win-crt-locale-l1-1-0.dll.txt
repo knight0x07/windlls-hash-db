@@ -1,0 +1,24 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-crt-locale-l1-1-0.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+___lc_codepage_func                                                                                  0xf7d3f9f3                                         
+___lc_collate_cp_func                                                                                0x61daca11                                         
+___lc_locale_name_func                                                                               0xdfd25cab                                         
+___mb_cur_max_func                                                                                   0x31c97b8a                                         
+___mb_cur_max_l_func                                                                                 0xd68356d5                                         
+__initialize_lconv_for_unsigned_char                                                                 0xbf2765d5                                         
+__pctype_func                                                                                        0x07ba64c3                                         
+__pwctype_func                                                                                       0x89ac945a                                         
+_configthreadlocale                                                                                  0xd5f2bd22                                         
+_create_locale                                                                                       0x402693e7                                         
+_free_locale                                                                                         0x32831a35                                         
+_get_current_locale                                                                                  0x575310f5                                         
+_getmbcp                                                                                             0x14d95086                                         
+_lock_locales                                                                                        0xcb59f58f                                         
+_setmbcp                                                                                             0xb0942992                                         
+_unlock_locales                                                                                      0x49f17292                                         
+_wcreate_locale                                                                                      0xf26cee3e                                         
+_wsetlocale                                                                                          0xb8fb8157                                         
+localeconv                                                                                           0xf7a76feb                                         
+setlocale                                                                                            0x615d8aa1                                         

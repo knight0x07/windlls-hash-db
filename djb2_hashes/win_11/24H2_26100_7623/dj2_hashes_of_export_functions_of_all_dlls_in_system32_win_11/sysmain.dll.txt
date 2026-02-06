@@ -1,0 +1,20 @@
+DLL Path: C:\Windows\System32\sysmain.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AgGlLoad                                                                                             0x1e84f5c0                                         
+AgPdLoad                                                                                             0x32f29f61                                         
+AgTwLoad                                                                                             0x3d9f1378                                         
+CloseReadyBoostPerfData                                                                              0x95cf67be                                         
+CollectReadyBoostPerfData                                                                            0x6ae4d56e                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetProviderClassID                                                                                   0xdc3bff53                                         
+MI_Main                                                                                              0xdc2f74ff                                         
+OpenReadyBoostPerfData                                                                               0xae9a97da                                         
+PfSvSysprepCleanup                                                                                   0xd78a7822                                         
+PfSvUnattendCallback                                                                                 0x783bc474                                         
+PfSvWsSwapAssessmentTask                                                                             0x1d002d82                                         
+SysMtServiceMain                                                                                     0xa75d5e9b                                         

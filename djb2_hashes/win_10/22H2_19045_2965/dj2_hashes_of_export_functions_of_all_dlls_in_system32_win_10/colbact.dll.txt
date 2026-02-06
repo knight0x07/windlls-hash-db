@@ -1,0 +1,11 @@
+DLL Path: C:\Windows\System32\colbact.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetClassInfoForCurrentUser                                                                           0xfc61c690                                         
+GetDefaultPartitionForCurrentUser                                                                    0x93398e4d                                         
+GetDefaultPartitionForSid                                                                            0x6e7244eb                                         
+PartitionAccessCheck                                                                                 0x1806046f                                         

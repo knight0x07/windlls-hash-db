@@ -1,0 +1,17 @@
+DLL Path: C:\Windows\System32\ieapfltr.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CreateIAppRep2                                                                                       0x80387afc                                         
+CreateIAppRepParm2                                                                                   0x900b9c0c                                         
+CreateIUrlReputationSolution2                                                                        0x8c94562f                                         
+CreateUrlBlockBroker                                                                                 0xcbce3a9c                                         
+CreateUrlBlockClient                                                                                 0xcdb36d96                                         
+DestroyUrlBlockBroker                                                                                0x134d5c52                                         
+DestroyUrlBlockClient                                                                                0x15328f4c                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+DllRegisterServer                                                                                    0x11369e1d                                         
+DllUnregisterServer                                                                                  0xc0c1a320                                         
+GetUrlBlockBroker                                                                                    0x6eef3f68                                         
+GetUrlBlockClient                                                                                    0x70d47262                                         

@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\licenseprotection.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+LicenseProtectionPbrReset                                                                            0xe48257b6                                         
+RegisterLicenseKeyWithExpiration                                                                     0x3d7c1195                                         
+ValidateLicenseKeyProtection                                                                         0xf3a4bec2                                         

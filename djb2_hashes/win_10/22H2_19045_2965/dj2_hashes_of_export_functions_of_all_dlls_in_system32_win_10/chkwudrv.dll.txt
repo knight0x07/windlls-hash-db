@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\chkwudrv.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CancelWUOperation                                                                                    0xf9110408                                         
+IsWUAvailable                                                                                        0x57f47d0e                                         
+OpenWUContext                                                                                        0xe87e7888                                         
+ReleaseWUContext                                                                                     0xa7368957                                         
+RemoveWUDirectory                                                                                    0x2a6dd6b4                                         
+WUDownloadUpdatedFiles                                                                               0xf27174e3                                         
+WUExpandUpdateToPath                                                                                 0xf6efb2a4                                         
+WUFindMatchingDriver                                                                                 0x51753989                                         
+WUInstallBestUpdate                                                                                  0x7a486bf9                                         

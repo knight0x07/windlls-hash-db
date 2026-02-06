@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\downlevel\api-ms-win-core-processthreads-l1-1-2.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetProcessPriorityBoost                                                                              0xdff2672d                                         
+GetSystemTimes                                                                                       0xe4eb5b4c                                         
+GetThreadIOPendingFlag                                                                               0x86b92eb4                                         
+GetThreadInformation                                                                                 0x4513cd63                                         
+IsProcessCritical                                                                                    0x70ba4e8b                                         
+QueryProtectedPolicy                                                                                 0x2cc42fb5                                         
+SetProcessPriorityBoost                                                                              0x4275d839                                         
+SetProtectedPolicy                                                                                   0x09bf044b                                         
+SetThreadInformation                                                                                 0xd6e9f9ef                                         

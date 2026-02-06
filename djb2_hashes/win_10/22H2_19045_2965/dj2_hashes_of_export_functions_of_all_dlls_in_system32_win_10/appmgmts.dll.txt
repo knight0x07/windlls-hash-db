@@ -1,0 +1,23 @@
+DLL Path: C:\Windows\System32\appmgmts.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CsCreateClassStore                                                                                   0x2c3d0d92                                         
+CsEnumApps                                                                                           0x7262aa64                                         
+CsGetAppCategories                                                                                   0xce57c8a2                                         
+CsGetClassAccess                                                                                     0x4a11fa63                                         
+CsGetClassStore                                                                                      0x1311bc1e                                         
+CsGetClassStorePath                                                                                  0x7fdc256b                                         
+CsRegisterAppCategory                                                                                0xf44ca55f                                         
+CsServerGetClassStore                                                                                0x84b5ab75                                         
+CsSetOptions                                                                                         0x323cd533                                         
+CsUnregisterAppCategory                                                                              0x810052c2                                         
+DllCanUnloadNow                                                                                      0x3cd7dcca                                         
+DllGetClassObject                                                                                    0xa38ae8ee                                         
+GenerateGroupPolicy                                                                                  0x3f52b54d                                         
+IID_IClassAdmin                                                                                      0xb28292c2                                         
+ProcessGroupPolicyObjectsEx                                                                          0x020c8f28                                         
+ReleaseAppCategoryInfoList                                                                           0x511d3d0d                                         
+ReleasePackageDetail                                                                                 0x5ef0e845                                         
+ReleasePackageInfo                                                                                   0xb158e8be                                         
+ServiceMain                                                                                          0x0747703b                                         

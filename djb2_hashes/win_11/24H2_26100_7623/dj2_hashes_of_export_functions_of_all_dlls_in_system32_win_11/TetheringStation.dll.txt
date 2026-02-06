@@ -1,0 +1,14 @@
+DLL Path: C:\Windows\System32\TetheringStation.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+TetheringStationConnect                                                                              0xc8c2edfb                                         
+TetheringStationConnectApp                                                                           0xac02937c                                         
+TetheringStationDeinitialize                                                                         0x5452440c                                         
+TetheringStationDisconnect                                                                           0x5bc2fbbb                                         
+TetheringStationEnumerate                                                                            0x1a77deb7                                         
+TetheringStationFreeMemory                                                                           0xdaa04a6c                                         
+TetheringStationInitialize                                                                           0x89868743                                         
+TetheringStationRefresh                                                                              0x338a5680                                         
+TetheringStationRegisterForNotification                                                              0xc60228e4                                         
+TetheringStationUnregisterForNotification                                                            0xe63f5547                                         

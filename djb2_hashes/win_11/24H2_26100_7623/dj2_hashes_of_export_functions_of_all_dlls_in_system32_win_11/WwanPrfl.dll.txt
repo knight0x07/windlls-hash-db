@@ -1,0 +1,16 @@
+DLL Path: C:\Windows\System32\WwanPrfl.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+WwanProfileCleanup                                                                                   0xb8b76b1b                                         
+WwanProfileCopyProfile                                                                               0xf5d70ebf                                         
+WwanProfileDecryptPassword                                                                           0xfec4ff21                                         
+WwanProfileDeinit                                                                                    0xe0a82690                                         
+WwanProfileGenerateFile                                                                              0x6cbe043e                                         
+WwanProfileGenerateXml                                                                               0x96b0b9cf                                         
+WwanProfileGetPath                                                                                   0xdd522760                                         
+WwanProfileGetRootPath                                                                               0x0266b8e4                                         
+WwanProfileInit                                                                                      0x7095bc07                                         
+WwanProfileLoadFile                                                                                  0xfbaf8553                                         
+WwanProfileLoadXml                                                                                   0x743bec44                                         
+WwanValidateApn                                                                                      0x19f0a0eb                                         

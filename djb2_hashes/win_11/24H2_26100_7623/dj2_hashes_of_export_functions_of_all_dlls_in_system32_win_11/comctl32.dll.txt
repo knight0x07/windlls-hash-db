@@ -1,0 +1,185 @@
+DLL Path: C:\Windows\System32\comctl32.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+AddMRUStringW                                                                                        0xd04c0870                                         
+CreateMRUListW                                                                                       0x0c63f520                                         
+CreateMappedBitmap                                                                                   0xd1d9b5ed                                         
+CreatePropertySheetPage                                                                              0xa037dff4                                         
+CreatePropertySheetPageA                                                                             0xa733deb5                                         
+CreatePropertySheetPageW                                                                             0xa733decb                                         
+CreateStatusWindow                                                                                   0xea8260f5                                         
+CreateStatusWindowA                                                                                  0x3ace7fd6                                         
+CreateStatusWindowW                                                                                  0x3ace7fec                                         
+CreateToolbar                                                                                        0x70492c4c                                         
+CreateToolbarEx                                                                                      0xa74578a9                                         
+CreateUpDownControl                                                                                  0x3c347f97                                         
+DPA_Clone                                                                                            0x25da1f6a                                         
+DPA_Create                                                                                           0xe184eeed                                         
+DPA_CreateEx                                                                                         0x567c678a                                         
+DPA_DeleteAllPtrs                                                                                    0x89dc896e                                         
+DPA_DeletePtr                                                                                        0xbf5a74e2                                         
+DPA_Destroy                                                                                          0x41d1b4a3                                         
+DPA_DestroyCallback                                                                                  0x315444f0                                         
+DPA_EnumCallback                                                                                     0x76e01fbb                                         
+DPA_GetPtr                                                                                           0xe9f6444f                                         
+DPA_GetPtrIndex                                                                                      0xf02f5307                                         
+DPA_Grow                                                                                             0xe9e21d78                                         
+DPA_InsertPtr                                                                                        0x6ed4d7c4                                         
+DPA_LoadStream                                                                                       0x983337e5                                         
+DPA_Merge                                                                                            0x268b49a9                                         
+DPA_SaveStream                                                                                       0x040fb4f4                                         
+DPA_Search                                                                                           0x05ea4f0f                                         
+DPA_SetPtr                                                                                           0x05f42bdb                                         
+DPA_Sort                                                                                             0xe9e8a5a1                                         
+DSA_Create                                                                                           0x3efa41f0                                         
+DSA_DeleteAllItems                                                                                   0x7d7c7a0a                                         
+DSA_DeleteItem                                                                                       0x98c255be                                         
+DSA_Destroy                                                                                          0x4df16806                                         
+DSA_DestroyCallback                                                                                  0xfb96ab53                                         
+DSA_EnumCallback                                                                                     0x60b668fe                                         
+DSA_GetItem                                                                                          0x34daa9ab                                         
+DSA_GetItemPtr                                                                                       0x9ba53181                                         
+DSA_InsertItem                                                                                       0x378914e0                                         
+DSA_SetItem                                                                                          0xd09582b7                                         
+DefSubclassProc                                                                                      0x4deb2708                                         
+DestroyPropertySheetPage                                                                             0x3dd32dea                                         
+DllGetVersion                                                                                        0x5dd63a07                                         
+DrawInsert                                                                                           0x277a8f28                                         
+DrawStatusText                                                                                       0x4377fabc                                         
+DrawStatusTextA                                                                                      0xb277527d                                         
+DrawStatusTextW                                                                                      0xb2775293                                         
+EnumMRUListW                                                                                         0xcdb710a1                                         
+FlatSB_EnableScrollBar                                                                               0x85df12ab                                         
+FlatSB_GetScrollInfo                                                                                 0x96b87cdb                                         
+FlatSB_GetScrollPos                                                                                  0x5224bce1                                         
+FlatSB_GetScrollProp                                                                                 0x96bc65b0                                         
+FlatSB_GetScrollPropPtr                                                                              0x25002b66                                         
+FlatSB_GetScrollRange                                                                                0x6e63f53c                                         
+FlatSB_SetScrollInfo                                                                                 0x4f2ceee7                                         
+FlatSB_SetScrollPos                                                                                  0x9d8d1d6d                                         
+FlatSB_SetScrollProp                                                                                 0x4f30d7bc                                         
+FlatSB_SetScrollRange                                                                                0x3566a8c8                                         
+FlatSB_ShowScrollBar                                                                                 0xa71201c5                                         
+FreeMRUList                                                                                          0x474271b7                                         
+GetEffectiveClientRect                                                                               0xaf9dd503                                         
+GetMUILanguage                                                                                       0xfc594eb4                                         
+ImageList_Add                                                                                        0xcf05270c                                         
+ImageList_AddIcon                                                                                    0x8c438895                                         
+ImageList_AddMasked                                                                                  0xb47aa581                                         
+ImageList_BeginDrag                                                                                  0x3e49a946                                         
+ImageList_Copy                                                                                       0xafab521e                                         
+ImageList_Create                                                                                     0x47f83c37                                         
+ImageList_Destroy                                                                                    0x76aeab2d                                         
+ImageList_DragEnter                                                                                  0x5143c13f                                         
+ImageList_DragLeave                                                                                  0x51bd2eae                                         
+ImageList_DragMove                                                                                   0x0a3cc2b8                                         
+ImageList_DragShowNolock                                                                             0x57cdcf28                                         
+ImageList_Draw                                                                                       0xafabe951                                         
+ImageList_DrawEx                                                                                     0x4a4b8aee                                         
+ImageList_DrawIndirect                                                                               0xac20a343                                         
+ImageList_Duplicate                                                                                  0xa6e1b55e                                         
+ImageList_EndDrag                                                                                    0xd77d91f8                                         
+ImageList_GetBkColor                                                                                 0x59d92e6f                                         
+ImageList_GetDragImage                                                                               0x83d366e4                                         
+ImageList_GetFlags                                                                                   0x105ac930                                         
+ImageList_GetIcon                                                                                    0x5d97a5cc                                         
+ImageList_GetIconSize                                                                                0x097cfe07                                         
+ImageList_GetImageCount                                                                              0x0a673aef                                         
+ImageList_GetImageInfo                                                                               0x2edf9b32                                         
+ImageList_GetImageRect                                                                               0x2ee463f4                                         
+ImageList_LoadImage                                                                                  0x29a9d5c6                                         
+ImageList_LoadImageA                                                                                 0x5ee48ec7                                         
+ImageList_LoadImageW                                                                                 0x5ee48edd                                         
+ImageList_Merge                                                                                      0xa5c515b3                                         
+ImageList_Read                                                                                       0xafb35f3f                                         
+ImageList_Remove                                                                                     0x6a0efdf1                                         
+ImageList_Replace                                                                                    0xac23073f                                         
+ImageList_ReplaceIcon                                                                                0x88ec4a48                                         
+ImageList_SetBkColor                                                                                 0x8a57fbfb                                         
+ImageList_SetDragCursorImage                                                                         0x22ca442e                                         
+ImageList_SetFilter                                                                                  0x91592fd5                                         
+ImageList_SetFlags                                                                                   0x2370c3bc                                         
+ImageList_SetIconSize                                                                                0x49d57d13                                         
+ImageList_SetImageCount                                                                              0xc2dbacfb                                         
+ImageList_SetOverlayImage                                                                            0x5f4b0834                                         
+ImageList_Write                                                                                      0xa681070e                                         
+InitCommonControls                                                                                   0xf3b01796                                         
+InitCommonControlsEx                                                                                 0xa0145e73                                         
+InitMUILanguage                                                                                      0x5cbbc0e8                                         
+InitializeFlatSB                                                                                     0x5eb9fb53                                         
+LBItemFromPt                                                                                         0xda4b67da                                         
+MakeDragList                                                                                         0x321d1bdd                                         
+MenuHelp                                                                                             0xf3402943                                         
+PropertySheet                                                                                        0xcb05c9c3                                         
+PropertySheetA                                                                                       0x2bbf0264                                         
+PropertySheetW                                                                                       0x2bbf027a                                         
+RegisterClassNameW                                                                                   0x1a33d058                                         
+RemoveWindowSubclass                                                                                 0x53a8888b                                         
+SetWindowSubclass                                                                                    0x4cc5e629                                         
+ShowHideMenuCtl                                                                                      0xc29d8418                                         
+Str_SetPtrW                                                                                          0x72365036                                         
+UninitializeFlatSB                                                                                   0xad32fe16                                         
+_TrackMouseEvent                                                                                     0x32cc0244                                         
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 
+[Function Ordinal Only]                                                                              NA                                                 

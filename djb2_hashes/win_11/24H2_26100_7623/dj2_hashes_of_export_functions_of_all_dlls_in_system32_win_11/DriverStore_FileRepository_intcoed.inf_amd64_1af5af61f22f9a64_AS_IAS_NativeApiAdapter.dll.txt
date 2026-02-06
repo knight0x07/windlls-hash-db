@@ -1,0 +1,7 @@
+DLL Path: C:\Windows\System32\DriverStore\FileRepository\intcoed.inf_amd64_1af5af61f22f9a64\AS\IAS\NativeApiAdapter.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+GetServiceDirectoryExport                                                                            0x317334ad                                         
+GetServiceRegistryStateKeyExport                                                                     0xf8f0a8fb                                         
+IsApiSetImplementedExport                                                                            0x9f86ca1d                                         

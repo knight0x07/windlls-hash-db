@@ -1,0 +1,36 @@
+DLL Path: C:\Windows\System32\ipnathlp.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+NatAcquirePortReservation                                                                            0x0fca76a9                                         
+NatCancelDynamicRedirect                                                                             0x71e4e365                                         
+NatCancelRedirect                                                                                    0xbbc87900                                         
+NatCreateDynamicFullRedirect                                                                         0xd178be46                                         
+NatCreateDynamicRedirect                                                                             0x31f55033                                         
+NatCreateDynamicRedirectEx                                                                           0x848a3250                                         
+NatCreateRedirect                                                                                    0x4b07d18e                                         
+NatCreateRedirectEx                                                                                  0x2c42766b                                         
+NatInitializePortReservation                                                                         0x32ce2191                                         
+NatInitializeTranslator                                                                              0x03955284                                         
+NatLookupAndQueryInformationSessionMapping                                                           0x87751e01                                         
+NatQueryInformationRedirect                                                                          0x249f5e56                                         
+NatQueryInformationRedirectHandle                                                                    0x4d4b0662                                         
+NatReleasePortReservation                                                                            0x6713e560                                         
+NatShutdownPortReservation                                                                           0xfc3e6c5b                                         
+NatShutdownTranslator                                                                                0x774f370e                                         
+NhAcceptStreamSocket                                                                                 0x1b1ebe00                                         
+NhAcquireFixedLengthBuffer                                                                           0x6c79e611                                         
+NhAcquireVariableLengthBuffer                                                                        0xbd6a0747                                         
+NhCreateDatagramSocket                                                                               0xfe34bbb9                                         
+NhCreateStreamSocket                                                                                 0x63cb2d04                                         
+NhDeleteSocket                                                                                       0xd694dd57                                         
+NhInitializeBufferManagement                                                                         0xab5e0e04                                         
+NhInitializeTraceManagement                                                                          0xbc4df779                                         
+NhReadDatagramSocket                                                                                 0x68dc86c1                                         
+NhReadStreamSocket                                                                                   0x7e74960c                                         
+NhReleaseBuffer                                                                                      0x48a36db6                                         
+NhWriteDatagramSocket                                                                                0x6b5effd0                                         
+NhWriteStreamSocket                                                                                  0x6c977f5b                                         
+RegisterProtocol                                                                                     0x811c8adc                                         
+ServiceMain                                                                                          0x0747703b                                         
+SvchostPushServiceGlobals                                                                            0x586cc464                                         

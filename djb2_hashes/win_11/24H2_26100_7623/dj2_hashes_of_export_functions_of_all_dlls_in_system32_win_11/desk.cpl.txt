@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\desk.cpl
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+CPlApplet                                                                                            0x5c9b924a                                         
+DeskSetCurrentScheme                                                                                 0xad992110                                         
+DeskSetCurrentSchemeA                                                                                0x60bd4351                                         
+DeskSetCurrentSchemeW                                                                                0x60bd4367                                         
+InstallScreenSaver                                                                                   0xb2dbef5d                                         
+InstallScreenSaverA                                                                                  0x0e59db3e                                         
+InstallScreenSaverW                                                                                  0x0e59db54                                         
+UpdateCharsetChanges                                                                                 0x099a180b                                         
+UpdateUIfontsDueToDPIchange                                                                          0x517fe594                                         

@@ -1,0 +1,13 @@
+DLL Path: C:\Windows\System32\MrmDeploy.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DllMain                                                                                              0x79f31ec6                                         
+GetCanonicalMergedPriFileName                                                                        0xe86ff24d                                         
+GetCanonicalMergedPriFileNameForPackages                                                             0x31fa0bb3                                         
+GetInitInfoByPackageFullName                                                                         0x80177d20                                         
+GetOrCreatePriFileForApplicablePackages                                                              0x7c28efb8                                         
+GetOrCreatePriFileForAvailablePackages                                                               0x9ec7532c                                         
+GetOrCreatePriFileForRelatedPackages                                                                 0x20f9a10c                                         
+GetPriFileForPackageOnly                                                                             0xec8351a5                                         
+MergeRelatedPriFiles                                                                                 0x12ab05d4                                         

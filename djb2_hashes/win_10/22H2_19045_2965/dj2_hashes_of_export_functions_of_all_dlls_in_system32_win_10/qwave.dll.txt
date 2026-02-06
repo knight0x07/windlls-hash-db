@@ -1,0 +1,18 @@
+DLL Path: C:\Windows\System32\qwave.dll
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Function Name                                                                                        Function Djb2 Hash
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+QDLHPathDiagnostics                                                                                  0x2733ae33                                         
+QDLHStartDiagnosingPath                                                                              0x3ea75fac                                         
+QOSAddSocketToFlow                                                                                   0x6afb2cc5                                         
+QOSCancel                                                                                            0x4e519f3e                                         
+QOSCloseHandle                                                                                       0x75fa6d1a                                         
+QOSCreateHandle                                                                                      0x51483258                                         
+QOSEnumerateFlows                                                                                    0xac4740a9                                         
+QOSNotifyFlow                                                                                        0x367e8669                                         
+QOSQueryFlow                                                                                         0x937e3aa6                                         
+QOSRemoveSocketFromFlow                                                                              0x0f9d6e3b                                         
+QOSSetFlow                                                                                           0xf1dac03c                                         
+QOSStartTrackingClient                                                                               0x95c29058                                         
+QOSStopTrackingClient                                                                                0x52bb2170                                         
+ServiceMain                                                                                          0x0747703b                                         
