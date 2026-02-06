@@ -1,3 +1,5 @@
+Dll Name                                                                                          Dll Name Djb2 hash
+-------------------------------------------------------------------------------------------------------------------------
 69fe178f-26e7-43a9-aa7d-2b616b672dde_eventlogservice.dll                                             0x3e72d158                                                                                           
 6bea57fb-8dfb-4177-9ae8-42e8b3529933_RuntimeDeviceInstall.dll                                        0x4f232644                                                                                           
 aadauthhelper.dll                                                                                    0x7ff02c47                                                                                           
