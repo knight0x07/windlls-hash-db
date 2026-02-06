@@ -1,5 +1,5 @@
 # windlls-hash-db
-Precomputed hashes of Windows Dlls and their export function names using various hashing algorithms.
+Precomputed hashes of Windows Dll names and their export function names using various hashing algorithms.
 
 
 Hashing Algorithms:
